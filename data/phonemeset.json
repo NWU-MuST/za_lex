@@ -15,7 +15,6 @@
     "æ" : ["vowel", "sonorant", "syllabic", "dur_short", "ht_low", "ps_front"],
     "ɑː" : ["vowel", "sonorant", "syllabic", "dur_long", "ht_low", "ps_back"],
     "ɑːi" : ["vowel", "sonorant", "syllabic", "diphthong"],
-    "ɑːə" : ["vowel", "sonorant", "syllabic", "diphthong"],
     "b" : ["consonant", "mn_plosive", "pl_bilabial", "voiced"],
     "d" : ["consonant", "mn_plosive", "pl_alveolar", "voiced"],
     "iə" : ["vowel", "sonorant", "syllabic", "diphthong"],

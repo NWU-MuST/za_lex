@@ -57,7 +57,7 @@ def parse_nested(line, defstresstone):
             stresspat.append(defstresstone)
         syls[i] = [ph for ph in syls[i] if ph not in STRESSMARKERS]
     sylspec = [str(len(syl)) for syl in syls]
-    phones = itertools.chain(*syls)
+    phones = list(itertools.chain(*syls))
     return word, pos, stresspat, sylspec, phones
 
 def print_nested(word, pos, stresspat, sylspec, phones, phset, defstresstone, phonemap):

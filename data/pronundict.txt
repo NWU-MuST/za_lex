@@ -4453,7 +4453,7 @@ derduisende None 0100 3232 d qaeq r d qoeqy s q n d q
 deregulasie None 20010 22222 d iq r E x y l AA s i
 dereguleer None 2001 2223 d iq r E x y l iq r
 deregulering None 20010 22223 d iq r E x y l iq r q N
-derek None 10 23 d iq r @ k
+derek None 10 23 d iq r q k
 derhalwe None 100 332 d qaeq r hv AA l v q
 dermate None 100 322 d qaeq r m AA t q
 dermatitis None 2010 3223 d qaeq r m a t i t q s

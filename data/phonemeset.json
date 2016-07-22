@@ -30,7 +30,7 @@
     "m" : ["consonant", "sonorant", "mn_nasal", "pl_bilabial", "voiced"],
     "n" : ["consonant", "sonorant", "mn_nasal", "pl_alveolar", "voiced"],
     "uə" : ["vowel", "sonorant", "syllabic", "diphthong"],
-    "uəi" : ["vowel", "sonorant", "syllabic", "diphthong"],
+    "ɔːi" : ["vowel", "sonorant", "syllabic", "diphthong"],
     "p" : ["consonant", "mn_plosive", "pl_bilabial"],
     "r" : ["consonant", "sonorant", "mn_trill", "pl_alveolar", "voiced"],
     "s" : ["consonant", "mn_fricative", "mn_strident", "pl_alveolar"],

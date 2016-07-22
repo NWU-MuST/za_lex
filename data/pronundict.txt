@@ -635,7 +635,7 @@ afgedwaal None 102 224 a f x q d w AA l
 afgedwing None 102 224 a f x q d w q N
 afgee None 10 22 a f x iq
 afgegaan None 102 223 a f x q x AA n
-afgegooi None 102 222 a f x q x uqi
+afgegooi None 102 222 a f x q x OOi
 afgehaal None 102 223 a f x q hv AA l
 afgehandel None 1020 2233 a f x q hv a n d q l
 afgehandelde None 10200 22332 a f x q hv a n d q l d q
@@ -748,7 +748,7 @@ afgly None 12 23 a f x l qi
 afgod None 12 23 a f x O t
 afgode None 120 222 a f x uq d q
 afgodsbeelde None 1200 2432 a f x O t s b iq l d q
-afgooi None 12 22 a f x uqi
+afgooi None 12 22 a f x OOi
 afgrensing None 120 243 a f x r E n s q N
 afgrond None 12 25 a f x r O n t
 afgryse None 120 232 a f x r qi s q
@@ -1272,9 +1272,9 @@ alliansies None 1020 1223 a l i a n s i s
 alliansievennote None 1020020 1222222 a l i a n s i f q n uq t q
 alliterasie None 20010 12222 a l q t q r AA s i
 allokasie None 2010 1222 a l u k AA s i
-allooi None 01 12 a l uqi
-allooie None 010 121 a l uqi q
-allooiwiele None 0100 1222 a l uqi v i l q
+allooi None 01 12 a l OOi
+allooie None 010 121 a l OOi q
+allooiwiele None 0100 1222 a l OOi v i l q
 allyn None 10 13 a l qi n
 alma None 10 22 a l m a
 almag None 10 23 a l m a x
@@ -3393,7 +3393,7 @@ bloedmonsters None 100 435 b l u t m O n s t q r s
 bloedoortappings None 1020 3324 b l u t uq r t a p q N s
 bloedplasma None 102 442 b l u t p l a s m a
 bloedrivier None 102 423 b l u t r q f i r
-bloedrooi None 10 42 b l u t r uqi
+bloedrooi None 10 42 b l u t r OOi
 bloedselle None 100 422 b l u t s qaeq l q
 bloedskande None 100 442 b l u t s k a n d q
 bloedsomloop None 102 523 b l u t s O m l uq p
@@ -3584,7 +3584,7 @@ bokskryt None 10 44 b O k s k r qi t
 bokspan None 10 34 b O k s p a n
 bokspring None 10 35 b O k s p r q N
 boksquad None 100 332 b O k s k u a d
-bokstoernooi None 102 432 b O k s t u r n uqi
+bokstoernooi None 102 432 b O k s t u r n OOi
 bol None 0 3 b O l
 bolaag None 10 23 b uq l AA x
 bolip None 10 23 b uq l q p
@@ -3631,7 +3631,7 @@ boodskap None 10 34 b uq t s k a p
 boodskappe None 100 332 b uq t s k a p q
 boodskapper None 100 333 b uq t s k a p q r
 boogskiet None 10 34 b uq x s k i t
-booi None 0 2 b uqi
+booi None 0 2 b OOi
 boom None 0 3 b uq m
 boomdiagram None 1002 3214 b uq m d i a x r a m
 boompie None 10 32 b uq m p i
@@ -3643,8 +3643,8 @@ boomtoppe None 100 322 b uq m t O p q
 boon None 0 3 b uq n
 boonop None 10 23 b uq n O p
 boonste None 10 33 b uq n s t q
-boontjie None 10 32 b uqi N k i
-boontjies None 10 33 b uqi N k i s
+boontjie None 10 32 b OOi N k i
+boontjies None 10 33 b OOi N k i s
 boontoe None 10 32 b uq n t u
 boor None 0 3 b uq r
 boord None 0 4 b uq r t
@@ -3659,7 +3659,7 @@ boosheid None 10 33 b uq s hv qi t
 booswig None 10 33 b uq s v q x
 booswigte None 100 332 b uq s v q x t q
 boot None 0 3 b uq t
-bootjie None 10 22 b uqi k i
+bootjie None 10 22 b OOi k i
 bootreis None 10 33 b uq t r qi s
 bootsman None 10 43 b uq t s m a n
 bopunt None 10 24 b uq p qoeq n t
@@ -3908,8 +3908,8 @@ bronverwysing None 1020 4323 b r O n f q r v qi s q N
 bronverwysingstyl None 10202 43234 b r O n f q r v qi s q N s t qi l
 brood None 0 4 b r uq t
 broodbome None 100 422 b r uq t b uq m q
-broodjie None 10 32 b r uqi k i
-broodjies None 10 33 b r uqi k i s
+broodjie None 10 32 b r OOi k i
+broodjies None 10 33 b r OOi k i s
 broodkrummels None 100 434 b r uq t k r qoeq m q l s
 broodmes None 10 43 b r uq t m E s
 broodnodig None 102 423 b r uq t n uq d q x
@@ -4733,7 +4733,7 @@ diskriminasie None 20010 24222 d q s k r q m i n AA s i
 diskrimineer None 2001 2423 d q s k r q m q n iq r
 diskriminerend None 20010 24224 d q s k r q m q n iq r q n t
 diskriminerende None 200100 242232 d q s k r q m q n iq r q n d q
-diskusgooi None 102 242 d q s k qoeq s x uqi
+diskusgooi None 102 242 d q s k qoeq s x OOi
 diskwalifikasie None 100200 332222 d q s k w a l q f i k AA s i
 disnis None 10 33 d q s n q s
 dispersie None 102 242 d q s p qaeq r s i
@@ -4872,7 +4872,7 @@ donkerbruin None 102 334 d O N k q r b r qoeqy n
 donkerder None 100 333 d O N k q r d q r
 donkergroen None 102 334 d O N k q r x r u n
 donkerkop None 102 333 d O N k q r k O p
-donkerrooi None 102 332 d O N k q r r uqi
+donkerrooi None 102 332 d O N k q r r OOi
 donkerste None 100 333 d O N k q r s t q
 donkerte None 100 332 d O N k q r t q
 donkie None 10 32 d O N k i
@@ -4916,8 +4916,8 @@ doodstraf None 10 35 d uq t s t r a f
 doodvonnis None 102 323 d uq t f O n q s
 doof None 0 3 d uq f
 doofheid None 10 33 d uq f hv qi t
-dooie None 10 21 d uqi q
-dooies None 10 22 d uqi q s
+dooie None 10 21 d OOi q
+dooies None 10 22 d OOi q s
 doolhof None 10 33 d uq l hv O f
 doop None 0 3 d uq p
 door None 0 3 d uq r
@@ -5398,7 +5398,7 @@ eina None 10 12 qi n a
 eindbestemming None 1020 3233 qi n t b q s t E m q N
 einddoel None 10 33 qi n t d u l
 einde None 10 22 qi n d q
-eindeksamen None 1020 3323 qi n t d E k s AA m q n
+eindeksamen None 1020 3223 qi n t E k s AA m q n
 eindelik None 100 223 qi n d q l q k
 eindelose None 1020 2222 qi n d q l uq s q
 eindfluitjie None 102 332 qi n t f l qoeqy k i
@@ -5774,8 +5774,8 @@ evangelies None 2010 1323 iq f a n x iq l i s
 evangeliese None 20100 13222 iq f a n x iq l i s q
 evangelis None 2001 1323 iq f a n x q l q s
 evangelisering None 202010 132223 iq f a n x iq l i s iq r q N
-evolusie None 2010 1222 E v u l y s i
-evolusieproses None 001002 122233 E v u l y s i p r u s E s
+evolusie None 2010 1222 E v O l y s i
+evolusieproses None 001002 122233 E v O l y s i p r u s E s
 evolusieteorie None 201002 122222 E v O l y s i t iu r i
 evolusionêre None 202010 122222 E v O l y S iu n qaeq r q
 ewe None 10 12 iq v q
@@ -5897,7 +5897,6 @@ fenomenaal None 0001 2223 f i n u m i n AA l
 fenomenale None 00010 22222 f i n u m i n AA l q
 feodale None 120 222 f iu d AA l q
 ferm None 10 23 f qaeq r q m
-fernkloof None 10 34 f qoeq n k l uq f
 feta None 10 22 f E t a
 fetus None 10 23 f iq t qoeq s
 fetusse None 100 222 f iq t qoeq s q
@@ -5977,7 +5976,7 @@ fleur None 0 4 f l qooq r
 fliek None 0 4 f l i k
 fliekgangers None 100 433 f l i k x a N q r s
 flieks None 0 5 f l i k s
-fliekvlooie None 100 431 f l i k f l uqi q
+fliekvlooie None 100 431 f l i k f l OOi q
 flikker None 10 33 f l q k q r
 flikkerende None 1000 3232 f l q k q r q n d q
 flink None 0 5 f l q N k
@@ -6016,7 +6015,7 @@ fondse None 10 42 f O n t s q
 fonetiese None 0100 2222 f uq n iq t i s q
 font None 0 4 f O n t
 fontein None 01 33 f O n t qi n
-fooie None 10 21 f uqi q
+fooie None 10 21 f OOi q
 foon None 0 3 f uq n
 fordsburg None 10 54 f O r t s b qoeq r x
 forel None 01 23 f u r qaeq l
@@ -6082,7 +6081,7 @@ frase None 10 32 f r AA s q
 frasering None 010 323 f r a s iq r q N
 fratsongeluk None 1002 5223 f r a t s O n x q l qoeq k
 frekwensie None 010 342 f r i k w E n s i
-freud None 0 4 f r uqi d
+freud None 0 4 f r OOi d
 frieda None 10 32 f r i d a
 fris None 0 4 f r q s
 frons None 0 5 f r O n s
@@ -6254,7 +6253,7 @@ geboks None 01 24 x q b O k s
 gebombardeer None 0201 2333 x q b O m b a r d iq r
 gebonde None 010 232 x q b O n d q
 gebondenheid None 0102 2333 x q b O n d q n hv qi t
-gebooie None 010 221 x q b uqi q
+gebooie None 010 221 x q b OOi q
 geboor None 01 23 x q b uq r
 geboorte None 010 232 x q b uq r t q
 geboortebeperking None 010020 232233 x q b uq r t q b q p qaeq r k q N
@@ -6475,7 +6474,7 @@ geglo None 01 23 x q x l uq
 gegly None 01 23 x q x l qi
 gegoede None 010 222 x q x u d q
 gegons None 01 24 x q x O n s
-gegooi None 01 22 x q x uqi
+gegooi None 01 22 x q x OOi
 gegradeer None 001 233 x q x r a d iq r
 gegradueerde None 00010 23222 x q x r a d y iq r d q
 gegradueerdes None 00010 23223 x q x r a d y iq r d q s
@@ -6736,7 +6735,7 @@ geloofsoortuiging None 01020 24223 x q l uq f s uq r t qoeqy x q N
 geloofwaardig None 0010 2333 x q l uq f v AA r d q x
 geloofwaardige None 00100 23322 x q l uq f v AA r d q x q
 geloofwaardigheid None 00102 23333 x q l uq f v AA r d q x hv qi t
-gelooi None 01 22 x q l uqi
+gelooi None 01 22 x q l OOi
 geloop None 01 23 x q l uq p
 geloot None 01 23 x q l uq t
 gelos None 01 23 x q l O s
@@ -6915,9 +6914,9 @@ genoegsame None 0100 2322 x q n u x s AA m q
 genoem None 01 23 x q n u m
 genoemde None 010 232 x q n u m d q
 genoodsaak None 010 233 x q n uq t s AA k
-genooi None 01 22 x q n uqi
-genooide None 010 222 x q n uqi d q
-genooides None 010 223 x q n uqi d q s
+genooi None 01 22 x q n OOi
+genooide None 010 222 x q n OOi d q
+genooides None 010 223 x q n OOi d q s
 genoop None 01 23 x q n uq p
 genootskap None 010 234 x q n uq t s k a p
 genormaliseer None 00001 23223 x q n O r m a l i s iq r
@@ -6937,7 +6936,7 @@ geografie None 201 232 x iu x r a f i
 geografies None 210 233 x iu x r AA f i s
 geografiese None 2100 2322 x iu x r AA f i s q
 geoksideer None 0201 2223 x q O k s i d iq r
-geoktrooieerde None 02010 22322 x q O k t r uqi iq r d q
+geoktrooieerde None 02010 22322 x q O k t r OOi iq r d q
 geologie None 201 222 x iu l u x i
 geologiese None 2100 2222 x iu l uq x i s q
 geoloog None 21 23 x iu l uq x
@@ -6983,14 +6982,14 @@ geplavei None 001 232 x q p l a f qi
 gepleeg None 01 24 x q p l iq x
 gepleit None 01 24 x q p l qi t
 geploeg None 01 24 x q p l u x
-geplooide None 010 232 x q p l uqi d q
+geplooide None 010 232 x q p l OOi d q
 gepluk None 01 24 x q p l qoeq k
 geplunder None 010 243 x q p l qoeq n d q r
 gepoleerde None 0010 2232 x q p u l iq r d q
 gepols None 01 24 x q p O l s
 gepomp None 01 24 x q p O m p
 gepoog None 01 23 x q p uq x
-gepootjie None 010 222 x q p uqi k i
+gepootjie None 010 222 x q p OOi k i
 gepos None 01 23 x q p O s
 geposeer None 001 223 x q p u s iq r
 geposisioneer None 02001 22223 x q p u z i S iu n iq r
@@ -7061,8 +7060,8 @@ gerekende None 0100 2232 x q r iq k q n d q
 gerem None 01 23 x q r E m
 geren None 01 23 x q r E n
 gerepatrieer None 02001 22232 x q r iq p a t r i iq r
-gerespekteer None 0001 2243 x q r q s p qaeq k t iq r
-gerespekteerde None 00010 22432 x q r q s p qaeq k t iq r d q
+gerespekteer None 0001 2243 x q r q s p E k t iq r
+gerespekteerde None 00010 22432 x q r q s p E k t iq r d q
 gerestoureer None 0201 2323 x q r E s t u r iq r
 gerestoureerde None 02010 23232 x q r E s t u r iq r d q
 gereël None 010 222 x q r i q l
@@ -7378,7 +7377,7 @@ gestremde None 010 252 x q s t r E m d q
 gestremdes None 010 253 x q s t r E m d q s
 gestremdhede None 0100 2622 x q s t r E m t hv iq d q
 gestrompel None 010 253 x q s t r O m p q l
-gestrooi None 01 24 x q s t r uqi
+gestrooi None 01 24 x q s t r OOi
 gestroom None 01 25 x q s t r uq m
 gestroop None 01 25 x q s t r uq p
 gestroopte None 010 252 x q s t r uq p t q
@@ -7676,8 +7675,8 @@ gholfstigting None 100 443 g O l f s t q x t q N
 gholfstigtings None 100 444 g O l f s t q x t q N s
 gholfstok None 10 44 g O l f s t O k
 gholfstokke None 100 432 g O l f s t O k q
-gholftoernooi None 102 432 g O l f t u r n uqi
-gholftoernooie None 1020 4321 g O l f t u r n uqi q
+gholftoernooi None 102 432 g O l f t u r n OOi
+gholftoernooie None 1020 4321 g O l f t u r n OOi q
 gids None 0 4 x q t s
 gidse None 10 32 x q t s q
 gidswoorde None 100 432 x q t s v uq r d q
@@ -7796,7 +7795,7 @@ golwende None 100 332 x O l v q n d q
 gom None 0 3 x O m
 gons None 0 4 x O n s
 google None 10 23 g u g q l
-gooi None 0 2 x uqi
+gooi None 0 2 x OOi
 gordel None 10 33 x O r d q l
 gordels None 10 34 x O r d q l s
 gordyn None 01 33 x O r d qi n
@@ -7949,7 +7948,7 @@ grondbeginsels None 1020 5234 x r O n t b q x q n s q l s
 grondbeheer None 102 523 x r O n t b q hv iq r
 grondbesit None 102 523 x r O n t b q s q t
 grondbone None 100 522 x r O n t b uq n q
-grondboontjies None 102 533 x r O n t b uqi N k i s
+grondboontjies None 102 533 x r O n t b OOi N k i s
 gronde None 10 42 x r O n d q
 grondeienaar None 1002 5113 x r O n t qi q n AA r
 grondeienaars None 1002 5114 x r O n t qi q n AA r s
@@ -8138,7 +8137,7 @@ halveer None 01 33 hv a l f iq r
 halwe None 10 32 hv AA l v q
 ham None 0 3 hv a m
 hamer None 10 23 hv a m q r
-hamergooi None 102 232 hv a m q r x uqi
+hamergooi None 102 232 hv a m q r x OOi
 hammer None 10 23 hv a m q r
 hand None 0 4 hv a n t
 handboek None 10 43 hv a n t b u k
@@ -8365,7 +8364,7 @@ helderblou None 102 333 hv qaeq l d q r b l qu
 helderder None 100 333 hv qaeq l d q r d q r
 helderheid None 102 333 hv qaeq l d q r hv qi t
 helderkruin None 102 334 hv qaeq l d q r k r qoeqy n
-helderrooi None 102 332 hv qaeq l d q r r uqi
+helderrooi None 102 332 hv qaeq l d q r r OOi
 helderste None 100 333 hv qaeq l d q r s t q
 heldhaftige None 0100 4322 hv qaeq l t hv a f t q x q
 heldin None 01 33 hv qaeq l d q n
@@ -8784,8 +8783,8 @@ hoogtes None 10 33 hv uq x t q s
 hoogtevrees None 100 324 hv uq x t q f r iq s
 hoogty None 10 32 hv uq x t qi
 hoogverraad None 102 323 hv uq x f q r AA t
-hooi None 0 2 hv uqi
-hooikoors None 10 24 hv uqi k uq r s
+hooi None 0 2 hv OOi
+hooikoors None 10 24 hv OOi k uq r s
 hoop None 0 3 hv uq p
 hoopvol None 10 33 hv uq p f O l
 hoopvolle None 100 322 hv uq p f O l q
@@ -9158,7 +9157,7 @@ informasie None 0010 2322 q n f O r m AA s i
 informatiewe None 00010 23222 q n f O r m a t i v q
 informeel None 102 233 q n f O r m iq l
 informele None 1020 2322 q n f O r m iq l q
-infrarooi None 102 232 q n f r a r uqi
+infrarooi None 102 232 q n f r a r OOi
 infrastrukture None 10020 23522 q n f r a s t r qoeq k t y r q
 infrastruktuur None 1002 2353 q n f r a s t r qoeq k t y r
 ingaan None 10 23 q n x AA n
@@ -9188,7 +9187,7 @@ ingee None 10 22 q n x iq
 ingefaseer None 1002 2223 q n x q f a s iq r
 ingegaan None 102 223 q n x q x AA n
 ingegee None 102 222 q n x q x iq
-ingegooi None 102 222 q n x q x uqi
+ingegooi None 102 222 q n x q x OOi
 ingegrawe None 1020 2232 q n x q x r AA v q
 ingegryp None 102 224 q n x q x r qi p
 ingehaal None 102 223 q n x q hv AA l
@@ -9286,8 +9285,8 @@ ingewikkeldheid None 10202 22243 q n x q v q k q l t hv qi t
 ingewillig None 1020 2223 q n x q v q l q x
 ingewin None 102 223 q n x q v q n
 ingewing None 120 223 q n x iq v q N
-ingooi None 10 22 q n x uqi
-ingooie None 100 221 q n x uqi q
+ingooi None 10 22 q n x OOi
+ingooie None 100 221 q n x OOi q
 ingryp None 10 24 q n x r qi p
 ingrypend None 010 234 q n x r qi p q n t
 ingrypende None 0100 2332 q n x r qi p q n d q
@@ -9558,8 +9557,8 @@ intertekste None 1020 2342 q n t q r t E k s t q
 intertekstualiteit None 2020001 2342123 q n t q r t E k s tS u a l i t qi t
 interval None 102 233 q n t q r f a l
 intervarsity None 00100 23322 q n t q r v AA r s q t i
-intervensie None 2010 2332 q n t q r v E n s i
-intervensies None 2010 2333 q n t q r v E n s i s
+intervensie None 2010 2332 q n t q r f E n s i
+intervensies None 2010 2333 q n t q r f E n s i s
 interverwantskap None 10020 23344 q n t q r f q r v a n t s k a p
 intestate None 1020 2322 q n t E s t AA t q
 intestinale None 10200 23222 q n t E s t i n AA l q
@@ -9793,7 +9792,7 @@ josua None 100 221 j uq S u a
 jota None 10 22 j uq t a
 jou None 0 2 j qu
 jouself None 01 24 j qu s qaeq l f
-joy None 0 2 dZ uqi
+joy None 0 2 dZ OOi
 juan None 01 22 j u a n
 jubel None 10 23 j y b q l
 juda None 10 22 j u d a
@@ -9926,7 +9925,7 @@ kampioene None 010 322 k a m p iu n q
 kampioenskap None 010 334 k a m p iu n s k a p
 kampioenskappe None 0100 3332 k a m p iu n s k a p q
 kampioenskapsbyeenkoms None 010020 335224 k a m p iu n s k a p s b qi iq n k O m s
-kampioenskapstoernooi None 01002 33532 k a m p iu n s k a p s t u r n uqi
+kampioenskapstoernooi None 01002 33532 k a m p iu n s k a p s t u r n OOi
 kampioenspan None 010 334 k a m p iu n s p a n
 kampus None 10 33 k a m p qoeq s
 kampusse None 100 322 k a m p qoeq s q
@@ -10454,7 +10453,7 @@ klink None 0 5 k l q N k
 klinkende None 100 432 k l q N k q n d q
 klinkklare None 100 432 k l q N k l AA r q
 klip None 0 4 k l q p
-klipgooiery None 1002 4212 k l q p x uqi q r qi
+klipgooiery None 1002 4212 k l q p x OOi q r qi
 kliphard None 10 44 k l q p hv a r t
 klipharde None 100 432 k l q p hv a r d q
 kliphuis None 10 43 k l q p hv qoeqy s
@@ -10691,7 +10690,7 @@ kommunikasie None 20010 22222 k O m y n i k AA s i
 kommunikasiekanale None 20010200 22222222 k O m y n i k AA s i k a n AA l q
 kommunikasiekunde None 2001020 2222232 k O m y n i k AA s i k qoeq n d q
 kommunikasiemedium None 20010202 22222222 k O m y n i k AA s i m i d i qoeq m
-kommunikasiemodules None 20010020 22222223 k O m y n i k AA s i m u d y l q s
+kommunikasiemodules None 20010020 22222223 k O m y n i k AA s i m O d y l q s
 kommunikasiepraktisyn None 20010002 22222423 k O m y n i k AA s i p r a k t i s qi n
 kommunikasieproses None 2001002 2222233 k O m y n i k AA s i p r u s E s
 kommunikasiestelsels None 2001020 2222244 k O m y n i k AA s i s t qaeq l s q l s
@@ -10917,9 +10916,9 @@ konvensies None 010 333 k O n f E n s i s
 konvensioneel None 0201 3323 k O n f E n S iu n iq l
 konvensionele None 02010 33222 k O n f E n S iu n iq l q
 konvergensie None 0001 3332 k O n f q r x E n s i
-konvooi None 01 32 k O n f uqi
+konvooi None 01 32 k O n f OOi
 konvulsies None 010 333 k O n v qoeq l s i s
-kooi None 0 2 k uqi
+kooi None 0 2 k OOi
 kook None 0 3 k uq k
 kookboek None 10 33 k uq k b u k
 kookolie None 102 312 k uq k uq l i
@@ -11196,7 +11195,7 @@ kringloop None 10 43 k r q N l uq p
 krip None 0 4 k r q p
 kris None 0 4 k r q s
 krisis None 10 33 k r i s q s
-krisisintervensie None 202010 332332 k r i s q s q n t q r v E n s i
+krisisintervensie None 202010 332332 k r i s q s q n t q r f E n s i
 krisisse None 100 322 k r i s q s q
 krisjan None 10 43 k r q s j a n
 kristal None 01 34 k r q s t a l
@@ -12082,7 +12081,7 @@ loof None 0 3 l uq f
 loon None 0 3 l uq n
 loonaanbod None 102 323 l uq n AA n b O t
 loongeskil None 102 324 l uq n x q s k q l
-loontjie None 10 32 l uqi N k i
+loontjie None 10 32 l OOi N k i
 loonverhogings None 1020 3324 l uq n f q r hv uq x q N s
 loop None 0 3 l uq p
 loopafstand None 102 325 l uq p a f s t a n t
@@ -12122,7 +12121,7 @@ loskop None 10 33 l O s k O p
 loskopflank None 102 335 l O s k O p f l a N k
 loskopstut None 102 334 l O s k O p s t qoeq t
 loslit None 10 33 l O s l q t
-loslootjie None 102 322 l O s l uqi k i
+loslootjie None 102 322 l O s l OOi k i
 loslyf None 10 33 l O s l qi f
 losmaak None 10 33 l O s m AA k
 losse None 10 22 l O s q
@@ -13069,10 +13068,10 @@ monteringstegniek None 02001 32433 m O n t iq r q N s t qaeq x n i k
 monument None 001 224 m O n y m E n t
 monumentale None 00100 22322 m O n y m E n t AA l q
 monumente None 0010 2232 m O n y m E n t q
-mooi None 0 2 m uqi
-mooier None 10 22 m uqi q r
-moois None 0 3 m uqi s
-mooiste None 10 23 m uqi s t q
+mooi None 0 2 m OOi
+mooier None 10 22 m OOi q r
+moois None 0 3 m OOi s
+mooiste None 10 23 m OOi s t q
 moondheid None 10 43 m uq n t hv qi t
 moontlik None 10 43 m uq n t l q k
 moontlike None 100 422 m uq n t l q k q
@@ -13501,7 +13500,7 @@ neem None 0 3 n iq m
 neer None 0 3 n iq r
 neerdrukkende None 0100 3332 n iq r d r qoeq k q n d q
 neergedaal None 102 323 n iq r x q d AA l
-neergegooi None 102 322 n iq r x q x uqi
+neergegooi None 102 322 n iq r x q x OOi
 neergelegde None 1020 3232 n iq r x q l qaeq x d q
 neergelê None 102 322 n iq r x q l E
 neergesit None 102 323 n iq r x q s q t
@@ -13671,8 +13670,8 @@ noodweer None 10 33 n uq t v iq r
 noodwendig None 010 333 n uq t v E n d q x
 noodwerkers None 100 334 n uq t v qaeq r k q r s
 noodwiel None 10 33 n uq t v i l
-nooi None 0 2 n uqi
-nooit None 0 3 n uqi t
+nooi None 0 2 n OOi
+nooit None 0 3 n OOi t
 noop None 0 3 n uq p
 noord None 0 4 n uq r t
 noorde None 10 32 n uq r d q
@@ -13882,7 +13881,7 @@ omgedraai None 102 223 O m x q d r AAi
 omgee None 10 22 O m x iq
 omgegaan None 102 223 O m x q x AA n
 omgegee None 102 222 O m x q x iq
-omgegooi None 102 222 O m x q x uqi
+omgegooi None 102 222 O m x q x OOi
 omgekeer None 102 223 O m x q k iq r
 omgekeerde None 1020 2232 O m x q k iq r d q
 omgekom None 102 223 O m x q k O m
@@ -14509,7 +14508,7 @@ ontdekking None 010 323 O n t d qaeq k q N
 ontdekkingsreise None 01020 32422 O n t d qaeq k q N s r qi s q
 ontdekkingsreisiger None 010200 324223 O n t d qaeq k q N s r qi s q x q r
 ontdekkingsreisigers None 010200 324224 O n t d qaeq k q N s r qi s q x q r s
-ontdooi None 01 32 O n t d uqi
+ontdooi None 01 32 O n t d OOi
 ontduik None 01 33 O n t d qoeqy k
 onteenseglik None 2010 2333 O n t iq n s qaeq x l q k
 onteien None 010 312 O n t qi q n
@@ -14567,8 +14566,8 @@ ontpit None 01 33 O n t p q t
 ontplof None 01 34 O n t p l O f
 ontploffing None 010 333 O n t p l O f q N
 ontploffings None 010 334 O n t p l O f q N s
-ontplooi None 01 33 O n t p l uqi
-ontplooiing None 010 332 O n t p l uqi q N
+ontplooi None 01 33 O n t p l OOi
+ontplooiing None 010 332 O n t p l OOi q N
 ontroerende None 0100 3232 O n t r u r q n d q
 ontrou None 01 23 O n t r qu
 ontrouheid None 010 233 O n t r qu hv qi t
@@ -14768,9 +14767,9 @@ oogmerk None 10 24 uq x m qaeq r k
 oogmerke None 100 232 uq x m qaeq r k q
 oogopslag None 102 134 uq x O p s l a x
 oogpunt None 10 24 uq x p qoeq n t
-ooi None 0 1 uqi
-ooievaar None 102 113 uqi q f AA r
-ooit None 0 2 uqi t
+ooi None 0 1 OOi
+ooievaar None 102 113 OOi q f AA r
+ooit None 0 2 OOi t
 ook None 0 2 uq k
 ookal None 10 13 uq k a l
 oom None 0 2 uq m
@@ -14788,7 +14787,7 @@ oopdraai None 10 23 uq p d r AAi
 oopgaan None 10 23 uq p x AA n
 oopgebreek None 102 224 uq p x q b r iq k
 oopgegaan None 102 223 uq p x q x AA n
-oopgegooi None 102 222 uq p x q x uqi
+oopgegooi None 102 222 uq p x q x OOi
 oopgehou None 102 222 uq p x q hv qu
 oopgekrap None 102 224 uq p x q k r a p
 oopgelaat None 102 223 uq p x q l AA t
@@ -15132,7 +15131,7 @@ opgee None 10 22 O p x iq
 opgegaan None 102 223 O p x q x AA n
 opgegaar None 102 223 O p x q x AA r
 opgegee None 102 222 O p x q x iq
-opgegooi None 102 222 O p x q x uqi
+opgegooi None 102 222 O p x q x OOi
 opgegradeer None 1002 2233 O p x q x r a d iq r
 opgegrawe None 1020 2232 O p x q x r AA v q
 opgehaal None 102 223 O p x q hv AA l
@@ -15219,7 +15218,7 @@ opgewerk None 102 224 O p x q v qaeq r k
 opgewonde None 1020 2232 O p x q v O n d q
 opgewondenheid None 10202 22333 O p x q v O n d q n hv qi t
 opgeëis None 102 222 O p x q qi s
-opgooi None 12 22 O p x uqi
+opgooi None 12 22 O p x OOi
 opgradering None 1020 2323 O p x r a d iq r q N
 opgraderings None 1020 2324 O p x r a d iq r q N s
 opgrawings None 120 234 O p x r AA v q N s
@@ -15540,7 +15539,7 @@ ouman None 10 13 qu m a n
 oumense None 100 132 qu m E n s q
 oumie None 10 12 qu m i
 oupa None 10 12 qu p a
-oupagrootjie None 2010 1232 qu p a x r uqi k i
+oupagrootjie None 2010 1232 qu p a x r OOi k i
 oupas None 10 13 qu p a s
 ousus None 10 13 qu s qoeq s
 outentiek None 201 133 qu t E n t i k
@@ -16053,8 +16052,8 @@ pleegsorg None 10 44 p l iq x s O r x
 plegtig None 10 43 p l qaeq x t q x
 plegtige None 100 422 p l qaeq x t q x q
 plegtigheid None 102 433 p l qaeq x t q x hv qi t
-pleidooi None 01 32 p l qi t uqi
-pleidooie None 010 321 p l qi d uqi q
+pleidooi None 01 32 p l qi t OOi
+pleidooie None 010 321 p l qi d OOi q
 plein None 0 4 p l qi n
 pleister None 10 43 p l qi s t q r
 pleit None 0 4 p l qi t
@@ -16083,8 +16082,8 @@ plofbare None 100 422 p l O f b AA r q
 plofstof None 10 44 p l O f s t O f
 ploftoestelle None 1020 4232 p l O f t u s t qaeq l q
 plomp None 0 5 p l O m p
-plooi None 0 3 p l uqi
-plooie None 10 31 p l uqi q
+plooi None 0 3 p l OOi
+plooie None 10 31 p l OOi q
 plot None 0 4 p l O t
 plotseling None 100 423 p l O t s q l q N
 pluimbal None 10 43 p l qoeqy m b a l
@@ -16169,7 +16168,7 @@ poolse None 10 32 p uq l s q
 poort None 0 4 p uq r t
 poorte None 10 32 p uq r t q
 poot None 0 3 p uq t
-pootjie None 10 22 p uqi k i
+pootjie None 10 22 p OOi k i
 pop None 0 3 p O p
 popgroep None 10 34 p O p x r u p
 popkuns None 10 34 p O p k qoeq n s
@@ -16486,8 +16485,8 @@ promosie None 010 322 p r u m uq s i
 promosies None 010 323 p r u m uq s i s
 promotor None 010 323 p r u m uq t O r
 pronk None 0 5 p r O N k
-prooi None 0 3 p r uqi
-prooivoorkeur None 100 333 p r uqi f uq r k qooq r
+prooi None 0 3 p r OOi
+prooivoorkeur None 100 333 p r OOi f uq r k qooq r
 prop None 0 4 p r O p
 propaganda None 2010 3232 p r O p a x a n d a
 proponente None 0010 3232 p r O p u n E n t q
@@ -17124,8 +17123,8 @@ resolusie None 0010 2222 r E s O l y s i
 resolusies None 0010 2223 r E s u l y s i s
 resonansie None 0010 2232 r E s u n a n s i
 resoneer None 001 223 r E s u n iq r
-respek None 01 24 r q s p qaeq k
-respekteer None 001 243 r q s p qaeq k t iq r
+respek None 01 24 r q s p E k
+respekteer None 001 243 r q s p E k t iq r
 respirasie None 2010 2322 r E s p i r AA s i
 respondente None 0010 2432 r E s p O n d E n t q
 response None 010 242 r q s p O n s q
@@ -17149,9 +17148,9 @@ reus None 0 3 r qooq s
 reusagtige None 0100 3222 r qooq s a x t q x q
 reuse None 10 22 r qooq s q
 reuseverskil None 1002 2234 r qooq s q f q r s k q l
-revolusie None 2010 2222 r E v u l y s i
+revolusie None 2010 2222 r E v O l y s i
 revolusies None 2010 2223 r E v O l y s i s
-revolusionêre None 202010 222222 r E v u l y S iu n qaeq r q
+revolusionêre None 202010 222222 r E v O l y S iu n qaeq r q
 revue None 01 22 r q v y
 rewolusionêre None 002010 222222 r E v O l y S iu n qaeq r q
 rewolwer None 010 233 r q v O l v q r
@@ -17316,7 +17315,7 @@ ronddwaal None 10 44 r O n t d w AA l
 ronde None 10 32 r O n d q
 rondes None 10 33 r O n d q s
 rondgaande None 100 432 r O n t x AA n d q
-rondgegooi None 102 422 r O n t x q x uqi
+rondgegooi None 102 422 r O n t x q x OOi
 rondgehardloop None 1020 4243 r O n t x q hv a r t l uq p
 rondgeloop None 102 423 r O n t x q l uq p
 rondgestaan None 102 424 r O n t x q s t AA n
@@ -17336,15 +17335,15 @@ roofkykers None 100 324 r uq f k qi k q r s
 rooftog None 10 33 r uq f t O x
 rooftogte None 100 332 r uq f t O x t q
 roofvyande None 1020 3222 r uq f f qi a n d q
-rooi None 0 2 r uqi
-rooiberg None 10 24 r uqi b qaeq r x
-rooibloedselle None 1020 2422 r uqi b l u t s qaeq l q
-rooibokke None 100 222 r uqi b O k q
-rooibruin None 10 24 r uqi b r qoeqy n
-rooierige None 1020 2122 r uqi q r q x q
-rooigety None 102 222 r uqi x q t qi
-rooikappie None 102 222 r uqi k a p i
-rooivalk None 10 24 r uqi f a l k
+rooi None 0 2 r OOi
+rooiberg None 10 24 r OOi b qaeq r x
+rooibloedselle None 1020 2422 r OOi b l u t s qaeq l q
+rooibokke None 100 222 r OOi b O k q
+rooibruin None 10 24 r OOi b r qoeqy n
+rooierige None 1020 2122 r OOi q r q x q
+rooigety None 102 222 r OOi x q t qi
+rooikappie None 102 222 r OOi k a p i
+rooivalk None 10 24 r OOi f a l k
 rook None 0 3 r uq k
 rookgewoonte None 1020 3232 r uq k x q v uq n t q
 room None 0 3 r uq m
@@ -17383,7 +17382,7 @@ rousseau None 01 22 r u s qu
 rower None 10 23 r uq v q r
 rowers None 10 24 r uq v q r s
 rowwe None 10 22 r O v q
-roy None 0 2 r uqi
+roy None 0 2 r OOi
 ru None 0 2 r y
 rubber None 10 23 r qoeq b q r
 rubberkoeëls None 1020 2323 r qoeq b q r k u q l s
@@ -17527,7 +17526,7 @@ saamgaan None 12 33 s AA m x AA n
 saamgebind None 102 324 s AA m x q b q n t
 saamgebring None 102 324 s AA m x q b r q N
 saamgedrom None 102 324 s AA m x q d r O m
-saamgegooi None 102 322 s AA m x q x uqi
+saamgegooi None 102 322 s AA m x q x OOi
 saamgegroepeer None 1020 3233 s AA m x q x r u p iq r
 saamgekom None 102 323 s AA m x q k O m
 saamgeneem None 102 323 s AA m x q n iq m
@@ -17844,7 +17843,7 @@ selfoon None 10 33 s qaeq l f uq n
 selfopgelegde None 10020 42232 s qaeq l f O p x q l qaeq x d q
 selfportret None 102 434 s qaeq l f p O r t r E t
 selfregerende None 10200 42232 s qaeq l f r q x iq r q n d q
-selfrespek None 102 424 s qaeq l f r q s p qaeq k
+selfrespek None 102 424 s qaeq l f r q s p E k
 selfs None 0 5 s qaeq l f s
 selfstandige None 0100 4422 s qaeq l f s t a n d q x q
 selfstandigheid None 0102 4433 s qaeq l f s t a n d q x hv qi t
@@ -18007,7 +18006,7 @@ sewespan None 102 224 s iq v q s p a n
 sewesrugby None 1020 2332 s iq v q s r a g b i
 sewesspan None 102 234 s iq v q s s p a n
 sewesterre None 1020 2232 s iq v q s t qaeq r q
-sewestoernooi None 1002 2332 s iq v q s t u r n uqi
+sewestoernooi None 1002 2332 s iq v q s t u r n OOi
 seweuur None 102 222 s iq v q y r
 sexy None 10 32 s E k s i
 sexyste None 100 323 s E k s i s t q
@@ -18841,7 +18840,7 @@ sok None 0 3 s O k
 sokker None 10 23 s O k q r
 sokkerklub None 102 234 s O k q r k l qoeq b
 sokkerspan None 102 234 s O k q r s p a n
-sokkertoernooi None 1002 2332 s O k q r t u r n uqi
+sokkertoernooi None 1002 2332 s O k q r t u r n OOi
 sokkervereniging None 100200 233123 s O k q r f q r iq n q x q N
 sokkerwedstryd None 1020 2335 s O k q r v E t s t r qi t
 sokkie None 10 22 s O k i
@@ -18912,7 +18911,7 @@ sonskyn None 10 34 s O n s k qi n
 sonsopkoms None 102 424 s O n s O p k O m s
 sonsverduistering None 10200 43233 s O n s f q r d qoeqy s t q r q N
 soogdiere None 100 322 s uq x d i r q
-sooibrand None 10 25 s uqi b r a n t
+sooibrand None 10 25 s OOi b r a n t
 soom None 0 3 s uq m
 soontoe None 10 32 s uq n t u
 soort None 0 4 s uq r t
@@ -18994,7 +18993,7 @@ spanninge None 100 331 s p a n q N q
 spanningslyn None 102 343 s p a n q N s l qi n
 spanningsvolle None 1020 3422 s p a n q N s f O l q
 spanpoging None 100 423 s p a n p uq x q N
-spantoernooi None 102 432 s p a n t u r n uqi
+spantoernooi None 102 432 s p a n t u r n OOi
 spanverband None 102 434 s p a n f q r b a n t
 spanwerk None 10 44 s p a n v qaeq r k
 spartaanse None 010 432 s p a r t AA n s q
@@ -19073,7 +19072,7 @@ spierweefsel None 100 433 s p i r v iq f s q l
 spierwit None 10 43 s p i r v q t
 spies None 0 4 s p i s
 spiese None 10 32 s p i s q
-spiesgooi None 10 42 s p i s x uqi
+spiesgooi None 10 42 s p i s x OOi
 spieël None 10 32 s p i q l
 spil None 0 4 s p q l
 spilpunt None 10 44 s p q l p qoeq n t
@@ -19730,9 +19729,9 @@ strome None 10 42 s t r uq m q
 stroming None 10 43 s t r uq m q N
 strominge None 100 431 s t r uq m q N q
 strompel None 10 53 s t r O m p q l
-strooi None 0 4 s t r uqi
-strooisage None 100 422 s t r uqi s AA x q
-strooisuiker None 100 423 s t r uqi s qoeqy k q r
+strooi None 0 4 s t r OOi
+strooisage None 100 422 s t r OOi s AA x q
+strooisuiker None 100 423 s t r OOi s qoeqy k q r
 strook None 0 5 s t r uq k
 stroom None 0 5 s t r uq m
 stroomaf None 10 43 s t r uq m a f
@@ -20355,7 +20354,7 @@ tennisbaan None 102 233 t E n q s b AA n
 tennisspan None 102 234 t E n q s s p a n
 tennisspeler None 1020 2333 t E n q s s p iq l q r
 tennisspelers None 1020 2334 t E n q s s p iq l q r s
-tennistoernooi None 1002 2332 t E n q s t u r n uqi
+tennistoernooi None 1002 2332 t E n q s t u r n OOi
 tenoor None 01 23 t q n uq r
 tenore None 010 222 t q n uq r q
 tensy None 01 32 t E n s qi
@@ -20678,8 +20677,8 @@ toeriste None 010 232 t u r q s t q
 toeristebedryf None 01002 23224 t u r q s t q b q d r qi f
 toerlede None 100 322 t u r l iq d q
 toermotors None 100 324 t u r m uq t q r s
-toernooi None 01 32 t u r n uqi
-toernooie None 010 321 t u r n uqi q
+toernooi None 01 32 t u r n OOi
+toernooie None 010 321 t u r n OOi q
 toeroperateurs None 20001 31224 t u r uq p q r a t qooq r s
 toerprogram None 102 334 t u r p r u x r a m
 toerspan None 10 34 t u r s p a n
@@ -20751,7 +20750,7 @@ toi None 0 2 t Oi
 toilet None 01 23 t Oi l E t
 toiletpapier None 0102 2323 t Oi l E t p a p i r
 toilette None 010 222 t Oi l E t q
-toitskloof None 10 34 t uqi s k l uq f
+toitskloof None 10 34 t OOi s k l uq f
 tokiose None 010 222 t uq k iu s q
 tokkel None 10 23 t O k q l
 toksiene None 100 322 t O k s i n q
@@ -21040,7 +21039,7 @@ tuiswedstryde None 1020 3342 t qoeqy s v E t s t r qi d q
 tuiswerk None 10 34 t qoeqy s v qaeq r k
 tuna None 10 22 t y n a
 turbo None 01 32 t qoeq r b uq
-turkoois None 10 33 t qoeq r k uqi s
+turkoois None 10 33 t qoeq r k OOi s
 turksvy None 10 52 t qoeq r k s f qi
 turksvye None 100 521 t qoeq r k s f qi q
 tussen None 10 23 t qoeq s q n
@@ -21256,7 +21255,7 @@ uitgedun None 102 223 qoeqy t x q d qoeq n
 uitgee None 10 22 qoeqy t x iq
 uitgegaan None 102 223 qoeqy t x q x AA n
 uitgegee None 102 222 qoeqy t x q x iq
-uitgegooi None 102 222 qoeqy t x q x uqi
+uitgegooi None 102 222 qoeqy t x q x OOi
 uitgegrawe None 1020 2232 qoeqy t x q x r AA v q
 uitgehaal None 102 223 qoeqy t x q hv AA l
 uitgehang None 102 223 qoeqy t x q hv a N
@@ -21286,7 +21285,7 @@ uitgemaak None 102 223 qoeqy t x q m AA k
 uitgemaakte None 1020 2232 qoeqy t x q m AA k t q
 uitgemunt None 102 224 qoeqy t x q m qoeq n t
 uitgeneem None 102 223 qoeqy t x q n iq m
-uitgenooi None 102 222 qoeqy t x q n uqi
+uitgenooi None 102 222 qoeqy t x q n OOi
 uitgeoefen None 1020 2213 qoeqy t x q u f q n
 uitgeplaas None 102 224 qoeqy t x q p l AA s
 uitgepluis None 102 224 qoeqy t x q p l qoeqy s
@@ -21369,7 +21368,7 @@ uitgewis None 102 223 qoeqy t x q v q s
 uitgewys None 102 223 qoeqy t x q v qi s
 uitgifte None 120 232 qoeqy t x q f t q
 uitgifteprys None 1202 2324 qoeqy t x q f t q p r qi s
-uitgooi None 12 22 qoeqy t x uqi
+uitgooi None 12 22 qoeqy t x OOi
 uitgrawings None 120 234 qoeqy t x r AA v q N s
 uithaal None 12 23 qoeqy t hv AA l
 uithang None 12 23 qoeqy t hv a N
@@ -21432,7 +21431,7 @@ uitnemendheid None 1202 2243 qoeqy t n iq m q n t hv qi t
 uitnodiging None 1200 2223 qoeqy t n uq d q x q N
 uitnodigings None 1200 2224 qoeqy t n uq d q x q N s
 uitnodigingspan None 12002 22234 qoeqy t n uq d q x q N s p a n
-uitnooi None 12 22 qoeqy t n uqi
+uitnooi None 12 22 qoeqy t n OOi
 uitoefen None 120 123 qoeqy t u f q n
 uitoefening None 1200 1223 qoeqy t u f q n q N
 uitoorlê None 120 132 qoeqy t uq r l E
@@ -22744,8 +22743,8 @@ verstoot None 01 34 f q r s t uq t
 verstrek None 01 35 f q r s t r qaeq k
 verstreke None 010 342 f q r s t r iq k q
 verstrengel None 010 352 f q r s t r E N q l
-verstrooi None 01 34 f q r s t r uqi
-verstrooiing None 010 342 f q r s t r uqi q N
+verstrooi None 01 34 f q r s t r OOi
+verstrooiing None 010 342 f q r s t r OOi q N
 verstryk None 01 35 f q r s t r qi k
 versugting None 010 333 f q r s qoeq x t q N
 versuim None 01 33 f q r s qoeqy m
@@ -23141,8 +23140,8 @@ vloer None 0 4 f l u r
 vloere None 10 32 f l u r q
 vloeroppervlakte None 10020 41342 f l u r O p q r f l a k t q
 vlok None 0 4 f l O k
-vlooi None 0 3 f l uqi
-vlooimarkte None 100 342 f l uqi m a r k t q
+vlooi None 0 3 f l OOi
+vlooimarkte None 100 342 f l OOi m a r k t q
 vloot None 0 4 f l uq t
 vlot None 0 4 f l O t
 vlug None 0 4 f l qoeq x
@@ -23274,10 +23273,10 @@ volstrekte None 010 352 f O l s t r qaeq k t q
 volstruise None 010 342 f O l s t r qoeqy s q
 volstruiseierdoppe None 010020 342222 f O l s t r qoeqy s qi q r d O p q
 voltal None 01 33 f O l t a l
-voltooi None 01 32 f O l t uqi
-voltooide None 010 322 f O l t uqi d q
-voltooiing None 010 322 f O l t uqi q N
-voltooing None 010 322 f O l t uqi q N
+voltooi None 01 32 f O l t OOi
+voltooide None 010 322 f O l t OOi d q
+voltooiing None 010 322 f O l t OOi q N
+voltooing None 010 322 f O l t OOi q N
 voltrek None 01 34 f O l t r qaeq k
 voltyds None 10 34 f O l t qi t s
 voltydse None 100 332 f O l t qi t s q
@@ -23917,7 +23916,7 @@ wal None 0 3 v a l
 walging None 10 33 v a l x q N
 walglik None 10 43 v a l x l q k
 walglike None 100 422 v a l x l q k q
-walgooi None 10 32 v a l x uqi
+walgooi None 10 32 v a l x OOi
 walle None 10 22 v a l q
 walliese None 100 222 v a l i s q
 walliesers None 100 224 v a l i s q r s
@@ -24131,7 +24130,7 @@ weggebreek None 102 224 v qaeq x q b r iq k
 weggedoen None 102 223 v qaeq x q d u n
 weggegaan None 102 223 v qaeq x q x AA n
 weggegee None 102 222 v qaeq x q x iq
-weggegooi None 102 222 v qaeq x q x uqi
+weggegooi None 102 222 v qaeq x q x OOi
 weggehardloop None 1020 2243 v qaeq x q hv a r t l uq p
 weggejaag None 102 223 v qaeq x q j AA x
 weggekom None 102 223 v qaeq x q k O m
@@ -24154,7 +24153,7 @@ weggestuur None 102 224 v qaeq x q s t y r
 weggeval None 102 223 v qaeq x q f a l
 weggevoer None 102 223 v qaeq x q f u r
 weggewys None 102 223 v qaeq x q v qi s
-weggooi None 10 22 v qaeq x uqi
+weggooi None 10 22 v qaeq x OOi
 weghardloop None 102 343 v qaeq x hv a r t l uq p
 weghol None 10 33 v qaeq x hv O l
 wegjaag None 10 33 v qaeq x j AA x
@@ -24586,7 +24585,7 @@ word None 0 4 v O r t
 wordende None 100 332 v O r d q n d q
 wording None 10 33 v O r d q N
 wors None 0 4 v O r s
-worsbroodjies None 100 433 v O r s b r uqi k i s
+worsbroodjies None 100 433 v O r s b r OOi k i s
 worsie None 10 32 v O r s i
 worsies None 10 33 v O r s i s
 worstel None 10 34 v O r s t q l
@@ -24652,7 +24651,7 @@ wynmaker None 100 323 v qi n m AA k q r
 wynplaas None 10 34 v qi n p l AA s
 wynplase None 100 332 v qi n p l AA s q
 wynproe None 10 33 v qi n p r u
-wynrooi None 10 32 v qi n r uqi
+wynrooi None 10 32 v qi n r OOi
 wys None 0 3 v qi s
 wysbegeerte None 1020 3232 v qi s b q x iq r t q
 wyse None 10 22 v qi s q
@@ -24705,7 +24704,7 @@ wêreldse None 102 242 v qaeq r q l t s q
 wêreldsisteem None 1002 2424 v qaeq r q l t s q s t iq m
 wêreldstandaarde None 10020 24432 v qaeq r q l t s t a n d AA r d q
 wêreldtitel None 1020 2423 v qaeq r q l t t i t q l
-wêreldtoernooi None 1002 2432 v qaeq r q l t t u r n uqi
+wêreldtoernooi None 1002 2432 v qaeq r q l t t u r n OOi
 wêreldwyd None 102 243 v qaeq r q l t v qi t
 wêreldwye None 1020 2421 v qaeq r q l t v qi q
 wîe None 10 21 v qoeq q

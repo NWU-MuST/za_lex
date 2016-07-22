@@ -6517,7 +6517,7 @@ geheimsinnige None 00100 23222 x q hv qi m s q n q x q
 gehelp None 01 24 x q hv qaeq l p
 gehengel None 010 232 x q hv E N q l
 geherstruktureer None 00001 23523 x q hv qaeq r s t r qoeq k tS y r iq r
-geheue None 01 22 x q hv qooq
+geheue None 010 221 x q hv qooq q
 gehinder None 010 233 x q hv q n d q r
 geholpe None 010 232 x q hv O l p q
 gehoop None 01 23 x q hv uq p
@@ -7500,7 +7500,7 @@ gevierde None 010 232 x q f i r d q
 gevind None 01 24 x q f q n t
 gevleg None 01 24 x q f l qaeq x
 gevlekte None 010 242 x q f l qaeq k t q
-gevleuelde None 010 242 x q f l qooq l d q
+gevleuelde None 0100 2322 x q f l qooq q l d q
 gevlieg None 01 24 x q f l i x
 gevloei None 01 23 x q f l ui
 gevloek None 01 24 x q f l u k
@@ -11030,7 +11030,7 @@ kortste None 10 43 k O r t s t q
 kortstondig None 010 443 k O r t s t O n d q x
 kortstondige None 0100 4422 k O r t s t O n d q x q
 korttermyn None 102 433 k O r t t qaeq r m qi n
-korttermyngeheue None 10202 43322 k O r t t qaeq r m qi n x q hv qooq
+korttermyngeheue None 102020 433221 k O r t t qaeq r m qi n x q hv qooq q
 korttermynversekering None 1020200 4333223 k O r t t qaeq r m qi n f q r s iq k q r q N
 kortverhaalbundel None 10200 43333 k O r t f q r hv AA l b qoeq n d q l
 kortverhale None 1020 4322 k O r t f q r hv AA l q
@@ -11317,7 +11317,7 @@ kunsmark None 10 44 k qoeq n s m a r k
 kunsmatig None 010 423 k qoeq n s m AA t q x
 kunsmatige None 0100 4222 k qoeq n s m AA t q x q
 kunsmis None 10 43 k qoeq n s m q s
-kunsmuseum None 102 423 k qoeq n s m y z qooq m
+kunsmuseum None 102 423 k qoeq n s m y s qooq m
 kunsmusiek None 102 423 k qoeq n s m qoeq s i k
 kunssaal None 10 43 k qoeq n s s AA l
 kunssale None 100 422 k qoeq n s s AA l q
@@ -11578,7 +11578,7 @@ langspelers None 100 334 l a N s p iq l q r s
 langste None 10 33 l a N s t q
 langtermyn None 102 333 l a N t qaeq r m qi n
 langtermyndoelwitte None 102020 333322 l a N t qaeq r m qi n d u l v q t q
-langtermyngeheue None 10202 33322 l a N t qaeq r m qi n x q hv qooq
+langtermyngeheue None 102020 333221 l a N t qaeq r m qi n x q hv qooq q
 langverwagte None 1020 3332 l a N f q r v a x t q
 laning None 10 23 l AA n q N
 lank None 0 4 l a N k
@@ -11801,9 +11801,9 @@ letterlik None 100 233 l E t q r l q k
 letterlike None 1000 2322 l E t q r l q k q
 letters None 10 24 l E t q r s
 lettertipes None 1020 2323 l E t q r t i p q s
-leuen None 0 3 l qooq n
-leuenaar None 12 23 l qooq n AA r
-leuens None 0 4 l qooq n s
+leuen None 10 22 l qooq q n
+leuenaar None 102 213 l qooq q n AA r
+leuens None 10 23 l qooq q n s
 leun None 0 3 l qooq n
 leunstoel None 10 34 l qooq n s t u l
 leuse None 10 22 l qooq s q
@@ -11988,7 +11988,7 @@ linkerknie None 102 333 l q N k q r k n i
 linkeroog None 102 323 l q N k q r uq x
 linkeroor None 102 323 l q N k q r uq r
 linkerskouer None 1020 3332 l q N k q r s k qu q r
-linkervleuel None 102 334 l q N k q r f l qooq l
+linkervleuel None 1020 3332 l q N k q r f l qooq q l
 linkervoet None 102 333 l q N k q r f u t
 links None 0 5 l q N k s
 linkse None 10 42 l q N k s q
@@ -12178,7 +12178,7 @@ lugversorger None 1020 3333 l qoeq x f q r s O r x q r
 lugversorgers None 1020 3334 l qoeq x f q r s O r x q r s
 lugversorging None 1020 3333 l qoeq x f q r s O r x q N
 lugvervoer None 102 333 l qoeq x f q r f u r
-lugvleuel None 10 34 l qoeq x f l qooq l
+lugvleuel None 100 332 l qoeq x f l qooq q l
 lugvloei None 10 33 l qoeq x f l ui
 lugvrag None 10 34 l qoeq x f r a x
 lugwaardin None 102 333 l qoeq x v AA r d q n
@@ -13198,7 +13198,7 @@ mure None 10 22 m y r q
 murg None 0 4 m qoeq r x
 mus None 0 3 m qoeq s
 muse None 10 22 m y s q
-museum None 01 23 m y z qooq m
+museum None 01 23 m y s qooq m
 museums None 01 24 m y s qooq m s
 musici None 201 222 m y s i s i
 musiek None 01 23 m qoeq s i k
@@ -15013,8 +15013,8 @@ oorverdowende None 10200 23232 uq r f q r d uq v q n d q
 oorverhit None 102 233 uq r f q r hv q t
 oorverhitting None 1020 2323 uq r f q r hv q t q N
 oorvertel None 102 233 uq r f q r t qaeq l
-oorvleuel None 01 24 uq r f l qooq l
-oorvleueling None 010 233 uq r f l qooq l q N
+oorvleuel None 010 232 uq r f l qooq q l
+oorvleueling None 0100 2313 uq r f l qooq q l q N
 oorvloed None 10 24 uq r f l u t
 oorvloedig None 010 233 uq r f l u d q x
 oorvloedige None 0100 2322 uq r f l u d q x q
@@ -16954,7 +16954,7 @@ regterknie None 102 333 r qaeq x t q r k n i
 regterlike None 1000 3322 r qaeq x t q r l q k q
 regters None 10 34 r qaeq x t q r s
 regterskouer None 1020 3332 r qaeq x t q r s k qu q r
-regtervleuel None 102 334 r qaeq x t q r f l qooq l
+regtervleuel None 1020 3332 r qaeq x t q r f l qooq q l
 regtig None 10 33 r qaeq x t q x
 reguit None 10 23 r qaeq x qoeqy t
 regulasie None 0010 2222 r E x y l AA s i
@@ -20490,7 +20490,7 @@ tesourier None 001 223 t E s u r i r
 testament None 201 324 t E s t a m E n t
 testamente None 2010 3232 t E s t a m E n t q
 tetrasikliene None 10200 23232 t E t r a s q k l i n q
-teuels None 0 4 t qooq l s
+teuels None 10 23 t qooq q l s
 teug None 0 3 t qooq x
 tevergeefs None 001 234 t q f q r x iq f s
 tevore None 010 222 t q f uq r q
@@ -23098,8 +23098,8 @@ vlerke None 10 42 f l qaeq r k q
 vlerkies None 10 43 f l qaeq r k i s
 vlermuise None 100 422 f l qaeq r m qoeqy s q
 vlesige None 100 322 f l iq s q x q
-vleuel None 0 4 f l qooq l
-vleuels None 0 5 f l qooq l s
+vleuel None 10 32 f l qooq q l
+vleuels None 10 33 f l qooq q l s
 vlie None 0 3 f l i
 vlieg None 0 4 f l i x
 vliegdekskip None 102 434 f l i x d qaeq k s k q p

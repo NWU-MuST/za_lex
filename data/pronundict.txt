@@ -1375,7 +1375,7 @@ amptenary None 1002 3222 a m p t q n a r qi
 amsterdamse None 1020 2432 a m s t q r d a m s q
 amusant None 001 124 a m y s a n t
 anabaptiste None 20100 12332 a n a b a p t q s t q
-anaerobiese None 01020 12222 a n iq r uq b i s q
+anaerobiese None 100200 211222 a n AA q r uq b i s q
 analgetika None 21000 13222 a n a l x iq t i k a
 analis None 201 123 a n a l q s
 analise None 2010 1222 a n a l i s q
@@ -1698,37 +1698,37 @@ asseblief None 201 124 a s q b l i f
 assegaai None 001 122 a s q x AAi
 assegaaie None 0010 1221 a s q x AAi q
 assertiwiteit None 20201 13223 a s q r t i v i t qi t
-assesseer None 201 123 a s q s iq r
-assesseerders None 2010 1234 a s q s iq r d q r s
-assessering None 2010 1223 a s q s iq r q N
-assesserings None 2010 1224 a s q s iq r q N s
-assesseringsaktiwiteite None 201020010 122422222 a s q s iq r q N s a k t i v i t qi t q
-assesseringsbeginsels None 2010020 1224234 a s q s iq r q N s b q x q n s q l s
-assesseringsgeleenthede None 20100200 12242422 a s q s iq r q N s x q l iq n t hv iq d q
-assesseringsgeleentheid None 2010020 1224243 a s q s iq r q N s x q l iq n t hv qi t
-assesseringsinstrument None 2010201 1224244 a s q s iq r q N s q n s t r u m E n t
-assesseringsinstrumente None 20102010 12242432 a s q s iq r q N s q n s t r u m E n t q
-assesseringskaal None 20102 12234 a s q s iq r q N s k AA l
-assesseringskriteria None 20100020 12243221 a s q s iq r q N s k r q t iq r i a
-assesseringsmetodes None 2010010 1224223 a s q s iq r q N s m q t uq d q s
-assesseringsplan None 20102 12244 a s q s iq r q N s p l a n
-assesseringspraktyke None 2010200 1224422 a s q s iq r q N s p r a k t qi k q
-assesseringsproses None 201002 122433 a s q s iq r q N s p r u s E s
-assesseringspunt None 20102 12244 a s q s iq r q N s p qoeq n t
-assesseringsresultate None 20100010 12242322 a s q s iq r q N s r E s qoeq l t AA t q
-assesseringsriglyne None 2010020 1224322 a s q s iq r q N s r q x l qi n q
-assesseringsrubriek None 201002 122424 a s q s iq r q N s r qoeq b r i k
-assesseringsrubrieke None 2010020 1224232 a s q s iq r q N s r qoeq b r i k q
-assesseringstake None 201020 122422 a s q s iq r q N s t AA k q
-assesseringstandaard None 201002 122344 a s q s iq r q N s t a n d AA r t
-assesseringstandaarde None 2010020 1223432 a s q s iq r q N s t a n d AA r d q
-assesseringstegnieke None 2010010 1224322 a s q s iq r q N s t qaeq x n i k q
-assesseringstipes None 201020 122423 a s q s iq r q N s t i p q s
-assesseringstrategieë None 20100020 12234221 a s q s iq r q N s t r a t q x i q
-assesseringsvorm None 201020 122423 a s q s iq r q N s f O r q m
-assesseringverslag None 201002 122334 a s q s iq r q N f q r s l a x
+assesseer None 201 123 a s E s iq r
+assesseerders None 2010 1234 a s E s iq r d q r s
+assessering None 2010 1223 a s E s iq r q N
+assesserings None 2010 1224 a s E s iq r q N s
+assesseringsaktiwiteite None 201020010 122422222 a s E s iq r q N s a k t i v i t qi t q
+assesseringsbeginsels None 2010020 1224234 a s E s iq r q N s b q x q n s q l s
+assesseringsgeleenthede None 20100200 12242422 a s E s iq r q N s x q l iq n t hv iq d q
+assesseringsgeleentheid None 2010020 1224243 a s E s iq r q N s x q l iq n t hv qi t
+assesseringsinstrument None 2010201 1224244 a s E s iq r q N s q n s t r u m E n t
+assesseringsinstrumente None 20102010 12242432 a s E s iq r q N s q n s t r u m E n t q
+assesseringskaal None 20102 12234 a s E s iq r q N s k AA l
+assesseringskriteria None 20100020 12243221 a s E s iq r q N s k r q t iq r i a
+assesseringsmetodes None 2010010 1224223 a s E s iq r q N s m q t uq d q s
+assesseringsplan None 20102 12244 a s E s iq r q N s p l a n
+assesseringspraktyke None 2010200 1224422 a s E s iq r q N s p r a k t qi k q
+assesseringsproses None 201002 122433 a s E s iq r q N s p r u s E s
+assesseringspunt None 20102 12244 a s E s iq r q N s p qoeq n t
+assesseringsresultate None 20100010 12242322 a s E s iq r q N s r E s qoeq l t AA t q
+assesseringsriglyne None 2010020 1224322 a s E s iq r q N s r q x l qi n q
+assesseringsrubriek None 201002 122424 a s E s iq r q N s r qoeq b r i k
+assesseringsrubrieke None 2010020 1224232 a s E s iq r q N s r qoeq b r i k q
+assesseringstake None 201020 122422 a s E s iq r q N s t AA k q
+assesseringstandaard None 201002 122344 a s E s iq r q N s t a n d AA r t
+assesseringstandaarde None 2010020 1223432 a s E s iq r q N s t a n d AA r d q
+assesseringstegnieke None 2010010 1224322 a s E s iq r q N s t qaeq x n i k q
+assesseringstipes None 201020 122423 a s E s iq r q N s t i p q s
+assesseringstrategieë None 20100020 12234221 a s E s iq r q N s t r a t q x i q
+assesseringsvorm None 201020 122423 a s E s iq r q N s f O r q m
+assesseringverslag None 201002 122334 a s E s iq r q N f q r s l a x
 assessor None 010 123 a s E s O r
-assessore None 0010 1222 a s q s uq r q
+assessore None 0010 1222 a s E s uq r q
 assessors None 010 124 a s E s O r s
 assimilasie None 20010 12222 a s i m q l AA s i
 assimileer None 2001 1223 a s i m q l iq r
@@ -4563,7 +4563,7 @@ diagnoseer None 0001 2223 d i a x n u s iq r
 diagnosering None 00010 22223 d i a x n u s iq r q N
 diagnoses None 0010 2223 d i a x n uq s q s
 diagnostiese None 00100 22322 d i a x n O s t i s q
-diagram None 001 224 d i a x r a m
+diagram None 001 214 d i a x r a m
 diagrammatiese None 000100 213222 d i a x r a m AA t i s q
 diaken None 010 213 d i AA k q n
 diakens None 010 214 d i AA k q n s
@@ -4680,8 +4680,8 @@ diktee None 10 32 d q k t iq
 dikteer None 01 33 d q k t iq r
 dikwels None 10 34 d q k v q l s
 dilemma None 010 222 d q l E m a
-dimensie None 010 232 d q m E n s i
-dimensionele None 02010 23222 d q m E n S iu n iq l q
+dimensie None 010 232 d i m E n s i
+dimensionele None 02010 23222 d i m E n S iu n iq l q
 dinamiek None 001 223 d i n a m i k
 dinamies None 010 223 d i n AA m i s
 dinamiese None 0100 2222 d i n AA m i s q
@@ -4878,7 +4878,7 @@ donkerte None 100 332 d O N k q r t q
 donkie None 10 32 d O N k i
 donner None 10 23 d O n q r
 dons None 0 4 d O n s
-donshael None 10 43 d O n s hv AA l
+donshael None 100 422 d O n s hv AA q l
 donsig None 10 33 d O n s q x
 dood None 0 3 d uq t
 doodeenvoudig None 1020 3223 d uq t iq n f qu d q x
@@ -5035,7 +5035,7 @@ dreun None 0 4 d r qooq n
 dreuning None 10 33 d r qooq n q N
 drie None 0 3 d r i
 driedaagse None 100 332 d r i d AA x s q
-driedimensionele None 202010 323222 d r i d q m E n S iu n iq l q
+driedimensionele None 202010 323222 d r i d i m E n S iu n iq l q
 driedubbele None 1000 3222 d r i d qoeq b q l q
 driehoek None 10 33 d r i hv u k
 driehoeke None 100 322 d r i hv u k q
@@ -5231,7 +5231,7 @@ eendagwedstryd None 1020 2335 iq n d a x v E t s t r qi t
 eende None 10 22 iq n d q
 eenderse None 100 232 iq n d q r s q
 eendeweer None 102 223 iq n d q v iq r
-eendimensionele None 202010 223222 iq n d q m E n S iu n iq l q
+eendimensionele None 202010 223222 iq n d i m E n S iu n iq l q
 eenhede None 100 222 iq n hv iq d q
 eenheid None 10 23 iq n hv qi t
 eenheidskoste None 1020 2432 iq n hv qi t s k O s t q
@@ -5566,6 +5566,7 @@ emosie None 010 122 E m uq s i
 emosies None 010 123 E m uq s i s
 emosioneel None 0001 1223 E m u S iu n iq l
 emosionele None 00010 12222 i m u S iu n iq l q
+empangeni None 0010 2322 E m p a N g E n i
 empatie None 201 222 E m p a t i
 empiries None 010 223 E m p i r i s
 emulsies None 102 133 i m qoeq l s i s
@@ -8076,9 +8077,9 @@ haat None 0 3 hv AA t
 habitat None 102 223 hv a b i t a t
 habitatte None 1020 2222 hv a b i t a t q
 had None 0 3 hv AA t
-hael None 0 3 hv AA l
-haelgeweer None 102 323 hv AA l x q v iq r
-haelstorm None 120 333 hv AA l s t O r q m
+hael None 10 22 hv AA q l
+haelgeweer None 1002 2223 hv AA q l x q v iq r
+haelstorm None 1020 2233 hv AA q l s t O r q m
 haglik None 10 33 hv a x l q k
 haglike None 100 322 hv a x l q k q
 haka None 10 22 hv a k a
@@ -10786,7 +10787,7 @@ konkas None 10 33 k O N k a s
 konklusie None 010 332 k O n k l y s i
 konkreet None 01 34 k O n k r iq t
 konkrete None 010 332 k O N k r iq t q
-konkurrente None 0010 3232 k O n k y r E n t q
+konkurrente None 0010 3232 k O n k qoeq r E n t q
 konneksies None 010 233 k u n E k s i s
 konnotasie None 0010 2222 k O n u t AA s i
 konsekutief None 0001 3223 k O n s E k y t i f
@@ -11347,7 +11348,7 @@ kuratore None 2010 2222 k y r a t uq r q
 kurators None 010 224 k y r AA t O r s
 kurpers None 10 34 k qoeq r p q r s
 kurrikulering None 20010 22223 k qoeq r i k y l iq r q N
-kurrikulum None 1020 2223 k y r i k y l qoeq m
+kurrikulum None 1020 2223 k qoeq r i k y l qoeq m
 kursus None 10 33 k qoeq r s qoeq s
 kursusdosent None 2001 3324 k qoeq r s qoeq s d u s E n t
 kursuseenheid None 1020 3323 k qoeq r s qoeq s iq n hv qi t
@@ -12244,7 +12245,7 @@ lyste None 10 32 l qi s t q
 lywe None 10 22 l qi v q
 lywige None 100 222 l qi v q x q
 lê None 0 2 l E
-lêer None 0 3 l qaeq r
+lêer None 10 22 l qaeq q r
 ma None 0 2 m AA
 maag None 0 3 m AA x
 maagd None 0 4 m AA x t
@@ -12436,7 +12437,7 @@ markontleders None 1020 4324 m a r k O n t l iq d q r s
 markplein None 10 44 m a r k p l qi n
 markpryse None 100 432 m a r k p r qi s q
 marksegment None 201 434 m a r k s qaeq x m E n t
-marksegmentering None 20010 43323 m a r k s qaeq x m E n t q r q N
+marksegmentering None 20010 43323 m a r k s qaeq x m E n t iq r q N
 markstraat None 10 45 m a r k s t r AA t
 markte None 10 42 m a r k t q
 marktoestande None 1020 4242 m a r k t u s t a n d q
@@ -12847,7 +12848,7 @@ minderheidsaandeelhouers None 1020200 3342323 m q n d q r hv qi t s AA n d iq l 
 minderheidsgroep None 1020 3344 m q n d q r hv qi t s x r u p
 minderheidsgroepe None 10200 33432 m q n d q r hv qi t s x r u p q
 minderheidspartye None 102020 334321 m q n d q r hv qi t s p a r t qi q
-minderheidsregering None 102020 334223 m q n d q r hv qi t s r q x q r q N
+minderheidsregering None 102020 334223 m q n d q r hv qi t s r q x iq r q N
 minderheidsregte None 10200 33432 m q n d q r hv qi t s r qaeq x t q
 minderjarig None 0010 3323 m q n d q r j AA r q x
 minderjarige None 00100 33222 m q n d q r j AA r q x q
@@ -13182,7 +13183,7 @@ muishond None 10 34 m qoeqy s hv O n t
 muitery None 102 222 m qoeqy t q r qi
 multi None 10 32 m qoeq l t i
 multichoice None 100 323 m a l t i tS Oi s
-multidimensionele None 2002010 3223222 m qoeq l t i d q m E n S iu n iq l q
+multidimensionele None 2002010 3223222 m qoeq l t i d i m E n S iu n iq l q
 multidissiplinêre None 2002010 3222322 m qoeq l t i d q s q p l i n qaeq r q
 multikeuse None 1020 3222 m qoeq l t i k qooq s q
 multikulturalisme None 2020010 3232232 m qoeq l t i k qoeq l tS y r a l q s m q
@@ -17166,7 +17167,7 @@ reënboog None 100 223 r i q n b uq x
 reëns None 10 23 r i q n s
 reënseisoen None 1002 2223 r i q n s qi s u n
 reënval None 100 223 r i q n f a l
-reünie None 010 212 r iq y n i
+reünie None 010 212 r i y n i
 rhodesiese None 1020 2222 r u d i s i s q
 rib None 0 3 r q b
 ribbe None 10 22 r q b q
@@ -17823,7 +17824,7 @@ seleksieprosesse None 010020 232322 s q l E k s i p r u s E s q
 selektief None 001 233 s E l E k t i f
 selektiewe None 0010 2322 s E l E k t i v q
 self None 0 4 s qaeq l f
-selfassessering None 20010 41223 s qaeq l f a s q s iq r q N
+selfassessering None 20010 41223 s qaeq l f a s E s iq r q N
 selfbeeld None 10 44 s qaeq l f b iq l t
 selfbeskikking None 1020 4233 s qaeq l f b q s k q k q N
 selfbeskikkingsreg None 10202 42343 s qaeq l f b q s k q k q N s r qaeq x
@@ -18268,7 +18269,7 @@ skedel None 10 33 s k iq d q l
 skedule None 010 322 s k E d y l q
 skeduleer None 001 323 s k E d y l iq r
 skedulering None 0010 3223 s k E d y l iq r q N
-skedules None 010 323 s k q d y l q s
+skedules None 010 323 s k E d y l q s
 skeef None 0 4 s k iq f
 skeefgeloop None 102 423 s k iq f x q l uq p
 skeefloop None 10 43 s k iq f l uq p
@@ -18426,7 +18427,7 @@ skooljare None 100 422 s k uq l j AA r q
 skoolkind None 10 44 s k uq l k q n t
 skoolkinders None 100 434 s k uq l k q n d q r s
 skoolkoerant None 102 424 s k uq l k u r a n t
-skoolkurrikulum None 10202 42223 s k uq l k y r i k y l qoeq m
+skoolkurrikulum None 10202 42223 s k uq l k qoeq r i k y l qoeq m
 skoolloopbaan None 102 433 s k uq l l uq p b AA n
 skoolmaats None 10 44 s k uq l m AA t s
 skoolmeisie None 102 422 s k uq l m qi s i
@@ -19377,7 +19378,7 @@ stapels None 10 34 s t AA p q l s
 stappe None 10 32 s t a p q
 stapper None 10 33 s t a p q r
 stappers None 10 34 s t a p q r s
-stapplek None 10 34 s t a p l qaeq k
+stapplek None 10 44 s t a p p l qaeq k
 staproete None 100 422 s t a p r u t q
 staptog None 10 43 s t a p t O x
 star None 0 4 s t a r
@@ -19913,7 +19914,6 @@ suksesvolste None 0100 3333 s qoeq k s E s f O l s t q
 sulke None 10 32 s qoeq l k q
 summier None 01 23 s qoeq m i r
 summiere None 010 222 s qoeq m i r q
-sun None 0 3 s a n
 super None 10 23 s u p q r
 superintendent None 20001 22334 s u p q r q n t q n d E n t
 superliga None 1020 2322 s u p q r l i x a
@@ -19950,9 +19950,9 @@ swaargewigte None 1000 4232 s w AA r x q v q x t q
 swaarkry None 10 43 s w AA r k r qi
 swaarste None 10 43 s w AA r s t q
 swaartekrag None 102 424 s w AA r t q k r a x
-swael None 0 4 s w AA l
-swaelsuur None 10 43 s w AA l s y r
-swaer None 0 4 s w AA r
+swael None 10 32 s w AA q l
+swaelsuur None 100 323 s w AA q l s y r
+swaer None 10 32 s w AA q r
 swak None 0 4 s w a k
 swakhede None 100 422 s w a k hv iq d q
 swakheid None 10 43 s w a k hv qi t
@@ -20156,7 +20156,7 @@ tas None 0 3 t a s
 tasbaar None 10 33 t a s b AA r
 tasbare None 100 322 t a s b AA r q
 tasse None 10 22 t a s q
-taurus None 10 23 t O r qoeq s
+taurus None 10 23 t qu r qoeq s
 tawwe None 10 22 t a v q
 taxi None 10 32 t a k s i
 taxibestuurder None 10020 32243 t a k s i b q s t y r d q r
@@ -20257,7 +20257,7 @@ tekortkominge None 01000 24231 t q k O r t k uq m q N q
 teks None 0 4 t E k s
 tekseenheid None 102 423 t E k s iq n hv qi t
 teksgedeeltes None 1020 4233 t E k s x q d iq l t q s
-tekskartering None 1000 4323 t E k s k a r t q r q N
+tekskartering None 1000 4323 t E k s k a r t iq r q N
 tekskritiese None 1020 4322 t E k s k r i t i s q
 tekssoorte None 100 432 t E k s s uq r t q
 tekste None 10 42 t E k s t q
@@ -20414,7 +20414,7 @@ terrorisme None 0010 2232 t qaeq r u r q s m q
 terroriste None 0010 2232 t qaeq r u r q s t q
 tersaaklik None 010 333 t qaeq r s AA k l q k
 tersaaklike None 0100 3322 t qaeq r s AA k l q k q
-terselfdertyd None 0102 3433 t q r s qaeq l f d q r t qi t
+terselfdertyd None 0102 3433 t qaeq r s qaeq l f d q r t qi t
 tersyde None 010 322 t qaeq r s qi d q
 tersydestelling None 01020 32233 t qaeq r s qi d q s t qaeq l q N
 terug None 0 4 t r qoeq x
@@ -20790,7 +20790,7 @@ toonbeeld None 10 34 t uq n b iq l t
 toonhoogte None 100 332 t uq n hv uq x t q
 toonhoogtes None 100 333 t uq n hv uq x t q s
 toonkleur None 10 34 t uq n k l qooq r
-toonnaels None 10 34 t uq n n AA l s
+toonnaels None 100 323 t uq n n AA q l s
 toonsettings None 100 324 t uq n s E t q N s
 toonvenster None 100 334 t uq n f E n s t q r
 toonwaarde None 100 332 t uq n v AA r d q
@@ -20834,7 +20834,7 @@ towenaars None 102 224 t uq v q n AA r s
 tower None 10 23 t uq v q r
 towerkrag None 102 234 t uq v q r k r a x
 towerspreuke None 1020 2342 t uq v q r s p r qooq k q
-toyota None 010 212 t Oi qu t a
+toyota None 010 222 t Oi j qu t a
 traag None 0 4 t r AA x
 traak None 0 4 t r AA k
 traan None 0 4 t r AA n
@@ -20984,7 +20984,7 @@ trusts None 0 6 t r qoeq s t s
 truuk None 0 4 t r y k
 truuks None 0 5 t r y k s
 trôe None 10 31 t r O q
-tsaar None 0 3 z AA r
+tsaar None 0 3 s AA r
 tsimba None 10 32 s q m b a
 tsjeggiese None 100 222 tS E x i s q
 tsoenami None 010 222 s u n AA m i
@@ -21663,7 +21663,7 @@ vakbondleiers None 1020 3423 f a k b O n t l qi q r s
 vakbondverteenwoordigers None 1000200 3433324 f a k b O n t f q r t iq n v uq r d q x q r s
 vakbondwese None 1020 3422 f a k b O n t v iq s q
 vakdidaktiek None 2001 3233 f a k d i d a k t i k
-vakdidaktieklêer None 10202 32333 f a k d i d a k t i k l qaeq r
+vakdidaktieklêer None 102020 323322 f a k d i d a k t i k l qaeq q r
 vakdidaktiese None 10200 32322 f a k d i d a k t i s q
 vakdissiplines None 10020 32233 f a k d q s q p l i n q s
 vakgroepe None 100 332 f a k x r u p q
@@ -21759,7 +21759,7 @@ vasberadenheid None 10202 32233 f a s b q r AA d q n hv qi t
 vasbeslote None 1020 3232 f a s b q s l uq t q
 vasbyt None 10 33 f a s b qi t
 vasdruk None 10 34 f a s d r qoeq k
-vase None 10 22 v AA s q
+vase None 10 22 f AA s q
 vasgebind None 102 324 f a s x q b q n t
 vasgebyt None 102 323 f a s x q b qi t
 vasgedruk None 102 324 f a s x q d r qoeq k
@@ -22969,12 +22969,12 @@ vetterige None 1020 2222 f E t q r q x q
 via None 10 21 v i a
 vibreer None 01 24 v i b r iq r
 victoriaanse None 00010 32222 v i k t O r i AA n s q
-video None 100 221 v i d i qu
-videobande None 10020 22132 v i d i qu b a n d q
-videokameras None 100202 221223 v i d i qu k a m q r a s
-videomasjien None 10002 22123 v i d i qu m a S i n
-videomasjiene None 100020 221222 v i d i qu m a S i n q
-videospeletjies None 100202 221323 v i d i qu s p iq l i k i s
+video None 100 221 v i d i u
+videobande None 10020 22132 v i d i u b a n d q
+videokameras None 100202 221223 v i d i u k a m q r a s
+videomasjien None 10002 22123 v i d i u m a S i n
+videomasjiene None 100020 221222 v i d i u m a S i n q
+videospeletjies None 100202 221323 v i d i u s p iq l i k i s
 vier None 0 3 f i r
 vierbal None 10 33 f i r b a l
 vierdaagse None 100 332 f i r d AA x s q
@@ -23895,7 +23895,7 @@ waarvandaan None 102 333 v AA r f a n d AA n
 waarvolgens None 100 334 v AA r f O l x q n s
 waarvoor None 10 33 v AA r f uq r
 waas None 0 3 v AA s
-waenhuis None 10 33 v AA n hv qoeqy s
+waenhuis None 100 223 v AA q n hv qoeqy s
 waens None 00 23 v AA q n s
 waentjie None 10 32 v AAi N k i
 waffers None 10 24 v a f q r s
@@ -24015,9 +24015,9 @@ watter None 10 23 v a t q r
 web None 0 3 v E b
 webadres None 102 314 v E b a d r E s
 webadresse None 1020 3132 v E b a d r E s q
-webblaaie None 100 231 v E b l AAi q
-webblad None 10 24 v E b l a t
-webbladsye None 1020 2421 v E b l a t s qi q
+webblaaie None 100 331 v E b b l AAi q
+webblad None 10 34 v E b b l a t
+webbladsye None 1020 3421 v E b b l a t s qi q
 weber None 10 23 v iq b q r
 webruimte None 100 332 v E b r qoeqy m t q
 webtuiste None 100 332 v E b t qoeqy s t q

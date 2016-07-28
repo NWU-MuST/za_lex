@@ -4537,8 +4537,8 @@ deurskemer None 100 333 d qooq r s k iq m q r
 deurskynend None 010 334 d qooq r s k qi n q n t
 deurskynende None 0100 3332 d qooq r s k qi n q n d q
 deurslag None 10 34 d qooq r s l a x
-deurslaggewend None 2010 3424 d qooq r s l a x x q v E n t
-deurslaggewende None 20100 34232 d qooq r s l a x x iq v q n d q
+deurslaggewend None 2010 3324 d qooq r s l a x q v E n t
+deurslaggewende None 20100 33232 d qooq r s l a x iq v q n d q
 deursnee None 10 33 d qooq r s n iq
 deursnit None 10 34 d qooq r s n q t
 deursoek None 01 33 d qooq r s u k
@@ -7236,7 +7236,7 @@ geskud None 01 24 x q s k qoeq t
 geskuif None 01 24 x q s k qoeqy f
 geskuld None 01 25 x q s k qoeq l t
 geslaag None 01 24 x q s l AA x
-geslaagd None 01 25 x q s l AA x d
+geslaagd None 01 25 x q s l AA x t
 geslaagde None 010 242 x q s l AA x d q
 geslaagdheid None 010 253 x q s l AA x t hv qi t
 geslaan None 01 24 x q s l AA n
@@ -16053,7 +16053,7 @@ pleegsorg None 10 44 p l iq x s O r x
 plegtig None 10 43 p l qaeq x t q x
 plegtige None 100 422 p l qaeq x t q x q
 plegtigheid None 102 433 p l qaeq x t q x hv qi t
-pleidooi None 01 32 p l qi t OOi
+pleidooi None 01 32 p l qi d OOi
 pleidooie None 010 321 p l qi d OOi q
 plein None 0 4 p l qi n
 pleister None 10 43 p l qi s t q r
@@ -23338,7 +23338,7 @@ voorbladberig None 1000 3423 f uq r b l a t b q r q x
 voorbly None 10 33 f uq r b l qi
 voordat None 10 33 f uq r d a t
 voordeel None 10 33 f uq r d iq l
-voordeellyn None 102 323 f uq r d iq l qi n
+voordeellyn None 102 333 f uq r d iq l l qi n
 voordele None 100 322 f uq r d iq l q
 voordelig None 010 323 f uq r d iq l q x
 voordeur None 10 33 f uq r d qooq r

@@ -1782,7 +1782,7 @@ attributiewe None 00010 13222 a t r q b y t i v q
 augsburg None 10 34 qu x s b qoeq r x
 augustus None 010 133 qu x qoeq s t qoeq s
 australasiese None 00100 14222 u s t r a l AA s i s q
-australasië None 0010 1423 u s t r a l AA s i q
+australasië None 00100 14221 u s t r a l AA s i q
 australiese None 0100 1422 u s t r AA l i s q
 automobiel None 2001 1223 qu t u m uq b i l
 avant None 10 14 a v a n t

@@ -39,8 +39,44 @@ Basic description of contents and development
 - Small TTS optimisations:
    -- Merging of diphthongs and affricates (TODO: list)
    -- Remove acute accent diacritic (entries) -- see grapheme set in `graphemeset.txt`
-- Syllabification done semi-automatically to consider morpheme boundaries and phonotactic constraints (described in publication to follow)
+- Syllabification done semi-automatically to consider morpheme boundaries and phonotactic constraints (described in publication to follow, notes on splitting of consonant clusters below)
 - Stress marking inserted: TODO
+
+
+## Notes on splitting of consonant clusters
+
+SPLIT THESE WHEN:
+
+bl	(None, presumably: sub-, compounds)
+br	(sub-, compounds)
+dr	(None -- don't occur at compound boundaries because of final-devoicing)
+dw	(None -- don't occur at compound boundaries because of final-devoicing)
+fl	(af-, hoof-, self-, half-, -lik, -loos, compounds)
+fr	(af-, hoof, self-, half-, compounds)
+gl	(NOTINDICT)
+gr	(NOTINDICT)
+gw	(NOTINDICT)
+kl	(-lik, -loos, compounds)
+kr	(compounds)
+kw	(None, presumably: compounds)
+pl	(-lik, -loos, op-, compounds)
+pr	(op-, compounds)
+tr	(compounds, uit-, ont-)
+tw	(None, presumably: compounds)
+vr	(None -- don't occur at compound boundaries because of final-devoicing)
+xl	(-lik, compounds)
+xr	(compounds)
+
+sk	(compounds, des-, mis-, dus-, eens-, eers-, trans-) (e.g. intra: whiskey, askies, miskien, moskou, muskadel, miniskule, masker)
+sp	(mis-, compounds) (e.g. intra: aspirant, hospitaal)
+sw	(None, presumably: compounds)
+st	(compounds, )
+
+sl	(always, except when occuring morph-initially) (-lik, compounds, -loos, los-, mis-, trans-)
+kn	(always, except when occuring morph-initially)
+sn	(always, except when occuring morph-initially)
+sm	(always, except when occuring morph-initially)
+
 
 References
 ----------

@@ -8534,7 +8534,7 @@ hibried None 10 24 hv i b r i t
 hidro None 10 23 hv i d r u
 hidrologiese None 20100 23222 hv i d r u l uq x i s q
 hier None 0 3 hv i r
-hieraan None 10 23 hv i r AA n
+hieraan None 10 32 hv i r AA n
 hierbenewens None 1020 3224 hv i r b q n iq v q n s
 hierbo None 01 32 hv i r b uq
 hierby None 10 32 hv i r b qi
@@ -9136,9 +9136,9 @@ indrukwekkende None 20100 24232 q n d r qoeq k v E k q n d q
 induksie None 102 232 q n d qoeq k s i
 induseer None 201 223 q n d y s iq r
 industrie None 201 224 q n d qoeq s t r i
-ineengestort None 0102 1325 q n iq n x q s t O r t
-ineens None 01 14 q n iq n s
-ineenstorting None 0100 1343 q n iq n s t O r t q N
+ineengestort None 0102 2225 q n iq n x q s t O r t
+ineens None 01 23 q n iq n s
+ineenstorting None 0100 2243 q n iq n s t O r t q N
 infanteriebataljon None 2001002 2322233 q n f a n t q r i b a t a l j O n
 infarksie None 102 242 q n f a r k s i
 infeksie None 010 232 q n f E k s i
@@ -21926,11 +21926,11 @@ ventilasie None 2010 3222 v E n t q l AA s i
 venues None 10 33 v E n j u s
 venyn None 01 23 f q n qi n
 ver None 0 3 f qaeq r
-verabsoluteer None 00001 23223 f q r a b s qu l y t iq r
+verabsoluteer None 00001 32223 f q r a b s qu l y t iq r
 veraf None 10 32 f qaeq r a f
-verafsku None 012 233 f q r a f s k y
-verag None 01 23 f q r a x
-veragting None 010 233 f q r a x t q N
+verafsku None 012 323 f q r a f s k y
+verag None 01 32 f q r a x
+veragting None 010 323 f q r a x t q N
 veral None 01 32 f q r a l
 veralgemeen None 0102 3223 f q r a l x q m iq n
 veralgemeende None 01020 32232 f q r a l x q m iq n d q
@@ -21957,9 +21957,9 @@ verantwoording None 0010 3333 f q r a n t v uq r d q N
 verarm None 010 313 f q r a r q m
 verarmde None 0100 3132 f q r a r q m d q
 verarming None 0100 3123 f q r a r q m q N
-veras None 01 23 f q r a s
-verassing None 010 223 f q r a s q N
-verassings None 010 224 f q r a s q N s
+veras None 01 32 f q r a s
+verassing None 010 313 f q r a s q N
+verassings None 010 314 f q r a s q N s
 verbaal None 01 33 v qaeq r b AA l
 verbaas None 01 33 f q r b AA s
 verbaasde None 010 332 f q r b AA s d q
@@ -23207,7 +23207,7 @@ voldoen None 01 33 f O l d u n
 voldoende None 010 332 f O l d u n d q
 voldoening None 010 323 f O l d u n q N
 voldonge None 010 331 f O l d O N q
-voleinding None 010 233 f O l qi n d q N
+voleinding None 010 323 f O l qi n d q N
 volfiliaal None 0201 3222 f O l f i l i AA l
 volg None 0 4 f O l x
 volgehou None 102 322 f O l x q hv qu
@@ -23281,7 +23281,7 @@ voltooing None 010 322 f O l t OOi q N
 voltrek None 01 34 f O l t r qaeq k
 voltyds None 10 34 f O l t qi t s
 voltydse None 100 332 f O l t qi t s q
-voluit None 10 23 f O l qoeqy t
+voluit None 10 32 f O l qoeqy t
 volume None 010 222 v O l y m q
 volumes None 010 223 v O l y m q s
 volvloertapyte None 01020 34222 f O l f l u r t a p qi t q

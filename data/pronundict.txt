@@ -149,7 +149,7 @@ aangenome None 1020 2222 AA n x q n uq m q
 aangepak None 102 223 AA n x q p a k
 aangepas None 102 223 AA n x q p a s
 aangepasde None 1020 2232 AA n x q p a s d q
-aangepaste None 1020 2232 AA n x q p a s t q
+aangepaste None 1020 2223 AA n x q p a s t q
 aangeplant None 102 225 AA n x q p l a n t
 aangepor None 102 223 AA n x q p O r
 aangeraai None 102 222 AA n x q r AAi
@@ -178,7 +178,7 @@ aangestelde None 1020 2242 AA n x q s t qaeq l d q
 aangestuur None 102 224 AA n x q s t y r
 aangesuiwer None 1020 2223 AA n x q s qoeqy v q r
 aangetas None 102 223 AA n x q t a s
-aangetaste None 1020 2232 AA n x q t a s t q
+aangetaste None 1020 2223 AA n x q t a s t q
 aangeteken None 1020 2223 AA n x q t iq k q n
 aangetekende None 10200 22232 AA n x q t iq k q n d q
 aangetoon None 102 223 AA n x q t uq n
@@ -366,7 +366,7 @@ aansuiwerings None 1000 2224 AA n s qoeqy v q r q N s
 aansuiweringsproefbalans None 1002002 2224424 AA n s qoeqy v q r q N s p r u f b a l AA n s
 aantal None 10 23 AA n t a l
 aantas None 10 23 AA n t a s
-aantasting None 100 233 AA n t a s t q N
+aantasting None 100 224 AA n t a s t q N
 aanteken None 100 223 AA n t iq k q n
 aantekening None 1000 2223 AA n t iq k q n q N
 aantekeningboek None 10020 22233 AA n t iq k q n q N b u k
@@ -433,7 +433,7 @@ aanwesig None 010 223 AA n v iq s q x
 aanwesiges None 0100 2223 AA n v iq s q x q s
 aanwesigheid None 0102 2233 AA n v iq s q x hv qi t
 aanwins None 10 24 AA n v q n s
-aanwinste None 100 242 AA n v q n s t q
+aanwinste None 100 233 AA n v q n s t q
 aanwys None 10 23 AA n v qi s
 aanwysende None 1000 2232 AA n v qi s q n d q
 aanwyser None 100 223 AA n v qi s q r
@@ -499,7 +499,7 @@ absolutisme None 00010 22232 a b s u l y t q s m q
 absoluut None 001 223 a b s u l y t
 absorbeer None 001 233 a b s O r b iq r
 absorpsie None 010 242 a b z O r p s i
-absorpsiekoste None 01020 24232 a b z O r p s i k O s t q
+absorpsiekoste None 01020 24223 a b z O r p s i k O s t q
 abstrak None 01 25 a b s t r a k
 abstraksie None 010 252 a b s t r a k s i
 abstrakte None 010 252 a b s t r a k t q
@@ -533,7 +533,7 @@ adjunkspeaker None 0120 2433 a d j qoeq N k s p i k q r
 adjunkvoorsitter None 01020 24323 a d j qoeq N k f uq r s q t q r
 admin None 10 23 a d m q n
 administrasie None 00010 22242 a d m q n q s t r AA s i
-administrasiekoste None 0001020 2224232 a d m q n q s t r AA s i k O s t q
+administrasiekoste None 0001020 2224223 a d m q n q s t r AA s i k O s t q
 administrasies None 00010 22243 a d m q n q s t r AA s i s
 administrateur None 00001 22243 a d m q n q s t r a t qooq r
 administrateurs None 00001 22244 a d m q n q s t r a t qooq r s
@@ -753,7 +753,7 @@ afgrensing None 120 243 a f x r E n s q N
 afgrond None 12 25 a f x r O n t
 afgryse None 120 232 a f x r qi s q
 afgryslik None 010 243 a f x r qi s l q k
-afgunstig None 010 243 a f x qoeq n s t q x
+afgunstig None 010 234 a f x qoeq n s t q x
 afhaal None 12 23 a f hv AA l
 afhandel None 120 233 a f hv a n d q l
 afhandeling None 1200 2323 a f hv a n d q l q N
@@ -783,7 +783,7 @@ afkoeling None 120 223 a f k u l q N
 afkoelrak None 120 233 a f k u l r a k
 afkom None 12 23 a f k O m
 afkoms None 12 24 a f k O m s
-afkomstig None 010 243 a f k O m s t q x
+afkomstig None 010 234 a f k O m s t q x
 afkondiging None 1200 2323 a f k O n d q x q N
 afkorting None 120 233 a f k O r t q N
 afkortings None 120 234 a f k O r t q N s
@@ -1000,7 +1000,7 @@ aggressiwiteit None 20201 13223 a x r q s i v i t qi t
 agneming None 100 223 a x n iq m q N
 agnew None 10 22 qaeq g n u
 agonis None 201 123 a x u n q s
-agoniste None 2010 1232 a x u n q s t q
+agoniste None 2010 1223 a x u n q s t q
 agste None 10 23 a x s t q
 agsteman None 102 233 a x s t q m a n
 agt None 0 3 a x t
@@ -1149,7 +1149,7 @@ aksiewoorde None 1020 2232 a k s i v uq r d q
 aksiomas None 1020 2213 a k s i uq m a s
 aksoem None 10 23 a k s u m
 aksyns None 01 24 a k s qi n s
-aksynsbelasting None 01020 24233 a k s qi n s b q l a s t q N
+aksynsbelasting None 01020 24224 a k s qi n s b q l a s t q N
 akte None 10 22 a k t q
 aktekantoor None 1020 2233 a k t q k a n t uq r
 aktes None 10 23 a k t q s
@@ -1161,7 +1161,7 @@ aktiewe None 010 222 a k t i v q
 aktiveer None 201 223 a k t i f iq r
 aktivering None 2010 2223 a k t i f iq r q N
 aktivis None 201 223 a k t i f q s
-aktiviste None 2010 2232 a k t i v q s t q
+aktiviste None 2010 2223 a k t i v q s t q
 aktiwiteit None 2001 2223 a k t i v i t qi t
 aktiwiteite None 20010 22222 a k t i v i t qi t q
 aktiwiteitsgebaseerde None 20010010 22242232 a k t i v i t qi t s x q b a s iq r d q
@@ -1234,7 +1234,7 @@ alkohole None 1000 2222 a l k u hv uq l q
 alkoholgebruik None 1002 2324 a l k O l x q b r qoeqy k
 alkoholiese None 00100 22222 a l k u hv uq l i s q
 alkoholinname None 10200 23122 a l k O l q n AA m q
-alkoholiste None 2010 2232 a l k u l q s t q
+alkoholiste None 2010 2223 a l k u l q s t q
 alkoholmisbruik None 1020 2334 a l k O l m q s b r qoeqy k
 alkoholsindroom None 1020 2334 a l k O l s q n d r uq m
 alkyne None 100 222 a l k qi n q
@@ -1333,7 +1333,7 @@ ambisieus None 2001 2222 a m b i s i qooq s
 ambisieuse None 20010 22212 a m b i s i qooq s q
 ambivalensie None 20010 22232 a m b q v a l E n s i
 ambulans None 001 224 a m b y l AA n s
-ambulansdienste None 00100 22442 a m b y l AA n s d i n s t q
+ambulansdienste None 00100 22433 a m b y l AA n s d i n s t q
 ambulanse None 0010 2232 a m b y l AA n s q
 ambulansmanne None 00100 22422 a m b y l AA n s m a n q
 amen None 10 13 AA m E n
@@ -1353,7 +1353,7 @@ ammoniak None 0102 1222 a m uq n i a k
 ammoniete None 0100 1222 a m u n i t q
 ammonium None 0102 1222 a m uq n i qoeq m
 ammunisie None 2010 1222 a m y n i s i
-amnestie None 010 232 a m n E s t i
+amnestie None 010 223 a m n E s t i
 amnionvog None 0102 2223 a m n i O n f O x
 amok None 01 13 a m O k
 amos None 10 13 AA m O s
@@ -1374,7 +1374,7 @@ amptenare None 1020 3222 a m p t q n AA r q
 amptenary None 1002 3222 a m p t q n a r qi
 amsterdamse None 1020 2432 a m s t q r d a m s q
 amusant None 001 124 a m y s a n t
-anabaptiste None 20100 12332 a n a b a p t q s t q
+anabaptiste None 20100 12323 a n a b a p t q s t q
 anaerobiese None 100200 211222 a n AA q r uq b i s q
 analgetika None 21000 13222 a n a l x iq t i k a
 analis None 201 123 a n a l q s
@@ -1401,8 +1401,8 @@ andersdenkendes None 20100 24333 a n d q r s d E N k q n d q s
 andersheid None 102 243 a n d q r s hv qi t
 andersins None 102 234 a n d q r s q n s
 andersom None 102 242 a n d q r s O m
-anderste None 100 242 a n d q r s t q
-anderster None 100 243 a n d q r s t q r
+anderste None 100 233 a n d q r s t q
+anderster None 100 234 a n d q r s t q r
 andersyds None 102 234 a n d q r s qi t s
 anekdotes None 0010 1323 a n E k d uq t q s
 anemie None 010 122 a n iq m i
@@ -1420,9 +1420,9 @@ angs None 0 3 a N s
 angsaanvalle None 1020 3222 a N s AA n f a l q
 angsbevange None 1020 3231 a N s b q f a N q
 angst None 0 4 a N s t
-angstig None 10 33 a N s t q x
-angstige None 100 322 a N s t q x q
-angstigheid None 102 333 a N s t q x hv qi t
+angstig None 10 24 a N s t q x
+angstige None 100 232 a N s t q x q
+angstigheid None 102 243 a N s t q x hv qi t
 angsversteuring None 1020 3333 a N s f q r s t qooq r q N
 angswekkend None 010 324 a N s v E k q n t
 angswekkende None 0100 3232 a N s v E k q n d q
@@ -1449,7 +1449,7 @@ anorganiese None 10200 22222 a n O r x AA n i s q
 ant None 0 3 a n t
 antagonis None 2001 2223 a n t a x u n q s
 antagonisme None 20010 22232 a n t a x u n q s m q
-antagoniste None 20010 22232 a n t a x u n q s t q
+antagoniste None 20010 22223 a n t a x u n q s t q
 antarktiese None 1020 2422 a n t a r k t i s q
 ante None 10 22 a n t i
 antenatale None 20210 22222 a n t i n a t AA l q
@@ -1559,7 +1559,7 @@ arbeidsgeskille None 10020 24232 a r b qi t s x q s k q l q
 arbeidshof None 102 243 a r b qi t s hv O f
 arbeidsintensief None 20001 24233 a r b qi t s q n t E n s i f
 arbeidsintensiewe None 200010 242322 a r b qi t s q n t E n s i v q
-arbeidskoste None 1020 2432 a r b qi t s k O s t q
+arbeidskoste None 1020 2423 a r b qi t s k O s t q
 arbeidskrag None 102 244 a r b qi t s k r a x
 arbeidsmag None 102 243 a r b qi t s m a x
 arbeidsmark None 102 244 a r b qi t s m a r k
@@ -1613,8 +1613,8 @@ argumentering None 20010 22323 a r x y m E n t iq r q N
 argwaan None 10 33 a r x v AA n
 arias None 100 122 AA r i a s
 aries None 10 13 AA r i s
-aristide None 1020 1322 a r q s t i d q
-aristokrasie None 00201 13232 a r q s t u k r a s i
+aristide None 1020 1232 a r q s t i d q
+aristokrasie None 00201 12332 a r q s t u k r a s i
 ark None 0 3 a r k
 arm None 10 13 a r q m
 armband None 102 134 a r q m b a n t
@@ -1655,7 +1655,7 @@ artikel None 010 223 a r t i k q l
 artikels None 010 224 a r t i k q l s
 artikulasie None 00010 22222 a r t i k y l AA s i
 artikulator None 00010 22223 a r t i k y l AA t O r
-artistieke None 2010 2322 a r t q s t i k q
+artistieke None 2010 2232 a r t q s t i k q
 artropode None 1020 2322 a r t r u p uq d q
 arts None 0 4 a r t s
 as None 0 2 a s
@@ -1780,7 +1780,7 @@ attribusies None 0010 1323 a t r q b y s i s
 attributief None 0001 1323 a t r q b y t i f
 attributiewe None 00010 13222 a t r q b y t i v q
 augsburg None 10 34 qu x s b qoeq r x
-augustus None 010 133 qu x qoeq s t qoeq s
+augustus None 010 124 qu x qoeq s t qoeq s
 australasiese None 00100 14222 u s t r a l AA s i s q
 australasië None 00100 14221 u s t r a l AA s i q
 australiese None 0100 1422 u s t r AA l i s q
@@ -1915,7 +1915,7 @@ bankbalans None 102 424 b a N k b a l AA n s
 bankbedryf None 102 424 b a N k b q d r qi f
 bankbesonderhede None 102020 423322 b a N k b q s O n d q r hv iq d q
 bankbestuurder None 1020 4243 b a N k b q s t y r d q r
-bankdienste None 100 442 b a N k d i n s t q
+bankdienste None 100 433 b a N k d i n s t q
 banke None 10 32 b a N k q
 banket None 01 33 b a N k E t
 bankgroep None 10 44 b a N k x r u p
@@ -1927,7 +1927,7 @@ bankies None 10 33 b a N k i s
 bankkaart None 10 44 b a N k k AA r t
 bankkaarte None 100 432 b a N k k AA r t q
 bankkoers None 10 44 b a N k k u r s
-bankkoste None 100 432 b a N k k O s t q
+bankkoste None 100 423 b a N k k O s t q
 banknote None 100 422 b a N k n uq t q
 bankrekening None 1000 4223 b a N k r iq k q n q N
 bankrekeninge None 10000 42231 b a N k r iq k q n q N q
@@ -1949,7 +1949,7 @@ bankversoeningstaat None 10202 43234 b a N k f q r s u n q N s t AA t
 bankwese None 100 422 b a N k v iq s q
 banneling None 100 223 b a n q l q N
 bannelinge None 1000 2231 b a n q l q N q
-baptiste None 100 332 b a p t q s t q
+baptiste None 100 323 b a p t q s t q
 bar None 0 3 b a r
 barakke None 010 222 b a r a k q
 barbaar None 01 33 b a r b AA r
@@ -1966,7 +1966,7 @@ barometer None 1020 2223 b a r u m iq t q r
 baron None 01 23 b a r O n
 barre None 10 22 b a r q
 bars None 0 4 b a r s
-barste None 10 42 b a r s t q
+barste None 10 33 b a r s t q
 bas None 0 3 b a s
 basaar None 01 23 b q z AA r
 basale None 010 222 b a s AA l q
@@ -1978,7 +1978,7 @@ basies None 10 23 b AA s i s
 basiese None 100 222 b AA s i s q
 basiliekruid None 1020 2224 b a s q l i k r qoeqy t
 basis None 10 23 b AA s q s
-basiskoste None 1020 2332 b AA s q s k O s t q
+basiskoste None 1020 2323 b AA s q s k O s t q
 basislyn None 102 233 b AA s q s l qi n
 basispunte None 1020 2332 b AA s q s p qoeq n t q
 basisse None 100 222 b AA s q s q
@@ -2100,10 +2100,10 @@ bedryfsekonomie None 010020 251222 b q d r qi f s E k u n u m i
 bedryfshoof None 010 253 b q d r qi f s hv uq f
 bedryfsielkunde None 01020 24332 b q d r qi f s i l k qoeq n d q
 bedryfsielkundige None 020100 243322 b q d r qi f s i l k qoeq n d q x q
-bedryfsinkomste None 01020 25242 b q d r qi f s q n k O m s t q
+bedryfsinkomste None 01020 25233 b q d r qi f s q n k O m s t q
 bedryfskapitaal None 01002 25223 b q d r qi f s k a p i t AA l
-bedryfskoste None 0100 2532 b q d r qi f s k O s t q
-bedryfslaste None 0100 2532 b q d r qi f s l a s t q
+bedryfskoste None 0100 2523 b q d r qi f s k O s t q
+bedryfslaste None 0100 2523 b q d r qi f s l a s t q
 bedryfsomgewing None 01020 25223 b q d r qi f s O m x iq v q N
 bedryfstelsel None 0100 2443 b q d r qi f s t qaeq l s q l
 bedryfsuitgawes None 01020 25223 b q d r qi f s qoeqy t x AA v q s
@@ -2160,7 +2160,7 @@ beesboerdery None 1002 3322 b iq s b u r d q r qi
 beeskraal None 10 34 b iq s k r AA l
 beesmis None 10 33 b iq s m q s
 beesprojek None 102 333 b iq s p r u j E k
-beeste None 10 32 b iq s t q
+beeste None 10 23 b iq s t q
 beesvleis None 10 34 b iq s f l qi s
 beet None 0 3 b iq t
 beetgekry None 102 323 b iq t x q k r qi
@@ -2195,7 +2195,7 @@ beginnersgrammatika None 0200100 2243222 b q x q n q r s x r a m a t i k a
 beginpunt None 010 234 b q x q n p qoeq n t
 beginsel None 010 233 b q x q n s q l
 beginsels None 010 234 b q x q n s q l s
-beginselvaste None 01020 23332 b q x q n s q l f a s t q
+beginselvaste None 01020 23323 b q x q n s q l f a s t q
 beginspan None 010 234 b q x q n s p a n
 beginstadium None 01020 23322 b q x q n s t AA d i qoeq m
 begintyd None 010 233 b q x q n t qi t
@@ -2205,7 +2205,7 @@ begraafplase None 0100 2432 b q x r AA f p l AA s q
 begrafnis None 010 243 b q x r a f n q s
 begrafnisbrief None 0102 2434 b q x r a f n q s b r i f
 begrafnisdiens None 0102 2434 b q x r a f n q s d i n s
-begrafniskoste None 01020 24332 b q x r a f n q s k O s t q
+begrafniskoste None 01020 24323 b q x r a f n q s k O s t q
 begrafnisondernemer None 0100020 2432323 b q x r a f n q s O n d q r n iq m q r
 begrafnisreëlings None 010200 243214 b q x r a f n q s r i q l q N s
 begrafnisse None 0100 2422 b q x r a f n q s q
@@ -2238,8 +2238,8 @@ begrotingstoespraak None 01020 23425 b q x r uq t q N s t u s p r AA k
 begryp None 01 24 b q x r qi p
 begrypend None 010 234 b q x r qi p q n t
 begryplik None 010 243 b q x r qi p l q k
-begunstig None 010 243 b q x qoeq n s t q x
-begunstigdes None 0100 2433 b q x qoeq n s t q x d q s
+begunstig None 010 234 b q x qoeq n s t q x
+begunstigdes None 0100 2343 b q x qoeq n s t q x d q s
 behaag None 01 23 b q hv AA x
 behaaglik None 010 233 b q hv AA x l q k
 behaal None 01 23 b q hv AA l
@@ -2252,7 +2252,7 @@ behandelings None 0100 2324 b q hv a n d q l q N s
 behandelingsmetodes None 0202010 2324223 b q hv a n d q l q N s m q t uq d q s
 behartig None 010 233 b q hv a r t q x
 behaviorisme None 00010 22232 b i hv qi v iu r q s m q
-behaviouristiese None 000100 222322 b i hv qi v iu r q s t i s q
+behaviouristiese None 000100 222232 b i hv qi v iu r q s t i s q
 beheer None 01 23 b q hv iq r
 beheerbare None 0100 2322 b q hv iq r b AA r q
 beheerde None 010 232 b q hv iq r d q
@@ -2358,10 +2358,10 @@ bekommernisse None 01020 22322 b q k O m q r n q s q
 bekoor None 01 23 b q k uq r
 bekoorlike None 0100 2322 b q k uq r l q k q
 bekoring None 010 223 b q k uq r q N
-bekostig None 010 233 b q k O s t q x
-bekostigbaar None 0102 2333 b q k O s t q x b AA r
-bekostigbaarheid None 01020 23333 b q k O s t q x b AA r hv qi t
-bekostigbare None 01020 23322 b q k O s t q x b AA r q
+bekostig None 010 224 b q k O s t q x
+bekostigbaar None 0102 2243 b q k O s t q x b AA r
+bekostigbaarheid None 01020 22433 b q k O s t q x b AA r hv qi t
+bekostigbare None 01020 22422 b q k O s t q x b AA r q
 bekragtig None 010 243 b q k r a x t q x
 bekroon None 01 24 b q k r uq n
 bekroonde None 010 242 b q k r uq n d q
@@ -2400,27 +2400,27 @@ belangwekkende None 00100 23232 b q l a N v E k q n d q
 belas None 01 23 b q l a s
 belasbaar None 010 233 b q l a s b AA r
 belasbare None 0100 2322 b q l a s b AA r q
-belaste None 010 232 b q l a s t q
+belaste None 010 223 b q l a s t q
 belaster None 010 224 b q l a s t q r
-belasting None 010 233 b q l a s t q N
-belastingaanspreeklikheid None 0100202 2332533 b q l a s t q N AA n s p r iq k l q k hv qi t
-belastingbasis None 01020 23323 b q l a s t q N b AA s q s
-belastingbetaler None 010020 233223 b q l a s t q N b q t AA l q r
-belastingbetalers None 010020 233224 b q l a s t q N b q t AA l q r s
-belastingbetalersvereniging None 0100200200 2332243123 b q l a s t q N b q t AA l q r s f q r iq n q x q N
-belastingdoeleindes None 010200 233323 b q l a s t q N d u l qi n d q s
-belastinggaarder None 01020 23333 b q l a s t q N x AA r d q r
-belastinggeld None 0102 2334 b q l a s t q N x qaeq l t
-belastingkoers None 0102 2334 b q l a s t q N k u r s
-belastinglas None 0102 2333 b q l a s t q N l a s
-belastingopgawes None 010200 233223 b q l a s t q N O p x AA v q s
-belastingpligtige None 020100 233422 b q l a s t q N p l q x t q x q
-belastingpligtiges None 020100 233423 b q l a s t q N p l q x t q x q s
-belastings None 010 234 b q l a s t q N s
-belastingstelsel None 01020 23343 b q l a s t q N s t qaeq l s q l
-belastingverligting None 010000 233333 b q l a s t q N f q r l q x t q N
-belastingvermyding None 010020 233323 b q l a s t q N f q r m qi d q N
-belastingvoorsiening None 010020 233323 b q l a s t q N f uq r s i n q N
+belasting None 010 224 b q l a s t q N
+belastingaanspreeklikheid None 0100202 2242533 b q l a s t q N AA n s p r iq k l q k hv qi t
+belastingbasis None 01020 22423 b q l a s t q N b AA s q s
+belastingbetaler None 010020 224223 b q l a s t q N b q t AA l q r
+belastingbetalers None 010020 224224 b q l a s t q N b q t AA l q r s
+belastingbetalersvereniging None 0100200200 2242243123 b q l a s t q N b q t AA l q r s f q r iq n q x q N
+belastingdoeleindes None 010200 224323 b q l a s t q N d u l qi n d q s
+belastinggaarder None 01020 22433 b q l a s t q N x AA r d q r
+belastinggeld None 0102 2244 b q l a s t q N x qaeq l t
+belastingkoers None 0102 2244 b q l a s t q N k u r s
+belastinglas None 0102 2243 b q l a s t q N l a s
+belastingopgawes None 010200 224223 b q l a s t q N O p x AA v q s
+belastingpligtige None 020100 224422 b q l a s t q N p l q x t q x q
+belastingpligtiges None 020100 224423 b q l a s t q N p l q x t q x q s
+belastings None 010 225 b q l a s t q N s
+belastingstelsel None 01020 22443 b q l a s t q N s t qaeq l s q l
+belastingverligting None 010000 224333 b q l a s t q N f q r l q x t q N
+belastingvermyding None 010020 224323 b q l a s t q N f q r m qi d q N
+belastingvoorsiening None 010020 224323 b q l a s t q N f uq r s i n q N
 beledig None 010 223 b q l iq d q x
 beledigend None 0100 2224 b q l iq d q x q n t
 beledigende None 01000 22232 b q l iq d q x q n d q
@@ -2433,11 +2433,11 @@ belegging None 010 223 b q l qaeq x q N
 beleggings None 010 224 b q l qaeq x q N s
 beleggingsbesluite None 010020 224232 b q l qaeq x q N s b q s l qoeqy t q
 beleggingsbestuurder None 010020 224243 b q l qaeq x q N s b q s t y r d q r
-beleggingsdienste None 01020 22442 b q l qaeq x q N s d i n s t q
+beleggingsdienste None 01020 22433 b q l qaeq x q N s d i n s t q
 beleggingsfondse None 01020 22442 b q l qaeq x q N s f O n t s q
 beleggingsgeleenthede None 0100200 2242422 b q l qaeq x q N s x q l iq n t hv iq d q
 beleggingsgroep None 0102 2244 b q l qaeq x q N s x r u p
-beleggingsinkomste None 010200 224242 b q l qaeq x q N s q n k O m s t q
+beleggingsinkomste None 010200 224233 b q l qaeq x q N s q n k O m s t q
 beleggingskorporasie None 0102020 2243222 b q l qaeq x q N s k O r p O r AA s i
 beleggingsmaatskappy None 010200 224332 b q l qaeq x q N s m AA t s k a p qi
 beleggingsportefeuljes None 0102020 2243233 b q l qaeq x q N s p O r t q f y l j q s
@@ -2528,7 +2528,7 @@ bemarkingsveldtog None 01020 23433 b q m a r k q N s f qaeq l t O x
 bemeester None 010 224 b q m iq s t q r
 bemeestering None 0100 2233 b q m iq s t q r q N
 bemerk None 01 24 b q m qaeq r k
-bemesting None 010 233 b q m E s t q N
+bemesting None 010 224 b q m E s t q N
 bemiddel None 010 223 b q m q d q l
 bemiddelaar None 0102 2223 b q m q d q l AA r
 bemiddelaars None 0102 2224 b q m q d q l AA r s
@@ -2827,7 +2827,7 @@ beslissend None 010 234 b q s l q s q n t
 beslissende None 0100 2332 b q s l q s q n d q
 beslissing None 010 233 b q s l q s q N
 beslissings None 010 234 b q s l q s q N s
-besliste None 010 242 b q s l q s t q
+besliste None 010 233 b q s l q s t q
 beslistheid None 010 253 b q s l q s t hv qi t
 beslote None 010 232 b q s l uq t q
 besluit None 01 24 b q s l qoeqy t
@@ -2943,7 +2943,7 @@ bestuurder None 010 243 b q s t y r d q r
 bestuurders None 010 244 b q s t y r d q r s
 bestuurs None 01 25 b q s t y r s
 bestuursbesluite None 01020 25232 b q s t y r s b q s l qoeqy t q
-bestuursdienste None 0100 2542 b q s t y r s d i n s t q
+bestuursdienste None 0100 2533 b q s t y r s d i n s t q
 bestuursfunksie None 0102 2542 b q s t y r s f qoeq N k s i
 bestuursfunksies None 0102 2543 b q s t y r s f qoeq N k s i s
 bestuurshoof None 010 253 b q s t y r s hv uq f
@@ -2959,7 +2959,7 @@ bestuurslui None 010 252 b q s t y r s l qoeqy
 bestuurspan None 010 244 b q s t y r s p a n
 bestuursplan None 010 254 b q s t y r s p l a n
 bestuursposisies None 01020 25223 b q s t y r s p u z i s i s
-bestuursposte None 0100 2532 b q s t y r s p O s t q
+bestuursposte None 0100 2523 b q s t y r s p O s t q
 bestuursproses None 0102 2533 b q s t y r s p r u s E s
 bestuursraad None 010 253 b q s t y r s r AA t
 bestuursrade None 0100 2522 b q s t y r s r AA d q
@@ -3048,7 +3048,7 @@ betroubaarste None 0100 2333 b q t r qu b AA r s t q
 betroubare None 0100 2322 b q t r qu b AA r q
 betuig None 01 23 b q t qoeqy x
 betwis None 01 24 b q t w q s
-betwiste None 010 242 b q t w q s t q
+betwiste None 010 233 b q t w q s t q
 betwyfel None 010 233 b q t w qi f q l
 betyds None 01 24 b q t qi t s
 beukes None 10 23 b qooq k q s
@@ -3074,10 +3074,10 @@ bevelsin None 010 233 b q f qaeq l s q n
 bevelsinne None 0100 2322 b q f qaeq l s q n q
 bevelvoerder None 0100 2333 b q f qaeq l f u r d q r
 bevelvoerders None 0100 2334 b q f qaeq l f u r d q r s
-bevestig None 010 233 b q f E s t q x
-bevestigend None 0100 2324 b q f E s t q x q n t
-bevestigende None 01000 23232 b q f E s t q x q n d q
-bevestiging None 0100 2323 b q f E s t q x q N
+bevestig None 010 224 b q f E s t q x
+bevestigend None 0100 2234 b q f E s t q x q n t
+bevestigende None 01000 22332 b q f E s t q x q n d q
+bevestiging None 0100 2233 b q f E s t q x q N
 bevind None 01 24 b q f q n t
 bevinding None 010 233 b q f q n d q N
 bevindinge None 0100 2331 b q f q n d q N q
@@ -3139,7 +3139,7 @@ bewaking None 010 223 b q v AA k q N
 bewandel None 010 233 b q v a n d q l
 bewapen None 010 223 b q v AA p q n
 bewaring None 010 223 b q v AA r q N
-bewaringsbewustes None 010020 224233 b q v AA r q N s b q v qoeq s t q s
+bewaringsbewustes None 010020 224224 b q v AA r q N s b q v qoeq s t q s
 bewaringsgebied None 01002 22423 b q v AA r q N s x q b i t
 bewaringsgebiede None 010020 224222 b q v AA r q N s x q b i d q
 bewe None 10 22 b iq v q
@@ -3189,10 +3189,10 @@ bewoording None 010 233 b q v uq r d q N
 bewoë None 010 221 b q v u q
 bewus None 01 23 b q v qoeq s
 bewussyn None 010 223 b q v qoeq s qi n
-bewuste None 010 232 b q v qoeq s t q
-bewustelik None 0100 2323 b q v qoeq s t q l q k
-bewusteloos None 0102 2323 b q v qoeq s t q l uq s
-bewustelose None 01020 23222 b q v qoeq s t q l uq s q
+bewuste None 010 223 b q v qoeq s t q
+bewustelik None 0100 2233 b q v qoeq s t q l q k
+bewusteloos None 0102 2233 b q v qoeq s t q l uq s
+bewustelose None 01020 22322 b q v qoeq s t q l uq s q
 bewustheid None 010 243 b q v qoeq s t hv qi t
 bewuswording None 0100 2333 b q v qoeq s v O r d q N
 bewys None 01 23 b q v qi s
@@ -3379,7 +3379,7 @@ bloedarmoede None 10020 41222 b l u t a r q m u d q
 bloedbad None 10 43 b l u t b a t
 bloedbank None 10 44 b l u t b a N k
 bloedbelope None 1020 4222 b l u t b q l uq p q
-bloeddorstige None 0100 4422 b l u t d O r s t q x q
+bloeddorstige None 0100 4332 b l u t d O r s t q x q
 bloeddruk None 10 44 b l u t d r qoeq k
 bloedgroep None 10 44 b l u t x r u p
 bloedig None 10 33 b l u d q x
@@ -3478,7 +3478,7 @@ bobaas None 10 23 b uq b AA s
 bobbejaan None 001 223 b O b q j AA n
 bobbejaandraai None 0010 2233 b O b q j AA n d r AAi
 bobbejane None 0010 2222 b O b q j AA n q
-bobelasting None 1020 2233 b uq b q l a s t q N
+bobelasting None 1020 2224 b uq b q l a s t q N
 bobene None 100 222 b uq b iq n q
 bobotie None 010 222 b u b uq t i
 bod None 0 3 b O t
@@ -3489,10 +3489,10 @@ boeboe None 10 22 b u b u
 boeddha None 10 22 b u d a
 boeddhas None 10 23 b u d a s
 boeddhisme None 010 232 b u d q s m q
-boeddhiste None 010 232 b u d q s t q
+boeddhiste None 010 223 b u d q s t q
 boedel None 10 23 b u d q l
 boedelbates None 1020 2323 b u d q l b AA t q s
-boedelbelasting None 10020 23233 b u d q l b q l a s t q N
+boedelbelasting None 10020 23224 b u d q l b q l a s t q N
 boedelsamesmelting None 102020 232243 b u d q l s AA m q s m qaeq l t q N
 boef None 0 3 b u f
 boeg None 0 3 b u x
@@ -3572,7 +3572,7 @@ bokant None 10 24 b uq k a n t
 bokke None 10 22 b O k q
 bokkie None 10 22 b O k i
 bokkies None 10 23 b O k i s
-bokoste None 100 232 b uq k O s t q
+bokoste None 100 223 b uq k O s t q
 bokpoot None 10 33 b O k p uq t
 boks None 0 4 b O k s
 boksbeheerraad None 1020 4233 b O k s b q hv iq r r AA t
@@ -3690,7 +3690,7 @@ borskanker None 100 433 b O r s k a N k q r
 borskas None 10 43 b O r s k a s
 borsmelk None 10 44 b O r s m qaeq l k
 borsslag None 10 44 b O r s s l a x
-borste None 10 42 b O r s t q
+borste None 10 33 b O r s t q
 borsvoed None 10 43 b O r s f u t
 borsvoeding None 100 423 b O r s f u d q N
 borsweefsel None 100 433 b O r s v iq f s q l
@@ -3802,7 +3802,7 @@ brandstofpryse None 1020 5432 b r a n t s t O f p r qi s q
 brandstowwe None 100 532 b r a n t s t O v q
 brandwag None 10 53 b r a n t v a x
 brandweer None 10 53 b r a n t v iq r
-brandweerdienste None 1020 5342 b r a n t v iq r d i n s t q
+brandweerdienste None 1020 5333 b r a n t v iq r d i n s t q
 brandweerhoof None 102 533 b r a n t v iq r hv uq f
 brandweermanne None 1020 5322 b r a n t v iq r m a n q
 brandweerstasie None 1020 5332 b r a n t v iq r s t AA s i
@@ -4053,7 +4053,7 @@ bybelskool None 100 234 b qi b q l s k uq l
 bybelskrywers None 1020 2344 b qi b q l s k r qi v q r s
 bybelstudie None 1020 2332 b qi b q l s t y d i
 bybeltale None 1020 2322 b qi b q l t AA l q
-bybeltekste None 1020 2342 b qi b q l t E k s t q
+bybeltekste None 1020 2333 b qi b q l t E k s t q
 bybelverhale None 10020 23322 b qi b q l f q r hv AA l q
 bybelvertalings None 10020 23324 b qi b q l f q r t AA l q N s
 bybelwetenskappe None 102020 232332 b qi b q l v iq t q n s k a p q
@@ -4075,7 +4075,7 @@ byeengebring None 0100 2224 b qi iq n x q b r q N
 byeengekom None 0102 2223 b qi iq n x q k O m
 byeenkom None 010 223 b qi iq n k O m
 byeenkoms None 010 224 b qi iq n k O m s
-byeenkomste None 0100 2242 b qi iq n k O m s t q
+byeenkomste None 0100 2233 b qi iq n k O m s t q
 bygaande None 100 232 b qi x AA n d q
 bygedam None 102 223 b qi x q d a m
 bygedra None 102 223 b qi x q d r AA
@@ -4093,7 +4093,7 @@ byklanke None 100 242 b qi k l a N k q
 bykom None 10 23 b qi k O m
 bykomend None 010 224 b qi k uq m q n t
 bykomende None 0100 2232 b qi k uq m q n d q
-bykomstighede None 01020 24322 b qi k O m s t q x hv iq d q
+bykomstighede None 01020 23422 b qi k O m s t q x hv iq d q
 byl None 0 3 b qi l
 bylaag None 10 23 b qi l AA x
 bylae None 100 221 b qi l AA q
@@ -4131,7 +4131,7 @@ bywoord None 10 24 b qi v uq r t
 bêre None 10 22 b qaeq r q
 cabernet None 201 232 k a b q r n qi
 cadenza None 102 232 k a d E n z a
-calvinistiese None 00100 32322 k a l f i n q s t i s q
+calvinistiese None 00100 32232 k a l f i n q s t i s q
 camera None 100 222 k a m q r a
 capita None 102 222 k a p i t a
 carte None 0 4 k a r t
@@ -4160,7 +4160,7 @@ chirurgie None 001 232 S i r qoeq r x i
 chloor None 0 4 k l uq r
 chlooramfenikol None 10202 33223 k l uq r a m f E n i k O l
 chlorofil None 102 323 k l uq r u f q l
-chloroplaste None 1020 3242 k l uq r u p l a s t q
+chloroplaste None 1020 3233 k l uq r u p l a s t q
 cholera None 102 222 k uq l q r a
 cholesterol None 0100 2233 k u l E s t q r O l
 choreograaf None 001 224 k O r iu x r AA f
@@ -4478,8 +4478,8 @@ desperaat None 201 233 d E s p q r AA t
 desperaatheid None 2010 2333 d E s p q r AA t hv qi t
 desperate None 2010 2322 d E s p q r AA t q
 destruktiewe None 0010 2522 d iq s t r qoeq k t i v q
-destyds None 10 34 d E s t qi t s
-destydse None 100 332 d E s t qi t s q
+destyds None 10 25 d E s t qi t s
+destydse None 100 242 d E s t qi t s q
 detail None 10 23 d i t qi l
 details None 10 24 d i t qi l s
 determinante None 10200 23232 d iq t qaeq r m i n a n t q
@@ -4545,11 +4545,11 @@ deursoek None 01 33 d qooq r s u k
 deursoeking None 010 323 d qooq r s u k q N
 deurspek None 01 34 d qooq r s p E k
 deurstaan None 01 34 d qooq r s t AA n
-deurtastende None 0100 3332 d qooq r t a s t q n d q
+deurtastende None 0100 3242 d qooq r t a s t q n d q
 deurtrek None 10 34 d qooq r t r qaeq k
 deurwerk None 10 34 d qooq r v qaeq r k
 deurwinterde None 0100 3332 d qooq r v q n t q r d q
-deuteronomistiese None 2000100 2222322 d qooq t q r u n uq m q s t i s q
+deuteronomistiese None 2000100 2222232 d qooq t q r u n uq m q s t i s q
 devaluasie None 00102 22212 d iq v a l y AA s i
 devalueer None 0001 2222 d iq v a l y iq r
 devaluering None 00010 22213 d iq v a l y iq r q N
@@ -4562,7 +4562,7 @@ diagnose None 0010 2222 d i a x n uq s q
 diagnoseer None 0001 2223 d i a x n u s iq r
 diagnosering None 00010 22223 d i a x n u s iq r q N
 diagnoses None 0010 2223 d i a x n uq s q s
-diagnostiese None 00100 22322 d i a x n O s t i s q
+diagnostiese None 00100 22232 d i a x n O s t i s q
 diagram None 001 214 d i a x r a m
 diagrammatiese None 000100 213222 d i a x r a m AA t i s q
 diaken None 010 213 d i AA k q n
@@ -4592,7 +4592,7 @@ diegene None 100 222 d i x iq n q
 dien None 0 3 d i n
 dienaar None 10 23 d i n AA r
 dienende None 100 232 d i n q n d q
-dienooreenkomstig None 12020 32243 d i n uq r iq n k O m s t q x
+dienooreenkomstig None 12020 32234 d i n uq r iq n k O m s t q x
 diens None 0 4 d i n s
 diensbaar None 10 43 d i n s b AA r
 diensgeld None 10 44 d i n s x qaeq l t
@@ -4607,9 +4607,9 @@ diensplig None 10 44 d i n s p l q x
 dienspligtige None 0100 4422 d i n s p l q x t q x q
 dienspligtiges None 0100 4423 d i n s p l q x t q x q s
 diensstandaard None 102 444 d i n s s t a n d AA r t
-dienste None 10 42 d i n s t q
-dienstegeld None 102 424 d i n s t q x qaeq l t
-diensteraad None 102 423 d i n s t q r AA t
+dienste None 10 33 d i n s t q
+dienstegeld None 102 334 d i n s t q x qaeq l t
+diensteraad None 102 333 d i n s t q r AA t
 diensverskaffer None 1020 4333 d i n s f q r s k a f q r
 diensverskaffers None 1020 4334 d i n s f q r s k a f q r s
 diensvoorwaardes None 1020 4333 d i n s f uq r v AA r d q s
@@ -4686,7 +4686,7 @@ dinamiek None 001 223 d i n a m i k
 dinamies None 010 223 d i n AA m i s
 dinamiese None 0100 2222 d i n AA m i s q
 dinamika None 0100 2222 d i n AA m i k a
-dinastie None 001 232 d i n a s t i
+dinastie None 001 223 d i n a s t i
 ding None 0 3 d q N
 dinge None 10 31 d q N q
 dinges None 10 32 d q N q s
@@ -4790,7 +4790,7 @@ doeke None 10 22 d u k q
 doekies None 10 23 d u k i s
 doel None 0 3 d u l
 doelbewus None 102 323 d u l b q v qoeq s
-doelbewuste None 1020 3232 d u l b q v qoeq s t q
+doelbewuste None 1020 3223 d u l b q v qoeq s t q
 doele None 10 22 d u l q
 doeleindes None 100 233 d u l qi n d q s
 doelgerig None 100 323 d u l x q r q x
@@ -4947,7 +4947,7 @@ dorpstad None 10 44 d O r p s t a t
 dorpstigting None 100 443 d O r p s t q x t q N
 dorre None 10 22 d O r q
 dors None 0 4 d O r s
-dorste None 10 42 d O r s t q
+dorste None 10 33 d O r s t q
 dos None 0 3 d O s
 dose None 10 22 d uq s q
 doseer None 01 23 d u s iq r
@@ -5018,8 +5018,8 @@ drankwet None 10 53 d r a N k v E t
 drankwinkel None 100 533 d r a N k v q N k q l
 drankwinkels None 100 534 d r a N k v q N k q l s
 drasak None 10 33 d r AA s a k
-drasties None 10 43 d r a s t i s
-drastiese None 100 422 d r a s t i s q
+drasties None 10 34 d r a s t i s
+drastiese None 100 332 d r a s t i s q
 drawwers None 10 34 d r a v q r s
 dreef None 0 4 d r iq f
 dreig None 0 4 d r qi x
@@ -5234,7 +5234,7 @@ eendeweer None 102 223 iq n d q v iq r
 eendimensionele None 202010 223222 iq n d i m E n S iu n iq l q
 eenhede None 100 222 iq n hv iq d q
 eenheid None 10 23 iq n hv qi t
-eenheidskoste None 1020 2432 iq n hv qi t s k O s t q
+eenheidskoste None 1020 2423 iq n hv qi t s k O s t q
 eenheidstaat None 102 234 iq n hv qi t s t AA t
 eenige None 100 122 iq n q x q
 eenkant None 10 24 iq n k a n t
@@ -5290,17 +5290,17 @@ eers None 0 3 iq r s
 eersdaags None 10 34 iq r s d AA x s
 eersgenoemde None 1020 3232 iq r s x q n u m d q
 eerskomende None 1000 3232 iq r s k uq m q n d q
-eerste None 10 32 iq r s t q
-eerstehands None 102 325 iq r s t q hv a n t s
-eerstejaar None 102 323 iq r s t q j AA r
-eerstejaars None 102 324 iq r s t q j AA r s
-eerstejaarstudent None 10202 32334 iq r s t q j AA r s t y d E n t
-eersteliga None 1000 3222 iq r s t q l i x a
-eersteling None 100 323 iq r s t q l q N
-eerstens None 10 34 iq r s t q n s
-eersterangse None 1020 3232 iq r s t q r a N s q
-eerstes None 10 33 iq r s t q s
-eerstevlakmodules None 102020 324223 iq r s t q f l a k m O d y l q s
+eerste None 10 23 iq r s t q
+eerstehands None 102 235 iq r s t q hv a n t s
+eerstejaar None 102 233 iq r s t q j AA r
+eerstejaars None 102 234 iq r s t q j AA r s
+eerstejaarstudent None 10202 23334 iq r s t q j AA r s t y d E n t
+eersteliga None 1000 2322 iq r s t q l i x a
+eersteling None 100 233 iq r s t q l q N
+eerstens None 10 25 iq r s t q n s
+eersterangse None 1020 2332 iq r s t q r a N s q
+eerstes None 10 24 iq r s t q s
+eerstevlakmodules None 102020 234223 iq r s t q f l a k m O d y l q s
 eertydse None 100 232 iq r t qi t s q
 eerwaarde None 010 232 iq r v AA r d q
 eet None 0 2 iq t
@@ -5367,7 +5367,7 @@ eiendoms None 102 124 qi q n d O m s
 eiendomsagent None 10202 12414 qi q n d O m s a x E n t
 eiendomsagente None 102020 124132 qi q n d O m s a x E n t q
 eiendomsbedryf None 10202 12424 qi q n d O m s b q d r qi f
-eiendomsbelasting None 102020 124233 qi q n d O m s b q l a s t q N
+eiendomsbelasting None 102020 124224 qi q n d O m s b q l a s t q N
 eiendomsmaatskappy None 102020 124332 qi q n d O m s m AA t s k a p qi
 eiendomsmark None 1020 1244 qi q n d O m s m a r k
 eiendomsontwikkelaars None 1020202 1243224 qi q n d O m s O n t v q k q l AA r s
@@ -5415,7 +5415,7 @@ eindstryd None 10 35 qi n t s t r qi t
 eindstryde None 100 342 qi n t s t r qi d q
 eindvoorraad None 102 323 qi n t f uq r AA t
 eindwedstryd None 102 335 qi n t v E t s t r qi t
-einste None 10 32 qi n s t q
+einste None 10 23 qi n s t q
 eintlik None 10 33 qi n t l q k
 eintlike None 100 322 qi n t l q k q
 eis None 0 2 qi s
@@ -5491,8 +5491,8 @@ ekstrakte None 100 252 E k s t r a k t q
 ekstras None 10 25 E k s t r a s
 ekstrasellulêre None 202010 242222 E k s t r a s qaeq l y l qaeq r q
 ekstreme None 010 242 E k s t r iq m q
-ekstremiste None 0010 2432 E k s t r q m q s t q
-ekstremistiese None 00100 24322 E k s t r q m q s t i s q
+ekstremiste None 0010 2423 E k s t r q m q s t q
+ekstremistiese None 00100 24232 E k s t r q m q s t i s q
 ektopiese None 1020 2222 E k t uq p i s q
 ekwatoriaal None 20001 13222 E k w a t O r i AA l
 ekwiteit None 201 133 E k w i t qi t
@@ -5502,7 +5502,7 @@ ekwivalente None 20010 13232 E k w q v a l E n t q
 el None 0 2 qaeq l
 eland None 10 14 iq l a n t
 elande None 100 132 iq l a n d q
-elastisiteit None 20201 13223 i l a s t i s i t qi t
+elastisiteit None 20201 12323 i l a s t i s i t qi t
 elders None 10 24 qaeq l d q r s
 elegansie None 0010 1232 E l q x a n s i
 elegant None 001 124 E l q x a n t
@@ -5638,8 +5638,8 @@ entiteit None 201 223 E n t i t qi t
 entiteite None 2010 2222 E n t i t qi t q
 entjie None 12 22 E N k i
 entoesiasme None 00010 22222 E n t u S i a s m q
-entoesiasties None 00010 22223 E n t u S i a s t i s
-entoesiastiese None 000100 222222 E n t u S i a s t i s q
+entoesiasties None 00010 22214 E n t u S i a s t i s
+entoesiastiese None 000100 222132 E n t u S i a s t i s q
 entrepreneur None 0001 2333 a n t r q p r q n qooq r
 entrepreneurs None 0001 2334 a n t r q p r q n qooq r s
 entrepreneursaktiwiteite None 000100020 233422222 a n t r q p r q n qooq r s a k t i v i t qi t q
@@ -5665,7 +5665,7 @@ erasmus None 010 133 iq r a s m qoeq s
 ere None 10 12 iq r q
 ereburgerskap None 10202 12334 iq r q b qoeq r g q r s k a p
 erediens None 102 124 iq r q d i n s
-eredienste None 1020 1242 iq r q d i n s t q
+eredienste None 1020 1233 iq r q d i n s t q
 eredoktorsgraad None 10202 12344 iq r q d O k t q r s x r AA t
 eregas None 102 123 iq r q x a s
 eregraad None 102 124 iq r q x r AA t
@@ -5674,7 +5674,7 @@ erepenning None 1020 1223 iq r q p E n q N
 ereplek None 102 124 iq r q p l qaeq k
 erewag None 102 123 iq r q v a x
 erf None 0 3 qaeq r f
-erfbelasting None 1020 3233 qaeq r f b q l a s t q N
+erfbelasting None 1020 3224 qaeq r f b q l a s t q N
 erfdeel None 10 33 qaeq r f d iq l
 erfenis None 100 223 qaeq r f q n q s
 erfgename None 1020 3222 qaeq r f x q n AA m q
@@ -5697,10 +5697,10 @@ erkende None 010 232 qaeq r k E n d q
 erkenning None 010 223 qaeq r k E n q N
 erkennings None 010 224 qaeq r k E n q N s
 erns None 10 14 qaeq r q n s
-ernstig None 100 143 qaeq r q n s t q x
-ernstige None 1000 1422 qaeq r q n s t q x q
-ernstiger None 1000 1423 qaeq r q n s t q x q r
-ernstigste None 1000 1433 qaeq r q n s t q x s t q
+ernstig None 100 134 qaeq r q n s t q x
+ernstige None 1000 1332 qaeq r q n s t q x q
+ernstiger None 1000 1333 qaeq r q n s t q x q r
+ernstigste None 1000 1343 qaeq r q n s t q x s t q
 erosie None 010 122 i r uq s i
 erotiek None 201 123 iq r u t i k
 erotiese None 0100 1222 iq r uq t i s q
@@ -5836,8 +5836,8 @@ fanatiese None 0100 2222 f a n AA t i s q
 fanfare None 010 322 f a n f AA r q
 fanie None 10 22 f AA n i
 fantasie None 001 322 f a n t a s i
-fantasties None 010 333 f a n t a s t i s
-fantastiese None 0100 3322 f a n t a s t i s q
+fantasties None 010 324 f a n t a s t i s
+fantastiese None 0100 3232 f a n t a s t i s q
 farao None 10 22 f AA r uq
 farmakologie None 20201 32222 f a r m a k u l u x i
 farmakologiese None 200100 322222 f a r m a k u l uq x i s q
@@ -5868,10 +5868,10 @@ feesgevier None 102 323 f iq s x q f i r
 feesmaal None 10 33 f iq s m AA l
 feesprogram None 102 334 f iq s p r u x r a m
 feesseisoen None 102 323 f iq s s qi s u n
-feeste None 10 32 f iq s t q
-feestelik None 100 323 f iq s t q l q k
-feestelike None 1000 3222 f iq s t q l q k q
-feestelikhede None 10020 32322 f iq s t q l q k hv iq d q
+feeste None 10 23 f iq s t q
+feestelik None 100 233 f iq s t q l q k
+feestelike None 1000 2322 f iq s t q l q k q
+feestelikhede None 10020 23322 f iq s t q l q k hv iq d q
 feesterrein None 201 323 f iq s t q r qi n
 feestyd None 10 33 f iq s t qi t
 feesvier None 10 33 f iq s f i r
@@ -5891,7 +5891,7 @@ felle None 10 22 f qaeq l q
 felste None 10 33 f qaeq l s t q
 feminis None 001 223 f E m i n q s
 feminisme None 0010 2232 f E m i n q s m q
-feministiese None 00100 22322 f E m i n q s t i s q
+feministiese None 00100 22232 f E m i n q s t i s q
 femme None 0 3 f E m
 femur None 10 23 f iq m qoeq r
 fenomenaal None 0001 2223 f i n u m i n AA l
@@ -5942,12 +5942,12 @@ finaal None 01 23 f i n AA l
 finale None 010 222 f i n AA l q
 finalis None 001 223 f i n a l q s
 finaliseer None 0001 2223 f i n a l i s iq r
-finaliste None 0010 2232 f i n a l q s t q
+finaliste None 0010 2223 f i n a l q s t q
 finansieel None 0201 2322 f i n a n s i iq l
 finansier None 001 233 f i n a n s i r
 finansierders None 0010 2334 f i n a n s i r d q r s
 finansiering None 0010 2323 f i n a n s i r q N
-finansieringskoste None 001020 232432 f i n a n s i r q N s k O s t q
+finansieringskoste None 001020 232423 f i n a n s i r q N s k O s t q
 finansies None 010 233 f i n a n s i s
 finansiële None 02010 23212 f i n a n s i iq l q
 firma None 10 32 f q r m a
@@ -6093,8 +6093,8 @@ frustreer None 01 35 f r qoeq s t r iq r
 frustrerend None 010 344 f r qoeq s t r iq r q n t
 frustrerende None 0100 3432 f r qoeq s t r iq r q n d q
 fuga None 10 22 f y x a
-fundamentaliste None 201010 323232 f qoeq n d a m E n t a l q s t q
-fundamentalistiese None 2010100 3232322 f qoeq n d a m E n t a l q s t i s q
+fundamentaliste None 201010 323223 f qoeq n d a m E n t a l q s t q
+fundamentalistiese None 2010100 3232232 f qoeq n d a m E n t a l q s t i s q
 fundamentele None 20010 32322 f qoeq n d a m E n t iq l q
 fundering None 100 323 f qoeq n d iq r q N
 fundi None 10 32 f u n d i
@@ -6152,17 +6152,17 @@ garnering None 010 323 x a r n iq r q N
 garnisoen None 001 323 x a r n i s u n
 gas None 0 3 x a s
 gasheer None 10 33 x a s hv iq r
-gaskunstenaar None 1002 3423 x a s k qoeq n s t q n AA r
-gaskunstenaars None 1002 3424 x a s k qoeq n s t q n AA r s
+gaskunstenaar None 1002 3333 x a s k qoeq n s t q n AA r
+gaskunstenaars None 1002 3334 x a s k qoeq n s t q n AA r s
 gasse None 10 22 x a s q
 gasspreker None 100 343 x a s s p r iq k q r
-gaste None 10 32 x a s t q
-gastehuis None 102 323 x a s t q hv qoeqy s
-gastehuise None 1020 3222 x a s t q hv qoeqy s q
-gastekamer None 1020 3223 x a s t q k AA m q r
+gaste None 10 23 x a s t q
+gastehuis None 102 233 x a s t q hv qoeqy s
+gastehuise None 1020 2322 x a s t q hv qoeqy s q
+gastekamer None 1020 2323 x a s t q k AA m q r
 gastriese None 100 242 x a s t r i s q
 gastro None 10 24 x a s t r u
-gastroïntestinale None 1000020 2423222 x a s t r u q n t E s t i n AA l q
+gastroïntestinale None 1000020 2422322 x a s t r u q n t E s t i n AA l q
 gasvrou None 10 33 x a s f r qu
 gasvry None 10 33 x a s f r qi
 gasvryheid None 102 333 x a s f r qi hv qi t
@@ -6431,13 +6431,13 @@ geesdriftig None 010 343 x iq s d r q f t q x
 geesdriftige None 0100 3422 x iq s d r q f t q x q
 geesdriftiges None 0100 3423 x iq s d r q f t q x q s
 geesgenote None 1020 3222 x iq s x q n uq t q
-geeste None 10 32 x iq s t q
-geestelik None 100 323 x iq s t q l q k
-geestelike None 1000 3222 x iq s t q l q k q
-geestesgesondheidsorg None 100202 332434 x iq s t q s x q s O n t hv qi t s O r x
-geestesoog None 102 332 x iq s t q s uq x
-geestestoestand None 1020 3325 x iq s t q s t u s t a n t
-geesteswetenskaplike None 2020100 3323422 x iq s t q s v iq t q n s k a p l q k q
+geeste None 10 23 x iq s t q
+geestelik None 100 233 x iq s t q l q k
+geestelike None 1000 2322 x iq s t q l q k q
+geestesgesondheidsorg None 100202 242434 x iq s t q s x q s O n t hv qi t s O r x
+geestesoog None 102 242 x iq s t q s uq x
+geestestoestand None 1020 2425 x iq s t q s t u s t a n t
+geesteswetenskaplike None 2020100 2423422 x iq s t q s v iq t q n s k a p l q k q
 gefaal None 01 23 x q f AA l
 gefaks None 01 24 x q f a k s
 gefasiliteer None 00001 22223 x q f a s q l i t iq r
@@ -6585,7 +6585,7 @@ geklop None 01 24 x q k l O p
 geklou None 01 23 x q k l qu
 geklouter None 010 233 x q k l qu t q r
 geknak None 01 24 x q k n a k
-geknarste None 010 252 x q k n a r s t q
+geknarste None 010 243 x q k n a r s t q
 geknel None 01 24 x q k n qaeq l
 gekneus None 01 24 x q k n qooq s
 gekneusde None 010 242 x q k n qooq s d q
@@ -6642,7 +6642,7 @@ gekroon None 01 24 x q k r uq n
 gekruip None 01 24 x q k r qoeqy p
 gekruis None 01 24 x q k r qoeqy s
 gekruisig None 010 233 x q k r qoeqy s q x
-gekruiste None 010 242 x q k r qoeqy s t q
+gekruiste None 010 233 x q k r qoeqy s t q
 gekry None 01 23 x q k r qi
 gekuier None 010 222 x q k qoeqy q r
 gekul None 01 23 x q k qoeq l
@@ -6651,7 +6651,7 @@ gekwalifiseerd None 00001 23224 x q k w a l i f i s iq r t
 gekwalifiseerde None 000010 232232 x q k w a l i f i s iq r d q
 gekwantifiseer None 02001 24223 x q k w a n t i f i s iq r
 gekweek None 01 24 x q k w iq k
-gekweste None 010 242 x q k w E s t q
+gekweste None 010 233 x q k w E s t q
 gekwoteer None 001 233 x q k w u t iq r
 gekwyt None 01 24 x q k w qi t
 gekyk None 01 23 x q k qi k
@@ -6696,7 +6696,7 @@ geleen None 01 23 x q l iq n
 geleende None 010 232 x q l iq n d q
 geleenthede None 0100 2422 x q l iq n t hv iq d q
 geleentheid None 010 243 x q l iq n t hv qi t
-geleentheidskoste None 01020 24432 x q l iq n t hv qi t s k O s t q
+geleentheidskoste None 01020 24423 x q l iq n t hv qi t s k O s t q
 geleer None 01 23 x q l iq r
 geleerd None 01 24 x q l iq r t
 geleerde None 010 232 x q l iq r d q
@@ -6779,7 +6779,7 @@ gelykstelling None 0100 2333 x q l qi k s t qaeq l q N
 gelyktydig None 0010 2323 x q l qi k t qi d q x
 gelyktydige None 00100 23222 x q l qi k t qi d q x q
 gelys None 01 23 x q l qi s
-gelyste None 010 232 x q l qi s t q
+gelyste None 010 223 x q l qi s t q
 gelê None 01 22 x q l E
 gemaak None 01 23 x q m AA k
 gemaal None 01 23 x q m AA l
@@ -6809,7 +6809,7 @@ gemeenskappe None 0100 2332 x q m iq n s k a p q
 gemeenskapsbetrokkenheid None 0100202 2352333 x q m iq n s k a p s b q t r O k q n hv qi t
 gemeenskapsdeelname None 010200 235322 x q m iq n s k a p s d iq l n AA m q
 gemeenskapsdiens None 0102 2354 x q m iq n s k a p s d i n s
-gemeenskapsdienste None 01020 23542 x q m iq n s k a p s d i n s t q
+gemeenskapsdienste None 01020 23533 x q m iq n s k a p s d i n s t q
 gemeenskapsektor None 01020 23433 x q m iq n s k a p s E k t O r
 gemeenskapsentrum None 01020 23434 x q m iq n s k a p s E n t r qoeq m
 gemeenskapsleier None 01020 23522 x q m iq n s k a p s l qi q r
@@ -6898,7 +6898,7 @@ geneser None 010 223 x q n iq s q r
 genesers None 010 224 x q n iq s q r s
 genesing None 010 223 x q n iq s q N
 genesis None 100 223 x iq n q s q s
-geneste None 010 232 x q n E s t q
+geneste None 010 223 x q n E s t q
 geneties None 010 223 x q n iq t i s
 genetiese None 0100 2222 x q n iq t i s q
 genetika None 0100 2222 x q n iq t i k a
@@ -6966,7 +6966,7 @@ gepak None 01 23 x q p a k
 gepantserde None 0100 2432 x q p a n t s q r d q
 geparkeer None 001 233 x q p a r k iq r
 gepas None 01 23 x q p a s
-gepaste None 010 232 x q p a s t q
+gepaste None 010 223 x q p a s t q
 gepastheid None 010 243 x q p a s t hv qi t
 gepatenteer None 0001 2233 x q p a t E n t iq r
 gepatenteerde None 00010 22332 x q p a t E n t iq r d q
@@ -7063,8 +7063,8 @@ geren None 01 23 x q r E n
 gerepatrieer None 02001 22232 x q r iq p a t r i iq r
 gerespekteer None 0001 2243 x q r q s p E k t iq r
 gerespekteerde None 00010 22432 x q r q s p E k t iq r d q
-gerestoureer None 0201 2323 x q r E s t u r iq r
-gerestoureerde None 02010 23232 x q r E s t u r iq r d q
+gerestoureer None 0201 2233 x q r E s t u r iq r
+gerestoureerde None 02010 22332 x q r E s t u r iq r d q
 gereël None 010 222 x q r i q l
 gerief None 01 23 x q r i f
 gerieflik None 010 233 x q r i f l q k
@@ -7104,7 +7104,7 @@ gerus None 01 23 x q r qoeq s
 gerusstellend None 0010 2334 x q r qoeq s s t qaeq l q n t
 gerusstellende None 00100 23332 x q r qoeq s s t qaeq l q n d q
 gerusstelling None 0100 2333 x q r qoeq s s t qaeq l q N
-geruste None 010 232 x q r qoeq s t q
+geruste None 010 223 x q r qoeq s t q
 gery None 01 22 x q r qi
 gesaai None 01 22 x q s AAi
 gesag None 01 23 x q s a x
@@ -7219,7 +7219,7 @@ geskool None 01 24 x q s k uq l
 geskoolde None 010 242 x q s k uq l d q
 geskop None 01 24 x q s k O p
 geskors None 01 25 x q s k O r s
-geskorste None 010 252 x q s k O r s t q
+geskorste None 010 243 x q s k O r s t q
 geskrap None 01 25 x q s k r a p
 geskree None 01 24 x q s k r iq
 geskreeu None 01 24 x q s k r iu
@@ -7285,7 +7285,7 @@ gesondheid None 010 243 x q s O n t hv qi t
 gesondheidsberoepe None 010020 244222 x q s O n t hv qi t s b q r u p q
 gesondheidsdepartement None 0200001 2442324 x q s O n t hv qi t s d q p a r t q m E n t
 gesondheidsdiens None 0102 2444 x q s O n t hv qi t s d i n s
-gesondheidsdienste None 01020 24442 x q s O n t hv qi t s d i n s t q
+gesondheidsdienste None 01020 24433 x q s O n t hv qi t s d i n s t q
 gesondheidsopvoeding None 010200 244223 x q s O n t hv qi t s O p f u d q N
 gesondheidsorg None 0102 2434 x q s O n t hv qi t s O r x
 gesondheidsowerhede None 0102020 2441322 x q s O n t hv qi t s uq v q r hv iq d q
@@ -7494,8 +7494,8 @@ geventileerde None 02010 23232 x q v E n t q l iq r d q
 geverf None 01 24 x q f qaeq r f
 geverfde None 010 242 x q f qaeq r f d q
 geverg None 01 24 x q f qaeq r x
-gevestig None 010 233 x q f E s t q x
-gevestigde None 0100 2332 x q f E s t q x d q
+gevestig None 010 224 x q f E s t q x
+gevestigde None 0100 2242 x q f E s t q x d q
 gevier None 01 23 x q f i r
 gevierde None 010 232 x q f i r d q
 gevind None 01 24 x q f q n t
@@ -7579,7 +7579,7 @@ geweldsmisdade None 01020 25322 x q v qaeq l t s m q s d AA d q
 gewen None 01 23 x q v E n
 gewend None 01 24 x q v E n t
 gewens None 01 24 x q v E n s
-gewenste None 010 242 x q v E n s t q
+gewenste None 010 233 x q v E n s t q
 gewere None 010 222 x q v iq r q
 gewerf None 01 24 x q v qaeq r f
 gewerk None 01 24 x q v qaeq r k
@@ -7587,7 +7587,7 @@ gewerp None 01 24 x q v qaeq r p
 gewerskaf None 010 234 x q v qaeq r s k a f
 gewerwelde None 0100 2332 x q v qaeq r v q l d q
 gewese None 010 222 x q v iq s q
-geweste None 010 232 x q v E s t q
+geweste None 010 223 x q v E s t q
 gewete None 010 222 x q v iq t q
 gewetenlose None 01020 22322 x q v iq t q n l uq s q
 gewettig None 010 223 x q v E t q x
@@ -7691,8 +7691,8 @@ gil None 0 3 x q l
 gilde None 10 32 x q l d q
 gimnasium None 0102 3222 x q m n AA s i qoeq m
 gimnasiums None 0102 3223 x q m n AA s i qoeq m s
-gimnaste None 010 332 x q m n a s t q
-gimnastiek None 001 333 x q m n a s t i k
+gimnaste None 010 323 x q m n a s t q
+gimnastiek None 001 324 x q m n a s t i k
 ginekologiese None 200100 222222 x i n i k u l uq x i s q
 ginekoloog None 2001 2223 x i n i k u l uq x
 ginkelsnoek None 102 334 x q N k q l s n u k
@@ -7763,9 +7763,9 @@ godsbeeld None 10 44 x O t s b iq l t
 godsdiens None 10 44 x O t s d i n s
 godsdiensoefening None 10200 44123 x O t s d i n s u f q n q N
 godsdiensonderrig None 10200 44223 x O t s d i n s O n d q r q x
-godsdienste None 100 442 x O t s d i n s t q
-godsdienstig None 010 443 x O t s d i n s t q x
-godsdienstige None 0100 4422 x O t s d i n s t q x q
+godsdienste None 100 433 x O t s d i n s t q
+godsdienstig None 010 434 x O t s d i n s t q x
+godsdienstige None 0100 4332 x O t s d i n s t q x q
 godsdiensvryheid None 1020 4433 x O t s d i n s f r qi hv qi t
 goed None 0 3 x u t
 goede None 10 22 x u d q
@@ -7886,7 +7886,7 @@ grenshou None 10 52 x r E n s hv qu
 grenshoue None 100 521 x r E n s hv qu q
 grensoorskryding None 1020 5243 x r E n s uq r s k r qi d q N
 grenspos None 10 53 x r E n s p O s
-grensposte None 100 532 x r E n s p O s t q
+grensposte None 100 523 x r E n s p O s t q
 grensregter None 100 533 x r E n s r qaeq x t q r
 grepe None 10 32 x r iq p q
 gretig None 10 33 x r iq t q x
@@ -8040,12 +8040,12 @@ gul None 0 3 x qoeq l
 gulde None 10 32 x qoeq l d q
 gun None 0 3 x qoeq n
 guns None 0 4 x qoeq n s
-gunste None 10 42 x qoeq n s t q
-gunsteling None 100 423 x qoeq n s t q l q N
-gunstelinge None 1000 4231 x qoeq n s t q l q N q
-gunstig None 10 43 x qoeq n s t q x
-gunstige None 100 422 x qoeq n s t q x q
-gunstiger None 100 423 x qoeq n s t q x q r
+gunste None 10 33 x qoeq n s t q
+gunsteling None 100 333 x qoeq n s t q l q N
+gunstelinge None 1000 3331 x qoeq n s t q l q N q
+gunstig None 10 34 x qoeq n s t q x
+gunstige None 100 332 x qoeq n s t q x q
+gunstiger None 100 333 x qoeq n s t q x q r
 gunter None 10 33 x qoeq n t q r
 gure None 10 22 x y r q
 gyselaar None 102 223 x qi s q l AA r
@@ -8071,8 +8071,8 @@ haarsalon None 102 323 hv AA r s a l O n
 haarself None 01 34 hv AA r s qaeq l f
 haarstyle None 100 332 hv AA r s t qi l q
 haas None 0 3 hv AA s
-haastig None 10 33 hv AA s t q x
-haastige None 100 322 hv AA s t q x q
+haastig None 10 24 hv AA s t q x
+haastige None 100 232 hv AA s t q x q
 haat None 0 3 hv AA t
 habitat None 102 223 hv a b i t a t
 habitatte None 1020 2222 hv a b i t a t q
@@ -8168,7 +8168,7 @@ handelsmerke None 1020 3432 hv a n d q l s m qaeq r k q
 handelsnaam None 102 343 hv a n d q l s n AA m
 handelsname None 1020 3422 hv a n d q l s n AA m q
 handelsooreenkoms None 10020 34224 hv a n d q l s uq r iq n k O m s
-handelsooreenkomste None 102020 342242 hv a n d q l s uq r iq n k O m s t q
+handelsooreenkomste None 102020 342233 hv a n d q l s uq r iq n k O m s t q
 handelsoorskot None 1020 3424 hv a n d q l s uq r s k O t
 handelsorganisasie None 1000200 3422222 hv a n d q l s O r x a n i s AA s i
 handelsrekening None 10200 34223 hv a n d q l s r iq k q n q N
@@ -8406,7 +8406,7 @@ henkie None 10 32 hv E N k i
 hepatitis None 2010 2223 hv E p a t i t q s
 herbenutting None 1020 3223 hv qaeq r b q n qoeq t q N
 herbergier None 001 333 hv qaeq r b qaeq r x i r
-herbevestig None 1020 3233 hv qaeq r b q f E s t q x
+herbevestig None 1020 3224 hv qaeq r b q f E s t q x
 herdefinieer None 02001 32222 hv qaeq r d E f q n i iq r
 herdefiniëring None 020010 322213 hv qaeq r d E f q n i iq r q N
 herdenk None 01 34 hv qaeq r d E N k
@@ -8503,8 +8503,8 @@ herverdeel None 102 333 hv qaeq r f q r d iq l
 herverdeling None 1020 3323 hv qaeq r f q r d iq l q N
 herverkoop None 102 333 hv qaeq r f q r k uq p
 herverkoopwaarde None 10200 33332 hv qaeq r f q r k uq p v AA r d q
-hervestig None 010 333 hv qaeq r f E s t q x
-hervestiging None 0100 3323 hv qaeq r f E s t q x q N
+hervestig None 010 324 hv qaeq r f E s t q x
+hervestiging None 0100 3233 hv qaeq r f E s t q x q N
 hervorm None 010 323 hv qaeq r f O r q m
 hervormde None 0100 3232 hv qaeq r f O r q m d q
 hervormer None 0100 3223 hv qaeq r f O r q m q r
@@ -8568,7 +8568,7 @@ hindernis None 102 333 hv q n d q r n q s
 hindernisse None 1020 3322 hv q n d q r n q s q
 hings None 0 4 hv q N s
 hingsie None 10 32 hv q N s i
-hingste None 10 42 hv q N s t q
+hingste None 10 33 hv q N s t q
 hingsvul None 10 43 hv q N s f qoeq l
 hingsvullens None 100 424 hv q N s f qoeq l q n s
 hiper None 10 23 hv i p q r
@@ -8649,7 +8649,7 @@ hokkie None 10 22 hv O k i
 hokkiespan None 100 224 hv O k i s p a n
 hokslaan None 10 34 hv O k s l AA n
 hol None 0 3 hv O l
-holistiese None 0100 2322 hv u l q s t i s q
+holistiese None 0100 2232 hv u l q s t i s q
 hollandse None 100 242 hv O l a n t s q
 holte None 10 32 hv O l t q
 holtes None 10 33 hv O l t q s
@@ -8765,8 +8765,8 @@ hoofweg None 10 33 hv uq f v qaeq x
 hoofwerkwoorde None 1020 3432 hv uq f v qaeq r k v uq r d q
 hoog None 0 3 hv uq x
 hoogaangeskrewe None 10020 32242 hv uq x AA n x q s k r iq v q
-hooggeplaaste None 1020 3242 hv uq x x q p l AA s t q
-hooggeplaastes None 1020 3243 hv uq x x q p l AA s t q s
+hooggeplaaste None 1020 3233 hv uq x x q p l AA s t q
+hooggeplaastes None 1020 3234 hv uq x x q p l AA s t q s
 hooggeregshof None 1020 2243 hv uq x q r qaeq x s hv O f
 hoogland None 10 34 hv uq x l a n t
 hoogleraar None 102 323 hv uq x l iq r AA r
@@ -8817,7 +8817,7 @@ hosea None 010 221 hv O s i a
 hospies None 10 24 hv O s p i s
 hospitaal None 102 233 hv O s p i t AA l
 hospitaalbed None 1020 2333 hv O s p i t AA l b E t
-hospitaaldienste None 10200 23342 hv O s p i t AA l d i n s t q
+hospitaaldienste None 10200 23333 hv O s p i t AA l d i n s t q
 hospitaalpersoneel None 102002 233323 hv O s p i t AA l p qaeq r s u n iq l
 hospitale None 1020 2322 hv O s p i t AA l q
 hospitalisasie None 100200 232222 hv O s p i t a l i s AA s i
@@ -8908,7 +8908,7 @@ huispryse None 100 332 hv qoeqy s p r qi s q
 huistaal None 10 33 hv qoeqy s t AA l
 huisverband None 102 334 hv qoeqy s f q r b a n t
 huisves None 10 33 hv qoeqy s f E s
-huisvesting None 100 333 hv qoeqy s f E s t q N
+huisvesting None 100 324 hv qoeqy s f E s t q N
 huisvrou None 10 33 hv qoeqy s f r qu
 huisvroue None 100 331 hv qoeqy s f r qu q
 huisware None 100 322 hv qoeqy s v AA r q
@@ -8950,8 +8950,8 @@ humeur None 01 23 hv y m qooq r
 humeure None 010 222 hv y m qooq r q
 humiditeit None 2001 2223 hv y m i d i t qi t
 humor None 10 23 hv y m O r
-humoristies None 2010 2233 hv y m O r q s t i s
-humoristiese None 20100 22322 hv y m O r q s t i s q
+humoristies None 2010 2224 hv y m O r q s t i s
+humoristiese None 20100 22232 hv y m O r q s t i s q
 humorsin None 102 233 hv y m O r s q n
 hupstoot None 10 34 hv qoeq p s t uq t
 hut None 0 3 hv qoeq t
@@ -8989,7 +8989,7 @@ hê None 0 2 hv E
 ideaal None 001 122 i d i AA l
 ideale None 0010 1212 i d i AA l q
 idealisme None 00010 12132 i d i a l q s m q
-idealistiese None 000100 121322 i d i a l q s t i s q
+idealistiese None 000100 121232 i d i a l q s t i s q
 idee None 01 12 i d iq
 idees None 01 13 i d iq s
 identiese None 0100 1322 i d E n t i s q
@@ -9053,7 +9053,7 @@ imperatiewe None 00010 22222 q m p E r a t i v q
 imperfektum None 1020 2333 q m p q r f E k t qoeq m
 imperiale None 20010 22212 q m p iq r i AA l q
 imperialisme None 202010 222132 q m p iq r i a l q s m q
-imperialistiese None 2020100 2221322 q m p iq r i a l q s t i s q
+imperialistiese None 2020100 2221232 q m p iq r i a l q s t i s q
 implement None 201 234 q m p l q m E n t
 implemente None 2010 2332 q m p l q m E n t q
 implementeer None 2001 2333 q m p l q m E n t iq r
@@ -9068,7 +9068,7 @@ imponerende None 10200 22232 q m p u n iq r q n d q
 imposant None 001 224 q m p u s a n t
 imposante None 0010 2232 q m p u s a n t q
 impressionisme None 20210 23232 q m p r E S iu n q s m q
-impressionistiese None 202100 232322 q m p r E S iu n q s t i s q
+impressionistiese None 202100 232232 q m p r E S iu n q s t i s q
 improvisasie None 20010 23222 q m p r u v i s AA s i
 improviseer None 2001 2323 q m p r u v i s iq r
 impuls None 10 24 q m p qoeq l s
@@ -9114,7 +9114,7 @@ indikasies None 2010 2223 q n d i k AA s i s
 indikator None 2010 2223 q n d i k AA t O r
 indirekte None 1020 2232 q n d i r E k t q
 individu None 0001 2222 q n d q v q d y
-individualistiese None 00020100 22221322 q n d q v q d y a l q s t i s q
+individualistiese None 00020100 22221232 q n d q v q d y a l q s t i s q
 individualiteit None 0002001 2222123 q n d q v q d y a l i t qi t
 individue None 00010 22221 q n d q v q d y q
 individueel None 00001 22222 q n d q v q d y iq l
@@ -9257,7 +9257,7 @@ ingestap None 102 224 q n x q s t a p
 ingestel None 102 224 q n x q s t qaeq l
 ingesteldheid None 1020 2253 q n x q s t qaeq l t hv qi t
 ingestem None 102 224 q n x q s t E m
-ingestie None 120 232 q n x E s t i
+ingestie None 120 223 q n x E s t i
 ingestoot None 102 224 q n x q s t uq t
 ingestorm None 1020 2233 q n x q s t O r q m
 ingestroom None 102 225 q n x q s t r uq m
@@ -9319,16 +9319,16 @@ inklusiewe None 2010 2322 q n k l qoeq s i v q
 inklusiwiteit None 20201 23223 q n k l qoeq s i v i t qi t
 inkom None 10 23 q n k O m
 inkomende None 1000 2232 q n k uq m q n d q
-inkomste None 100 242 q n k O m s t q
-inkomstebelasting None 100020 242233 q n k O m s t q b q l a s t q N
-inkomstebronne None 10020 24232 q n k O m s t q b r O n q
-inkomstediens None 1002 2424 q n k O m s t q d i n s
-inkomstefonds None 1002 2425 q n k O m s t q f O n t s
-inkomstegroep None 1002 2424 q n k O m s t q x r u p
-inkomstegroepe None 10020 24232 q n k O m s t q x r u p q
-inkomstes None 100 243 q n k O m s t q s
-inkomstestaat None 1002 2424 q n k O m s t q s t AA t
-inkomstestate None 10020 24232 q n k O m s t q s t AA t q
+inkomste None 100 233 q n k O m s t q
+inkomstebelasting None 100020 233233 q n k O m s t q b q l a s t q N
+inkomstebronne None 10020 23332 q n k O m s t q b r O n q
+inkomstediens None 1002 2334 q n k O m s t q d i n s
+inkomstefonds None 1002 2335 q n k O m s t q f O n t s
+inkomstegroep None 1002 2334 q n k O m s t q x r u p
+inkomstegroepe None 10020 23332 q n k O m s t q x r u p q
+inkomstes None 100 234 q n k O m s t q s
+inkomstestaat None 1002 2334 q n k O m s t q s t AA t
+inkomstestate None 10020 23332 q n k O m s t q s t AA t q
 inkontinensie None 20010 23232 q n k O n t i n E n s i
 inkopielys None 1020 2223 q n k uq p i l qi s
 inkopies None 102 223 q n k uq p i s
@@ -9353,7 +9353,7 @@ inligtingkassies None 10202 23323 q n l q x t q N k a s i s
 inligtingsbeampte None 102020 234232 q n l q x t q N s b q a m p t q
 inligtingsbronne None 10200 23432 q n l q x t q N s b r O n q
 inligtingsdiens None 1020 2344 q n l q x t q N s d i n s
-inligtingsdienste None 10200 23442 q n l q x t q N s d i n s t q
+inligtingsdienste None 10200 23433 q n l q x t q N s d i n s t q
 inligtingsentrum None 10202 23334 q n l q x t q N s E n t r qoeq m
 inligtingsera None 10200 23412 q n l q x t q N s iq r a
 inligtingsessie None 10202 23322 q n l q x t q N s E s i
@@ -9400,7 +9400,7 @@ insekdoder None 1020 2323 q n s E k d uq d q r
 insekdoders None 1020 2324 q n s E k d uq d q r s
 insekte None 100 232 q n s E k t q
 insektesiede None 10020 23222 q n s E k t q s i d q
-insetkoste None 1020 2332 q n s E t k O s t q
+insetkoste None 1020 2323 q n s E t k O s t q
 insetsel None 100 233 q n s E t s q l
 insetsels None 100 234 q n s E t s q l s
 insette None 100 222 q n s E t q
@@ -9434,7 +9434,7 @@ inskrywingsvorms None 10200 24424 q n s k r qi v q N s f O r q m s
 inskuif None 10 24 q n s k qoeqy f
 inslaan None 10 24 q n s l AA n
 inslag None 10 24 q n s l a x
-insleepdienste None 1020 2442 q n s l iq p d i n s t q
+insleepdienste None 1020 2433 q n s l iq p d i n s t q
 insluit None 10 24 q n s l qoeqy t
 insluitend None 100 234 q n s l qoeqy t q n t
 insluitende None 1000 2332 q n s l qoeqy t q n d q
@@ -9508,7 +9508,7 @@ intel None 10 23 q n t qaeq l
 intellektuele None 200010 223212 q n t q l E k tS y iq l q
 intelligensie None 20010 22232 q n t q l q x E n s i
 intelligensiediens None 200102 222324 q n t q l q x E n s i d i n s
-intelligensiedienste None 2001020 2223242 q n t q l q x E n s i d i n s t q
+intelligensiedienste None 2001020 2223233 q n t q l q x E n s i d i n s t q
 intelligent None 2001 2224 q n t q l q x E n t
 intelligente None 20010 22232 q n t q l q x E n t q
 intens None 01 24 q n t E n s
@@ -9554,7 +9554,7 @@ interpretasie None 20010 23322 q n t qaeq r p r q t AA s i
 interpreteer None 2001 2333 q n t qaeq r p r q t iq r
 interprovinsiale None 2002010 2333212 q n t q r p r u f q n S i AA l q
 interteks None 102 234 q n t q r t E k s
-intertekste None 1020 2342 q n t q r t E k s t q
+intertekste None 1020 2333 q n t q r t E k s t q
 intertekstualiteit None 2020001 2342123 q n t q r t E k s tS u a l i t qi t
 interval None 102 233 q n t q r f a l
 intervarsity None 00100 23322 q n t q r v AA r s q t i
@@ -9601,7 +9601,7 @@ invloei None 10 23 q n f l ui
 invoeg None 10 23 q n f u x
 invoeging None 100 223 q n f u x q N
 invoer None 10 23 q n f u r
-invoerbelasting None 10020 23233 q n f u r b q l a s t q N
+invoerbelasting None 10020 23224 q n f u r b q l a s t q N
 invoerder None 100 233 q n f u r d q r
 invoerders None 100 234 q n f u r d q r s
 invoere None 100 222 q n f u r q
@@ -9751,9 +9751,9 @@ joernaalinskrywing None 01020 33243 j u r n AA l q n s k r qi v q N
 joernale None 010 322 j u r n AA l q
 joernalis None 001 323 j u r n a l q s
 joernaliseer None 0001 3223 j u r n a l i s iq r
-joernaliste None 0010 3232 j u r n a l q s t q
-joernalistiek None 0001 3233 j u r n a l q s t i k
-joernalistieke None 00010 32322 j u r n a l q s t i k q
+joernaliste None 0010 3223 j u r n a l q s t q
+joernalistiek None 0001 3224 j u r n a l q s t i k
+joernalistieke None 00010 32232 j u r n a l q s t i k q
 joga None 10 22 j uq x a
 joggie None 10 22 j O x i
 johannes None 010 223 j u hv a n q s
@@ -9802,7 +9802,7 @@ juffrou None 10 23 j qoeq f r qu
 juig None 0 3 j qoeqy x
 juigende None 100 232 j qoeqy x q n d q
 juis None 0 3 j qoeqy s
-juiste None 10 32 j qoeqy s t q
+juiste None 10 23 j qoeqy s t q
 jukskei None 10 33 j qoeq k s k qi
 jul None 0 3 j qoeq l
 julie None 10 22 j u l i
@@ -9816,8 +9816,8 @@ jurie None 10 22 j u r i
 juries None 10 23 j u r i s
 juris None 01 23 j u r q s
 jurisdiksie None 0010 2332 j u r q s d q k s i
-juriste None 010 232 j u r q s t q
-justisie None 010 322 j qoeq s t i s i
+juriste None 010 223 j u r q s t q
+justisie None 010 232 j qoeq s t i s i
 jutge None 10 32 j qoeq t x q
 juweel None 01 23 j u v iq l
 juwele None 010 222 j u v iq l q
@@ -9848,7 +9848,7 @@ kaartjieverkope None 10020 32322 k AA r k i f q r k uq p q
 kaartverwysings None 1020 4324 k AA r t f q r v qi s q N s
 kaas None 0 3 k AA s
 kabaret None 001 223 k a b a r E t
-kabaretkunstenaar None 001002 223423 k a b a r E t k qoeq n s t q n AA r
+kabaretkunstenaar None 001002 223333 k a b a r E t k qoeq n s t q n AA r
 kabel None 10 23 k AA b q l
 kabeljou None 201 232 k a b q l j qu
 kabels None 10 24 k AA b q l s
@@ -10003,13 +10003,13 @@ kapitaaluitgawe None 001020 223222 k a p i t AA l qoeqy t x AA v q
 kapitaaluitgawes None 001020 223223 k a p i t AA l qoeqy t x AA v q s
 kapitaalvloei None 0010 2233 k a p i t AA l f l ui
 kapitaalwins None 0010 2234 k a p i t AA l v q n s
-kapitaalwinsbelasting None 0010020 2234233 k a p i t AA l v q n s b q l a s t q N
-kapitaalwinste None 00100 22342 k a p i t AA l v q n s t q
+kapitaalwinsbelasting None 0010020 2234224 k a p i t AA l v q n s b q l a s t q N
+kapitaalwinste None 00100 22333 k a p i t AA l v q n s t q
 kapitale None 0010 2222 k a p i t AA l q
 kapitalisasie None 000100 222222 k a p i t a l i s AA s i
 kapitalisme None 00010 22232 k a p i t a l q s m q
-kapitaliste None 00010 22232 k a p i t a l q s t q
-kapitalistiese None 000100 222322 k a p i t a l q s t i s q
+kapitaliste None 00010 22223 k a p i t a l q s t q
+kapitalistiese None 000100 222232 k a p i t a l q s t i s q
 kapokgewig None 0100 2323 k a p O k x q v q x
 kappie None 10 22 k a p i
 kappies None 10 23 k a p i s
@@ -10024,7 +10024,7 @@ karaat None 01 23 k a r AA t
 karakter None 010 233 k a r a k t q r
 karaktereienskappe None 0102020 2331232 k a r a k t q r qi q n s k a p q
 karakteriseer None 02001 23223 k a r a k t q r i s iq r
-karakteristieke None 020010 232322 k a r a k t q r q s t i k q
+karakteristieke None 020010 232232 k a r a k t q r q s t i k q
 karakters None 010 234 k a r a k t q r s
 karaktertrekke None 01020 23332 k a r a k t q r t r qaeq k q
 karate None 010 222 k a r a t i
@@ -10063,9 +10063,9 @@ kasset None 01 23 k a s E t
 kassetspeler None 0100 2333 k a s E t s p iq l q r
 kassie None 10 22 k a s i
 kassier None 01 23 k a s i r
-kaste None 10 32 k a s t q
+kaste None 10 23 k a s t q
 kasteel None 01 24 k a s t iq l
-kastig None 10 33 k a s t q x
+kastig None 10 24 k a s t q x
 kastrol None 01 25 k a s t r O l
 kasty None 01 23 k a s t qi
 kat None 0 3 k a t
@@ -10144,7 +10144,7 @@ kerf None 0 4 k qaeq r f
 kerfstok None 10 44 k qaeq r f s t O k
 kerk None 0 4 k qaeq r k
 kerkdiens None 10 44 k qaeq r k d i n s
-kerkdienste None 100 442 k qaeq r k d i n s t q
+kerkdienste None 100 433 k qaeq r k d i n s t q
 kerke None 10 32 k qaeq r k q
 kerkeenheid None 102 423 k qaeq r k iq n hv qi t
 kerkgangers None 100 433 k qaeq r k x a N q r s
@@ -10236,7 +10236,7 @@ kieser None 10 23 k i s q r
 kiesers None 10 24 k i s q r s
 kieserskorps None 102 245 k i s q r s k O r p s
 kieserslys None 102 243 k i s q r s l qi s
-kieserslyste None 1020 2432 k i s q r s l qi s t q
+kieserslyste None 1020 2423 k i s q r s l qi s t q
 kiesersopleiding None 10200 24223 k i s q r s O p l qi d q N
 kieskeurig None 010 323 k i s k qooq r q x
 kieskeurige None 0100 3222 k i s k qooq r q x q
@@ -10283,7 +10283,7 @@ kinkel None 10 33 k q N k q l
 kiosk None 10 23 k i O s k
 kis None 0 3 k q s
 kissie None 10 22 k q s i
-kiste None 10 32 k q s t q
+kiste None 10 23 k q s t q
 kitaar None 01 23 k i t AA r
 kitaarspeler None 0100 2333 k i t AA r s p iq l q r
 kits None 0 4 k q t s
@@ -10627,7 +10627,7 @@ kolonialisme None 002010 222132 k u l uq n i a l q s m q
 kolonie None 010 222 k u l uq n i
 kolonies None 010 223 k u l uq n i s
 kolonisering None 02010 22223 k u l uq n i s iq r q N
-koloniste None 0010 2232 k u l uq n q s t q
+koloniste None 0010 2223 k u l uq n q s t q
 kolonnade None 1020 2222 k O l u n AA d q
 kolonne None 010 222 k u l O n q
 kolpak None 10 33 k O l p a k
@@ -10646,7 +10646,7 @@ kombineer None 201 323 k O m b i n iq r
 kombuis None 01 33 k O m b qoeqy s
 kombuisdeur None 010 333 k O m b qoeqy s d qooq r
 kombuise None 010 322 k O m b qoeqy s q
-kombuiskaste None 0100 3332 k O m b qoeqy s k a s t q
+kombuiskaste None 0100 3323 k O m b qoeqy s k a s t q
 kombuisvenster None 0100 3334 k O m b qoeqy s f E n s t q r
 komediant None 0001 2223 k u m iq d i a n t
 komediante None 00010 22222 k u m iq d i a n t q
@@ -10704,8 +10704,8 @@ kommunikeer None 2001 2223 k O m y n i k iq r
 kommunikering None 10200 22223 k O m y n i k iq r q N
 kommunis None 201 223 k O m y n q s
 kommunisme None 2010 2232 k O m y n q s m q
-kommuniste None 2010 2232 k O m y n q s t q
-kommunistiese None 20100 22322 k O m y n q s t i s q
+kommuniste None 2010 2223 k O m y n q s t q
+kommunistiese None 20100 22232 k O m y n q s t i s q
 kompak None 10 33 k O m p a k
 kompakte None 100 332 k O m p a k t q
 kompanjie None 001 332 k O m p a n j i
@@ -10735,7 +10735,7 @@ komponeer None 201 323 k O m p u n iq r
 komponent None 201 324 k O m p u n E n t
 komponente None 2010 3232 k O m p u n E n t q
 komponis None 201 323 k O m p u n q s
-komponiste None 2010 3232 k O m p u n q s t q
+komponiste None 2010 3223 k O m p u n q s t q
 kompos None 10 33 k O m p O s
 komposisie None 0010 3222 k O m p u z i s i
 komposisies None 0010 3223 k O m p u z i s i s
@@ -10747,7 +10747,7 @@ kompromis None 201 333 k O m p r u m q s
 kompromisse None 1020 3322 k O m p r u m q s q
 komrij None 10 32 k O m r qi
 koms None 0 4 k O m s
-komste None 10 42 k O m s t q
+komste None 10 33 k O m s t q
 kon None 0 3 k O n
 kondensasie None 0010 3322 k O n d E n s AA s i
 kondig None 10 33 k O n d q x
@@ -10847,7 +10847,7 @@ konstruksies None 010 353 k O n s t r qoeq k s i s
 konstrukte None 010 352 k O n s t r qoeq k t q
 konstruktief None 001 353 k O n s t r qoeq k t i f
 konstruktiewe None 0010 3522 k O n s t r qoeq k t i v q
-konstruktivistiese None 020100 352322 k O n s t r qoeq k t i v q s t i s q
+konstruktivistiese None 020100 352232 k O n s t r qoeq k t i v q s t i s q
 konstruktiwisme None 02010 35232 k O n s t r qoeq k t i v q s m q
 konsul None 10 33 k O n s qoeq l
 konsulaat None 001 323 k O n s qoeq l AA t
@@ -10904,8 +10904,8 @@ kontrakwerk None 010 344 k O n t r a k v qaeq r k
 kontrakwerkers None 0100 3434 k O n t r a k v qaeq r k q r s
 kontrapunt None 102 334 k O n t r a p qoeq n t
 kontras None 01 34 k O n t r a s
-kontrasteer None 001 343 k O n t r a s t iq r
-kontrasterende None 00100 34232 k O n t r a s t iq r q n d q
+kontrasteer None 001 334 k O n t r a s t iq r
+kontrasterende None 00100 33332 k O n t r a s t iq r q n d q
 kontrei None 01 33 k O n t r qi
 kontrole None 010 332 k O n t r uq l q
 kontrolegroep None 0102 3324 k O n t r uq l q x r u p
@@ -11054,16 +11054,16 @@ kosprys None 10 34 k O s p r qi s
 kospryse None 100 332 k O s p r qi s q
 kosskrywer None 100 343 k O s s k r qi v q r
 kossoorte None 100 332 k O s s uq r t q
-koste None 10 32 k O s t q
-kostebeheer None 1002 3223 k O s t q b q hv iq r
-kostebesparing None 10020 32233 k O s t q b q s p AA r q N
-kostedoeltreffend None 10020 32334 k O s t q d u l t r E f q n t
-kostedoeltreffende None 100200 323332 k O s t q d u l t r E f q n d q
-kostelike None 1000 3222 k O s t q l q k q
-kosteloos None 102 323 k O s t q l uq s
+koste None 10 23 k O s t q
+kostebeheer None 1002 2323 k O s t q b q hv iq r
+kostebesparing None 10020 23233 k O s t q b q s p AA r q N
+kostedoeltreffend None 10020 23334 k O s t q d u l t r E f q n t
+kostedoeltreffende None 100200 233332 k O s t q d u l t r E f q n d q
+kostelike None 1000 2322 k O s t q l q k q
+kosteloos None 102 233 k O s t q l uq s
 koster None 10 24 k O s t q r
-kostes None 10 33 k O s t q s
-kostestelsel None 1020 3243 k O s t q s t qaeq l s q l
+kostes None 10 24 k O s t q s
+kostestelsel None 1020 2343 k O s t q s t qaeq l s q l
 kostuums None 01 25 k O s t y m s
 kosyn None 01 23 k u s qi n
 kothuis None 10 33 k O t hv qoeqy s
@@ -11281,7 +11281,7 @@ kuit None 0 3 k qoeqy t
 kuitbesering None 1020 3223 k qoeqy t b q s iq r q N
 kuite None 10 22 k qoeqy t q
 kuitspier None 10 34 k qoeqy t s p i r
-kulkunstenaar None 1002 3423 k qoeq l k qoeq n s t q n AA r
+kulkunstenaar None 1002 3333 k qoeq l k qoeq n s t q n AA r
 kullery None 102 222 k qoeq l q r qi
 kulmineer None 201 323 k qoeq l m q n iq r
 kulture None 010 322 k qoeq l t y r q
@@ -11323,17 +11323,17 @@ kunsmusiek None 102 423 k qoeq n s m qoeq s i k
 kunssaal None 10 43 k qoeq n s s AA l
 kunssale None 100 422 k qoeq n s s AA l q
 kunsskool None 10 44 k qoeq n s s k uq l
-kunste None 10 42 k qoeq n s t q
-kunstefees None 102 423 k qoeq n s t q f iq s
-kunstegebou None 1002 4222 k qoeq n s t q x q b qu
-kunstekaap None 102 423 k qoeq n s t q k AA p
-kunstenaar None 102 423 k qoeq n s t q n AA r
-kunstenaars None 102 424 k qoeq n s t q n AA r s
-kunstenaarskap None 1020 4234 k qoeq n s t q n AA r s k a p
-kunstenares None 2001 4223 k qoeq n s t q n a r E s
-kunsteraad None 102 423 k qoeq n s t q r AA t
-kunstig None 10 43 k qoeq n s t q x
-kunstige None 100 422 k qoeq n s t q x q
+kunste None 10 33 k qoeq n s t q
+kunstefees None 102 333 k qoeq n s t q f iq s
+kunstegebou None 1002 3322 k qoeq n s t q x q b qu
+kunstekaap None 102 333 k qoeq n s t q k AA p
+kunstenaar None 102 333 k qoeq n s t q n AA r
+kunstenaars None 102 334 k qoeq n s t q n AA r s
+kunstenaarskap None 1020 3334 k qoeq n s t q n AA r s k a p
+kunstenares None 2001 3323 k qoeq n s t q n a r E s
+kunsteraad None 102 333 k qoeq n s t q r AA t
+kunstig None 10 34 k qoeq n s t q x
+kunstige None 100 332 k qoeq n s t q x q
 kunsuitstalling None 1020 4233 k qoeq n s qoeqy t s t a l q N
 kunsuitstallings None 1020 4234 k qoeq n s qoeqy t s t a l q N s
 kunsvereniging None 10200 43123 k qoeq n s f q r iq n q x q N
@@ -11428,7 +11428,7 @@ kwetsbaar None 10 53 k w E t s b AA r
 kwetsende None 100 432 k w E t s q n d q
 kwik None 0 4 k w q k
 kwinkslae None 100 531 k w q N k s l AA q
-kwistig None 10 43 k w q s t q x
+kwistig None 10 34 k w q s t q x
 kwitansie None 010 332 k w q t a n s i
 kwitansies None 010 333 k w q t a n s i s
 kworum None 10 23 k uq r qoeq m
@@ -11468,8 +11468,8 @@ laasgenoemde None 1020 3232 l AA s x q n u m d q
 laasgenoemdes None 1020 3233 l AA s x q n u m d q s
 laasjaar None 10 33 l AA s j AA r
 laasnag None 10 33 l AA s n a x
-laaste None 10 32 l AA s t q
-laastens None 10 34 l AA s t q n s
+laaste None 10 23 l AA s t q
+laastens None 10 25 l AA s t q n s
 laat None 0 3 l AA t
 laataand None 10 33 l AA t AA n t
 laatmiddag None 102 323 l AA t m q d a x
@@ -11479,7 +11479,7 @@ laboratoriums None 00102 23223 l a b r a t uq r i qoeq m s
 laboratoriumwerk None 001002 232224 l a b r a t uq r i qoeq m v qaeq r k
 lading None 10 23 l AA d q N
 lae None 00 21 l AA q
-laekoste None 1000 2132 l AA q k O s t q
+laekoste None 1000 2123 l AA q k O s t q
 laer None 00 22 l AA q r
 laerhuis None 100 223 l AA q r hv qoeqy s
 laers None 00 23 l AA q r s
@@ -11528,7 +11528,7 @@ landdrosdistrik None 1020 3425 l a n d r O s d q s t r q k
 landdrosdistrikte None 10200 34252 l a n d r O s d q s t r q k t q
 landdroshof None 102 343 l a n d r O s hv O f
 landdroskantoor None 1020 3433 l a n d r O s k a n t uq r
-landdroste None 100 342 l a n d r O s t q
+landdroste None 100 333 l a n d r O s t q
 lande None 10 32 l a n d q
 landelike None 1000 3222 l a n d q l q k q
 landerye None 0010 3221 l a n d q r qi q
@@ -11605,14 +11605,14 @@ laserplate None 1020 2332 l AA s q r p l AA t q
 lasers None 10 24 l AA s q r s
 laserskyf None 102 234 l AA s q r s k qi f
 laserskywe None 1020 2332 l AA s q r s k qi v q
-laste None 10 32 l a s t q
-laster None 10 33 l a s t q r
-lastereis None 102 323 l a s t q r qi s
-lasterlik None 100 333 l a s t q r l q k
-lasterlike None 1000 3322 l a s t q r l q k q
-lastersaak None 102 333 l a s t q r s AA k
-lastig None 10 33 l a s t q x
-lastige None 100 322 l a s t q x q
+laste None 10 23 l a s t q
+laster None 10 24 l a s t q r
+lastereis None 102 243 l a s t q r qi s
+lasterlik None 100 243 l a s t q r l q k
+lasterlike None 1000 2422 l a s t q r l q k q
+lastersaak None 102 243 l a s t q r s AA k
+lastig None 10 24 l a s t q x
+lastige None 100 232 l a s t q x q
 lat None 0 3 l a t
 late None 10 22 l AA t q
 latente None 010 232 l a t E n t q
@@ -11692,7 +11692,7 @@ leerstyle None 100 332 l iq r s t qi l q
 leertaak None 10 33 l iq r t AA k
 leertake None 100 322 l iq r t AA k q
 leerteorieë None 1020 3221 l iq r t iu r i q
-leeruitkomstes None 1020 3243 l iq r qoeqy t k O m s t q s
+leeruitkomstes None 1020 3234 l iq r qoeqy t k O m s t q s
 lees None 0 3 l iq s
 leesaktiwiteit None 20201 32223 l iq s a k t i v i t qi t
 leesbaar None 10 33 l iq s b AA r
@@ -11832,7 +11832,7 @@ lewenskragtige None 20100 24422 l iq v q n s k r a x t q x q
 lewenslange None 1020 2431 l iq v q n s l a N q
 lewenslank None 102 244 l iq v q n s l a N k
 lewenslig None 100 243 l iq v q n s l q x
-lewenslustige None 20100 24322 l iq v q n s l qoeq s t q x q
+lewenslustige None 20100 24232 l iq v q n s l qoeq s t q x q
 lewensnoodsaaklike None 100200 243322 l iq v q n s n uq t s AA k l q k q
 lewensomstandighede None 1002020 2424322 l iq v q n s O m s t a n d q x hv iq d q
 lewensoriëntering None 1000020 2412223 l iq v q n s uq r i E n t iq r q N
@@ -11970,11 +11970,11 @@ limousine None 001 223 l q m u z i n
 limpopo None 010 322 l q m p uq p u
 lineêr None 201 222 l q n i qaeq r
 linguis None 001 322 l q N x u q s
-linguisties None 0010 3223 l q N x u q s t i s
-linguistiese None 00100 32222 l q N x u q s t i s q
+linguisties None 0010 3214 l q N x u q s t i s
+linguistiese None 00100 32132 l q N x u q s t i s q
 linguïs None 001 322 l q N x u q s
-linguïsties None 0010 3223 l q N x u q s t i s
-linguïstiese None 00100 32222 l q N x u q s t i s q
+linguïsties None 0010 3214 l q N x u q s t i s
+linguïstiese None 00100 32132 l q N x u q s t i s q
 linie None 10 22 l i n i
 liniêre None 2010 2212 l q n i qaeq r q
 linker None 10 33 l q N k q r
@@ -12044,8 +12044,8 @@ logaritmiese None 10200 22322 l uq x a r q t m i s q
 logies None 10 23 l uq x i s
 logiese None 100 222 l uq x i s q
 logika None 100 222 l uq x i k a
-logistiek None 201 233 l uq x q s t i k
-logistieke None 2010 2322 l uq x q s t i k q
+logistiek None 201 224 l uq x q s t i k
+logistieke None 2010 2232 l uq x q s t i k q
 logo None 10 22 l uq x u
 lojaal None 01 23 l u j AA l
 lojale None 010 222 l u j AA l q
@@ -12157,7 +12157,7 @@ lugaanval None 102 233 l qoeq x AA n f a l
 lugaanvalle None 1020 2322 l qoeq x AA n f a l q
 lugbesoedeling None 10200 32223 l qoeq x b q s u d q l q N
 lugdiens None 10 34 l qoeq x d i n s
-lugdienste None 100 342 l qoeq x d i n s t q
+lugdienste None 100 333 l qoeq x d i n s t q
 lugdruk None 10 34 l qoeq x d r qoeq k
 lugfoto None 102 322 l qoeq x f uq t u
 luggie None 10 22 l qoeq x i
@@ -12210,7 +12210,7 @@ lukraak None 10 24 l qoeq k r AA k
 lukrake None 100 232 l qoeq k r AA k q
 lumbale None 100 322 l qoeq m b AA l q
 lus None 0 3 l qoeq s
-lustig None 10 33 l qoeq s t q x
+lustig None 10 24 l qoeq s t q x
 lutherse None 100 232 l y t q r s q
 luukse None 10 32 l y k s q
 luukshede None 100 422 l y k s hv iq d q
@@ -12241,7 +12241,7 @@ lynstane None 100 332 l qi n s t AA n q
 lyntjie None 10 32 l qi N k i
 lys None 0 3 l qi s
 lysie None 10 22 l qi s i
-lyste None 10 32 l qi s t q
+lyste None 10 23 l qi s t q
 lywe None 10 22 l qi v q
 lywige None 100 222 l qi v q x q
 lê None 0 2 l E
@@ -12276,11 +12276,11 @@ maatreëls None 100 323 m AA t r i q l s
 maats None 0 4 m AA t s
 maatskaplike None 0100 3422 m AA t s k a p l q k q
 maatskappy None 201 332 m AA t s k a p qi
-maatskappybelasting None 201020 332233 m AA t s k a p qi b q l a s t q N
+maatskappybelasting None 201020 332224 m AA t s k a p qi b q l a s t q N
 maatskappye None 2010 3321 m AA t s k a p qi q
 maatskappymotor None 20100 33223 m AA t s k a p qi m uq t q r
 maatskappywet None 2010 3323 m AA t s k a p qi v E t
-maatskappywinste None 20100 33242 m AA t s k a p qi v q n s t q
+maatskappywinste None 20100 33233 m AA t s k a p qi v q n s t q
 maatstaf None 10 34 m AA t s t a f
 maatstawe None 100 332 m AA t s t a v q
 maatstawwe None 100 332 m AA t s t a v q
@@ -12326,7 +12326,7 @@ magtig None 10 33 m a x t q x
 magtige None 100 322 m a x t q x q
 magtiging None 100 323 m a x t q x q N
 magtigste None 100 333 m a x t q x s t q
-majesteit None 102 233 m AA j q s t qi t
+majesteit None 102 224 m AA j q s t qi t
 majoor None 01 23 m a j uq r
 major None 01 23 m a j O r
 majuba None 010 222 m a j u b a
@@ -12735,8 +12735,8 @@ metings None 10 24 m iq t q N s
 metode None 010 222 m q t uq d q
 metodes None 010 223 m q t uq d q s
 metodiek None 001 223 m E t u d i k
-metodiste None 2010 2232 m E t u d q s t q
-metodistekerk None 20102 22324 m E t u d q s t q k qaeq r k
+metodiste None 2010 2223 m E t u d q s t q
+metodistekerk None 20102 22234 m E t u d q s t q k qaeq r k
 metriese None 100 232 m iq t r i s q
 metro None 10 23 m E t r u
 metropole None 1020 2322 m E t r u p uq l q
@@ -12893,7 +12893,7 @@ misdaad None 10 33 m q s d AA t
 misdaadbekamping None 10020 33233 m q s d AA t b q k a m p q N
 misdaadgeskiedenis None 100200 332323 m q s d AA t x q s k i d q n q s
 misdaadprobleem None 1002 3334 m q s d AA t p r u b l iq m
-misdaadstatistieke None 202010 333322 m q s d AA t s t a t q s t i k q
+misdaadstatistieke None 202010 333232 m q s d AA t s t a t q s t i k q
 misdaadsyfer None 1020 3323 m q s d AA t s qi f q r
 misdaadsyfers None 1020 3324 m q s d AA t s qi f q r s
 misdaadtoneel None 1002 3323 m q s d AA t t u n iq l
@@ -12924,16 +12924,16 @@ mislukking None 010 323 m q s l qoeq k q N
 mislukkings None 010 324 m q s l qoeq k q N s
 mislukte None 010 332 m q s l qoeq k t q
 mismoedig None 010 323 m q s m u d q x
-misplaaste None 010 342 m q s p l AA s t q
+misplaaste None 010 333 m q s p l AA s t q
 missie None 10 22 m i s i
 missiel None 01 23 m q s i l
 missiele None 010 222 m q s i l q
 missies None 10 23 m i s i s
-mistasting None 100 333 m q s t a s t q N
+mistasting None 100 324 m q s t a s t q N
 misterie None 010 232 m q s t iq r i
 misterieuse None 02010 23212 m q s t iq r i qooq s q
-mistieke None 010 322 m q s t i k q
-mistige None 100 322 m q s t q x q
+mistieke None 010 232 m q s t i k q
+mistige None 100 232 m q s t q x q
 misverstand None 102 335 m q s f q r s t a n t
 misverstande None 1020 3342 m q s f q r s t a n d q
 mite None 10 22 m i t q
@@ -12975,7 +12975,7 @@ moderne None 010 232 m O d qaeq r n q
 moderner None 010 233 m O d qaeq r n q r
 moderniseer None 0201 2323 m O d qaeq r n i s iq r
 modernisering None 02010 23223 m O d qaeq r n i s iq r q N
-modernistiese None 00100 23322 m O d qaeq r n q s t i s q
+modernistiese None 00100 23232 m O d qaeq r n q s t i s q
 moderniteit None 0201 2323 m O d qaeq r n i t qi t
 modernste None 0100 2233 m O d qaeq r q n s t q
 modes None 10 23 m uq d q s
@@ -13029,7 +13029,7 @@ moets None 0 4 m u t s
 mog None 0 3 m O x
 moker None 10 23 m uq k q r
 moles None 01 23 m u l E s
-moleste None 010 232 m u l E s t q
+moleste None 010 223 m u l E s t q
 molesteer None 001 224 m O l q s t iq r
 molestering None 0010 2233 m O l q s t iq r q N
 moment None 01 24 m u m E n t
@@ -13055,10 +13055,10 @@ monnik None 10 23 m O n q k
 monnike None 100 222 m O n q k q
 mono None 10 22 m uq n u
 monokotiele None 10200 22222 m uq n u k u t i l q
-monolinguistiese None 2020100 2232222 m uq n u l q N x u q s t i s q
-monolinguïstiese None 2020100 2232222 m uq n u l q N x u q s t i s q
+monolinguistiese None 2020100 2232132 m uq n u l q N x u q s t i s q
+monolinguïstiese None 2020100 2232132 m uq n u l q N x u q s t i s q
 monopolie None 0001 2222 m uq n u p u l i
-monopolistiese None 000100 222322 m uq n u p u l q s t i s q
+monopolistiese None 000100 222232 m uq n u p u l q s t i s q
 monster None 10 34 m O n s t q r
 monsters None 10 35 m O n s t q r s
 monstervergadering None 100200 343223 m O n s t q r f q r x AA d q r q N
@@ -13124,7 +13124,7 @@ mosselbaai None 001 232 m O s q l b AAi
 mossie None 10 22 m O s i
 mossies None 10 23 m O s i s
 mossoelie None 010 222 m O s u l i
-mosterd None 10 34 m O s t q r t
+mosterd None 10 25 m O s t q r t
 mot None 0 3 m O t
 motel None 10 23 m uq t qaeq l
 motief None 01 23 m uq t i f
@@ -13152,7 +13152,7 @@ motorhuis None 102 233 m uq t q r hv qoeqy s
 motorhuise None 1020 2322 m uq t q r hv qoeqy s q
 motorhuur None 102 233 m uq t q r hv y r
 motoris None 201 223 m uq t q r q s
-motoriste None 2010 2232 m uq t q r q s t q
+motoriste None 2010 2223 m uq t q r q s t q
 motorkaping None 1020 2323 m uq t q r k AA p q N
 motormark None 102 234 m uq t q r m a r k
 motornywerheid None 10202 23233 m uq t q r n qi v q r hv qi t
@@ -13303,17 +13303,17 @@ naasbestaandes None 1020 3243 n AA s b q s t AA n d q s
 naasbeste None 100 323 n AA s b E s t q
 naasbestes None 100 324 n AA s b E s t q s
 naasgrootste None 100 343 n AA s x r uq t s t q
-naasgunsteling None 1000 3423 n AA s x qoeq n s t q l q N
+naasgunsteling None 1000 3333 n AA s x qoeq n s t q l q N
 naashoogste None 100 333 n AA s hv uq x s t q
-naaste None 10 32 n AA s t q
-naasteliefde None 1020 3232 n AA s t q l i f d q
-naastenby None 102 332 n AA s t q n b qi
+naaste None 10 23 n AA s t q
+naasteliefde None 1020 2332 n AA s t q l i f d q
+naastenby None 102 242 n AA s t q n b qi
 naaswenner None 100 323 n AA s v E n q r
 naaswenners None 100 324 n AA s v E n q r s
 naat None 0 3 n AA t
 naatbouler None 100 323 n AA t b qu l q r
 naatboulers None 100 324 n AA t b qu l q r s
-nabelaste None 1020 2232 n AA b q l a s t q
+nabelaste None 1020 2223 n AA b q l a s t q
 nabetragting None 1020 2243 n AA b q t r a x t q N
 nabootsing None 100 233 n AA b uq t s q N
 naburige None 0100 2222 n a b y r q x q
@@ -13410,8 +13410,8 @@ nasionalis None 0001 2223 n a S iu n a l q s
 nasionaliseer None 00001 22223 n a S iu n a l i s iq r
 nasionalisering None 000010 222223 n a S iu n a l i s iq r q N
 nasionalisme None 00010 22232 n a S iu n a l q s m q
-nasionaliste None 00010 22232 n a S iu n a l q s t q
-nasionalistiese None 000100 222322 n a S iu n a l q s t i s q
+nasionaliste None 00010 22223 n a S iu n a l q s t q
+nasionalistiese None 000100 222232 n a S iu n a l q s t i s q
 nasionaliteit None 00001 22223 n a S iu n a l i t qi t
 naskoolse None 100 242 n AA s k uq l s q
 naslaan None 10 24 n AA s l AA n
@@ -13549,7 +13549,7 @@ nepotisme None 2010 2232 n E p u t q s m q
 ners None 0 4 n qaeq r s
 nervosa None 100 322 n qaeq r f uq s a
 nes None 0 3 n E s
-neste None 10 32 n E s t q
+neste None 10 23 n E s t q
 net None 0 3 n E t
 netbal None 10 33 n E t b a l
 netbalafrigters None 10200 33234 n E t b a l a f r q x t q r s
@@ -13646,7 +13646,7 @@ nonsens None 10 34 n O n s q n s
 nood None 0 3 n uq t
 noodbehandeling None 10200 32323 n uq t b q hv a n d q l q N
 nooddiens None 10 34 n uq t d i n s
-nooddienste None 100 342 n uq t d i n s t q
+nooddienste None 100 333 n uq t d i n s t q
 noodgedwonge None 1020 3241 n uq t x q d w O N q
 noodgevalle None 1020 3222 n uq t x q f a l q
 noodlanding None 100 333 n uq t l a n d q N
@@ -13682,10 +13682,10 @@ noordelikes None 1000 3223 n uq r d q l q k q s
 noordheuwel None 100 423 n uq r t hv qooq v q l
 noordkus None 10 43 n uq r t k qoeq s
 noordoos None 01 42 n uq r t uq s
-noordoostelike None 01000 42222 n uq r t uq s t q l q k q
+noordoostelike None 01000 41322 n uq r t uq s t q l q k q
 noordwes None 01 43 n uq r t v E s
-noordweste None 010 432 n uq r t v E s t q
-noordwestelike None 01000 43222 n uq r t v E s t q l q k q
+noordweste None 010 423 n uq r t v E s t q
+noordwestelike None 01000 42322 n uq r t v E s t q l q k q
 noot None 0 3 n uq t
 nootwaardes None 100 333 n uq t v AA r d q s
 noppies None 10 23 n O p i s
@@ -13823,7 +13823,7 @@ oeps None 0 3 u p s
 oer None 0 2 u r
 oes None 0 2 u s
 oesjaar None 10 23 u s j AA r
-oeste None 10 22 u s t q
+oeste None 10 13 u s t q
 oesters None 10 15 u s t q r s
 oewer None 10 13 u v q r
 oewers None 10 14 u v q r s
@@ -13902,7 +13902,7 @@ omgewing None 010 223 O m x iq v q N
 omgewings None 010 224 O m x iq v q N s
 omgewingsake None 01020 22322 O m x iq v q N s AA k q
 omgewingsbewaring None 010020 224223 O m x iq v q N s b q v AA r q N
-omgewingsbewustes None 010020 224233 O m x iq v q N s b q v qoeq s t q s
+omgewingsbewustes None 010020 224224 O m x iq v q N s b q v qoeq s t q s
 omgewingsbewustheid None 010020 224243 O m x iq v q N s b q v qoeq s t hv qi t
 omgewingsfaktore None 010020 224322 O m x iq v q N s f a k t uq r q
 omgewingsgesondheid None 010020 224243 O m x iq v q N s x q s O n t hv qi t
@@ -14026,7 +14026,7 @@ onbehoorlike None 00100 22322 O n b q hv uq r l q k q
 onbekend None 001 224 O n b q k E n t
 onbekende None 0010 2232 O n b q k E n d q
 onbekendes None 0010 2233 O n b q k E n d q s
-onbekostigbaar None 00102 22333 O n b q k O s t q x b AA r
+onbekostigbaar None 00102 22243 O n b q k O s t q x b AA r
 onbekwaamheid None 0010 2243 O n b q k w AA m hv qi t
 onbekwame None 0010 2232 O n b q k w AA m q
 onbelangrik None 0010 2233 O n b q l a N r q k
@@ -14046,7 +14046,7 @@ onbeskermde None 00100 22332 O n b q s k qaeq r q m d q
 onbeskryflik None 0010 2253 O n b q s k r qi f l q k
 onbeskryflike None 00100 22522 O n b q s k r qi f l q k q
 onbeslis None 001 224 O n b q s l q s
-onbesliste None 0010 2242 O n b q s l q s t q
+onbesliste None 0010 2233 O n b q s l q s t q
 onbesonne None 0010 2222 O n b q s O n q
 onbestendig None 0010 2243 O n b q s t E n d q x
 onbestendige None 00100 22422 O n b q s t E n d q x q
@@ -14058,15 +14058,15 @@ onbetrokke None 0010 2232 O n b q t r O k q
 onbetroubaar None 0010 2233 O n b q t r qu b AA r
 onbetroubaarheid None 00100 22333 O n b q t r qu b AA r hv qi t
 onbetwisbare None 00100 22422 O n b q t w q s b AA r q
-onbetwiste None 0010 2242 O n b q t w q s t q
+onbetwiste None 0010 2233 O n b q t w q s t q
 onbevange None 0010 2231 O n b q f a N q
-onbevestigde None 00100 22332 O n b q f E s t q x d q
+onbevestigde None 00100 22242 O n b q f E s t q x d q
 onbevoeg None 001 223 O n b q f u x
 onbevoegde None 0010 2232 O n b q f u x d q
 onbevredigend None 00100 22324 O n b q f r iq d q x q n t
 onbewus None 001 223 O n b q v qoeq s
-onbewuste None 0010 2232 O n b q v qoeq s t q
-onbewustelik None 00100 22323 O n b q v qoeq s t q l q k
+onbewuste None 0010 2223 O n b q v qoeq s t q
+onbewustelik None 00100 22233 O n b q v qoeq s t q l q k
 onbillik None 010 223 O n b q l q k
 onbillike None 0100 2222 O n b q l q k q
 onblusbare None 0100 2422 O n b l qoeq s b AA r q
@@ -14085,7 +14085,7 @@ onderafdelings None 10200 23224 O n d q r a f d iq l q N s
 onderbeen None 102 233 O n d q r b iq n
 onderbenut None 1002 2323 O n d q r b q n qoeq t
 onderbewussyn None 10020 23223 O n d q r b q v qoeq s qi n
-onderbewuste None 10020 23232 O n d q r b q v qoeq s t q
+onderbewuste None 10020 23223 O n d q r b q v qoeq s t q
 onderbou None 102 232 O n d q r b qu
 onderbreek None 001 234 O n d q r b r iq k
 onderbreking None 0010 2333 O n d q r b r iq k q N
@@ -14122,7 +14122,7 @@ onderhoofseun None 1020 2333 O n d q r hv uq f s qooq n
 onderhou None 001 232 O n d q r hv qu
 onderhoud None 102 233 O n d q r hv qu t
 onderhoude None 1020 2322 O n d q r hv qu d q
-onderhoudskoste None 10200 23432 O n d q r hv qu t s k O s t q
+onderhoudskoste None 10200 23423 O n d q r hv qu t s k O s t q
 onderhoudvoerder None 10200 23333 O n d q r hv qu t f u r d q r
 onderhoudvoering None 10200 23323 O n d q r hv qu t f u r q N
 onderkant None 102 234 O n d q r k a n t
@@ -14207,7 +14207,7 @@ ondersteunende None 00100 23332 O n d q r s t qooq n q n d q
 ondersteuner None 0010 2333 O n d q r s t qooq n q r
 ondersteuners None 0010 2334 O n d q r s t qooq n q r s
 ondersteuning None 0010 2333 O n d q r s t qooq n q N
-ondersteuningsdienste None 001020 233442 O n d q r s t qooq n q N s d i n s t q
+ondersteuningsdienste None 001020 233433 O n d q r s t qooq n q N s d i n s t q
 onderstreep None 001 235 O n d q r s t r iq p
 onderstreepte None 0010 2352 O n d q r s t r iq p t q
 onderteken None 0010 2323 O n d q r t iq k q n
@@ -14257,7 +14257,7 @@ onderwyskrisis None 10200 23333 O n d q r v qi s k r i s q s
 onderwyskundige None 100200 233322 O n d q r v qi s k qoeq n d q x q
 onderwysowerhede None 1020020 2331322 O n d q r v qi s uq v q r hv iq d q
 onderwysowerheid None 102002 233133 O n d q r v qi s uq v q r hv qi t
-onderwysposte None 10200 23332 O n d q r v qi s p O s t q
+onderwysposte None 10200 23323 O n d q r v qi s p O s t q
 onderwyspraktyk None 10202 23343 O n d q r v qi s p r a k t qi k
 onderwysprofessie None 102020 233322 O n d q r v qi s p r u f E s i
 onderwysreg None 1020 2333 O n d q r v qi s r qaeq x
@@ -14365,12 +14365,12 @@ ongevoelig None 0010 2223 O n x q f u l q x
 ongevraag None 001 224 O n x q f r AA x
 ongevraagde None 0010 2242 O n x q f r AA x d q
 ongewapende None 00100 22232 O n x q v AA p q n d q
-ongewenste None 0010 2242 O n x q v E n s t q
+ongewenste None 0010 2233 O n x q v E n s t q
 ongewone None 0010 2222 O n x q v uq n q
 ongewoon None 001 223 O n x q v uq n
 ongeëwenaarde None 001020 221232 O n x q iq v q n AA r d q
 ongrondwetlik None 0010 2533 O n x r O n t v E t l q k
-ongunstige None 0100 2422 O n x qoeq n s t q x q
+ongunstige None 0100 2332 O n x qoeq n s t q x q
 ongure None 010 222 O n x y r q
 onhandig None 010 233 O n hv a n d q x
 onheil None 10 23 O n hv qi l
@@ -14386,15 +14386,15 @@ onkant None 10 24 O n k a n t
 onkantspel None 102 244 O n k a n t s p qaeq l
 onkeerbaar None 010 233 O n k iq r b AA r
 onklaar None 01 24 O n k l AA r
-onkoste None 100 232 O n k O s t q
+onkoste None 100 223 O n k O s t q
 onkruid None 10 24 O n k r qoeqy t
 onkunde None 120 232 O n k qoeq n d q
 onkundige None 0100 2322 O n k qoeq n d q x q
 onlangs None 10 24 O n l a N s
 onlangse None 100 232 O n l a N s q
 onlosmaaklik None 0100 2333 O n l O s m AA k l q k
-onluste None 100 232 O n l qoeq s t q
-onlustepolisie None 100020 232222 O n l qoeq s t q p u l i s i
+onluste None 100 223 O n l qoeq s t q
+onlustepolisie None 100020 223222 O n l qoeq s t q p u l i s i
 onmenslik None 010 243 O n m E n s l q k
 onmiddellik None 0100 2223 O n m q d q l q k
 onmiddellike None 01000 22222 O n m q d q l q k q
@@ -14419,7 +14419,7 @@ onoordeelkundige None 020100 223322 O n uq r d iq l k qoeq n d q x q
 onoorganklike None 00100 22422 O n uq r x a N k l q k q
 onoorwinlik None 0010 2233 O n uq r v q n l q k
 onoorwonne None 0010 2222 O n uq r v O n q
-onopgeloste None 01020 22232 O n O p x q l O s t q
+onopgeloste None 01020 22223 O n O p x q l O s t q
 onopgesmukte None 01020 22242 O n O p x q s m qoeq k t q
 onophoudelik None 00100 22223 O n O p hv qu d q l q k
 onortodokse None 00010 22232 O n O r t u d O k s q
@@ -14429,8 +14429,8 @@ onpersoonlik None 0010 2333 O n p q r s uq n l q k
 onpersoonlike None 00100 23322 O n p q r s uq n l q k q
 onprofessionele None 000010 232222 O n p r u f E S iu n iq l q
 onraad None 12 23 O n r AA t
-onrealisties None 00010 22133 O n r i a l q s t i s
-onrealistiese None 000100 221322 O n r i a l q s t i s q
+onrealisties None 00010 22124 O n r i a l q s t i s
+onrealistiese None 000100 221232 O n r i a l q s t i s q
 onredelik None 0102 2223 O n r iq d q l q k
 onredelike None 01000 22222 O n r iq d q l q k q
 onreg None 10 23 O n r qaeq x
@@ -14450,9 +14450,9 @@ onroerende None 0100 2232 O n r u r q n d q
 onrus None 12 23 O n r qoeq s
 onrusbarende None 00100 23232 O n r qoeq s b AA r q n d q
 onrusgebied None 0102 2323 O n r qoeq s x q b i t
-onrustig None 010 233 O n r qoeq s t q x
-onrustige None 0100 2322 O n r qoeq s t q x q
-onrustigheid None 0102 2333 O n r qoeq s t q x hv qi t
+onrustig None 010 224 O n r qoeq s t q x
+onrustige None 0100 2232 O n r qoeq s t q x q
+onrustigheid None 0102 2243 O n r qoeq s t q x hv qi t
 ons None 0 3 O n s
 onsamehangend None 00010 22233 O n s AA m q hv a N q n t
 onse None 10 22 O n s q
@@ -14542,7 +14542,7 @@ ontknoping None 010 333 O n t k n uq p q N
 ontkom None 01 33 O n t k O m
 ontkoppel None 010 323 O n t k O p q l
 ontlading None 010 323 O n t l AA d q N
-ontlasting None 010 333 O n t l a s t q N
+ontlasting None 010 324 O n t l a s t q N
 ontleder None 010 323 O n t l iq d q r
 ontleders None 010 324 O n t l iq d q r s
 ontleding None 010 323 O n t l iq d q N
@@ -14665,7 +14665,7 @@ ontwikkelingshulp None 01002 32244 O n t v q k q l q N s hv qoeq l p
 ontwikkelingskapitaal None 0100002 3224223 O n t v q k q l q N s k a p i t AA l
 ontwikkelingskommunikasie None 010020200 322422222 O n t v q k q l q N s k O m y n i k AA s i
 ontwikkelingskorporasie None 01002020 32243222 O n t v q k q l q N s k O r p O r AA s i
-ontwikkelingskoste None 010020 322432 O n t v q k q l q N s k O s t q
+ontwikkelingskoste None 010020 322423 O n t v q k q l q N s k O s t q
 ontwikkelingspan None 01002 32234 O n t v q k q l q N s p a n
 ontwikkelingsplan None 01002 32244 O n t v q k q l q N s p l a n
 ontwikkelingsprogram None 010002 322434 O n t v q k q l q N s p r u x r a m
@@ -14852,8 +14852,8 @@ ooreengekom None 0102 2223 uq r iq n x q k O m
 ooreengestem None 0102 2224 uq r iq n x q s t E m
 ooreenkom None 010 223 uq r iq n k O m
 ooreenkoms None 010 224 uq r iq n k O m s
-ooreenkomste None 2100 2242 uq r iq n k O m s t q
-ooreenkomstig None 2010 2243 uq r iq n k O m s t q x
+ooreenkomste None 2100 2233 uq r iq n k O m s t q
+ooreenkomstig None 2010 2234 uq r iq n k O m s t q x
 ooreenstem None 010 224 uq r iq n s t E m
 ooreenstemmende None 01000 22332 uq r iq n s t E m q n d q
 ooreenstemming None 0100 2233 uq r iq n s t E m q N
@@ -14904,8 +14904,8 @@ oorgewig None 100 223 uq r x iq v q x
 oorgrenspark None 102 245 uq r x r E n s p a r k
 oorgrote None 100 232 uq r x r uq t q
 oorhaal None 10 23 uq r hv AA l
-oorhaastig None 010 233 uq r hv AA s t q x
-oorhaastigheid None 0100 2333 uq r hv AA s t q x hv qi t
+oorhaastig None 010 224 uq r hv AA s t q x
+oorhaastigheid None 0100 2243 uq r hv AA s t q x hv qi t
 oorhand None 10 24 uq r hv a n t
 oorhandig None 010 233 uq r hv a n d q x
 oorhandiging None 0100 2323 uq r hv a n d q x q N
@@ -15052,7 +15052,7 @@ opbreek None 12 24 O p b r iq k
 opbrengs None 12 25 O p b r E N s
 opbrengskoers None 120 254 O p b r E N s k u r s
 opbrengskoerse None 1200 2532 O p b r E N s k u r s q
-opbrengste None 120 252 O p b r E N s t q
+opbrengste None 120 243 O p b r E N s t q
 opdaag None 12 23 O p d AA x
 opdatering None 1020 2223 O p d a t iq r q N
 opdis None 21 23 O p d q s
@@ -15160,7 +15160,7 @@ opgelet None 102 223 O p x q l E t
 opgelewer None 1020 2223 O p x q l iq v q r
 opgeloopte None 1020 2232 O p x q l uq p t q
 opgelos None 102 223 O p x q l O s
-opgeloste None 1020 2232 O p x q l O s t q
+opgeloste None 1020 2223 O p x q l O s t q
 opgelê None 102 222 O p x q l E
 opgemaak None 102 223 O p x q m AA k
 opgemerk None 102 224 O p x q m qaeq r k
@@ -15372,8 +15372,8 @@ optiese None 120 222 O p t i s q
 optimaal None 001 223 O p t i m AA l
 optimale None 0010 2222 O p t i m AA l q
 optimisme None 0010 2232 O p t i m q s m q
-optimisties None 0010 2233 O p t q m q s t i s
-optimistiese None 00100 22322 O p t q m q s t i s q
+optimisties None 0010 2224 O p t q m q s t i s
+optimistiese None 00100 22232 O p t q m q s t i s q
 optog None 12 23 O p t O x
 optogte None 120 232 O p t O x t q
 optower None 120 223 O p t uq v q r
@@ -15461,7 +15461,7 @@ oriënterings None 00010 12224 uq r i E n t iq r q N s
 orkane None 010 222 O r k AA n q
 orkes None 01 23 O r k E s
 orkeslede None 0100 2322 O r k E s l iq d q
-orkeste None 010 232 O r k E s t q
+orkeste None 010 223 O r k E s t q
 ornamente None 2010 2232 O r n a m E n t q
 ornamentele None 20010 22322 O r n a m E n t iq l q
 orrel None 10 13 O r q l
@@ -15476,7 +15476,7 @@ osmose None 010 222 O s m uq s q
 osoon None 01 13 u s uq n
 osoonlaag None 010 133 u s uq n l AA x
 ossewa None 102 122 O s q v AA
-osteoporose None 12020 22222 O s t iu p uq r uq s q
+osteoporose None 12020 13222 O s t iu p uq r uq s q
 ot None 0 2 O t
 otter None 10 13 O t q r
 ottomaanse None 2010 1232 O t u m AA n s q
@@ -15751,11 +15751,11 @@ passievol None 102 223 p a s i f O l
 passievolle None 1020 2222 p a s i f O l q
 passiewe None 010 222 p a s i v q
 passtukke None 100 332 p a s s t qoeq k q
-pasta None 10 32 p a s t a
-pasteie None 010 321 p a s t qi q
-pastoor None 01 33 p a s t uq r
-pastorale None 0010 3222 p a s t u r AA l q
-pastorie None 001 322 p a s t u r i
+pasta None 10 23 p a s t a
+pasteie None 010 231 p a s t qi q
+pastoor None 01 24 p a s t uq r
+pastorale None 0010 2322 p a s t u r AA l q
+pastorie None 001 232 p a s t u r i
 patats None 01 24 p a t a t s
 patentregte None 0100 2432 p a t E n t r qaeq x t q
 pateties None 010 223 p a t iq t i s
@@ -15900,8 +15900,8 @@ pertinente None 2010 3232 p qaeq r t i n E n t q
 pes None 0 3 p E s
 peso None 10 22 p qi s qu
 pessimisme None 2010 2232 p E s i m q s m q
-pessimisties None 2010 2233 p E s i m q s t i s
-pessimistiese None 20100 22322 p E s i m q s t i s q
+pessimisties None 2010 2224 p E s i m q s t i s
+pessimistiese None 20100 22232 p E s i m q s t i s q
 pet None 0 3 p E t
 peter None 10 23 p iq t q r
 petisie None 010 222 p q t i s i
@@ -15921,7 +15921,7 @@ petrolverbruik None 1002 2434 p E t r q l f q r b r qoeqy k
 pette None 10 22 p E t q
 peuter None 10 23 p qooq t q r
 pianis None 201 213 p i a n q s
-pianiste None 2010 2132 p i a n q s t q
+pianiste None 2010 2123 p i a n q s t q
 piek None 0 3 p i k
 pieke None 10 22 p i k q
 piekfyn None 10 33 p i k f qi n
@@ -16056,9 +16056,9 @@ plegtigheid None 102 433 p l qaeq x t q x hv qi t
 pleidooi None 01 32 p l qi d OOi
 pleidooie None 010 321 p l qi d OOi q
 plein None 0 4 p l qi n
-pleister None 10 43 p l qi s t q r
+pleister None 10 34 p l qi s t q r
 pleit None 0 4 p l qi t
-pleitooreenkomste None 10200 42242 p l qi t uq r iq n k O m s t q
+pleitooreenkomste None 10200 42233 p l qi t uq r iq n k O m s t q
 pleitstukke None 100 432 p l qi t s t qoeq k q
 pleitverduideliking None 102000 432223 p l qi t f q r d qoeqy d q l q k q N
 plek None 0 4 p l qaeq k
@@ -16123,7 +16123,7 @@ polisie None 010 222 p u l i s i
 polisiebeampte None 010020 222232 p u l i s i b q a m p t q
 polisiebeamptes None 010020 222233 p u l i s i b q a m p t q s
 polisiediens None 0102 2224 p u l i s i d i n s
-polisiedienste None 01020 22242 p u l i s i d i n s t q
+polisiedienste None 01020 22233 p u l i s i d i n s t q
 polisiehond None 0102 2224 p u l i s i hv O n t
 polisiehonde None 01020 22232 p u l i s i hv O n d q
 polisiehoof None 0102 2223 p u l i s i hv uq f
@@ -16201,7 +16201,7 @@ posbeskrywing None 1020 3243 p O s b q s k r qi v q N
 posbus None 10 33 p O s b qoeq s
 posbusse None 100 322 p O s b qoeq s q
 posdiens None 10 34 p O s d i n s
-posdienste None 100 342 p O s d i n s t q
+posdienste None 100 333 p O s d i n s t q
 poseer None 01 23 p u s iq r
 posgeld None 10 34 p O s x qaeq l t
 posgevat None 102 323 p O s x q f a t
@@ -16222,17 +16222,17 @@ posorders None 100 324 p O s O r d q r s
 possak None 10 33 p O s s a k
 posse None 10 22 p O s q
 posstukke None 100 332 p O s s t qoeq k q
-poste None 10 32 p O s t q
-posthumus None 120 323 p O s t y m qoeq s
-postkoloniale None 100010 422212 p O s t k u l uq n i AA l q
+poste None 10 23 p O s t q
+posthumus None 120 233 p O s t y m qoeq s
+postkoloniale None 100010 422212 p qu s t k u l uq n i AA l q
 postmodern None 1020 4223 p qu s t m u d qaeq r q n
 postmodernisme None 10100 42332 p qu s t m u d qaeq r n q s m q
-postmodernistiese None 101000 423322 p qu s t m u d qaeq r n q s t i s q
+postmodernistiese None 101000 423232 p qu s t m u d qaeq r n q s t i s q
 postpartumbloeding None 12020 43333 p qu s t p a r t qoeq m b l u d q N
 postpartumperiode None 1200020 4332212 p qu s t p a r t qoeq m p iq r i uq d q
-postuleer None 001 323 p O s t y l iq r
-postuur None 01 33 p O s t y r
-postuurgroepsdruk None 0100 3354 p O s t y r x r u p s d r qoeq k
+postuleer None 001 233 p O s t y l iq r
+postuur None 01 24 p O s t y r
+postuurgroepsdruk None 0100 2454 p O s t y r x r u p s d r qoeq k
 posvat None 10 33 p O s f a t
 posvlak None 10 34 p O s f l a k
 posvlakke None 100 332 p O s f l a k q
@@ -16342,9 +16342,9 @@ pretoria None 0102 3221 p r q t uq r i a
 pretpark None 10 44 p r E t p a r k
 prettige None 100 322 p r E t q x q
 preëklampsie None 1020 3152 p r iq i k l a m p s i
-priester None 10 43 p r i s t q r
-priesterhoofde None 1020 4332 p r i s t q r hv uq f d q
-priesters None 10 44 p r i s t q r s
+priester None 10 34 p r i s t q r
+priesterhoofde None 1020 3432 p r i s t q r hv uq f d q
+priesters None 10 35 p r i s t q r s
 prik None 0 4 p r q k
 prikkel None 10 33 p r q k q l
 prikkelend None 100 324 p r q k q l q n t
@@ -16405,7 +16405,7 @@ produksiedepartemente None 02000010 33223232 p r u d qoeq k s i d q p a r t q m 
 produksiefaktor None 01020 33233 p r u d qoeq k s i f a k t O r
 produksiefaktore None 010020 332322 p r u d qoeq k s i f a k t uq r q
 produksiehoeveelheid None 010020 332233 p r u d qoeq k s i hv u f iq l hv qi t
-produksiekoste None 01020 33232 p r u d qoeq k s i k O s t q
+produksiekoste None 01020 33223 p r u d qoeq k s i k O s t q
 produksieleier None 01020 33222 p r u d qoeq k s i l qi q r
 produksielyn None 0102 3323 p r u d qoeq k s i l qi n
 produksiemaatskappy None 010200 332332 p r u d qoeq k s i m AA t s k a p qi
@@ -16450,7 +16450,7 @@ profetiese None 0100 3222 p r u f iq t i s q
 profiel None 01 33 p r u f i l
 profiele None 010 322 p r u f i l q
 profilaktiese None 01020 32322 p r uq f i l a k t i s q
-progesteroon None 0001 3323 p r u x E s t q r uq n
+progesteroon None 0001 3233 p r u x E s t q r uq n
 prognose None 100 422 p r O x n uq s q
 program None 01 34 p r u x r a m
 programbestuurder None 01020 34243 p r u x r a m b q s t y r d q r
@@ -16458,7 +16458,7 @@ programmatuur None 0201 3323 p r u x r a m a t y r
 programme None 010 332 p r u x r a m q
 programmeerder None 0010 3333 p r u x r a m iq r d q r
 programmering None 0010 3323 p r u x r a m iq r q N
-programuitkomste None 00100 34242 p r u x r a m qoeqy t k O m s t q
+programuitkomste None 00100 34233 p r u x r a m qoeqy t k O m s t q
 progressie None 010 332 p r uq x r E s i
 progressief None 001 333 p r uq x r E s i f
 progressiewe None 0010 3322 p r uq x r E s i v q
@@ -16540,7 +16540,7 @@ prysbeheer None 102 423 p r qi s b q hv iq r
 prysbepaling None 1020 4223 p r qi s b q p AA l q N
 prysbewegings None 1020 4224 p r qi s b q v iq x q N s
 pryse None 10 32 p r qi s q
-pryselastisiteit None 202001 413223 p r qi s i l a s t i s i t qi t
+pryselastisiteit None 202001 412323 p r qi s i l a s t i s i t qi t
 prysenswaardig None 2010 3433 p r qi s q n s v AA r d q x
 prysenswaardige None 20100 34322 p r qi s q n s v AA r d q x q
 prysgee None 10 42 p r qi s x iq
@@ -16735,14 +16735,14 @@ rasseverhoudinge None 100200 223231 r a s q f q r hv qu d q N q
 rassige None 100 222 r a s q x q
 rassigheid None 102 233 r a s q x hv qi t
 rassisme None 010 232 r a s q s m q
-rassiste None 010 232 r a s q s t q
-rassisties None 010 233 r a s q s t i s
-rassistiese None 0100 2322 r a s q s t i s q
+rassiste None 010 223 r a s q s t q
+rassisties None 010 224 r a s q s t i s
+rassistiese None 0100 2232 r a s q s t i s q
 rat None 0 3 r a t
 rate None 10 22 r AA t q
 rathefboom None 102 333 r a t hv E f b uq m
 ratkas None 10 33 r a t k a s
-ratkaste None 100 332 r a t k a s t q
+ratkaste None 100 323 r a t k a s t q
 ratse None 10 32 r a t s q
 ratte None 10 22 r a t q
 ratwisseling None 1000 3223 r a t v q s q l q N
@@ -16758,8 +16758,8 @@ reaktor None 001 223 r i a k t O r
 reaktore None 0010 2222 r i a k t uq r q
 realiseer None 0001 2123 r i a l i s iq r
 realisme None 0010 2132 r i a l q s m q
-realisties None 0010 2133 r i a l q s t i s
-realistiese None 00100 21322 r i a l q s t i s q
+realisties None 0010 2124 r i a l q s t i s
+realistiese None 00100 21232 r i a l q s t i s q
 realiteit None 0001 2123 r i a l i t qi t
 realiteite None 00010 21222 r i a l i t qi t q
 rebel None 01 23 r q b qaeq l
@@ -16886,7 +16886,7 @@ regsake None 100 322 r qaeq x s AA k q
 regsaksie None 102 422 r qaeq x s a k s i
 regsaspekte None 1020 4142 r qaeq x s a s p E k t q
 regsbeginsels None 1020 4234 r qaeq x s b q x q n s q l s
-regsdienste None 100 442 r qaeq x s d i n s t q
+regsdienste None 100 433 r qaeq x s d i n s t q
 regse None 10 32 r qaeq x s q
 regses None 10 33 r qaeq x s q s
 regsfakulteit None 1002 4233 r qaeq x s f a k qoeq l t qi t
@@ -16903,7 +16903,7 @@ regshulp None 10 44 r qaeq x s hv qoeq l p
 regshulpraad None 102 443 r qaeq x s hv qoeq l p r AA t
 regskenner None 100 423 r qaeq x s k E n q r
 regskommissie None 1020 4222 r qaeq x s k u m i s i
-regskoste None 100 432 r qaeq x s k O s t q
+regskoste None 100 423 r qaeq x s k O s t q
 regskringe None 100 441 r qaeq x s k r q N q
 regslui None 10 42 r qaeq x s l qoeqy
 regsmening None 010 423 r qaeq x s m iq n q N
@@ -16928,7 +16928,7 @@ regsreëls None 100 423 r qaeq x s r i q l s
 regstaal None 10 43 r qaeq x s t AA l
 regstaat None 10 34 r qaeq x s t AA t
 regstappe None 100 332 r qaeq x s t a p q
-regstekste None 100 442 r qaeq x s t E k s t q
+regstekste None 100 433 r qaeq x s t E k s t q
 regstel None 10 34 r qaeq x s t qaeq l
 regstellende None 0100 3332 r qaeq x s t qaeq l q n d q
 regstelling None 100 333 r qaeq x s t qaeq l q N
@@ -17075,7 +17075,7 @@ rentekoerse None 1020 3232 r E n t q k u r s q
 rentekoersverhoging None 102020 324323 r E n t q k u r s f q r hv uq x q N
 rentekoersverlaging None 102020 324323 r E n t q k u r s f q r l AA x q N
 rentekoersverlagings None 102020 324324 r E n t q k u r s f q r l AA x q N s
-rentekoste None 1020 3232 r E n t q k O s t q
+rentekoste None 1020 3223 r E n t q k O s t q
 rentelas None 102 323 r E n t q l a s
 rentevrye None 1020 3231 r E n t q f r qi q
 rentmeester None 100 424 r E n t m iq s t q r
@@ -17224,7 +17224,7 @@ rob None 0 3 r O b
 robbe None 10 22 r O b q
 robot None 10 23 r uq b O t
 robots None 10 24 r uq b O t s
-robuuste None 010 232 r O b y s t q
+robuuste None 010 223 r O b y s t q
 robyn None 01 23 r u b qi n
 rockers None 10 24 r O k q r s
 rockgroep None 10 34 r O k x r u p
@@ -17372,7 +17372,7 @@ rotskuns None 10 44 r O t s k qoeq n s
 rotsstorting None 100 443 r O t s s t O r t q N
 rotstekeninge None 10000 42231 r O t s t iq k q n q N q
 rotsvas None 10 43 r O t s f a s
-rotsvaste None 100 432 r O t s f a s t q
+rotsvaste None 100 423 r O t s f a s t q
 rottang None 10 23 r O t a N
 rotte None 10 22 r O t q
 rou None 0 2 r qu
@@ -17471,12 +17471,12 @@ rusies None 10 23 r y s i s
 ruskans None 10 34 r qoeq s k AA n s
 rusperiode None 10020 32212 r qoeq s p iq r i uq d q
 russies None 10 23 r qoeq s i s
-rusteloos None 102 323 r qoeq s t q l uq s
-rustelose None 1020 3222 r qoeq s t q l uq s q
-rustig None 10 33 r qoeq s t q x
-rustige None 100 322 r qoeq s t q x q
-rustiger None 100 323 r qoeq s t q x q r
-rustigheid None 102 333 r qoeq s t q x hv qi t
+rusteloos None 102 233 r qoeq s t q l uq s
+rustelose None 1020 2322 r qoeq s t q l uq s q
+rustig None 10 24 r qoeq s t q x
+rustige None 100 232 r qoeq s t q x q
+rustiger None 100 233 r qoeq s t q x q r
+rustigheid None 102 243 r qoeq s t q x hv qi t
 rustyd None 10 33 r qoeq s t qi t
 rustydtelling None 1020 3323 r qoeq s t qi t t qaeq l q N
 ruveld None 10 24 r y f qaeq l t
@@ -17680,7 +17680,7 @@ samevoeging None 1020 2223 s AA m q f u x q N
 samewerkende None 10200 22332 s AA m q v qaeq r k q n d q
 samewerking None 1020 2233 s AA m q v qaeq r k q N
 samewerkingsooreenkoms None 1020020 2234224 s AA m q v qaeq r k q N s uq r iq n k O m s
-samewerkingsooreenkomste None 10202020 22342242 s AA m q v qaeq r k q N s uq r iq n k O m s t q
+samewerkingsooreenkomste None 10202020 22342233 s AA m q v qaeq r k q N s uq r iq n k O m s t q
 samoaanse None 0010 2222 s a m u AA n s q
 sampioene None 0010 3212 s a m p i u n q
 sand None 0 4 s a n t
@@ -17704,11 +17704,11 @@ sap None 0 3 s a p
 sapiens None 100 223 s AA p i E n s
 sappige None 100 222 s a p q x q
 sardyne None 010 322 s a r d qi n q
-sarkasties None 010 333 s a r k a s t i s
+sarkasties None 010 324 s a r k a s t i s
 sat None 0 3 s a t
 satan None 10 23 s AA t a n
 satanisme None 2010 2232 s AA t a n q s m q
-sataniste None 2010 2232 s AA t a n q s t q
+sataniste None 2010 2223 s AA t a n q s t q
 satelliet None 001 223 s a t q l i t
 satelliete None 0010 2222 s a t q l i t q
 saterdagaande None 10020 23322 s AA t q r d a x AA n d q
@@ -17776,7 +17776,7 @@ seisoen None 01 23 s qi s u n
 seisoenale None 0100 2222 s qi s u n AA l q
 seisoene None 010 222 s qi s u n q
 seisoenkaartjies None 0102 2333 s qi s u n k AA r k i s
-seisoensaangepaste None 010020 233232 s qi s u n s AA n x q p a s t q
+seisoensaangepaste None 010020 233223 s qi s u n s AA n x q p a s t q
 seker None 10 23 s iq k q r
 sekere None 100 222 s iq k q r q
 sekerhede None 1020 2322 s iq k q r hv iq d q
@@ -17796,7 +17796,7 @@ sekretariële None 000010 232212 s q k r q t a r i iq l q
 seks None 0 4 s E k s
 seksdrang None 10 44 s E k s d r a N
 seksies None 10 33 s E k s i s
-seksistiese None 0100 3322 s E k s q s t i s q
+seksistiese None 0100 3232 s E k s q s t i s q
 sekslewe None 100 422 s E k s l iq v q
 seksualiteit None 20001 32123 s E k S y a l i t qi t
 seksueel None 201 322 s E k S y iq l
@@ -17967,13 +17967,13 @@ sesnasies None 010 323 s E s n AA s i s
 sesse None 10 22 s E s q
 sessie None 10 22 s E s i
 sessies None 10 23 s E s i s
-sestien None 10 33 s E s t i n
-sestiende None 100 332 s E s t i n d q
-sestienjarige None 10200 33222 s E s t i n j AA r q x q
-sestig None 10 33 s E s t q x
-sestigerjare None 10020 32322 s E s t q x q r j AA r q
-sestigers None 100 324 s E s t q x q r s
-sestigjarige None 10200 33222 s E s t q x j AA r q x q
+sestien None 10 24 s E s t i n
+sestiende None 100 242 s E s t i n d q
+sestienjarige None 10200 24222 s E s t i n j AA r q x q
+sestig None 10 24 s E s t q x
+sestigerjare None 10020 23322 s E s t q x q r j AA r q
+sestigers None 100 234 s E s t q x q r s
+sestigjarige None 10200 24222 s E s t q x j AA r q x q
 sesuur None 10 32 s E s y r
 set None 0 3 s E t
 setel None 10 23 s iq t q l
@@ -18102,7 +18102,7 @@ simpatiese None 0100 3222 s q m p AA t i s q
 simpel None 10 33 s q m p q l
 simpleks None 10 35 s q m p l E k s
 simplekse None 100 342 s q m p l E k s q
-simplistiese None 0100 3422 s q m p l q s t i s q
+simplistiese None 0100 3332 s q m p l q s t i s q
 simposium None 0100 3222 s q m p uq s i qoeq m
 simptome None 010 422 s q m p t uq m q
 simulasie None 2010 2222 s q m y l AA s i
@@ -18363,7 +18363,7 @@ skilde None 10 42 s k q l d q
 skilder None 10 43 s k q l d q r
 skilderagtige None 20100 43222 s k q l d q r a x t q x q
 skilderkuns None 102 434 s k q l d q r k qoeq n s
-skilderkunstige None 10200 43422 s k q l d q r k qoeq n s t q x q
+skilderkunstige None 10200 43332 s k q l d q r k qoeq n s t q x q
 skilders None 10 44 s k q l d q r s
 skildery None 001 422 s k q l d q r qi
 skilderye None 0010 4221 s k q l d q r qi q
@@ -18396,7 +18396,7 @@ skokgolwe None 100 432 s k O k x O l v q
 skokke None 10 32 s k O k q
 skokkend None 10 34 s k O k q n t
 skokkende None 100 332 s k O k q n d q
-skolastiese None 0100 3322 s k uq l a s t i s q
+skolastiese None 0100 3232 s k uq l a s t i s q
 skole None 10 32 s k uq l q
 skolerugby None 1020 3232 s k uq l q r a g b i
 skolespan None 102 324 s k uq l q s p a n
@@ -18575,7 +18575,7 @@ skuilplek None 10 44 s k qoeqy l p l qaeq k
 skuim None 0 4 s k qoeqy m
 skuimkop None 10 43 s k qoeqy m k O p
 skuins None 0 5 s k qoeqy n s
-skuinste None 10 52 s k qoeqy n s t q
+skuinste None 10 43 s k qoeqy n s t q
 skuiwe None 10 32 s k qoeqy v q
 skuiwergat None 102 333 s k qoeqy v q r x a t
 skuld None 0 5 s k qoeq l t
@@ -18621,7 +18621,7 @@ slaag None 0 4 s l AA x
 slaagpunt None 10 44 s l AA x p qoeq n t
 slaags None 0 5 s l AA x s
 slaagsyfer None 100 423 s l AA x s qi f q r
-slaagvereistes None 1020 4323 s l AA x f q r qi s t q s
+slaagvereistes None 1020 4314 s l AA x f q r qi s t q s
 slaai None 0 3 s l AAi
 slaaie None 10 31 s l AAi q
 slaan None 0 4 s l AA n
@@ -18794,7 +18794,7 @@ snert None 0 5 s n qaeq r t
 snikhete None 100 422 s n q k hv iq t q
 snit None 0 4 s n q t
 snitte None 10 32 s n q t q
-snobisties None 010 333 s n O b q s t i s
+snobisties None 010 324 s n O b q s t i s
 snoeker None 10 33 s n u k q r
 snoer None 0 4 s n u r
 snor None 0 4 s n O r
@@ -18857,7 +18857,7 @@ solidariteit None 02001 22223 s O l i d a r i t qi t
 solied None 01 23 s u l i t
 soliede None 010 222 s u l i d q
 solis None 01 23 s uq l q s
-soliste None 010 232 s uq l q s t q
+soliste None 010 223 s uq l q s t q
 solo None 10 22 s uq l u
 solostuk None 102 224 s uq l u s t qoeq k
 solvente None 010 332 s O l f E n t q
@@ -18939,12 +18939,12 @@ sosiale None 0010 2212 s uq S i AA l q
 sosialisering None 200010 221223 s uq S i a l i s iq r q N
 sosialiseringsvraagstuk None 20001020 22122444 s uq S i a l i s iq r q N s f r AA x s t qoeq k
 sosialisme None 20010 22132 s uq S i a l q s m q
-sosialiste None 20010 22132 s uq S i a l q s t q
-sosialistiese None 200100 221322 s uq S i a l q s t i s q
+sosialiste None 20010 22123 s uq S i a l q s t q
+sosialistiese None 200100 221232 s uq S i a l q s t i s q
 sosio None 01 22 s uq S iu
 sosiohistoriese None 010200 222322 s uq S iu hv i s t uq r i s q
-sosiolinguistiese None 0200100 2232222 s uq S iu l q N x u q s t i s q
-sosiolinguïstiese None 0200100 2232222 s uq S iu l q N x u q s t i s q
+sosiolinguistiese None 0200100 2232132 s uq S iu l q N x u q s t i s q
+sosiolinguïstiese None 0200100 2232132 s uq S iu l q N x u q s t i s q
 sosiologie None 0201 2222 s uq S iu l u x i
 sosiologiese None 02100 22222 s uq S iu l uq x i s q
 sosioloog None 021 223 s uq S iu l uq x
@@ -19049,7 +19049,7 @@ spesiale None 0010 3212 s p E S i AA l q
 spesialis None 2001 3213 s p E S i a l q s
 spesialiseer None 20001 32123 s p E S i a l i s iq r
 spesialiseringsrigting None 10202000 32122433 s p E S i a l i s iq r q N s r q x t q N
-spesialiste None 20010 32132 s p E S i a l q s t q
+spesialiste None 20010 32123 s p E S i a l q s t q
 spesie None 10 32 s p iq s i
 spesiename None 1020 3222 s p iq s i n AA m q
 spesies None 10 33 s p iq s i s
@@ -19124,7 +19124,7 @@ spore None 10 32 s p uq r q
 sport None 0 5 s p O r t
 sportbestuur None 102 524 s p O r t b q s t y r
 sportburo None 102 522 s p O r t b y r uq
-sportbyeenkomste None 10200 52242 s p O r t b qi iq n k O m s t q
+sportbyeenkomste None 10200 52233 s p O r t b qi iq n k O m s t q
 sportdag None 10 53 s p O r t d a x
 sportdeelname None 1020 5322 s p O r t d iq l n AA m q
 sportfederasies None 10020 52223 s p O r t f E d q r AA s i s
@@ -19358,10 +19358,10 @@ standaarde None 010 432 s t a n d AA r d q
 standaardeliggame None 010200 432222 s t a n d AA r d q l q x AA m q
 standaardgraad None 010 444 s t a n d AA r t x r AA t
 standaardisering None 02010 43223 s t a n d AA r d i s iq r q N
-standaardkoste None 0100 4432 s t a n d AA r t k O s t q
+standaardkoste None 0100 4423 s t a n d AA r t k O s t q
 standaardtaal None 010 443 s t a n d AA r t t AA l
 standaardtale None 0100 4422 s t a n d AA r t t AA l q
-standaardtoerusting None 01020 44233 s t a n d AA r t t u r qoeq s t q N
+standaardtoerusting None 01020 44224 s t a n d AA r t t u r qoeq s t q N
 standaardvariëteit None 010002 442213 s t a n d AA r t v a r i q t qi t
 standaardvorm None 0120 4423 s t a n d AA r t f O r q m
 standbeeld None 10 54 s t a n t b iq l t
@@ -19390,10 +19390,10 @@ state None 10 32 s t AA t q
 statebond None 102 324 s t AA t q b O n t
 statebondslande None 10200 32532 s t AA t q b O n t s l a n d q
 statige None 100 322 s t AA t q x q
-statistica None 0100 3322 s t a t q s t i k a
-statistiek None 201 333 s t a t q s t i k
-statistiekdiens None 1020 3334 s t a t q s t i k d i n s
-statistieke None 2010 3322 s t a t q s t i k q
+statistica None 0100 3232 s t a t q s t i k a
+statistiek None 201 324 s t a t q s t i k
+statistiekdiens None 1020 3244 s t a t q s t i k d i n s
+statistieke None 2010 3232 s t a t q s t i k q
 status None 10 33 s t AA t qoeq s
 statute None 010 322 s t a t y t q
 statutêr None 001 323 s t a t y t qaeq r
@@ -19499,7 +19499,7 @@ sterwend None 10 44 s t qaeq r v q n t
 sterwende None 100 432 s t qaeq r v q n d q
 stet None 0 4 s t E t
 steun None 0 4 s t qooq n
-steundienste None 100 442 s t qooq n d i n s t q
+steundienste None 100 433 s t qooq n d i n s t q
 steunpilare None 1020 4222 s t qooq n p i l AA r q
 steunvlak None 10 44 s t qooq n f l a k
 steur None 0 4 s t qooq r
@@ -19573,7 +19573,7 @@ stoffasie None 010 322 s t O f AA s i
 stoflike None 100 422 s t O f l q k q
 stofsuier None 100 422 s t O f s qoeqy q r
 stofwolk None 10 44 s t O f v O l k
-stogastiese None 0100 3322 s t u x a s t i s q
+stogastiese None 0100 3232 s t u x a s t i s q
 stok None 0 4 s t O k
 stoker None 10 33 s t uq k q r
 stokke None 10 32 s t O k q
@@ -19675,7 +19675,7 @@ streef None 0 5 s t r iq f
 streek None 0 5 s t r iq k
 streekbedeling None 1020 5223 s t r iq k b q d iq l q N
 streekbestuurder None 1020 5243 s t r iq k b q s t y r d q r
-streekdiensteraad None 1002 5423 s t r iq k d i n s t q r AA t
+streekdiensteraad None 1002 5333 s t r iq k d i n s t q r AA t
 streekdirekteur None 2001 5233 s t r iq k d i r E k t qooq r
 streekgrondslag None 102 554 s t r iq k x r O n t s l a x
 streekhof None 10 53 s t r iq k hv O f
@@ -19884,7 +19884,7 @@ suidkus None 10 33 s qoeqy t k qoeq s
 suidoos None 01 32 s qoeqy t uq s
 suidooster None 010 314 s qoeqy t uq s t q r
 suidwaarts None 10 35 s qoeqy t v AA r t s
-suidwestelike None 01000 33222 s qoeqy t v E s t q l q k q
+suidwestelike None 01000 32322 s qoeqy t v E s t q l q k q
 suig None 0 3 s qoeqy x
 suiker None 10 23 s qoeqy k q r
 suikerbedryf None 1002 2324 s qoeqy k q r b q d r qi f
@@ -20191,7 +20191,7 @@ teenoorgestelde None 01020 32242 t iq n uq r x q s t qaeq l d q
 teenoorgesteldes None 01020 32243 t iq n uq r x q s t qaeq l d q s
 teenoorstaande None 1020 3242 t iq n uq r s t AA n d q
 teenparty None 102 332 t iq n p a r t qi
-teenprestasie None 1020 3422 t iq n p r E s t AA s i
+teenprestasie None 1020 3332 t iq n p r E s t AA s i
 teenreaksie None 1020 3222 t iq n r i a k s i
 teensinnig None 010 323 t iq n s q n q x
 teenspoed None 10 34 t iq n s p u t
@@ -20240,8 +20240,8 @@ teikengroep None 102 234 t qi k q n x r u p
 teikengroepe None 1020 2332 t qi k q n x r u p q
 teikenmark None 102 234 t qi k q n m a r k
 teikens None 10 24 t qi k q n s
-teister None 10 33 t qi s t q r
-teistering None 100 323 t qi s t q r q N
+teister None 10 24 t qi s t q r
+teistering None 100 233 t qi s t q r q N
 teken None 10 23 t iq k q n
 tekenbord None 102 234 t iq k q n b O r t
 tekenend None 100 224 t iq k q n q n t
@@ -20261,7 +20261,7 @@ teksgedeeltes None 1020 4233 t E k s x q d iq l t q s
 tekskartering None 1000 4323 t E k s k a r t iq r q N
 tekskritiese None 1020 4322 t E k s k r i t i s q
 tekssoorte None 100 432 t E k s s uq r t q
-tekste None 10 42 t E k s t q
+tekste None 10 33 t E k s t q
 tekstiel None 01 34 t E k s t i l
 tekstielbedryf None 0102 3424 t E k s t i l b q d r qi f
 tekstielstof None 010 344 t E k s t i l s t O f
@@ -20281,7 +20281,7 @@ telefonies None 0010 2223 t qaeq l q f uq n i s
 telefoniese None 00100 22222 t qaeq l q f uq n i s q
 telefoon None 001 223 t qaeq l q f uq n
 telefoondiens None 0010 2234 t qaeq l q f uq n d i n s
-telefoondienste None 00100 22342 t qaeq l q f uq n d i n s t q
+telefoondienste None 00100 22333 t qaeq l q f uq n d i n s t q
 telefoondrade None 00100 22332 t qaeq l q f uq n d r AA d q
 telefoongesprekke None 001020 223242 t qaeq l q f uq n x q s p r qaeq k q
 telefoongids None 0010 2234 t qaeq l q f uq n x q t s
@@ -20412,7 +20412,7 @@ territoriale None 020010 222212 t E r i t uq r i AA l q
 terroris None 001 223 t qaeq r u r q s
 terroriseer None 0001 2223 t qaeq r u r i s iq r
 terrorisme None 0010 2232 t qaeq r u r q s m q
-terroriste None 0010 2232 t qaeq r u r q s t q
+terroriste None 0010 2223 t qaeq r u r q s t q
 tersaaklik None 010 333 t qaeq r s AA k l q k
 tersaaklike None 0100 3322 t qaeq r s AA k l q k q
 terselfdertyd None 0102 3433 t qaeq r s qaeq l f d q r t qi t
@@ -20488,8 +20488,8 @@ tesame None 010 222 t q s AA m q
 tesis None 10 23 t iq s q s
 tesourie None 001 222 t E s u r i
 tesourier None 001 223 t E s u r i r
-testament None 201 324 t E s t a m E n t
-testamente None 2010 3232 t E s t a m E n t q
+testament None 201 234 t E s t a m E n t
+testamente None 2010 2332 t E s t a m E n t q
 tetrasikliene None 10200 23232 t E t r a s q k l i n q
 teuels None 10 23 t qooq q l s
 teug None 0 3 t qooq x
@@ -20592,11 +20592,11 @@ toegemaak None 102 223 t u x q m AA k
 toegeneem None 102 223 t u x q n iq m
 toegeneentheid None 1020 2243 t u x q n iq n t hv qi t
 toegepas None 102 223 t u x q p a s
-toegepaste None 1020 2232 t u x q p a s t q
+toegepaste None 1020 2223 t u x q p a s t q
 toegeplakte None 1020 2242 t u x q p l a k t q
 toegeroep None 102 223 t u x q r u p
 toegerus None 102 223 t u x q r qoeq s
-toegeruste None 1020 2232 t u x q r qoeq s t q
+toegeruste None 1020 2223 t u x q r qoeq s t q
 toegesak None 102 223 t u x q s a k
 toegesien None 102 223 t u x q s i n
 toegeskryf None 102 225 t u x q s k r qi f
@@ -20634,7 +20634,7 @@ toekom None 10 23 t u k O m
 toekomende None 0100 2232 t u k uq m q n d q
 toekoms None 10 24 t u k O m s
 toekomsplanne None 1020 2432 t u k O m s p l a n q
-toekomstige None 0100 2422 t u k O m s t q x q
+toekomstige None 0100 2332 t u k O m s t q x q
 toekomsvisie None 1020 2422 t u k O m s v i s i
 toekyk None 10 23 t u k qi k
 toelaag None 10 23 t u l AA x
@@ -20645,8 +20645,8 @@ toelae None 100 221 t u l AA q
 toelaes None 100 222 t u l AA q s
 toelating None 100 223 t u l AA t q N
 toelatingsbeleid None 10202 22423 t u l AA t q N s b q l qi t
-toelatingsvereiste None 102020 224322 t u l AA t q N s f q r qi s t q
-toelatingsvereistes None 102020 224323 t u l AA t q N s f q r qi s t q s
+toelatingsvereiste None 102020 224313 t u l AA t q N s f q r qi s t q
+toelatingsvereistes None 102020 224314 t u l AA t q N s f q r qi s t q s
 toelig None 10 23 t u l q x
 toeloop None 10 23 t u l uq p
 toemaak None 10 23 t u m AA k
@@ -20674,8 +20674,8 @@ toeris None 01 23 t u r q s
 toerisme None 010 232 t u r q s m q
 toerismebedryf None 01002 23224 t u r q s m q b q d r qi f
 toerismeraad None 0102 2323 t u r q s m q r AA t
-toeriste None 010 232 t u r q s t q
-toeristebedryf None 01002 23224 t u r q s t q b q d r qi f
+toeriste None 010 223 t u r q s t q
+toeristebedryf None 01002 22324 t u r q s t q b q d r qi f
 toerlede None 100 322 t u r l iq d q
 toermotors None 100 324 t u r m uq t q r s
 toernooi None 01 32 t u r n OOi
@@ -20685,7 +20685,7 @@ toerprogram None 102 334 t u r p r u x r a m
 toerspan None 10 34 t u r s p a n
 toerspanne None 100 332 t u r s p a n q
 toertjies None 10 33 t u r k i s
-toerusting None 100 233 t u r qoeq s t q N
+toerusting None 100 224 t u r qoeq s t q N
 toesak None 10 23 t u s a k
 toesien None 10 23 t u s i n
 toesig None 10 23 t u s q x
@@ -20898,7 +20898,7 @@ treffers None 10 34 t r E f q r s
 trefkrag None 10 44 t r E f k r a x
 trefreëls None 100 423 t r E f r i q l s
 trein None 0 4 t r qi n
-treindienste None 100 442 t r qi n d i n s t q
+treindienste None 100 433 t r qi n d i n s t q
 treine None 10 32 t r qi n q
 treinrit None 10 43 t r qi n r q t
 treinspoor None 10 44 t r qi n s p uq r
@@ -20910,8 +20910,8 @@ trekke None 10 32 t r qaeq k q
 trekker None 10 33 t r qaeq k q r
 trekkers None 10 34 t r qaeq k q r s
 trekpas None 10 43 t r qaeq k p a s
-trekpleister None 100 443 t r qaeq k p l qi s t q r
-trekpleisters None 100 444 t r qaeq k p l qi s t q r s
+trekpleister None 100 434 t r qaeq k p l qi s t q r
+trekpleisters None 100 435 t r qaeq k p l qi s t q r s
 tremloods None 10 44 t r E m l uq t s
 treurig None 10 33 t r qooq r q x
 treurige None 100 322 t r qooq r q x q
@@ -21031,9 +21031,9 @@ tuisskoolleerders None 1020 3434 t qoeqy s s k uq l l iq r d q r s
 tuisspan None 10 34 t qoeqy s s p a n
 tuisspanne None 100 332 t qoeqy s s p a n q
 tuisstad None 10 34 t qoeqy s s t a t
-tuiste None 10 32 t qoeqy s t q
-tuistes None 10 33 t qoeqy s t q s
-tuisteskepper None 1020 3233 t qoeqy s t q s k E p q r
+tuiste None 10 23 t qoeqy s t q
+tuistes None 10 24 t qoeqy s t q s
+tuisteskepper None 1020 2333 t qoeqy s t q s k E p q r
 tuisveld None 10 34 t qoeqy s f qaeq l t
 tuiswedstryd None 102 335 t qoeqy s v E t s t r qi t
 tuiswedstryde None 1020 3342 t qoeqy s v E t s t r qi d q
@@ -21102,7 +21102,7 @@ twintigjarige None 10200 43222 t w q n t q x j AA r q x q
 twintigs None 10 44 t w q n t q x s
 twintigste None 100 433 t w q n t q x s t q
 twis None 0 4 t w q s
-twiste None 10 42 t w q s t q
+twiste None 10 33 t w q s t q
 twyfel None 10 33 t w qi f q l
 twyfelagtig None 2010 3323 t w qi f q l a x t q x
 twyfelagtige None 20100 33222 t w qi f q l a x t q x q
@@ -21153,7 +21153,7 @@ uil None 0 2 qoeqy l
 uile None 10 12 qoeqy l q
 uit None 0 2 qoeqy t
 uitbars None 12 24 qoeqy t b a r s
-uitbarsting None 120 243 qoeqy t b a r s t q N
+uitbarsting None 120 234 qoeqy t b a r s t q N
 uitbeeld None 12 24 qoeqy t b iq l t
 uitbeelding None 120 233 qoeqy t b iq l d q N
 uitbeeldings None 120 234 qoeqy t b iq l d q N s
@@ -21393,7 +21393,7 @@ uitklophou None 120 242 qoeqy t k l O p hv qu
 uitklophoue None 1200 2421 qoeqy t k l O p hv qu q
 uitkom None 12 23 qoeqy t k O m
 uitkoms None 12 24 qoeqy t k O m s
-uitkomste None 120 242 qoeqy t k O m s t q
+uitkomste None 120 233 qoeqy t k O m s t q
 uitkoop None 12 23 qoeqy t k uq p
 uitkring None 12 24 qoeqy t k r q N
 uitkyk None 12 23 qoeqy t k qi k
@@ -21451,13 +21451,13 @@ uitroepe None 100 222 qoeqy t r u p q
 uitruil None 12 23 qoeqy t r qoeqy l
 uitruiling None 120 223 qoeqy t r qoeqy l q N
 uitruilstudent None 1202 2334 qoeqy t r qoeqy l s t y d E n t
-uitrusting None 120 233 qoeqy t r qoeq s t q N
-uitrustings None 120 234 qoeqy t r qoeq s t q N s
+uitrusting None 120 224 qoeqy t r qoeq s t q N
+uitrustings None 120 225 qoeqy t r qoeq s t q N s
 uitry None 12 22 qoeqy t r qi
 uitsaai None 12 22 qoeqy t s AAi
 uitsaaibedryf None 1202 2224 qoeqy t s AAi b q d r qi f
 uitsaaidiens None 120 224 qoeqy t s AAi d i n s
-uitsaaidienste None 1200 2242 qoeqy t s AAi d i n s t q
+uitsaaidienste None 1200 2233 qoeqy t s AAi d i n s t q
 uitsaaier None 120 222 qoeqy t s AAi q r
 uitsaaiers None 120 223 qoeqy t s AAi q r s
 uitsaaikorporasie None 120020 223222 qoeqy t s AAi k O r p O r AA s i
@@ -21804,9 +21804,9 @@ vasskop None 10 34 f a s s k O p
 vassteek None 10 34 f a s s t iq k
 vasstel None 10 34 f a s s t qaeq l
 vasstelling None 100 333 f a s s t qaeq l q N
-vaste None 10 32 f a s t q
-vasteland None 102 324 f a s t q l a n t
-vastestof None 102 324 f a s t q s t O f
+vaste None 10 23 f a s t q
+vasteland None 102 234 f a s t q l a n t
+vastestof None 102 234 f a s t q s t O f
 vastrap None 10 34 f a s t r a p
 vastrapplek None 102 344 f a s t r a p p l qaeq k
 vastrek None 10 34 f a s t r qaeq k
@@ -21840,7 +21840,7 @@ veeltaligheid None 0102 3233 f iq l t AA l q x hv qi t
 veelvoudige None 1020 3222 f iq l f qu d q x q
 veelvuldige None 0100 3322 f iq l f qoeq l d q x q
 veen None 0 3 f iq n
-veeposte None 100 232 f iq p O s t q
+veeposte None 100 223 f iq p O s t q
 veer None 0 3 f iq r
 veerkragtigheid None 0102 3433 f iq r k r a x t q x hv qi t
 veerstelsel None 100 343 f iq r s t qaeq l s q l
@@ -22001,7 +22001,7 @@ verbloem None 01 34 f q r b l u m
 verbly None 01 33 f q r b l qi
 verblydend None 010 334 f q r b l qi d q n t
 verblyf None 01 34 f q r b l qi f
-verblyfkoste None 0100 3432 f q r b l qi f k O s t q
+verblyfkoste None 0100 3423 f q r b l qi f k O s t q
 verblyfplek None 010 344 f q r b l qi f p l qaeq k
 verblyfreg None 010 343 f q r b l qi f r qaeq x
 verbod None 01 33 f q r b O t
@@ -22093,9 +22093,9 @@ verder None 10 33 f qaeq r d q r
 verdere None 100 322 f qaeq r d q r q
 verderf None 01 34 f q r d qaeq r f
 verdien None 01 33 f q r d i n
-verdienste None 010 342 f q r d i n s t q
-verdienstelike None 01000 34222 f q r d i n s t q l q k q
-verdienstes None 010 343 f q r d i n s t q s
+verdienste None 010 333 f q r d i n s t q
+verdienstelike None 01000 33322 f q r d i n s t q l q k q
+verdienstes None 010 334 f q r d i n s t q s
 verdiep None 01 33 f q r d i p
 verdieping None 010 323 f q r d i p q N
 verdiepings None 010 324 f q r d i p q N s
@@ -22149,8 +22149,8 @@ vereer None 01 32 f q r iq r
 vereffen None 010 313 f q r E f q n
 vereffening None 0100 3123 f q r E f q n q N
 vereis None 01 32 f q r qi s
-vereiste None 010 322 f q r qi s t q
-vereistes None 010 323 f q r qi s t q s
+vereiste None 010 313 f q r qi s t q
+vereistes None 010 314 f q r qi s t q s
 verengelsing None 0100 3223 f q r E N q l s q N
 verenig None 010 313 f q r iq n q x
 verenigde None 0100 3132 f q r iq n q x d q
@@ -22326,7 +22326,7 @@ verkondig None 010 333 f q r k O n d q x
 verkondiging None 0100 3323 f q r k O n d q x q N
 verkool None 01 33 f q r k uq l
 verkoop None 01 33 f q r k uq p
-verkoopbelasting None 01020 33233 f q r k uq p b q l a s t q N
+verkoopbelasting None 01020 33224 f q r k uq p b q l a s t q N
 verkoopdruk None 010 334 f q r k uq p d r qoeq k
 verkoopprys None 010 334 f q r k uq p p r qi s
 verkooppryse None 0100 3332 f q r k uq p p r qi s q
@@ -22361,7 +22361,7 @@ verkryging None 010 333 f q r k r qi x q N
 verkrygings None 010 334 f q r k r qi x q N s
 verkul None 01 33 f q r k qoeq l
 verkwalik None 010 333 f q r k w AA l q k
-verkwisting None 010 343 f q r k w q s t q N
+verkwisting None 010 334 f q r k w q s t q N
 verkyker None 100 323 f qaeq r k qi k q r
 verlaag None 01 33 f q r l AA x
 verlaagde None 010 332 f q r l AA x d q
@@ -22416,7 +22416,7 @@ verlosser None 010 323 f q r l O s q r
 verlossing None 010 323 f q r l O s q N
 verlowing None 010 323 f q r l uq v q N
 verloën None 010 322 f q r l u q n
-verlustig None 010 333 f q r l qoeq s t q x
+verlustig None 010 324 f q r l qoeq s t q x
 vermaak None 01 33 f q r m AA k
 vermaaklik None 010 333 f q r m AA k l q k
 vermaaklike None 0100 3322 f q r m AA k l q k q
@@ -22447,8 +22447,8 @@ verminking None 010 333 f q r m q N k q N
 verminkte None 010 342 f q r m q N k t q
 verminktes None 010 343 f q r m q N k t q s
 vermis None 01 33 f q r m q s
-vermiste None 010 332 f q r m q s t q
-vermistes None 010 333 f q r m q s t q s
+vermiste None 010 323 f q r m q s t q
+vermistes None 010 324 f q r m q s t q s
 vermoed None 01 33 f q r m u t
 vermoede None 010 322 f q r m u d q
 vermoedelik None 0100 3223 f q r m u d q l q k
@@ -22494,7 +22494,7 @@ verontagsaam None 0010 3323 f q r O n t a x s AA m
 verontreinig None 0010 3323 f q r O n t r qi n q x
 verontrief None 001 333 f q r O n t r i f
 verontrus None 001 333 f q r O n t r qoeq s
-verontrustend None 0010 3334 f q r O n t r qoeq s t q n t
+verontrustend None 0010 3325 f q r O n t r qoeq s t q n t
 verontwaardig None 0010 3333 f q r O n t v AA r d q x
 verontwaardiging None 00100 33323 f q r O n t v AA r d q x q N
 veroordeel None 010 323 f q r uq r d iq l
@@ -22782,7 +22782,7 @@ verteller None 010 323 f q r t qaeq l q r
 vertellers None 010 324 f q r t qaeq l q r s
 vertelling None 010 323 f q r t qaeq l q N
 vertellings None 010 324 f q r t qaeq l q N s
-verteltekste None 0100 3342 f q r t qaeq l t E k s t q
+verteltekste None 0100 3333 f q r t qaeq l t E k s t q
 vertering None 010 323 f q r t iq r q N
 vertikaal None 001 323 v qaeq r t i k AA l
 vertikale None 0010 3222 v qaeq r t i k AA l q
@@ -22811,8 +22811,8 @@ vertrekkie None 010 332 f q r t r qaeq k i
 vertrekpunt None 010 344 f q r t r qaeq k p qoeq n t
 vertroebel None 010 333 f q r t r u b q l
 vertroetel None 010 333 f q r t r u t q l
-vertroostend None 010 344 f q r t r uq s t q n t
-vertroosting None 010 343 f q r t r uq s t q N
+vertroostend None 010 335 f q r t r uq s t q n t
+vertroosting None 010 334 f q r t r uq s t q N
 vertrou None 01 33 f q r t r qu
 vertroud None 01 34 f q r t r qu t
 vertroue None 010 331 f q r t r qu q
@@ -22831,9 +22831,9 @@ vervaardiger None 0100 3323 f q r f AA r d q x q r
 vervaardigers None 0100 3324 f q r f AA r d q x q r s
 vervaardiging None 0100 3323 f q r f AA r d q x q N
 vervaardigingsbedryf None 010002 332424 f q r f AA r d q x q N s b q d r qi f
-vervaardigingsbokoste None 0100200 3324232 f q r f AA r d q x q N s b uq k O s t q
+vervaardigingsbokoste None 0100200 3324223 f q r f AA r d q x q N s b uq k O s t q
 vervaardigingsektor None 010020 332333 f q r f AA r d q x q N s E k t O r
-vervaardigingskoste None 010020 332432 f q r f AA r d q x q N s k O s t q
+vervaardigingskoste None 010020 332423 f q r f AA r d q x q N s k O s t q
 vervaardigingsonderneming None 01000020 33242323 f q r f AA r d q x q N s O n d q r n iq m q N
 vervaardigingsproses None 010002 332433 f q r f AA r d q x q N s p r u s E s
 verval None 01 33 f q r f a l
@@ -22841,7 +22841,7 @@ vervalle None 010 322 f q r f a l q
 vervals None 01 34 f q r f a l s
 vervalsing None 010 333 f q r f a l s q N
 vervalsings None 010 334 f q r f a l s q N s
-vervalste None 010 342 f q r f a l s t q
+vervalste None 010 333 f q r f a l s t q
 vervang None 01 33 f q r f a N
 vervanging None 010 332 f q r f a N q N
 vervangingswaarde None 01020 33332 f q r f a N q N s v AA r d q
@@ -22854,9 +22854,9 @@ vervelige None 0100 3222 f q r f iq l q x q
 verversings None 010 334 f q r f qaeq r s q N s
 vervies None 01 33 f q r f i s
 vervoer None 01 33 f q r f u r
-vervoerdienste None 0100 3342 f q r f u r d i n s t q
+vervoerdienste None 0100 3333 f q r f u r d i n s t q
 vervoering None 010 323 f q r f u r q N
-vervoerkoste None 0100 3332 f q r f u r k O s t q
+vervoerkoste None 0100 3323 f q r f u r k O s t q
 vervoermaatskappy None 01020 33332 f q r f u r m AA t s k a p qi
 vervoermiddel None 0100 3323 f q r f u r m q d q l
 vervoerprobleme None 01020 33332 f q r f u r p r u b l iq m q
@@ -22928,7 +22928,7 @@ verwoede None 010 322 f q r v u d q
 verwoes None 01 33 f q r v u s
 verwoestend None 010 325 f q r v u s t q n t
 verwoestende None 0100 3242 f q r v u s t q n d q
-verwoesting None 010 333 f q r v u s t q N
+verwoesting None 010 324 f q r v u s t q N
 verwoestyning None 0010 3233 f q r v u s t qi n q N
 verwonder None 010 333 f q r v O n d q r
 verwonderd None 010 334 f q r v O n d q r t
@@ -22952,9 +22952,9 @@ verydel None 010 313 f q r qi d q l
 vesel None 10 23 f iq s q l
 veselglas None 102 234 f iq s q l x l a s
 vesels None 10 24 f iq s q l s
-vestig None 10 33 f E s t q x
-vestiging None 100 323 f E s t q x q N
-vesting None 10 33 f E s t q N
+vestig None 10 24 f E s t q x
+vestiging None 100 233 f E s t q x q N
+vesting None 10 24 f E s t q N
 vet None 0 3 f E t
 vetdruk None 10 34 f E t d r qoeq k
 veteraan None 001 223 f iq t q r AA n
@@ -23025,7 +23025,7 @@ vinnigste None 100 233 f q n q x s t q
 viole None 010 212 f i uq l q
 violet None 01 23 f iu l E t
 violis None 01 23 f iu l q s
-violiste None 010 232 f iu l q s t q
+violiste None 010 223 f iu l q s t q
 viool None 01 22 f i uq l
 vioolkonsert None 0102 2234 f i uq l k O n s qaeq r t
 vioolspel None 010 224 f i uq l s p qaeq l
@@ -23053,7 +23053,7 @@ visser None 10 23 f q s q r
 visserman None 102 233 f q s q r m a n
 vissermanne None 1020 2322 f q s q r m a n q
 vissies None 10 23 f q s i s
-vista None 10 32 v q s t a
+vista None 10 23 v q s t a
 visualiseer None 02001 22123 v i Z y a l i s iq r
 visueel None 001 222 v i Z y iq l
 visuele None 0010 2212 v i Z y iq l q
@@ -23324,7 +23324,7 @@ voorbeeldige None 0100 3322 f uq r b iq l d q x q
 voorbehou None 102 322 f uq r b q hv qu
 voorbehoud None 102 323 f uq r b q hv qu t
 voorbehoude None 1020 3222 f uq r b q hv qu d q
-voorbelaste None 1020 3232 f uq r b q l a s t q
+voorbelaste None 1020 3223 f uq r b q l a s t q
 voorberei None 102 322 f uq r b q r qi
 voorbereid None 102 323 f uq r b q r qi t
 voorbereide None 1020 3222 f uq r b q r qi d q
@@ -23394,7 +23394,7 @@ voorkomende None 0100 3232 f uq r k uq m q n d q
 voorkoming None 010 323 f uq r k uq m q N
 voorkoms None 10 34 f uq r k O m s
 voorkop None 10 33 f uq r k O p
-voorlaaste None 100 332 f uq r l AA s t q
+voorlaaste None 100 323 f uq r l AA s t q
 voorland None 10 34 f uq r l a n t
 voorlangs None 10 34 f uq r l a N s
 voorlees None 10 33 f uq r l iq s
@@ -23541,8 +23541,8 @@ voorvader None 100 323 f uq r f AA d q r
 voorvaders None 100 324 f uq r f AA d q r s
 voorval None 10 33 f uq r f a l
 voorvalle None 100 322 f uq r f a l q
-voorvereiste None 1020 3322 f uq r f q r qi s t q
-voorvereistes None 1020 3323 f uq r f q r qi s t q s
+voorvereiste None 1020 3313 f uq r f q r qi s t q
+voorvereistes None 1020 3314 f uq r f q r qi s t q s
 voorverhit None 102 333 f uq r f q r hv q t
 voorverlede None 1020 3322 f uq r f q r l iq d q
 voorvoegsel None 100 333 f uq r f u x s q l
@@ -23573,7 +23573,7 @@ vorme None 100 222 f O r q m q
 vorming None 100 223 f O r q m q N
 vormlike None 1000 2322 f O r q m l q k q
 vorms None 10 24 f O r q m s
-vorster None 10 43 f O r s t q r
+vorster None 10 34 f O r s t q r
 vos None 0 3 f O s
 vou None 0 2 f qu
 voue None 10 21 f qu q
@@ -23652,7 +23652,7 @@ vriendskaplike None 0100 5422 f r i n t s k a p l q k q
 vriendskappe None 100 532 f r i n t s k a p q
 vries None 0 4 f r i s
 vrieskas None 10 43 f r i s k a s
-vrieskaste None 100 432 f r i s k a s t q
+vrieskaste None 100 423 f r i s k a s t q
 vriespunt None 10 44 f r i s p qoeq n t
 vroedvrou None 10 43 f r u t f r qu
 vroedvroue None 100 431 f r u t f r qu q
@@ -23744,7 +23744,7 @@ vuilspel None 10 34 f qoeqy l s p qaeq l
 vuis None 0 3 f qoeqy s
 vuisgeveg None 102 323 f qoeqy s x q f qaeq x
 vuishou None 10 32 f qoeqy s hv qu
-vuiste None 10 32 f qoeqy s t q
+vuiste None 10 23 f qoeqy s t q
 vuisvoos None 10 33 f qoeqy s f uq s
 vul None 0 3 f qoeq l
 vulgaat None 01 33 f qoeq l x AA t
@@ -23772,7 +23772,7 @@ vuurpyl None 10 33 f y r p qi l
 vuurpyle None 100 322 f y r p qi l q
 vuurtjie None 10 32 f y r k i
 vuurtoring None 100 323 f y r t uq r q N
-vuurvaste None 100 332 f y r f a s t q
+vuurvaste None 100 323 f y r f a s t q
 vuurvreter None 100 333 f y r f r iq t q r
 vuurwa None 10 32 f y r v AA
 vuurwapen None 100 323 f y r v AA p q n
@@ -23905,7 +23905,7 @@ wag None 0 3 v a x
 waghond None 10 34 v a x hv O n t
 waghonde None 100 332 v a x hv O n d q
 waglys None 10 33 v a x l qi s
-waglyste None 100 332 v a x l qi s t q
+waglyste None 100 323 v a x l qi s t q
 wagpos None 10 33 v a x p O s
 wagte None 10 32 v a x t q
 wagtyd None 10 33 v a x t qi t
@@ -24021,8 +24021,8 @@ webblad None 10 34 v E b b l a t
 webbladsye None 1020 3421 v E b b l a t s qi q
 weber None 10 23 v iq b q r
 webruimte None 100 332 v E b r qoeqy m t q
-webtuiste None 100 332 v E b t qoeqy s t q
-webtuistes None 100 333 v E b t qoeqy s t q s
+webtuiste None 100 323 v E b t qoeqy s t q
+webtuistes None 100 324 v E b t qoeqy s t q s
 webwerf None 10 34 v E b v qaeq r f
 webwerwe None 100 332 v E b v qaeq r v q
 wed None 0 3 v E t
@@ -24043,7 +24043,7 @@ wedloop None 10 33 v E t l uq p
 wedlope None 100 322 v E t l uq p q
 wedren None 10 33 v E t r E n
 wedrenbyeenkoms None 10020 33224 v E t r E n b qi iq n k O m s
-wedrenbyeenkomste None 100200 332242 v E t r E n b qi iq n k O m s t q
+wedrenbyeenkomste None 100200 332233 v E t r E n b qi iq n k O m s t q
 wedrenklub None 102 334 v E t r E n k l qoeq b
 wedrenklubs None 102 335 v E t r E n k l qoeq b s
 wedrenne None 100 322 v E t r E n q
@@ -24076,7 +24076,7 @@ weemoedig None 010 223 v iq m u d q x
 ween None 0 3 v iq n
 weens None 0 4 v iq n s
 weer None 0 3 v iq r
-weerbarstige None 0100 3422 v iq r b a r s t q x q
+weerbarstige None 0100 3332 v iq r b a r s t q x q
 weerburo None 102 322 v iq r b y r uq
 weerdiens None 10 34 v iq r d i n s
 weereens None 10 33 v iq r iq n s
@@ -24112,7 +24112,7 @@ weerstandig None 102 343 v iq r s t a n d q x
 weerstandige None 1020 3422 v iq r s t a n d q x q
 weerstandigheid None 1020 3433 v iq r s t a n d q x hv qi t
 weerstandslyn None 102 363 v iq r s t a n t s l qi n
-weerstoestande None 1020 4242 v iq r s t u s t a n d q
+weerstoestande None 1020 4332 v iq r s t u s t a n d q
 weervoorspelling None 2010 3333 v iq r f uq r s p qaeq l q N
 weerwraak None 10 34 v iq r v r AA k
 wees None 0 3 v iq s
@@ -24283,7 +24283,7 @@ werklose None 100 422 v qaeq r k l uq s q
 werkloses None 100 423 v qaeq r k l uq s q s
 werknemer None 100 423 v qaeq r k n iq m q r
 werknemers None 100 424 v qaeq r k n iq m q r s
-werknemersbelasting None 100020 424233 v qaeq r k n iq m q r s b q l a s t q N
+werknemersbelasting None 100020 424224 v qaeq r k n iq m q r s b q l a s t q N
 werknemersorganisasies None 10000200 42422223 v qaeq r k n iq m q r s O r x a n i s AA s i s
 werknemervoordele None 100200 423322 v qaeq r k n iq m q r f uq r d iq l q
 werkomgewing None 1020 4223 v qaeq r k O m x iq v q N
@@ -24339,12 +24339,12 @@ wesenlike None 1000 2322 v iq s q n l q k q
 wesens None 10 24 v iq s q n s
 wesentlike None 0100 2422 v iq s q n t l q k q
 wesies None 10 23 v iq s i s
-weste None 10 32 v E s t q
-westelike None 1000 3222 v E s t q l q k q
-westerlinge None 1000 3331 v E s t q r l q N q
-western None 10 33 w E s t q n
-westers None 10 34 v E s t q r s
-westerse None 100 332 v E s t q r s q
+weste None 10 23 v E s t q
+westelike None 1000 2322 v E s t q l q k q
+westerlinge None 1000 2431 v E s t q r l q N q
+western None 10 24 w E s t q n
+westers None 10 25 v E s t q r s
+westerse None 100 242 v E s t q r s q
 wet None 0 3 v E t
 wete None 10 22 v iq t q
 wetens None 10 24 v iq t q n s
@@ -24396,7 +24396,7 @@ wildbewaarder None 1020 4233 v q l t b q v AA r d q r
 wildbewaarders None 1020 4234 v q l t b q v AA r d q r s
 wilddiewe None 100 422 v q l t d i v q
 wilde None 10 32 v q l d q
-wildebeeste None 1020 3232 v q l d q b iq s t q
+wildebeeste None 1020 3223 v q l d q b iq s t q
 wildehonde None 1020 3232 v q l d q hv O n d q
 wildekus None 102 323 v q l d q k qoeq s
 wilder None 10 33 v q l d q r
@@ -24456,7 +24456,7 @@ winsmarge None 100 432 v q n s m a r x q
 winsneming None 100 423 v q n s n iq m q N
 winsoogmerk None 102 424 v q n s uq x m qaeq r k
 winssyfers None 100 424 v q n s s qi f q r s
-winste None 10 42 v q n s t q
+winste None 10 33 v q n s t q
 winter None 10 33 v q n t q r
 winterkoue None 1020 3321 v q n t q r k qu q
 wintermaande None 1020 3332 v q n t q r m AA n d q
@@ -24517,7 +24517,7 @@ woema None 10 22 v u m a
 woensdagmiddag None 1020 4323 v u n s d a x m q d a x
 woer None 0 3 v u r
 woes None 0 3 v u s
-woeste None 10 32 v u s t q
+woeste None 10 23 v u s t q
 woestyn None 01 24 v u s t qi n
 wol None 0 3 v O l
 wolbedryf None 102 324 v O l b q d r qi f
@@ -24662,7 +24662,7 @@ wyses None 10 23 v qi s q s
 wysgeer None 10 33 v qi s x iq r
 wyshede None 100 322 v qi s hv iq d q
 wysheid None 10 33 v qi s hv qi t
-wysheidstekste None 1020 3442 v qi s hv qi t s t E k s t q
+wysheidstekste None 1020 3433 v qi s hv qi t s t E k s t q
 wysie None 10 22 v qi s i
 wysig None 10 23 v qi s q x
 wysiging None 100 223 v qi s q x q N

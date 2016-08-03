@@ -70,13 +70,16 @@ xr	(compounds)
 sk	(compounds, des-, mis-, dus-, eens-, eers-, trans-) (e.g. intra: whiskey, askies, miskien, moskou, muskadel, miniskule, masker)
 sp	(mis-, compounds) (e.g. intra: aspirant, hospitaal)
 sw	(None, presumably: compounds)
-st	(compounds, )
+st	(compounds, mis-)
 
 sl	(always, except when occuring morph-initially) (-lik, compounds, -loos, los-, mis-, trans-)
 kn	(always, except when occuring morph-initially)
 sn	(always, except when occuring morph-initially)
 sm	(always, except when occuring morph-initially)
 
+spl	(compounds, mis-) (e.g. intra: eksplisiet, eksploreer)
+skr	(mis-, compounds) (e.g. intra: deskriptiewe, diskresie, diskriminasie)
+spr	()
 
 References
 ----------

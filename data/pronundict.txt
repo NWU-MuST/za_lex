@@ -11607,7 +11607,7 @@ laserskyf None 102 234 l AA s q r s k qi f
 laserskywe None 1020 2332 l AA s q r s k qi v q
 laste None 10 23 l a s t q
 laster None 10 24 l a s t q r
-lastereis None 102 243 l a s t q r qi s
+lastereis None 102 242 l a s t q r qi s
 lasterlik None 100 243 l a s t q r l q k
 lasterlike None 1000 2422 l a s t q r l q k q
 lastersaak None 102 243 l a s t q r s AA k

@@ -43,7 +43,7 @@ Basic description of contents and development
 - Stress marking inserted: TODO
 
 
-## Notes on splitting of consonant clusters
+#### Notes on splitting of consonant clusters
 
 SPLIT THESE WHEN:
 
@@ -80,12 +80,20 @@ sm	(always, except when occuring morph-initially)
 rare:
 sf	(always, except when occuring morph-initially) (only sfeer)
 
-spl	(compounds, mis-) (e.g. intra: eksplisiet, eksploreer)
 skr	(mis-, compounds) (e.g. intra: deskriptiewe, diskresie, diskriminasie)
-spr	(always, except when occuring morph-initially) (compounds, presumably: mis-)
+spl	(compounds, mis-) (e.g. intra: eksplisiet, eksploreer)
 str	(compounds, presumably: mis-) (e.g. intra: australië, astrant, administreer, ekstreme)
+spr	(always, except when occuring morph-initially) (compounds, presumably: mis-)
 
 C	(compounds, agter-, voor-, wan-, waar-, vol-, ver-, alles-, anders-, an-, -af, -op, -agtig, -of, -om, daar-, -in, her-, hier-, -onder, hoof-, hiper-, in-, on-, onder-, op-, van-, ver-) (often in prep. compounds)
+
+#### List of possible reductions
+
+ - mp.t -> m.t
+ - Ci.Ci -> _.Ci
+ - 
+
+
 
 References
 ----------

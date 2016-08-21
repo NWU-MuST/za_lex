@@ -1053,7 +1053,7 @@ agterpant None 102 234 a x t q r p a n t
 agterpante None 1020 2332 a x t q r p a n t q
 agterplaas None 102 234 a x t q r p l AA s
 agterpote None 1020 2322 a x t q r p uq t q
-agterruit None 102 233 a x t q r r qoeqy t
+agterruit None 102 223 a x t q r qoeqy t
 agtersitplek None 1020 2334 a x t q r s q t p l qaeq k
 agtersitplekke None 10200 23332 a x t q r s q t p l qaeq k q
 agterspel None 102 234 a x t q r s p qaeq l
@@ -5602,7 +5602,7 @@ enig None 10 13 iq n q x
 enige None 100 122 iq n q x q
 enigeen None 102 123 iq n q x iq n
 eniger None 100 123 iq n q x q r
-eniggebore None 10020 13222 iq n q x x q b uq r q
+eniggebore None 10020 12222 iq n q x q b uq r q
 enigiemand None 1020 1314 iq n q x i m a n t
 enigiets None 102 133 iq n q x i t s
 enigmatiese None 00100 13222 iq n q x m AA t i s q
@@ -6194,7 +6194,7 @@ geallieerdes None 02010 21223 x q a l i iq r d q s
 geamuseerd None 0001 2124 x q a m y s iq r t
 geamuseerde None 00010 21232 x q a m y s iq r d q
 geanaliseer None 02001 21223 x q a n a l i s iq r
-geanimeerde None 00010 21232 x q a n q m iq r d q
+geanimeerde None 00010 21232 x q a n i m iq r d q
 geanker None 010 223 x q a N k q r
 geannoteerde None 02010 21232 x q a n u t iq r d q
 geantwoord None 010 234 x q a n t v uq r t
@@ -6718,8 +6718,8 @@ geliefde None 010 232 x q l i f d q
 geliefdes None 010 233 x q l i f d q s
 gelieg None 01 23 x q l i x
 gelig None 01 23 x q l q x
-gelikwideer None 0001 2233 x q l q k w q d iq r
-gelikwideerde None 00010 22332 x q l q k w q d iq r d q
+gelikwideer None 0001 2233 x q l i k w i d iq r
+gelikwideerde None 00010 22332 x q l i k w i d iq r d q
 gelisensieer None 00001 22322 x q l q s E n s i iq r
 gelisensieerde None 000010 223222 x q l q s E n s i iq r d q
 gelofte None 010 232 x q l O f t q
@@ -8204,8 +8204,8 @@ handsakke None 100 422 hv a n t s a k q
 handskoen None 10 44 hv a n t s k u n
 handskoene None 100 432 hv a n t s k u n q
 handskrif None 10 45 hv a n t s k r q f
-handtekening None 1000 4223 hv a n t t iq k q n q N
-handtekeninge None 10000 42231 hv a n t t iq k q n q N q
+handtekening None 1000 3223 hv a n t iq k q n q N
+handtekeninge None 10000 32231 hv a n t iq k q n q N q
 handtekens None 100 424 hv a n t t iq k q n s
 handvatsel None 100 433 hv a n t f a t s q l
 handvatsels None 100 434 hv a n t f a t s q l s
@@ -8469,12 +8469,12 @@ herower None 010 313 hv qaeq r uq v q r
 heroïen None 001 222 hv E r u i n
 heroïese None 0100 2212 hv iq r uq i s q
 herposisioneer None 02001 32223 hv qaeq r p u z i S iu n iq r
-herrangskik None 010 334 hv qaeq r r a N s k q k
-herrangskikking None 0100 3333 hv qaeq r r a N s k q k q N
+herrangskik None 010 234 hv qaeq r a N s k q k
+herrangskikking None 0100 2333 hv qaeq r a N s k q k q N
 herrie None 10 22 hv E r i
-herroep None 01 33 hv qaeq r r u p
-herroeping None 010 323 hv qaeq r r u p q N
-herrys None 01 33 hv qaeq r r qi s
+herroep None 01 23 hv qaeq r u p
+herroeping None 010 223 hv qaeq r u p q N
+herrys None 01 23 hv qaeq r qi s
 hersaamgestel None 0102 3324 hv qaeq r s AA m x q s t qaeq l
 hersamestelling None 01020 32233 hv qaeq r s AA m q s t qaeq l q N
 hersien None 01 33 hv qaeq r s i n
@@ -8674,8 +8674,8 @@ honderdduisende None 10200 34232 hv O n d q r t d qoeqy s q n d q
 honderde None 100 332 hv O n d q r d q
 honderdjarige None 10200 34222 hv O n d q r t j AA r q x q
 honderdste None 100 343 hv O n d q r t s t q
-honderdtal None 102 343 hv O n d q r t t a l
-honderdtalle None 1020 3422 hv O n d q r t t a l q
+honderdtal None 102 333 hv O n d q r t a l
+honderdtalle None 1020 3322 hv O n d q r t a l q
 hondeskool None 102 324 hv O n d q s k uq l
 hondjie None 10 32 hv Oi N k i
 hondjies None 10 33 hv Oi N k i s
@@ -8765,8 +8765,8 @@ hoofweg None 10 33 hv uq f v qaeq x
 hoofwerkwoorde None 1020 3432 hv uq f v qaeq r k v uq r d q
 hoog None 0 3 hv uq x
 hoogaangeskrewe None 10020 32242 hv uq x AA n x q s k r iq v q
-hooggeplaaste None 1020 3233 hv uq x x q p l AA s t q
-hooggeplaastes None 1020 3234 hv uq x x q p l AA s t q s
+hooggeplaaste None 1020 2233 hv uq x q p l AA s t q
+hooggeplaastes None 1020 2234 hv uq x q p l AA s t q s
 hooggeregshof None 1020 2243 hv uq x q r qaeq x s hv O f
 hoogland None 10 34 hv uq x l a n t
 hoogleraar None 102 323 hv uq x l iq r AA r
@@ -9368,8 +9368,8 @@ inmekaargesak None 20102 22323 q n m q k AA r x q s a k
 inmeng None 10 23 q n m E N
 inmenging None 100 232 q n m E N q N
 inmiddels None 100 224 q n m q d q l s
-inname None 100 222 q n n AA m q
-inneem None 10 23 q n n iq m
+inname None 100 122 q n AA m q
+inneem None 10 13 q n iq m
 inner None 10 13 q n q r
 innerlike None 1000 1322 q n q r l q k q
 innie None 10 12 q n i
@@ -9410,8 +9410,8 @@ insidente None 0010 2232 q n s q d E n t q
 insien None 10 23 q n s i n
 insiens None 10 24 q n s i n s
 insig None 10 23 q n s q x
-insiggewend None 2010 2324 q n s q x x iq v q n t
-insiggewende None 20100 23232 q n s q x x iq v q n d q
+insiggewend None 2010 2224 q n s q x iq v q n t
+insiggewende None 20100 22232 q n s q x iq v q n d q
 insigte None 100 232 q n s q x t q
 insigvlak None 102 234 q n s q x f l a k
 insinking None 100 233 q n s q N k q N
@@ -10685,7 +10685,7 @@ kommissielede None 01020 22222 k u m i s i l iq d q
 kommissies None 010 223 k u m i s i s
 kommoditeit None 0201 2223 k O m O d i t qi t
 kommoditeite None 02010 22222 k O m O d i t qi t q
-kommoditeitspryse None 020100 222342 k O m O d i t qi t s p r qi s q
+kommoditeitspryse None 020100 222432 k O m O d i t qi t s p r qi s q
 kommune None 100 222 k u m y n q
 kommunikasie None 20010 22222 k O m y n i k AA s i
 kommunikasiekanale None 20010200 22222222 k O m y n i k AA s i k a n AA l q
@@ -11030,9 +11030,9 @@ kortspeler None 100 433 k O r t s p iq l q r
 kortste None 10 43 k O r t s t q
 kortstondig None 010 443 k O r t s t O n d q x
 kortstondige None 0100 4422 k O r t s t O n d q x q
-korttermyn None 102 433 k O r t t qaeq r m qi n
-korttermyngeheue None 102020 433221 k O r t t qaeq r m qi n x q hv qooq q
-korttermynversekering None 1020200 4333223 k O r t t qaeq r m qi n f q r s iq k q r q N
+korttermyn None 102 333 k O r t qaeq r m qi n
+korttermyngeheue None 102020 333221 k O r t qaeq r m qi n x q hv qooq q
+korttermynversekering None 1020200 3333223 k O r t qaeq r m qi n f q r s iq k q r q N
 kortverhaalbundel None 10200 43333 k O r t f q r hv AA l b qoeq n d q l
 kortverhale None 1020 4322 k O r t f q r hv AA l q
 kortweg None 10 43 k O r t v qaeq x
@@ -12491,7 +12491,7 @@ matrieks None 01 25 m a t r i k s
 matrieksertifikaat None 020201 243223 m a t r i k s qaeq r t i f i k AA t
 matriekseun None 010 243 m a t r i k s qooq n
 matriekslaagsyfer None 01020 24423 m a t r i k s l AA x s qi f q r
-matriks None 10 25 m a t r i k s
+matriks None 10 25 m AA t r q k s
 matrikulant None 0102 2324 m a t r i k y l a n t
 matrikulante None 01020 23232 m a t r i k y l a n t q
 matrone None 010 232 m a t r uq n q
@@ -14377,7 +14377,7 @@ onheil None 10 23 O n hv qi l
 onheilige None 0100 2222 O n hv qi l q x q
 onheilspellend None 0010 2334 O n hv qi l s p qaeq l q n t
 onherbergsame None 00100 23422 O n hv qaeq r b qaeq r x s AA m q
-onherroeplik None 0010 2333 O n hv qaeq r r u p l q k
+onherroeplik None 0010 2233 O n hv qaeq r u p l q k
 onherstelbare None 00100 23422 O n hv qaeq r s t qaeq l b AA r q
 onhoudbare None 0100 2322 O n hv qu t b AA r q
 oninbare None 0100 2222 O n q n b AA r q
@@ -14403,10 +14403,10 @@ onmiskenbaar None 0010 2333 O n m q s k E n b AA r
 onmiskenbare None 00100 23322 O n m q s k E n b AA r q
 onmoontlik None 010 243 O n m uq n t l q k
 onmoontlike None 0100 2422 O n m uq n t l q k q
-onnatuurlik None 0010 2233 O n n a t y r l q k
+onnatuurlik None 0010 1233 O n a t y r l q k
 onnies None 10 13 O n i s
-onnodig None 010 223 O n n uq d q x
-onnodige None 0100 2222 O n n uq d q x q
+onnodig None 010 123 O n uq d q x
+onnodige None 0100 1222 O n uq d q x q
 onomkeerbaar None 0102 2233 O n O m k iq r b AA r
 onomwonde None 0212 2232 O n O m v O n d q
 ononderbroke None 00010 22332 O n O n d q r b r uq k q
@@ -14478,7 +14478,7 @@ onskuldig None 010 243 O n s k qoeq l d q x
 onskuldige None 0100 2422 O n s k qoeq l d q x q
 onskuldiges None 0100 2423 O n s k qoeq l d q x q s
 onskynlik None 010 243 O n s k qi n l q k
-onsself None 01 34 O n s s qaeq l f
+onsself None 01 24 O n s qaeq l f
 onstabiele None 0010 2322 O n s t a b i l q
 onstabiliteit None 00201 23223 O n s t a b i l i t qi t
 onsterflike None 0100 2522 O n s t qaeq r f l q k q
@@ -14958,12 +14958,12 @@ oorplantings None 100 244 uq r p l a n t q N s
 oorplasing None 100 233 uq r p l AA s q N
 oorplasings None 100 234 uq r p l AA s q N s
 oorproduksie None 1020 2332 uq r p r u d qoeq k s i
-oorreageer None 1002 2213 uq r r i a x iq r
-oorreaksie None 1020 2222 uq r r i a k s i
-oorredende None 0100 2232 uq r r iq d q n d q
-oorreding None 010 223 uq r r iq d q N
-oorreed None 01 23 uq r r iq t
-oorrompel None 010 233 uq r r O m p q l
+oorreageer None 1002 1213 uq r i a x iq r
+oorreaksie None 1020 1222 uq r i a k s i
+oorredende None 0100 1232 uq r iq d q n d q
+oorreding None 010 123 uq r iq d q N
+oorreed None 01 13 uq r iq t
+oorrompel None 010 133 uq r O m p q l
 oorsaak None 10 23 uq r s AA k
 oorsaaklikheid None 0102 2333 uq r s AA k l q k hv qi t
 oorsake None 100 222 uq r s AA k q
@@ -20382,8 +20382,8 @@ terapeuties None 0010 2223 t E r a p qooq t i s
 terapie None 001 222 t E r a p i
 terdeë None 010 321 t q r d i q
 tereg None 01 23 t q r qaeq x
-tereggestaan None 0102 2324 t q r qaeq x x q s t AA n
-tereggestel None 0102 2324 t q r qaeq x x q s t qaeq l
+tereggestaan None 0102 2224 t q r qaeq x q s t AA n
+tereggestel None 0102 2224 t q r qaeq x q s t qaeq l
 teregstaan None 010 234 t q r qaeq x s t AA n
 teregstelling None 0100 2333 t q r qaeq x s t qaeq l q N
 teregstellings None 0100 2334 t q r qaeq x s t qaeq l q N s
@@ -20428,36 +20428,36 @@ terugbring None 12 44 t r qoeq x b r q N
 terugdeins None 12 44 t r qoeq x d qi n s
 terugdink None 12 44 t r qoeq x d q N k
 terugeis None 12 33 t r qoeq x qi s
-teruggaan None 12 43 t r qoeq x x AA n
-teruggebel None 102 423 t r qoeq x x q b qaeq l
-teruggebring None 102 424 t r qoeq x x q b r q N
-teruggedraai None 102 423 t r qoeq x x q d r AAi
-teruggedryf None 102 424 t r qoeq x x q d r qi f
-teruggee None 10 42 t r qoeq x x iq
-teruggegaan None 102 423 t r qoeq x x q x AA n
-teruggegee None 102 422 t r qoeq x x q x iq
-teruggehou None 102 422 t r qoeq x x q hv qu
-teruggekap None 102 423 t r qoeq x x q k a p
-teruggekeer None 102 423 t r qoeq x x q k iq r
-teruggekom None 102 423 t r qoeq x x q k O m
-teruggekoop None 102 423 t r qoeq x x q k uq p
-teruggekruip None 102 424 t r qoeq x x q k r qoeqy p
-teruggekry None 102 423 t r qoeq x x q k r qi
-teruggekyk None 102 423 t r qoeq x x q k qi k
-teruggeneem None 102 423 t r qoeq x x q n iq m
-teruggeploeg None 102 424 t r qoeq x x q p l u x
-teruggeroep None 102 423 t r qoeq x x q r u p
-teruggesak None 102 423 t r qoeq x x q s a k
-teruggeskiet None 102 424 t r qoeq x x q s k i t
-teruggestaan None 102 424 t r qoeq x x q s t AA n
-teruggestap None 102 424 t r qoeq x x q s t a p
-teruggestuur None 102 424 t r qoeq x x q s t y r
-teruggetrek None 102 424 t r qoeq x x q t r qaeq k
-teruggetrokke None 1020 4232 t r qoeq x x q t r O k q
-teruggeval None 102 423 t r qoeq x x q f a l
-teruggeveg None 102 423 t r qoeq x x q f qaeq x
-teruggevind None 102 424 t r qoeq x x q f q n t
-teruggryp None 12 44 t r qoeq x x r qi p
+teruggaan None 12 33 t r qoeq x AA n
+teruggebel None 102 323 t r qoeq x q b qaeq l
+teruggebring None 102 324 t r qoeq x q b r q N
+teruggedraai None 102 323 t r qoeq x q d r AAi
+teruggedryf None 102 324 t r qoeq x q d r qi f
+teruggee None 10 32 t r qoeq x iq
+teruggegaan None 102 323 t r qoeq x q x AA n
+teruggegee None 102 322 t r qoeq x q x iq
+teruggehou None 102 322 t r qoeq x q hv qu
+teruggekap None 102 323 t r qoeq x q k a p
+teruggekeer None 102 323 t r qoeq x q k iq r
+teruggekom None 102 323 t r qoeq x q k O m
+teruggekoop None 102 323 t r qoeq x q k uq p
+teruggekruip None 102 324 t r qoeq x q k r qoeqy p
+teruggekry None 102 323 t r qoeq x q k r qi
+teruggekyk None 102 323 t r qoeq x q k qi k
+teruggeneem None 102 323 t r qoeq x q n iq m
+teruggeploeg None 102 324 t r qoeq x q p l u x
+teruggeroep None 102 323 t r qoeq x q r u p
+teruggesak None 102 323 t r qoeq x q s a k
+teruggeskiet None 102 324 t r qoeq x q s k i t
+teruggestaan None 102 324 t r qoeq x q s t AA n
+teruggestap None 102 324 t r qoeq x q s t a p
+teruggestuur None 102 324 t r qoeq x q s t y r
+teruggetrek None 102 324 t r qoeq x q t r qaeq k
+teruggetrokke None 1020 3232 t r qoeq x q t r O k q
+teruggeval None 102 323 t r qoeq x q f a l
+teruggeveg None 102 323 t r qoeq x q f qaeq x
+teruggevind None 102 324 t r qoeq x q f q n t
+teruggryp None 12 34 t r qoeq x r qi p
 terughou None 12 42 t r qoeq x hv qu
 terughê None 12 42 t r qoeq x hv E
 terugkeer None 12 43 t r qoeq x k iq r
@@ -20499,7 +20499,7 @@ tevrede None 010 232 t q f r iq d q
 tevredenheid None 0102 2333 t q f r iq d q n hv qi t
 teweeg None 01 23 t q v iq x
 teweegbring None 010 234 t q v iq x b r q N
-teweeggebring None 0100 2324 t q v iq x x q b r q N
+teweeggebring None 0100 2224 t q v iq x q b r q N
 tewens None 10 24 t iq v q n s
 teë None 10 21 t i q
 teëgekom None 1002 2123 t i q x q k O m

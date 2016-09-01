@@ -5959,7 +5959,7 @@ fisiese None 100 222 f i s i s q
 fisika None 100 222 f i s i k a
 fisikus None 201 223 f i s i k qoeq s
 fisiologie None 2001 2222 f i S iu l u x i
-fisiologiese None 20100 221222 f i S iu l uq x i s q
+fisiologiese None 20100 22222 f i S iu l uq x i s q
 fisioterapeute None 200010 222222 f i S iu t E r a p qooq t q
 fiskale None 010 232 f i s k AA l q
 fladder None 10 33 f l a d q r
@@ -8702,8 +8702,8 @@ hoofdoel None 10 33 hv uq f d u l
 hoofdoelstelling None 1020 3333 hv uq f d u l s t qaeq l q N
 hoofdoelwit None 102 333 hv uq f d u l v q t
 hoofekonoom None 1002 3123 hv uq f E k u n uq m
-hooffokus None 102 423 hv uq f f uq k qoeq s
-hooffunksies None 102 443 hv uq f f qoeq N k s i s
+hooffokus None 102 323 hv uq f f uq k qoeq s
+hooffunksies None 102 343 hv uq f f qoeq N k s i s
 hoofgebou None 102 322 hv uq f x q b qu
 hoofgedagtes None 1020 3233 hv uq f x q d a x t q s
 hoofgereg None 102 323 hv uq f x q r qaeq x
@@ -8765,9 +8765,9 @@ hoofweg None 10 33 hv uq f v qaeq x
 hoofwerkwoorde None 1020 3432 hv uq f v qaeq r k v uq r d q
 hoog None 0 3 hv uq x
 hoogaangeskrewe None 10020 32242 hv uq x AA n x q s k r iq v q
-hooggeplaaste None 1020 4233 hv uq x x q p l AA s t q
-hooggeplaastes None 1020 4234 hv uq x x q p l AA s t q s
-hooggeregshof None 1020 4243 hv uq x x q r qaeq x s hv O f
+hooggeplaaste None 1020 3233 hv uq x x q p l AA s t q
+hooggeplaastes None 1020 3234 hv uq x x q p l AA s t q s
+hooggeregshof None 1020 3243 hv uq x x q r qaeq x s hv O f
 hoogland None 10 34 hv uq x l a n t
 hoogleraar None 102 323 hv uq x l iq r AA r
 hoogmode None 100 322 hv uq x m uq d q

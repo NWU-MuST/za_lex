@@ -8765,9 +8765,9 @@ hoofweg None 10 33 hv uq f v qaeq x
 hoofwerkwoorde None 1020 3432 hv uq f v qaeq r k v uq r d q
 hoog None 0 3 hv uq x
 hoogaangeskrewe None 10020 32242 hv uq x AA n x q s k r iq v q
-hooggeplaaste None 1020 2233 hv uq x q p l AA s t q
-hooggeplaastes None 1020 2234 hv uq x q p l AA s t q s
-hooggeregshof None 1020 2243 hv uq x q r qaeq x s hv O f
+hooggeplaaste None 1020 3233 hv uq x x q p l AA s t q
+hooggeplaastes None 1020 3234 hv uq x x q p l AA s t q s
+hooggeregshof None 1020 3243 hv uq x x q r qaeq x s hv O f
 hoogland None 10 34 hv uq x l a n t
 hoogleraar None 102 323 hv uq x l iq r AA r
 hoogmode None 100 322 hv uq x m uq d q
@@ -11030,9 +11030,9 @@ kortspeler None 100 433 k O r t s p iq l q r
 kortste None 10 43 k O r t s t q
 kortstondig None 010 443 k O r t s t O n d q x
 kortstondige None 0100 4422 k O r t s t O n d q x q
-korttermyn None 102 333 k O r t qaeq r m qi n
-korttermyngeheue None 102020 333221 k O r t qaeq r m qi n x q hv qooq q
-korttermynversekering None 1020200 3333223 k O r t qaeq r m qi n f q r s iq k q r q N
+korttermyn None 102 433 k O r t t qaeq r m qi n
+korttermyngeheue None 102020 433221 k O r t t qaeq r m qi n x q hv qooq q
+korttermynversekering None 1020200 4333223 k O r t t qaeq r m qi n f q r s iq k q r q N
 kortverhaalbundel None 10200 43333 k O r t f q r hv AA l b qoeq n d q l
 kortverhale None 1020 4322 k O r t f q r hv AA l q
 kortweg None 10 43 k O r t v qaeq x
@@ -17311,7 +17311,7 @@ rond None 0 4 r O n t
 rondawel None 010 323 r O n d AA v q l
 rondawels None 010 324 r O n d AA v q l s
 rondbeweeg None 102 423 r O n t b q v iq x
-ronddra None 10 33 r O n d r AA
+ronddra None 10 43 r O n t d r AA
 ronddwaal None 10 44 r O n t d w AA l
 ronde None 10 32 r O n d q
 rondes None 10 33 r O n d q s
@@ -21670,9 +21670,9 @@ vakdissiplines None 10020 32233 f a k d q s q p l i n q s
 vakgroepe None 100 332 f a k x r u p q
 vakinhoudelike None 102000 232222 f a k q n hv qu d q l q k q
 vakke None 10 22 f a k q
-vakkennis None 102 223 f a k E n q s
-vakkode None 100 222 f a k uq d q
-vakkundige None 0100 2322 f a k qoeq n d q x q
+vakkennis None 102 323 f a k k E n q s
+vakkode None 100 322 f a k k uq d q
+vakkundige None 0100 3322 f a k k qoeq n d q x q
 vakleerling None 100 333 f a k l iq r l q N
 vakleerlinge None 1000 3331 f a k l iq r l q N q
 vakleerlingskap None 1020 3334 f a k l iq r l q N s k a p
@@ -24226,7 +24226,7 @@ wenke None 10 32 v E N k q
 wenkommando None 1020 3232 v E n k u m a n d u
 wenner None 10 23 v E n q r
 wenners None 10 24 v E n q r s
-wennommers None 100 224 v E n O m q r s
+wennommers None 120 324 v E n n O m q r s
 wenpaal None 10 33 v E n p AA l
 wenpad None 10 33 v E n p a t
 wenpunte None 100 332 v E n p qoeq n t q
@@ -24467,7 +24467,7 @@ winterskool None 102 334 v q n t q r s k uq l
 wintervakansie None 10020 33232 v q n t q r f a k a n s i
 winterveld None 102 334 v q n t q r f qaeq l t
 wip None 0 3 v q p
-wipplank None 10 25 v q p l a N k
+wipplank None 10 35 v q p p l a N k
 wis None 0 3 v q s
 wiskunde None 100 332 v q s k qoeq n d q
 wiskundig None 010 333 v q s k qoeq n d q x
@@ -24721,7 +24721,7 @@ yskas None 10 23 qi s k a s
 yskoud None 10 23 qi s k qu t
 yskoue None 100 221 qi s k qu q
 yslike None 100 222 qi s l q k q
-ysskaats None 10 15 qi s k AA t s
+ysskaats None 10 25 qi s s k AA t s
 yster None 10 14 qi s t q r
 ystererts None 102 144 qi s t q r qaeq r t s
 ystergordyn None 1002 1433 qi s t q r x O r d qi n

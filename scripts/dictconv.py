@@ -13,11 +13,11 @@ SYLBOUNDCHAR = "."
 STRESSMARKERS = set("012")
 DEFSTRESSTONE = "0"
 
-def vowelidx(syl, phset):
+def vowelidx(syl, phset, word):
     for i in range(len(syl)):
         if "vowel" in phset[syl[i]]:
             return i
-    print("WARNING: Syllable does not contain a vowel...", file=sys.stderr)
+    print("WARNING: Syllable does not contain a vowel... {}".format(word), file=sys.stderr)
     return len(syl)
 
 def maybemap(ph, phmap=None):
@@ -66,7 +66,7 @@ def print_nested(word, pos, stresspat, sylspec, phones, phset, defstresstone, ph
     for n, stress in zip([int(slen) for slen in sylspec], stresspat):
         syl = phones[i:i+n]
         i += n
-        voweli = vowelidx(syl, phset)
+        voweli = vowelidx(syl, phset, word)
         if stress != defstresstone:
             syl.insert(voweli+1, stress)
         syls.append(syl)

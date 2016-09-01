@@ -343,7 +343,7 @@ aanspreek None 10 25 AA n s p r iq k
 aanspreeklik None 010 253 AA n s p r iq k l q k
 aanspreeklikhede None 01020 25322 AA n s p r iq k l q k hv iq d q
 aanspreeklikheid None 0102 2533 AA n s p r iq k l q k hv qi t
-aanspreeksin None 101 253 AA n s p r iq k s q n
+aanspreeksin None 102 253 AA n s p r iq k s q n
 aanspreekvorm None 1020 2523 AA n s p r iq k f O r q m
 aanstaan None 10 24 AA n s t AA n
 aanstaande None 010 242 AA n s t AA n d q
@@ -528,7 +528,7 @@ adjunk None 01 24 a d j qoeq N k
 adjunkhoof None 010 243 a d j qoeq N k hv uq f
 adjunkminister None 01020 24224 a d j qoeq N k m q n q s t q r
 adjunkpresident None 01002 24324 a d j qoeq N k p r q s q d E n t
-adjunkredakteur None 01001 24233 a d j qoeq N k r E d a k t qooq r
+adjunkredakteur None 01002 24233 a d j qoeq N k r E d a k t qooq r
 adjunkspeaker None 0120 2433 a d j qoeq N k s p i k q r
 adjunkvoorsitter None 01020 24323 a d j qoeq N k f uq r s q t q r
 admin None 10 23 a d m q n
@@ -776,7 +776,7 @@ afkeurend None 120 224 a f k qooq r q n t
 afkeurende None 1200 2232 a f k qooq r q n d q
 afkeuring None 120 223 a f k qooq r q N
 afklim None 12 24 a f k l q m
-afknouery None 1202 2312 a f k n qu q r qi
+afknouery None 1200 2312 a f k n qu q r qi
 afknyp None 12 24 a f k n qi p
 afkoel None 12 23 a f k u l
 afkoeling None 120 223 a f k u l q N
@@ -870,7 +870,7 @@ afskrifte None 120 252 a f s k r q f t q
 afskrik None 12 25 a f s k r q k
 afskrikmiddel None 1200 2523 a f s k r q k m q d q l
 afskryf None 12 25 a f s k r qi f
-afskrywery None 1202 2422 a f s k r qi v q r qi
+afskrywery None 1200 2422 a f s k r qi v q r qi
 afskrywing None 120 243 a f s k r qi v q N
 afskrywings None 120 244 a f s k r qi v q N s
 afsku None 12 23 a f s k y
@@ -888,7 +888,7 @@ afsluitingsfase None 12020 23422 a f s l qoeqy t q N s f AA s q
 afsluitingsproefbalans None 120202 234424 a f s l qoeqy t q N s p r u f b a l AA n s
 afsnit None 12 24 a f s n q t
 afsny None 12 23 a f s n qi
-afsnydatum None 1202 2323 a f s n qi d AA t qoeq m
+afsnydatum None 1220 2323 a f s n qi d AA t qoeq m
 afsnypunt None 120 234 a f s n qi p qoeq n t
 afsnytyd None 120 233 a f s n qi t qi t
 afsonder None 120 233 a f s O n d q r
@@ -1164,7 +1164,7 @@ aktivis None 201 223 a k t i f q s
 aktiviste None 2010 2223 a k t i v q s t q
 aktiwiteit None 2001 2223 a k t i v i t qi t
 aktiwiteite None 20010 22222 a k t i v i t qi t q
-aktiwiteitsgebaseerde None 20010010 22242232 a k t i v i t qi t s x q b a s iq r d q
+aktiwiteitsgebaseerde None 20010020 22242232 a k t i v i t qi t s x q b a s iq r d q
 aktiwiteitsvlak None 20010 22244 a k t i v i t qi t s f l a k
 aktrise None 010 232 a k t r i s q
 aktrises None 010 233 a k t r i s q s
@@ -1319,7 +1319,7 @@ alwyn None 10 23 a l v qi n
 amajuba None 0010 1222 a m a j u b a
 amandels None 010 134 a m a n d q l s
 amateur None 001 123 a m a t qooq r
-amateurisme None 00110 12232 a m a t qooq r q s m q
+amateurisme None 00010 12232 a m a t qooq r q s m q
 amateurs None 001 124 a m a t qooq r s
 amateurspan None 0010 1234 a m a t qooq r s p a n
 ambag None 10 23 a m b a x
@@ -1478,7 +1478,7 @@ antiseptika None 00100 22322 a n t i s E p t i k a
 antisosiale None 000010 222212 a n t i s uq S i AA l q
 antitese None 0010 2222 a n t i t iq s q
 antivirale None 00010 22222 a n t i v i r AA l q
-antropologie None 20201 23222 a n t r u p u l u x i
+antropologie None 20001 23222 a n t r u p u l u x i
 antropologiese None 200100 232222 a n t r u p u l uq x i s q
 antropoloog None 2001 2323 a n t r u p u l uq x
 antropometriese None 200100 232232 a n t r u p u m iq t r i s q
@@ -1592,7 +1592,7 @@ areola None 0010 1212 a r i uq l a
 areopagusrede None 0102020 1212322 a r i u p AA x qoeq s r iq d q
 arg None 0 3 a r x
 argeloos None 102 223 a r x q l uq s
-argeologie None 20201 22122 a r x i u l u x i
+argeologie None 20001 22122 a r x i u l u x i
 argeologiese None 200100 221222 a r x i u l uq x i s q
 argeoloog None 2001 2213 a r x i u l uq x
 argetipe None 0010 2222 a r x q t i p q
@@ -4581,9 +4581,9 @@ diaspora None 0010 2132 d i a s p uq r a
 didaktiek None 201 233 d i d a k t i k
 die None 0 2 d i
 dieet None 01 22 d i iq t
-dieetkundige None 01100 22322 d i iq t k qoeq n d q x q
-dieetkundiges None 01100 22323 d i iq t k qoeq n d q x q s
-dieetriglyne None 01020 22322 d i iq t r q x l qi n q
+dieetkundige None 00100 22322 d i iq t k qoeq n d q x q
+dieetkundiges None 00100 22323 d i iq t k qoeq n d q x q s
+dieetriglyne None 01200 22322 d i iq t r q x l qi n q
 dief None 0 3 d i f
 diefstal None 10 34 d i f s t a l
 diefstalle None 100 332 d i f s t a l q
@@ -5745,7 +5745,7 @@ etiketstel None 0001 1234 E t i k E t s t qaeq l
 etikette None 0010 1222 E t i k E t q
 etiketteerder None 00010 12233 E t i k E t iq r d q r
 etiketteerders None 00010 12234 E t i k E t iq r d q r s
-etiologie None 22001 12122 E t i u l u x i
+etiologie None 20001 12122 E t i u l u x i
 etlike None 100 222 E t l q k q
 etniese None 100 222 E t n i s q
 etnisiteit None 2001 2223 E t n i s i t qi t
@@ -5755,7 +5755,7 @@ etse None 10 22 E t s q
 etude None 100 122 E t y d q
 euforie None 001 122 qooq f uq r i
 eukariote None 01020 12212 qooq k a r i uq t q
-eukariotiese None 010100 122122 qooq k a r i uq t i s q
+eukariotiese None 000100 122122 qooq k a r i uq t i s q
 eureka None 102 122 y r iq k a
 euro None 10 12 qooq r u
 europa None 010 122 qooq r uq p a
@@ -5958,9 +5958,9 @@ fisies None 10 23 f i s i s
 fisiese None 100 222 f i s i s q
 fisika None 100 222 f i s i k a
 fisikus None 201 223 f i s i k qoeq s
-fisiologie None 22001 22122 f i S i u l u x i
-fisiologiese None 200100 221222 f i S i u l uq x i s q
-fisioterapeute None 2200010 2212222 f i S i u t E r a p qooq t q
+fisiologie None 2001 2222 f i S iu l u x i
+fisiologiese None 20100 221222 f i S iu l uq x i s q
+fisioterapeute None 200010 222222 f i S iu t E r a p qooq t q
 fiskale None 010 232 f i s k AA l q
 fladder None 10 33 f l a d q r
 flagrante None 010 342 f l a x r a n t q
@@ -6093,8 +6093,8 @@ frustreer None 01 35 f r qoeq s t r iq r
 frustrerend None 010 344 f r qoeq s t r iq r q n t
 frustrerende None 0100 3432 f r qoeq s t r iq r q n d q
 fuga None 10 22 f y x a
-fundamentaliste None 201010 323223 f qoeq n d a m E n t a l q s t q
-fundamentalistiese None 2010100 3232232 f qoeq n d a m E n t a l q s t i s q
+fundamentaliste None 200010 323223 f qoeq n d a m E n t a l q s t q
+fundamentalistiese None 2000100 3232232 f qoeq n d a m E n t a l q s t i s q
 fundamentele None 20010 32322 f qoeq n d a m E n t iq l q
 fundering None 100 323 f qoeq n d iq r q N
 fundi None 10 32 f u n d i
@@ -7651,9 +7651,9 @@ geïdentifiseerde None 0020010 2132232 x q i d E n t i f i s iq r d q
 geïgnoreer None 0201 2223 x q i x n u r iq r
 geïmplementeer None 02001 22333 x q q m p l q m E n t iq r
 geïmpliseerde None 02010 22332 x q q m p l i s iq r d q
-geïndividualiseer None 01020001 22222123 x q q n d q v q d y a l i s iq r
+geïndividualiseer None 02020001 22222123 x q q n d q v q d y a l i s iq r
 geïnisieer None 00001 21222 x q i n i s i iq r
-geïnkorporeer None 01001 22323 x q q n k O r p O r iq r
+geïnkorporeer None 02001 22323 x q q n k O r p O r iq r
 geïnspireer None 0001 2233 x q q n s p i r iq r
 geïntegreer None 0001 2224 x q q n t q x r iq r
 geïntegreerd None 0001 2225 x q q n t q x r iq r t
@@ -8702,8 +8702,8 @@ hoofdoel None 10 33 hv uq f d u l
 hoofdoelstelling None 1020 3333 hv uq f d u l s t qaeq l q N
 hoofdoelwit None 102 333 hv uq f d u l v q t
 hoofekonoom None 1002 3123 hv uq f E k u n uq m
-hooffokus None 102 323 hv uq f f uq k qoeq s
-hooffunksies None 102 343 hv uq f f qoeq N k s i s
+hooffokus None 102 423 hv uq f f uq k qoeq s
+hooffunksies None 102 443 hv uq f f qoeq N k s i s
 hoofgebou None 102 322 hv uq f x q b qu
 hoofgedagtes None 1020 3233 hv uq f x q d a x t q s
 hoofgereg None 102 323 hv uq f x q r qaeq x
@@ -8765,9 +8765,9 @@ hoofweg None 10 33 hv uq f v qaeq x
 hoofwerkwoorde None 1020 3432 hv uq f v qaeq r k v uq r d q
 hoog None 0 3 hv uq x
 hoogaangeskrewe None 10020 32242 hv uq x AA n x q s k r iq v q
-hooggeplaaste None 1020 3233 hv uq x x q p l AA s t q
-hooggeplaastes None 1020 3234 hv uq x x q p l AA s t q s
-hooggeregshof None 1020 3243 hv uq x x q r qaeq x s hv O f
+hooggeplaaste None 1020 4233 hv uq x x q p l AA s t q
+hooggeplaastes None 1020 4234 hv uq x x q p l AA s t q s
+hooggeregshof None 1020 4243 hv uq x x q r qaeq x s hv O f
 hoogland None 10 34 hv uq x l a n t
 hoogleraar None 102 323 hv uq x l iq r AA r
 hoogmode None 100 322 hv uq x m uq d q
@@ -11186,8 +11186,8 @@ kriewel None 10 33 k r i v q l
 kriewelrig None 100 333 k r i v q l r q x
 krimineel None 001 323 k r q m i n iq l
 kriminele None 0010 3222 k r q m i n iq l q
-kriminologie None 00101 32222 k r q m q n u l u x i
-kriminoloog None 0011 3223 k r q m q n u l uq x
+kriminologie None 00001 32222 k r q m q n u l u x i
+kriminoloog None 0001 3223 k r q m q n u l uq x
 krimp None 0 5 k r q m p
 kring None 0 4 k r q N
 kringe None 10 41 k r q N q
@@ -11354,7 +11354,7 @@ kursusdosent None 2001 3324 k qoeq r s qoeq s d u s E n t
 kursuseenheid None 1020 3323 k qoeq r s qoeq s iq n hv qi t
 kursusgangers None 1020 3333 k qoeq r s qoeq s x a N q r s
 kursusinhoud None 1020 3323 k qoeq r s qoeq s q n hv qu t
-kursusmateriaal None 100001 332222 k qoeq r s qoeq s m a t iq r i AA l
+kursusmateriaal None 100002 332222 k qoeq r s qoeq s m a t iq r i AA l
 kursusse None 100 322 k qoeq r s qoeq s q
 kursuswerk None 102 334 k qoeq r s qoeq s v qaeq r k
 kurwe None 10 32 k qoeq r v q
@@ -11698,7 +11698,7 @@ leesaktiwiteit None 20201 32223 l iq s a k t i v i t qi t
 leesbaar None 10 33 l iq s b AA r
 leesbare None 100 322 l iq s b AA r q
 leesgids None 10 34 l iq s x q t s
-leesperiode None 12010 32212 l iq s p iq r i uq d q
+leesperiode None 10020 32212 l iq s p iq r i uq d q
 leesproses None 102 333 l iq s p r u s E s
 leesspoed None 10 34 l iq s s p u t
 leesstof None 10 34 l iq s s t O f
@@ -11717,7 +11717,7 @@ legendariese None 00100 23222 l E x q n d AA r i s q
 legende None 010 232 l q x E n d q
 legendes None 010 233 l q x E n d q s
 leggers None 10 24 l qaeq x q r s
-legio None 102 212 l iq x i u
+legio None 102 221 l iq x i u
 legitieme None 1020 2222 l E x q t i m q
 legitimiteit None 20201 22223 l E x q t i m i t qi t
 legkaart None 10 34 l qaeq x k AA r t
@@ -13396,8 +13396,8 @@ narkotikaburo None 010202 322222 n a r k uq t i k a b y r uq
 narkotiseur None 0201 3223 n a r k u t i s qooq r
 narratief None 201 223 n a r a t i f
 narre None 10 22 n a r q
-nasale None 100 222 n a s AA l q
-nasalering None 1010 2223 n a s a l iq r q N
+nasale None 010 222 n a s AA l q
+nasalering None 0010 2223 n a s a l iq r q N
 nasate None 100 222 n AA s AA t q
 nasie None 10 22 n AA s i
 nasiebou None 102 222 n AA s i b qu
@@ -13430,7 +13430,7 @@ nate None 10 22 n AA t q
 natref None 10 24 n AA t r E f
 natrium None 102 232 n AA t r i qoeq m
 nattigheid None 102 233 n a t q x hv qi t
-naturalisme None 10010 22232 n a t qoeq r a l q s m q
+naturalisme None 00010 22232 n a t qoeq r a l q s m q
 nature None 010 222 n a t y r q
 natuur None 01 23 n a t y r
 natuurbewaarder None 01020 23233 n a t y r b q v AA r d q r
@@ -13447,8 +13447,8 @@ natuurskoon None 010 234 n a t y r s k uq n
 natuurstigting None 0100 2343 n a t y r s t q x t q N
 natuurtonele None 01020 23222 n a t y r t u n iq l q
 natuurverskynsels None 01020 23344 n a t y r f q r s k qi n s q l s
-natuurwetenskaplike None 0100100 2323422 n a t y r v iq t q n s k a p l q k q
-natuurwetenskappe None 010020 232332 n a t y r v iq t q n s k a p q
+natuurwetenskaplike None 0100200 2323422 n a t y r v iq t q n s k a p l q k q
+natuurwetenskappe None 012000 232332 n a t y r v iq t q n s k a p q
 navigator None 0010 2223 n a v i x AA t O r
 navigators None 0010 2224 n a v i x AA t O r s
 navigeer None 001 223 n a f i x iq r
@@ -13464,7 +13464,7 @@ navorsingsboek None 1020 2343 n AA f O r s q N s b u k
 navorsingseenheid None 10202 23423 n AA f O r s q N s iq n hv qi t
 navorsingsentrum None 10202 23334 n AA f O r s q N s E n t r qoeq m
 navorsingsgerigte None 102000 234232 n AA f O r s q N s x q r q x t q
-navorsingsmetodes None 102010 234223 n AA f O r s q N s m q t uq d q s
+navorsingsmetodes None 102020 234223 n AA f O r s q N s m q t uq d q s
 navorsingsmetodologie None 10202001 23422222 n AA f O r s q N s m E t u d u l u x i
 navorsingsontwerp None 10202 23434 n AA f O r s q N s O n t v qaeq r p
 navorsingsontwikkeling None 1020200 2343223 n AA f O r s q N s O n t v q k q l q N
@@ -16224,10 +16224,10 @@ posse None 10 22 p O s q
 posstukke None 100 332 p O s s t qoeq k q
 poste None 10 23 p O s t q
 posthumus None 120 233 p O s t y m qoeq s
-postkoloniale None 100010 422212 p qu s t k u l uq n i AA l q
+postkoloniale None 100020 422212 p qu s t k u l uq n i AA l q
 postmodern None 1020 4223 p qu s t m u d qaeq r q n
-postmodernisme None 10100 42332 p qu s t m u d qaeq r n q s m q
-postmodernistiese None 101000 423232 p qu s t m u d qaeq r n q s t i s q
+postmodernisme None 10020 42332 p qu s t m u d qaeq r n q s m q
+postmodernistiese None 100200 423232 p qu s t m u d qaeq r n q s t i s q
 postpartumbloeding None 12020 43333 p qu s t p a r t qoeq m b l u d q N
 postpartumperiode None 1200020 4332212 p qu s t p a r t qoeq m p iq r i uq d q
 postuleer None 001 233 p O s t y l iq r

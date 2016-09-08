@@ -21824,8 +21824,8 @@ veeboere None 100 222 f iq b u r q
 veediewe None 100 222 f iq d i v q
 veel None 0 3 f iq l
 veelbesproke None 1020 3242 f iq l b q s p r uq k q
-veeleisend None 010 224 f iq l qi s q n t
-veeleisende None 0100 2232 f iq l qi s q n d q
+veeleisend None 010 314 f iq l qi s q n t
+veeleisende None 0100 3132 f iq l qi s q n d q
 veelheid None 10 33 f iq l hv qi t
 veelparty None 102 332 f iq l p a r t qi
 veelrassige None 1020 3222 f iq l r a s q x q

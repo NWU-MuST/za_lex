@@ -35,67 +35,23 @@ Basic description of contents and development
 
 ### Development
 
-- Current Afrikaans dictionary (`pronundict.txt`) originates from `./ref/rcrl_apd_20110311/rcrl_apd.1.4.1.txt`
-- Small TTS optimisations:
-   -- Merging of diphthongs and affricates (TODO: list)
-   -- Remove acute accent diacritic (entries) -- see grapheme set in `graphemeset.txt`
-- Syllabification done semi-automatically to consider morpheme boundaries and phonotactic constraints (described in publication to follow, notes on splitting of consonant clusters below)
-- Stress marking inserted: TODO
+Current state of development:
+ - `pronundict.txt` originates from `./ref/rcrl_apd_20110311/rcrl_apd.1.4.1.txt`
+ - Adaptations from the source dictionary and inclusion of syllable boundaries is described in the following paper [1].
+ - Current stress markers are experimental, this should be considered work-in-progress.
 
 
-#### Notes on splitting of consonant clusters
+### List of possibly useful transformations
 
-SPLIT THESE WHEN:
+Here we keep track of dictionary transformations that may be useful in different applications (contexts). Will possibly provide conversion scripts in the future.
 
-bl	(None, presumably: sub-, compounds)
-br	(sub-, compounds)
-dr	(None -- don't occur at compound boundaries because of final-devoicing)
-dw	(None -- don't occur at compound boundaries because of final-devoicing)
-fl	(af-, hoof-, self-, half-, -lik, -loos, compounds)
-fr	(af-, hoof, self-, half-, compounds)
-gl	(NOTINDICT)
-gr	(NOTINDICT)
-gw	(NOTINDICT)
-kl	(-lik, -loos, compounds)
-kr	(compounds)
-kw	(None, presumably: compounds)
-pl	(-lik, -loos, op-, compounds)
-pr	(op-, compounds)
-tr	(compounds, uit-, ont-)
-tw	(None, presumably: compounds)
-vr	(None -- don't occur at compound boundaries because of final-devoicing)
-xl	(-lik, compounds)
-xr	(compounds)
-
-kn	(always, except when occuring morph-initially)
-
-sk	(compounds, des-, mis-, dus-, eens-, eers-, trans-) (e.g. intra: whiskey, askies, miskien, moskou, muskadel, miniskule, masker)
-sp	(mis-, compounds) (e.g. intra: aspirant, hospitaal)
-sw	(None, presumably: compounds)
-st	(compounds, mis-)
-sl	(always, except when occuring morph-initially) (-lik, compounds, -loos, los-, mis-, trans-)
-sn	(always, except when occuring morph-initially)
-sm	(always, except when occuring morph-initially)
-
-rare:
-sf	(always, except when occuring morph-initially) (only sfeer)
-
-skr	(mis-, compounds) (e.g. intra: deskriptiewe, diskresie, diskriminasie)
-spl	(compounds, mis-) (e.g. intra: eksplisiet, eksploreer)
-str	(compounds, presumably: mis-) (e.g. intra: australië, astrant, administreer, ekstreme)
-spr	(always, except when occuring morph-initially) (compounds, presumably: mis-)
-
-C	(compounds, agter-, voor-, wan-, waar-, vol-, ver-, alles-, anders-, an-, -af, -op, -agtig, -of, -om, daar-, -in, her-, hier-, -onder, hoof-, hiper-, in-, on-, onder-, op-, van-, ver-) (often in prep. compounds)
-
-#### List of possible reductions
-
- - mp.t -> m.t
- - Ci.Ci -> _.Ci
- - 
-
+```
+mp.t -> m.t
+Cₓ.Cₓ -> _.Cₓ
+```
 
 
 References
 ----------
 
-TODO
+[1] __Forthcoming__

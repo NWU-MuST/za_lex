@@ -443,7 +443,7 @@ aanwysings None 100 224 AA n v qi s q N s
 aap None 0 2 AA p
 aar None 0 2 AA r
 aard None 0 3 AA r t
-aardas None 10 23 AA r t a s
+aardas None 10 32 AA r t a s
 aardbewing None 100 323 AA r t b iq v q N
 aardbewings None 100 324 AA r t b iq v q N s
 aarde None 10 22 AA r d q
@@ -909,7 +909,7 @@ afstand None 12 25 a f s t a n t
 afstandbeheer None 1202 2523 a f s t a n t b q hv iq r
 afstanddoening None 1200 2423 a f s t a n d u n q N
 afstande None 120 242 a f s t a n d q
-afstandsonderrig None 12000 25323 a f s t a n t s O n d q r q x
+afstandsonderrig None 12000 26223 a f s t a n t s O n d q r q x
 afstandstudente None 12020 25332 a f s t a n t s t y d E n t q
 afsteek None 12 24 a f s t iq k
 afstel None 12 24 a f s t qaeq l
@@ -1090,7 +1090,7 @@ agttal None 10 23 a x t a l
 agttien None 10 23 a x t i n
 agttiende None 100 232 a x t i n d q
 agttienjarige None 10200 23222 a x t i n j AA r q x q
-agtuur None 10 23 a x t y r
+agtuur None 10 32 a x t y r
 aha None 01 12 a hv a
 ai None 0 1 ai
 aia None 10 11 ai a
@@ -1220,7 +1220,7 @@ alhoewel None 201 223 a l hv u v qaeq l
 alia None 100 121 AA l i a
 alias None 100 122 AA l i a s
 alie None 10 12 AA l i
-alkaanamiene None 10200 22222 a l k AA n a m i n q
+alkaanamiene None 10200 23122 a l k AA n a m i n q
 alkali None 102 222 a l k AA l i
 alkaliese None 1020 2222 a l k AA l i s q
 alkanale None 1020 2222 a l k a n AA l q
@@ -1906,7 +1906,7 @@ bane None 10 22 b AA n q
 bang None 0 3 b a N
 bangbroek None 10 34 b a N b r u k
 baniere None 010 222 b a n i r q
-banjo None 10 32 b a n dZ qu
+banjo None 10 32 b qaeq n dZ qu
 bank None 0 4 b a N k
 bankaksepte None 1020 4232 b a N k a k s E p t q
 bankamptenaar None 1002 4323 b a N k a m p t q n AA r
@@ -2059,7 +2059,7 @@ bedinge None 010 231 b q d q N q
 bedinging None 010 232 b q d q N q N
 bedingingsmag None 0102 2333 b q d q N q N s m a x
 bedink None 01 24 b q d q N k
-bedjie None 102 212 b E i k i
+bedjie None 10 22 b E k i
 bedkassie None 102 322 b E t k a s i
 bedoel None 01 23 b q d u l
 bedoelde None 010 232 b q d u l d q
@@ -3306,7 +3306,7 @@ bits None 0 4 b q t s
 bitsig None 10 33 b q t s q x
 bitter None 10 23 b q t q r
 bittere None 100 222 b q t q r q
-bittereinders None 1020 2234 b q t q r qi n d q r s
+bittereinders None 1020 2324 b q t q r qi n d q r s
 bitterheid None 102 233 b q t q r hv qi t
 bittersoet None 102 233 b q t q r s u t
 blaadjie None 10 32 b l AAi k i
@@ -3390,7 +3390,7 @@ bloedjong None 10 43 b l u t j O N
 bloedklonte None 100 442 b l u t k l O n t q
 bloedlose None 100 422 b l u t l uq s q
 bloedmonsters None 100 435 b l u t m O n s t q r s
-bloedoortappings None 1020 3324 b l u t uq r t a p q N s
+bloedoortappings None 1020 4224 b l u t uq r t a p q N s
 bloedplasma None 102 442 b l u t p l a s m a
 bloedrivier None 102 423 b l u t r q f i r
 bloedrooi None 10 42 b l u t r OOi
@@ -4028,7 +4028,7 @@ busbestuurders None 1020 3244 b qoeq s b q s t y r d q r s
 busdiens None 10 34 b qoeq s d i n s
 bushalte None 100 332 b qoeq s hv a l t q
 buskruit None 10 34 b qoeq s k r qoeqy t
-busongeluk None 1002 2323 b qoeq s O n x q l qoeq k
+busongeluk None 1002 3223 b qoeq s O n x q l qoeq k
 busse None 10 22 b qoeq s q
 bussie None 10 22 b qoeq s i
 bussies None 10 23 b qoeq s i s
@@ -4158,7 +4158,7 @@ chileense None 100 232 tS i l iq n s q
 chirurg None 01 24 S i r qoeq r x
 chirurgie None 001 232 S i r qoeq r x i
 chloor None 0 4 k l uq r
-chlooramfenikol None 10202 33223 k l uq r a m f E n i k O l
+chlooramfenikol None 10202 42223 k l uq r a m f E n i k O l
 chlorofil None 102 323 k l uq r u f q l
 chloroplaste None 1020 3233 k l uq r u p l a s t q
 cholera None 102 222 k uq l q r a
@@ -4288,7 +4288,7 @@ dansvloer None 10 44 d AA n s f l u r
 dapper None 10 23 d a p q r
 dapperheid None 102 233 d a p q r hv qi t
 darem None 10 23 d a r q m
-darwin None 10 23 d AA w q n
+darwin None 10 33 d AA r w q n
 das None 0 3 d a s
 dasse None 10 22 d a s q
 dat None 0 3 d a t
@@ -4308,7 +4308,7 @@ debatproposisie None 010020 233222 d q b a t p r O p u z i s i
 debatsreëls None 0100 2423 d q b a t s r i q l s
 debatte None 010 222 d q b a t q
 debatteer None 001 223 d E b a t iq r
-debietorder None 0100 2233 d q b i t O r d q r
+debietorder None 0100 2323 d q b i t O r d q r
 debietsaldo None 0100 2332 d q b i t s a l d u
 debiteer None 001 223 d E b i t iq r
 debiteure None 0010 2222 d E b i t qooq r q
@@ -4417,8 +4417,8 @@ denkbeeldige None 0100 4322 d E N k b iq l d q x q
 denke None 10 32 d E N k q
 denkende None 100 332 d E N k q n d q
 denkers None 10 34 d E N k q r s
-denkkaart None 10 34 d E N k AA r t
-denkklimaat None 102 333 d E N k l i m AA t
+denkkaart None 10 44 d E N k k AA r t
+denkklimaat None 102 433 d E N k k l i m AA t
 denkpatrone None 1020 4232 d E N k p a t r uq n q
 denkpatroon None 102 424 d E N k p a t r uq n
 denkraamwerk None 102 434 d E N k r AA m v qaeq r k
@@ -4799,7 +4799,7 @@ doelgerigtheid None 1002 3243 d u l x q r q x t hv qi t
 doelhok None 10 33 d u l hv O k
 doelloos None 10 23 d u l uq s
 doellose None 100 222 d u l uq s q
-doellyn None 10 23 d u l qi n
+doellyn None 10 33 d u l l qi n
 doelmatig None 010 323 d u l m AA t q x
 doelmatigheid None 0102 3233 d u l m AA t q x hv qi t
 doelpale None 100 322 d u l p AA l q
@@ -5187,7 +5187,7 @@ dwarsboom None 10 53 d w a r s b uq m
 dwarsdeur None 10 53 d w a r s d qooq r
 dwarsklap None 10 54 d w a r s k l a p
 dwarslat None 10 53 d w a r s l a t
-dwarsoor None 10 43 d w a r s uq r
+dwarsoor None 10 52 d w a r s uq r
 dwase None 10 32 d w AA s q
 dwelm None 10 33 d w qaeq l q m
 dwelmgebruik None 1002 3324 d w qaeq l q m x q b r qoeqy k
@@ -5260,7 +5260,7 @@ eentalige None 0100 2222 iq n t AA l q x q
 eentjie None 12 22 iq N k i
 eentonig None 010 223 iq n t uq n q x
 eentonige None 0100 2222 iq n t uq n q x q
-eenuur None 10 13 iq n y r
+eenuur None 10 22 iq n y r
 eenvormig None 0100 2223 iq n f O r q m q x
 eenvormige None 01020 22222 iq n f O r q m q x q
 eenvormigheid None 01002 22233 iq n f O r q m q x hv qi t
@@ -5441,7 +5441,7 @@ ekostelsels None 1000 1244 iq k u s t qaeq l s q l s
 ekotoerisme None 20010 12232 iq k u t u r q s m q
 eks None 0 3 E k s
 eksamen None 010 223 E k s AA m q n
-eksamendoeleindes None 010200 223233 E k s AA m q n d u l qi n d q s
+eksamendoeleindes None 010200 223323 E k s AA m q n d u l qi n d q s
 eksamengeleenthede None 0100200 2232422 E k s AA m q n x q l iq n t hv iq d q
 eksamengeleentheid None 010020 223243 E k s AA m q n x q l iq n t hv qi t
 eksamenpunte None 01020 22332 E k s AA m q n p qoeq n t q
@@ -6077,7 +6077,7 @@ frankfort None 10 54 f r a N k f O r t
 frankfurtse None 100 542 f r a N k f u r t s q
 frankryk None 10 44 f r a N k r qi k
 fransman None 10 53 f r AA n s m a n
-franssprekende None 1000 4432 f r AA n s p r iq k q n d q
+franssprekende None 1000 5432 f r AA n s s p r iq k q n d q
 frase None 10 32 f r AA s q
 frasering None 010 323 f r a s iq r q N
 fratsongeluk None 1002 5223 f r a t s O n x q l qoeq k
@@ -6334,7 +6334,7 @@ gedefinieer None 02001 22222 x q d E f q n i iq r
 gedefinieerde None 020010 222222 x q d E f q n i iq r d q
 gedefinieër None 02001 22222 x q d E f q n i iq r
 gedek None 01 23 x q d qaeq k
-gedelegeer None 0001 2223 x q d q l i x iq r
+gedelegeer None 0001 2223 x q d q l q x iq r
 gedemp None 01 24 x q d E m p
 gedempte None 010 242 x q d E m p t q
 gedenk None 01 24 x q d E N k
@@ -6423,7 +6423,7 @@ geelsug None 10 33 x iq l s qoeq x
 geelvis None 10 33 x iq l f q s
 geelwortel None 100 333 x iq l v O r t q l
 geen None 0 3 x iq n
-geeneen None 10 23 x iq n iq n
+geeneen None 10 32 x iq n iq n
 geensins None 10 34 x iq n s q n s
 gees None 0 3 x iq s
 geesdrif None 10 34 x iq s d r q f
@@ -7870,7 +7870,7 @@ grasie None 10 32 x r AA s i
 grasperk None 10 44 x r a s p qaeq r k
 grasperke None 100 432 x r a s p qaeq r k q
 grasse None 10 32 x r a s q
-grasuie None 100 321 x r a s qoeqy q
+grasuie None 100 411 x r a s qoeqy q
 grasveld None 10 44 x r a s f qaeq l t
 grasvlaktes None 100 443 x r a s f l a k t q s
 gratis None 10 33 x r AA t q s
@@ -8021,7 +8021,7 @@ grotendeels None 102 334 x r uq t q n d iq l s
 groter None 10 33 x r uq t q r
 groterige None 1020 3222 x r uq t q r q x q
 grotes None 10 33 x r uq t q s
-groteske None 010 332 x r u t E s k q
+groteske None 010 323 x r u t E s k q
 grou None 0 3 x r qu
 growwe None 10 32 x r O v q
 gru None 0 3 x r y
@@ -8130,7 +8130,7 @@ hallusinasies None 20010 22223 hv a l u s i n AA s i s
 haloalkane None 01020 22222 hv a l u a l k AA n q
 halogene None 0010 2222 hv a l u x iq n q
 hals None 0 4 hv a l s
-halsoorkop None 102 333 hv a l s uq r k O p
+halsoorkop None 102 423 hv a l s uq r k O p
 halssnoer None 10 44 hv a l s s n u r
 halssnoermoorde None 1020 4432 hv a l s s n u r m uq r d q
 halt None 0 4 hv a l t
@@ -8623,7 +8623,7 @@ hoewe None 10 22 hv u v q
 hoewel None 01 23 hv u v qaeq l
 hoewes None 10 23 hv u v q s
 hof None 0 3 hv O f
-hofaansoek None 102 233 hv O f AA n s u k
+hofaansoek None 102 323 hv O f AA n s u k
 hofbeslissing None 1020 3233 hv O f b q s l q s q N
 hofbeslissings None 1020 3234 hv O f b q s l q s q N s
 hofbevel None 102 323 hv O f b q f qaeq l
@@ -8631,7 +8631,7 @@ hofgebou None 102 322 hv O f x q b qu
 hofgeding None 100 323 hv O f x q d q N
 hofgedinge None 1000 3231 hv O f x q d q N q
 hofies None 10 23 hv uq f i s
-hofinterdik None 1002 2333 hv O f q n t q r d q k
+hofinterdik None 1002 3233 hv O f q n t q r d q k
 hoflikheid None 102 333 hv O f l q k hv qi t
 hofsaak None 10 33 hv O f s AA k
 hofsaal None 10 33 hv O f s AA l
@@ -8639,9 +8639,9 @@ hofsake None 100 322 hv O f s AA k q
 hofselle None 100 322 hv O f s qaeq l q
 hofsitting None 100 323 hv O f s q t q N
 hofstukke None 100 332 hv O f s t qoeq k q
-hofuitspraak None 102 235 hv O f qoeqy t s p r AA k
-hofuitsprake None 1020 2342 hv O f qoeqy t s p r AA k q
-hofverrigtinge None 10000 22331 hv O f q r q x t q N q
+hofuitspraak None 102 325 hv O f qoeqy t s p r AA k
+hofuitsprake None 1020 3242 hv O f qoeqy t s p r AA k q
+hofverrigtinge None 10000 32331 hv O f f q r q x t q N q
 hok None 0 3 hv O k
 hokgeslaan None 102 324 hv O k x q s l AA n
 hokke None 10 22 hv O k q
@@ -10887,7 +10887,7 @@ kontinent None 001 324 k O n t i n E n t
 kontinentale None 00010 32322 k O n t i n E n t AA l q
 kontinente None 0010 3232 k O n t i n E n t q
 kontingent None 001 334 k O n t q n x E n t
-kontinu None 010 322 k O n t q n y
+kontinu None 010 322 k O n t i n y
 kontinuïteit None 02001 32213 k O n t i n y i t qi t
 kontoere None 010 322 k O n t u r q
 kontra None 10 33 k O n t r a
@@ -11371,7 +11371,7 @@ kusvlak None 10 34 k qoeq s f l a k
 kusvlakte None 100 342 k qoeq s f l a k t q
 kuswag None 10 33 k qoeq s v a x
 kwaad None 0 4 k w AA t
-kwaadaardige None 0100 3322 k w AA t AA r d q x q
+kwaadaardige None 0100 4222 k w AA t AA r d q x q
 kwaadwillig None 010 423 k w AA t v q l q x
 kwaadwillige None 0100 4222 k w AA t v q l q x q
 kwaai None 0 3 k w AAi
@@ -12153,8 +12153,8 @@ lowergroen None 102 234 l uq v q r x r u n
 lucas None 10 23 l u k a s
 lucy None 10 22 l u s i
 lug None 0 3 l qoeq x
-lugaanval None 102 233 l qoeq x AA n f a l
-lugaanvalle None 1020 2322 l qoeq x AA n f a l q
+lugaanval None 102 323 l qoeq x AA n f a l
+lugaanvalle None 1020 3222 l qoeq x AA n f a l q
 lugbesoedeling None 10200 32223 l qoeq x b q s u d q l q N
 lugdiens None 10 34 l qoeq x d i n s
 lugdienste None 100 333 l qoeq x d i n s t q
@@ -15586,7 +15586,7 @@ paartjie None 10 32 p AA r k i
 paartjies None 10 33 p AA r k i s
 paasfees None 10 33 p AA s f iq s
 pad None 0 3 p a t
-padagentskap None 1020 2244 p a t a x E n t s k a p
+padagentskap None 1020 3144 p a t a x E n t s k a p
 padda None 10 22 p a d a
 paddastoele None 1020 2232 p a d a s t u l q
 padgebruikers None 1020 3234 p a t x q b r qoeqy k q r s
@@ -15594,9 +15594,9 @@ padgee None 10 32 p a t x iq
 padgegee None 102 322 p a t x q x iq
 padkaart None 10 34 p a t k AA r t
 padnetwerk None 102 334 p a t n E t v qaeq r k
-padongelukfonds None 10020 23235 p a t O n x q l qoeq k f O n t s
-padongelukke None 10020 23222 p a t O n x q l qoeq k q
-padoppervlak None 1002 2234 p a t O p q r f l a k
+padongelukfonds None 10020 32235 p a t O n x q l qoeq k f O n t s
+padongelukke None 10020 32222 p a t O n x q l qoeq k q
+padoppervlak None 1002 3134 p a t O p q r f l a k
 padtekens None 100 324 p a t t iq k q n s
 padveiligheid None 1002 3233 p a t f qi l q x hv qi t
 padversperring None 1020 3333 p a t f q r s p qaeq r q N
@@ -17428,7 +17428,7 @@ ruggraat None 10 34 r qoeq x x r AA t
 rugkant None 10 34 r qoeq x k a n t
 rugleuning None 100 323 r qoeq x l qooq n q N
 rugmurg None 10 34 r qoeq x m qoeq r x
-rugoperasie None 10020 22222 r qoeq x uq p q r AA s i
+rugoperasie None 10020 31222 r qoeq x uq p q r AA s i
 rugpyn None 10 33 r qoeq x p qi n
 rugslag None 10 34 r qoeq x s l a x
 ruik None 0 3 r qoeqy k
@@ -18413,7 +18413,7 @@ skoolbanke None 100 432 s k uq l b a N k q
 skoolboeke None 100 422 s k uq l b u k q
 skoolbus None 10 43 s k uq l b qoeq s
 skooldag None 10 43 s k uq l d a x
-skooleffektiwiteit None 202001 323223 s k uq l E f E k t i v i t qi t
+skooleffektiwiteit None 202001 413223 s k uq l E f E k t i v i t qi t
 skoolgaan None 10 43 s k uq l x AA n
 skoolgebou None 102 422 s k uq l x q b qu
 skoolgeboue None 1020 4221 s k uq l x q b qu q
@@ -18596,7 +18596,7 @@ skuldigbevinding None 10020 43233 s k qoeq l d q x b q f q n d q N
 skuldigbevindings None 10020 43234 s k qoeq l d q x b q f q n d q N s
 skuldige None 100 422 s k qoeq l d q x q
 skuldiges None 100 423 s k qoeq l d q x q s
-skuldinvorderaars None 10202 43324 s k qoeq l t q n f O r d q r AA r s
+skuldinvorderaars None 10202 52324 s k qoeq l t q n f O r d q r AA r s
 skuldverhouding None 1020 5323 s k qoeq l t f q r hv qu d q N
 skulp None 0 5 s k qoeq l p
 skulpe None 10 42 s k qoeq l p q
@@ -19739,7 +19739,7 @@ stroom None 0 5 s t r uq m
 stroomaf None 10 52 s t r uq m a f
 stroombaan None 10 53 s t r uq m b AA n
 stroombane None 100 522 s t r uq m b AA n q
-stroomop None 10 43 s t r uq m O p
+stroomop None 10 52 s t r uq m O p
 stroop None 0 5 s t r uq p
 stropers None 10 44 s t r uq p q r s
 struggle None 10 43 s t r a g q l
@@ -19842,7 +19842,7 @@ stysel None 10 33 s t qi s q l
 stywe None 10 32 s t qi v q
 stywer None 10 33 s t qi v q r
 sub None 0 3 s u b
-subartikel None 1020 2323 s qoeq b a r t i k q l
+subartikel None 1020 3223 s qoeq b a r t i k q l
 subjek None 10 33 s qoeq b j E k
 subjekte None 100 332 s qoeq b j E k t q
 subjektief None 201 333 s qoeq b j E k t i f
@@ -19869,7 +19869,7 @@ subtiele None 010 322 s qoeq b t i l q
 subtiliteit None 0201 3223 s qoeq b t i l i t qi t
 subtipes None 010 323 s qoeq b t i p q s
 subtitel None 010 323 s qoeq b t i t q l
-subunie None 102 222 s qoeq b y n i
+subunie None 102 312 s qoeq b y n i
 suffiks None 10 24 s qoeq f q k s
 suffren None 10 24 s qoeq f r q n
 sug None 0 3 s qoeq x
@@ -20098,12 +20098,12 @@ taiwannese None 2010 2222 t ai w a n iq s q
 tak None 0 3 t a k
 take None 10 22 t AA k q
 takel None 10 23 t AA k q l
-takkantoor None 102 233 t a k a n t uq r
-takkantore None 1020 2322 t a k a n t uq r q
+takkantoor None 102 333 t a k k a n t uq r
+takkantore None 1020 3322 t a k k a n t uq r q
 takke None 10 22 t a k q
 takkie None 10 22 t a k i
 takkies None 10 23 t a k i s
-takkode None 100 222 t a k uq d q
+takkode None 100 322 t a k k uq d q
 taksonomie None 0102 3222 t a k s u n u m i
 taksonomiese None 01020 32222 t a k s u n uq m i s q
 taktiek None 01 33 t a k t i k
@@ -20427,7 +20427,7 @@ terugbetalings None 1020 4224 t r qoeq x b q t AA l q N s
 terugbring None 12 44 t r qoeq x b r q N
 terugdeins None 12 44 t r qoeq x d qi n s
 terugdink None 12 44 t r qoeq x d q N k
-terugeis None 12 33 t r qoeq x qi s
+terugeis None 12 42 t r qoeq x qi s
 teruggaan None 12 33 t r qoeq x AA n
 teruggebel None 102 323 t r qoeq x q b qaeq l
 teruggebring None 102 324 t r qoeq x q b r q N
@@ -20520,7 +20520,7 @@ tienjarige None 1020 3222 t i n j AA r q x q
 tienkamp None 10 34 t i n k a m p
 tienstammeryk None 1002 3323 t i n s t a m q r qi k
 tientalle None 100 322 t i n t a l q
-tienuur None 10 23 t i n y r
+tienuur None 10 32 t i n y r
 tier None 0 3 t i r
 tiere None 10 22 t i r q
 tierlantyntjies None 0010 3333 t i r l a n t qi N k i s
@@ -21433,9 +21433,9 @@ uitnodiging None 1200 2223 qoeqy t n uq d q x q N
 uitnodigings None 1200 2224 qoeqy t n uq d q x q N s
 uitnodigingspan None 12002 22234 qoeqy t n uq d q x q N s p a n
 uitnooi None 12 22 qoeqy t n OOi
-uitoefen None 120 123 qoeqy t u f q n
-uitoefening None 1200 1223 qoeqy t u f q n q N
-uitoorlê None 120 132 qoeqy t uq r l E
+uitoefen None 120 213 qoeqy t u f q n
+uitoefening None 1200 2123 qoeqy t u f q n q N
+uitoorlê None 120 222 qoeqy t uq r l E
 uitpluis None 12 24 qoeqy t p l qoeqy s
 uitpraat None 12 24 qoeqy t p r AA t
 uitputtend None 120 224 qoeqy t p qoeq t q n t
@@ -21668,7 +21668,7 @@ vakdidaktieklêer None 102020 323322 f a k d i d a k t i k l qaeq q r
 vakdidaktiese None 10200 32322 f a k d i d a k t i s q
 vakdissiplines None 10020 32233 f a k d q s q p l i n q s
 vakgroepe None 100 332 f a k x r u p q
-vakinhoudelike None 102000 232222 f a k q n hv qu d q l q k q
+vakinhoudelike None 102000 322222 f a k q n hv qu d q l q k q
 vakke None 10 22 f a k q
 vakkennis None 102 323 f a k k E n q s
 vakkode None 100 322 f a k k uq d q
@@ -21734,11 +21734,11 @@ vanjaar None 01 33 f a n j AA r
 vanmiddag None 010 323 f a n m q d a x
 vanmore None 010 322 f a n m uq r q
 vannag None 01 23 f a n a x
-vanoggend None 010 224 f a n O x q n t
+vanoggend None 010 314 f a n O x q n t
 vanself None 01 34 f a n s qaeq l f
 vanselfsprekend None 0010 3444 f a n s qaeq l f s p r iq k q n t
 vantevore None 0010 3222 f a n t q f uq r q
-vanuit None 01 23 f a n qoeqy t
+vanuit None 01 32 f a n qoeqy t
 vanwaar None 01 33 f a n v AA r
 vanweë None 010 321 f a n v i q
 variante None 0010 2222 v a r i a n t q
@@ -22997,7 +22997,7 @@ vierkantige None 0100 3322 f i r k a n t q x q
 vierkleur None 10 34 f i r k l qooq r
 vierspel None 10 34 f i r s p qaeq l
 viertal None 10 33 f i r t a l
-vieruur None 10 23 f i r y r
+vieruur None 10 32 f i r y r
 vierwielaangedrewe None 102020 332232 f i r v i l AA n x q d r iq v q
 vies None 0 3 f i s
 vieslike None 100 322 f i s l q k q
@@ -23272,7 +23272,7 @@ volstoom None 10 34 f O l s t uq m
 volstrek None 01 35 f O l s t r qaeq k
 volstrekte None 010 352 f O l s t r qaeq k t q
 volstruise None 010 342 f O l s t r qoeqy s q
-volstruiseierdoppe None 010020 342222 f O l s t r qoeqy s qi q r d O p q
+volstruiseierdoppe None 010020 351222 f O l s t r qoeqy s qi q r d O p q
 voltal None 01 33 f O l t a l
 voltooi None 01 32 f O l t OOi
 voltooide None 010 322 f O l t OOi d q
@@ -23809,7 +23809,7 @@ vyftigerjare None 10020 32322 f qi f t q x q r j AA r q
 vyftigjarige None 10200 33222 f qi f t q x j AA r q x q
 vyftigste None 100 333 f qi f t q x s t q
 vyftigtal None 102 333 f qi f t q x t a l
-vyfuur None 10 23 f qi f y r
+vyfuur None 10 32 f qi f y r
 vyver None 10 23 f qi f q r
 wa None 0 2 v AA
 waag None 0 3 v AA x
@@ -23945,7 +23945,7 @@ wangedrag None 102 324 v a n x q d r a x
 wanhoop None 10 33 v a n hv uq p
 wanhopig None 010 323 v a n hv uq p q x
 wanhopige None 0100 3222 v a n hv uq p q x q
-wanindruk None 120 234 v a n q n d r qoeq k
+wanindruk None 120 324 v a n q n d r qoeq k
 wankelende None 1000 3232 v a N k q l q n d q
 wankelrige None 1020 3322 v a N k q l r q x q
 wanneer None 10 23 v a n iq r
@@ -23963,7 +23963,7 @@ wapad None 10 23 v AA p a t
 wapadrand None 102 234 v AA p a t r a n t
 wapen None 10 23 v AA p q n
 wapenhandel None 1020 2333 v AA p q n hv a n d q l
-wapenopslagplekke None 102020 223432 v AA p q n O p s l a x p l qaeq k q
+wapenopslagplekke None 102020 232432 v AA p q n O p s l a x p l qaeq k q
 wapens None 10 24 v AA p q n s
 wapentransaksie None 10202 23432 v AA p q n t r a n s a k s i
 wapenverbod None 1002 2333 v AA p q n f q r b O t
@@ -24055,7 +24055,7 @@ wedstrydpunte None 1020 3532 v E t s t r qi t p qoeq n t q
 wedsyfers None 100 324 v E t s qi f q r s
 weduwee None 102 222 v iq d y v iq
 wedvaart None 10 34 v E t f AA r t
-wedywering None 1000 2223 v E t qi v q r q N
+wedywering None 1000 3123 v E t qi v q r q N
 wee None 0 2 v iq
 weef None 0 3 v iq f
 weefsel None 10 33 v iq f s q l
@@ -24112,7 +24112,7 @@ weerstandig None 102 343 v iq r s t a n d q x
 weerstandige None 1020 3422 v iq r s t a n d q x q
 weerstandigheid None 1020 3433 v iq r s t a n d q x hv qi t
 weerstandslyn None 102 363 v iq r s t a n t s l qi n
-weerstoestande None 1020 4332 v iq r s t u s t a n d q
+weerstoestande None 1020 4242 v iq r s t u s t a n d q
 weervoorspelling None 2010 3333 v iq r f uq r s p qaeq l q N
 weerwraak None 10 34 v iq r v r AA k
 wees None 0 3 v iq s
@@ -24423,7 +24423,7 @@ winburg None 10 34 v q n b qoeq r x
 wind None 0 4 v q n t
 winde None 10 32 v q n d q
 winderige None 1020 3222 v q n d q r q x q
-windjie None 102 222 v q i N k i
+windjie None 10 32 v qi N k i
 windpomp None 10 44 v q n t p O m p
 windskerm None 120 433 v q n t s k qaeq r q m
 wingerd None 10 33 v q N q r t

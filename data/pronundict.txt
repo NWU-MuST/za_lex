@@ -907,7 +907,7 @@ afstammeling None 1200 2323 a f s t a m q l q N
 afstamming None 120 233 a f s t a m q N
 afstand None 12 25 a f s t a n t
 afstandbeheer None 1202 2523 a f s t a n t b q hv iq r
-afstanddoening None 1200 2423 a f s t a n d u n q N
+afstanddoening None 1200 2523 a f s t a n t d u n q N
 afstande None 120 242 a f s t a n d q
 afstandsonderrig None 12000 26223 a f s t a n t s O n d q r q x
 afstandstudente None 12020 25332 a f s t a n t s t y d E n t q
@@ -11967,7 +11967,7 @@ limf None 0 4 l q m f
 limfkliere None 100 432 l q m f k l i r q
 limiet None 01 23 l q m i t
 limousine None 001 223 l q m u z i n
-limpopo None 010 322 l q m p uq p u
+limpopo None 010 322 l q m p qu p u
 lineêr None 201 222 l q n i qaeq r
 linguis None 001 322 l q N x u q s
 linguisties None 0010 3214 l q N x u q s t i s
@@ -18638,7 +18638,7 @@ slaaptyd None 10 43 s l AA p t qi t
 slaat None 0 4 s l AA t
 slae None 00 31 s l AA q
 slag None 0 4 s l a x
-slagaar None 10 33 s l a x AA r
+slagaar None 10 42 s l a x AA r
 slaggate None 100 422 s l a x x AA t q
 slaggereed None 102 423 s l a x x q r iq t
 slaghuis None 10 43 s l a x hv qoeqy s
@@ -19916,7 +19916,7 @@ sulke None 10 32 s qoeq l k q
 summier None 01 23 s qoeq m i r
 summiere None 010 222 s qoeq m i r q
 super None 10 23 s u p q r
-superintendent None 20001 22334 s u p q r q n t q n d E n t
+superintendent None 20001 23234 s u p q r q n t q n d E n t
 superliga None 1020 2322 s u p q r l i x a
 supermark None 102 234 s u p q r m a r k
 supermarkte None 1020 2342 s u p q r m a r k t q
@@ -21891,7 +21891,7 @@ veldbrand None 10 45 f qaeq l t b r a n t
 veldbrande None 100 442 f qaeq l t b r a n d q
 velddrif None 10 44 f qaeq l t d r q f
 velde None 10 32 f qaeq l d q
-veldekskursie None 1020 3342 f qaeq l d E k s k qoeq r s i
+veldekskursie None 1020 3342 f qaeq l t E k s k qoeq r s i
 veldkornet None 102 433 f qaeq l t k O r n E t
 veldloop None 10 43 f qaeq l t l uq p
 veldren None 10 43 f qaeq l t r E n

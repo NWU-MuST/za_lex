@@ -15,7 +15,7 @@ DEFSTRESSTONE = "0"
 
 def vowelidx(syl, phset, word):
     for i in range(len(syl)):
-        if "vowel" in phset[syl[i]]:
+        if "vowel" in phset["phones"][syl[i]]:
             return i
     print("WARNING: Syllable does not contain a vowel... {}".format(word), file=sys.stderr)
     return len(syl)

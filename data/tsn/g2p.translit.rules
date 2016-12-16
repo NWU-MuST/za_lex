@@ -1,0 +1,83 @@
+# Pronunciation rules for Tswana
+#
+# Author: dvn.demitasse@gmail.com (Daniel van Niekerk)
+#
+# These rules transcribe Tswana into the phoneme inventory used within
+# the NCHLT Speech Corpus:
+# (https://sites.google.com/site/nchltspeechcorpus/home).
+#
+# The rules were tested using the NCHLT-inlang Tswana pronunciation dictionary
+# (http://rma.nwu.ac.za/index.php/resource-catalogue/nchlt-inlang-dictionaries.html).
+#
+# They correctly account for 14811 out of 15000 entries in the
+# dictionary (if simplified w.r.t. vowel diacritics). The NCHLT 2013
+# phone set does not output the two distinct phones associated with
+# "o" and "e" in the orthography.
+#
+# One minor notational deviation from the NCHLT 2013 phone set is that
+# we use a tie bar to denote various affricates, to avoid ambiguity
+# and make the phoneme inventory uniquely decodable.
+
+::Lower;
+
+############################## TYPOS
+#Fix some common typos (compiled this list by looking at rare
+#exceptions in the NCHLT dictionary and comparing to any found cases
+#in the LWAZI2 and NEMO TTS scripts. See notes above each case.
+
+#from observations also in Sotho text:
+thl → | tlh;
+tlhl → | tlh;
+tllh → | tlh;
+
+############################## FOREIGN
+
+dd → | d;
+pp → | p;
+
+############################## G2P
+tlh → t͡lʰ;
+tsh → t͡sʰ;
+tšh → t͡ʃʰ;
+
+kh → kʰ;
+kg → k͡x;
+ng → ŋ;
+ny → ɲ;
+ph → pʰ;
+sh → ʃ;         #Only in loanwords?
+th → tʰ;
+tl → t͡lʼ;
+ts → t͡sʼ;
+tš → t͡ʃʼ;
+
+a → a;
+b → b;
+c → kʼ;		#DvN: not a Tswana grapheme , only in loan words
+d → d;
+e → ɪ;
+ê → ɛ;
+f → f;
+g → x;
+h → h;
+i → i;
+j → d͡ʒ;
+k → kʼ;
+l → l;
+m → m;
+n → n;
+o → ʊ;
+ô → ɔ;
+p → pʼ;
+q → ;		#Not a Tswana grapheme
+r → r;
+aɛlɛ { s → ʃ;
+s → s;
+š → ʃ;
+t → tʼ;
+u → u;
+v → f;		#DvN: not a Tswana grapheme, only in loan words
+w → w;
+x → ;		#Not a Tswana grapheme
+y → j;
+z → s;		#Not a Tswana grapheme, only in loan words

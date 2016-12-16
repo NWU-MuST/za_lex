@@ -54,4 +54,4 @@ Cₓ.Cₓ -> _.Cₓ
 References
 ----------
 
-[1] __Forthcoming__
+[1] D.R. van Niekerk, "Syllabification for Afrikaans speech synthesis," in Proceedings of the 27th Annual Symposium of the Pattern Recognition Association of South Africa (PRASA), pp 31-36, Stellenbosch, South Africa, December 2016.

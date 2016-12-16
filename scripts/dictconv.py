@@ -109,7 +109,3 @@ if __name__ == "__main__":
             print(print_nested(word, pos, stresspat, sylspec, phones, phset, args.defstresstone, phonemap).encode("utf-8"))
         else:
             raise Exception("Invalid output format specified")
-        
-        
-
-        

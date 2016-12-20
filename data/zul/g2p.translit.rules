@@ -1,0 +1,91 @@
+# Pronunciation rules for isiZulu.
+#
+# Author: dvn.demitasse@gmail.com (Daniel van Niekerk)
+#
+# These rules transcribe isiXhosa into the phoneme inventory used within the
+# NCHLT Speech Corpus (https://sites.google.com/site/nchltspeechcorpus/home).
+#
+# The rules were tested using the NCHLT-inlang isiZulu pronunciation dictionary
+# (http://rma.nwu.ac.za/index.php/resource-catalogue/nchlt-inlang-dictionaries.html).
+# They correctly account for 14,942 out of 15,000 entries in the
+# dictionary. See notes on deviation from NCHLT 2013 below.
+#
+# The NCHLT 2013 phone set does not indicate tone in any way. Transcription of
+# tone is out of scope without a dictionary, since tone is generally not indicated
+# in the orthography. Nasal clicks are not treated as separated phonemes in the
+# NCHLT 2013 phone set and are transcribed as a sequence of nasal plus click instead.
+#
+# One minor notational deviation from the NCHLT 2013 phone set is that we use a
+# tie bar within the complex (slack voiced) clicks, e.g. ɡ͡ǀ instead of ɡǀ, to
+# avoid ambiguity and make the phoneme inventory uniquely decodable.
+#
+##############################
+# NOTES 2016-12-20:
+# - One main deviation from the G2P rules released as part of NCHLT
+#   exists and is marked below (if this rule is removed these rules
+#   predict 14,999 entries identical to NCHLT dictionary (2013).
+# - The TYPOs section can technically be omitted
+
+::Lower;
+
+############################## TYPOS
+#Fix some common typos (found as described below)
+
+qg → | gq;        #found in isiXhosa Lwazi2 and NEMO corpora
+
+
+############################## STANDARD RULES
+n } tsh → ɲ;        #DEVIATION FROM NCHLT
+tsh → t͡ʃʼ;
+
+bh → b;
+ch → ǀʰ;
+dl → ɮ;
+gc → ɡ͡ǀ;
+gq → ɡ͡ǃ;
+gx → ɡ͡ǁ;
+hh → ɦ;
+hl → ɬ;
+kh → kʰ;
+kl → k͡ɬʼ;
+ny → ɲ;
+ph → pʰ;
+qh → ǃʰ;
+sh → ʃ;
+th → tʰ;
+xh → ǁʰ;
+
+m { b → b;
+n { s → t͡sʼ;
+n { z → d͡z;
+
+n } g → ŋ;
+n } k → ŋ;
+n } j → ɲ;
+
+a → a;
+b → ɓ;
+c → ǀ;
+d → d;
+e → ɛ;
+f → f;
+g → ɡ;
+h → h;
+i → i;
+j → d͡ʒ;
+k → k;
+l → l;
+m → m;
+n → n;
+o → ɔ;
+p → pʼ;
+q → ǃ;
+r → r;   #loan words
+s → s;
+t → tʼ;
+u → u;
+v → v;
+w → w;
+x → ǁ;
+y → j;
+z → z;

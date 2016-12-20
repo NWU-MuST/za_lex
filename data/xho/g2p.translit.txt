@@ -1,0 +1,163 @@
+# Pronunciation rules for isiXhosa.
+#
+# Original author: mjansche@google.com (Martin Jansche)
+# Original location: https://github.com/googlei18n/language-resources/blob/master/third_party/cldr/xh-xh_FONIPA.txt
+#
+# These rules transcribe isiXhosa into the phoneme inventory used within the
+# NCHLT Speech Corpus (https://sites.google.com/site/nchltspeechcorpus/home).
+#
+# The rules were tested using the NCHLT-inlang isiXhosa pronunciation dictionary
+# (http://rma.nwu.ac.za/index.php/resource-catalogue/nchlt-inlang-dictionaries.html).
+# They correctly account for 14,999 out of 15,000 entries in the dictionary.
+#
+# The NCHLT 2013 phone set does not distinguish short and long vowels and does
+# not indicate tone in any way. Transcription of tone is out of scope without a
+# dictionary, since tone is generally not indicated in the orthography. Nasal
+# clicks are not treated as separated phonemes in the NCHLT 2013 phone set and
+# are transcribed as a sequence of nasal plus click instead.
+#
+# One minor notational deviation from the NCHLT 2013 phone set is that we use a
+# tie bar within the complex (slack voiced) clicks, e.g. ɡ͡ǀ instead of ɡǀ, to
+# avoid ambiguity and make the phoneme inventory uniquely decodable.
+#
+# Updated by: dvn.demitasse@gmail.com (Daniel van Niekerk)
+# 2016-01-24:
+#    - Add /x/ to the phoneset and add "rh" -> /x/ rule
+#    - Small tweaks
+#    - Add additional passes applicable to "nativized" loanwords
+
+::Lower;
+
+nyh → ɲʰ;
+n { tsh → t͡ʃʼ;
+    tsh → t͡ʃʰ;
+tyh → cʰ;
+
+bh → bʰ;
+ch → ǀʰ;
+dl → ɮ;
+dy → ɟ;
+gc → ɡ͡ǀ;
+gq → ɡ͡ǃ;
+gr → ɣ;
+gx → ɡ͡ǁ;
+hl → ɬ;
+kh → kʰ;
+kr → k͡xʼ;
+mh } [^l] → mʰ;  # <mhl> denotes /mɬ/ instead
+nh } [^l] → nʰ;  # <nhl> denotes /nɬ/ instead
+ny → ɲ;
+ph → pʰ;
+qh → ǃʰ;
+rh → x;
+sh → ʃ;
+th → tʰ;
+tl → t͡ɬʼ;
+ts → t͡sʼ;
+ty → cʼ;
+vh → v;
+xh → ǁʰ;
+
+########## DvN: Uncomment the following lines to correspond to NCHLT
+##########      dicts as advertised above, commented out here to
+##########      produce repeated symbols for distinct modelling in TTS
+#aa → | a;
+#ee → | e;
+#ii → | i;
+#oo → | o;
+#uu → | u;
+#ll → | l;
+#mm → | m;
+
+kc → | c;
+kq → | q;
+kx → | x;
+hh → | h;
+qg → | gq;   # common typo!
+
+a → a;
+b → ɓ;
+c → ǀ;
+d → d;
+e → ɛ;
+f → f;
+g → ɡ;
+h → h;
+i → i;
+j → d͡ʒ;
+k → kʼ;
+l → l;
+m → m;
+n } g → ŋ;
+n → n;
+o → ɔ;
+p → pʼ;
+q → ǃ;
+r → r;
+s → s;
+t → tʼ;
+u → u;
+v → v;
+w → w;
+x → ǁ;
+y → j;
+z → z;
+
+
+# ####
+# # DvN: Second pass: Apply hiatus rules to VV sequences:
+#
+# ::Null;
+#
+# aa → aha;
+# aɛ → ahɛ;
+# ai → ahi;
+# aɔ → ahɔ;
+# au → ahu;
+#
+# ɛa → ɛha;
+# ɛɛ → ɛhɛ;
+# ɛi → ɛhi;
+# ɛɔ → ɛhɔ;
+# ɛu → ɛhu;
+#
+# ia → iha;
+# iɛ → ihɛ;
+# ii → ihi;
+# iɔ → ihɔ;
+# iu → ihu;
+#
+# ɔa → ɔha;
+# ɔɛ → ɔhɛ;
+# ɔi → ɔhi;
+# ɔɔ → ɔhɔ;
+# ɔu → ɔhu;
+#
+# ua → uha;
+# uɛ → uhɛ;
+# ui → uhi;
+# uɔ → uhɔ;
+# uu → uhu;
+
+####
+# DvN: Third pass: Apply "pronunciation nativization" rules to some consonant clusters:
+#      -- Have mostly decided to allow common "foreign" clusters and syllabify accordingly...
+::Null;
+
+[aɛiɔu] { sf } a → saf;
+[aɛiɔu] { sf } ɛ → sɛf;
+[aɛiɔu] { sf } i → sif;
+[aɛiɔu] { sf } ɔ → sɔf;
+[aɛiɔu] { sf } u → suf;
+
+[aɛiɔu] { j } [s v w n pʰ pʼ] → ji; #Nativise /_i/ diphthongs usually spelled "_j" -- May have to expanded to more contexts
+
+### Small optimisations
+dh } [aɛiɔu] → d;
+jh } [aɛiɔu] → j;
+zh } [aɛiɔu] → z;
+ɡ͡ǁh } [aɛiɔu] → ɡ͡ǁ;
+
+hm → m;
+kʼɡ → k͡xʼ;            #Common from Sotho/Tswana
+ŋɡ } $ → ŋ;           #Common from Sotho/Tswana

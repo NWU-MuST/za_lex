@@ -14,7 +14,7 @@ Basic description of contents and development
 ```
 .
 |-- graphemeset.txt
-|-- LICENCE
+|-- LICENCE.txt
 |-- phonemeset.ipa-example.tsv
 |-- phonemeset.ipa-hts.tsv
 |-- phonemeset.ipa-xsampa.tsv

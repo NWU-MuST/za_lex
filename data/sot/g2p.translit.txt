@@ -1,0 +1,128 @@
+# Pronunciation rules for Southern Sotho.
+#
+# Author: dvn.demitasse@gmail.com (Daniel van Niekerk)
+#
+# These rules transcribe Southern Sotho into the phoneme inventory
+# used within the NCHLT Speech Corpus
+# (https://sites.google.com/site/nchltspeechcorpus/home).
+#
+# The rules were tested using the NCHLT-inlang Sotho pronunciation dictionary
+# (http://rma.nwu.ac.za/index.php/resource-catalogue/nchlt-inlang-dictionaries.html).
+# They correctly account for 14941 out of 15000 entries in the
+# dictionary. A small number of cases we suspect may be transcribed
+# typos in the NCHLT dictionary and the rest are due to certain phones
+# not being repeated in some cases. Adding rules (see commented-out
+# below) to reduce this to the non-repeated case throughout results in
+# 13960 out of 15000 correct.
+#
+# The NCHLT 2013 phone set does not distinguish the two distinct
+# phones associated with "o" and "e" in the orthography. In this
+# ruleset the non-standard graphemes "ô" and "ê" map to "ɔ" and "ɛ"
+# respectively and "o" and "e" are mapped to "ʊ" and "ɪ".
+#
+# One minor notational deviation from the NCHLT 2013 phone set is that
+# we use a tie bar to denote various affricates, to avoid ambiguity
+# and make the phoneme inventory uniquely decodable.
+#
+# REMAINING QUESTIONS:
+#  - Need to review TYPOS section to see if these are definitely typos
+#  - In the NCHLT dictionaries some LL, EE, and OO cases are mapped to
+#    a single phone and other cases two repeating phones.
+
+
+::Lower;
+
+############################## TYPOS
+#Fix some common typos (compiled this list by looking at rare
+#exceptions in the NCHLT dictionary and comparing to any found cases
+#in the LWAZI2 and NEMO TTS scripts. See notes above each case.
+
+#NCHLT:  3 occurrences: DITHLOKO, DITHLOPHA, ITHLAHISA
+#NEMO:   1 occurrence : DINTHLA (there are 59 occurrences of DINTLHA)
+#LWAZI2: 2 occurrences: DITHLOKO (there are 10 occurrences of DITLHOKO*)
+thl → | tlh;
+
+#NCHLT:  3 occurrences: DITLHLAHISO, DITLHLOKO, TLHLOKO
+#NEMO:   0 occurrences
+#LWAZI2: 1 occurrence : TLHLOKO (there are 29 occurrences of *TLHOKO*)
+tlhl → | tlh;
+
+#NCHLT:  1 occurrence : LEFSWANG
+#NEMO:   0 occurrences
+#LWAZI2: 0 occurrences
+fsw → | fshw;
+
+
+############################## REDUCTION
+# ll → | l;
+# ee → | e;
+# oo → | o;
+
+############################## ORTHOGRAPHIC CONVENTIONS
+##Lesotho orthography:
+ch → | tjh;
+psh → | pjh;
+fsh → | fj;
+
+##Nguni orthography:
+bh → | b;
+
+##Alternative orthography:
+fš → | fj;
+
+############################## G2P
+pjh → p͡ʃʰ;
+tjh → t͡ʃʰ;
+tlh → t͡lʰ;
+tsh → t͡sʰ;
+
+bj → β͡ʒ;
+fj → f͡ʃ;
+hl → ɬ;
+kh → kʰ;
+kg → k͡x;
+ng → ŋ;
+ny → ɲ;
+ph → pʰ;
+pj } w → p͡ʃʼ;
+pj → p͡ʃʰ;
+#ps → p͡sʰ;   #phoneme does not exist?
+qh → ǃʰ;
+sh → ʃ;
+th → tʰ;
+tj } [aweo] → t͡ʃʼ;
+tj $ → t͡ʃʼ;
+tj → t͡ʃʰ;
+tl → t͡lʼ;
+ts → t͡sʼ;
+
+a → a;
+b → b;
+c → ;				#Not a Sotho grapheme 
+d → d;
+e → ɪ;
+ê → ɛ;
+f → f;
+g → x;				# or after: ^ and [aeor]
+h → ɦ;
+i → i;
+j → d͡ʒ;
+k → kʼ;
+l → l;
+m → m;
+n } k → ŋ;
+n → n;
+ô → ɔ;
+o → ʊ;
+p → pʼ;
+q → ǃ;
+r → r;
+s → s;
+š → ʃ;
+t → tʼ;
+u → u;
+i { v → b;			#Only in loan words
+v → f;				#Only in loan words
+w → w;
+y → j;
+z → s;				#Not a Sotho grapheme, only in loan words

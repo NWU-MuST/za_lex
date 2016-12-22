@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""This is the Tswana rule-based syllabification algorithm.
+"""This is the Xhosa rule-based syllabification algorithm.
 """
 from __future__ import unicode_literals, division, print_function #Py2
 
@@ -9,7 +9,7 @@ __email__ = "dvn.demitasse@gmail.com"
 
 import sys
 
-class Phoneset(object):
+class Syllabifier(object):
     def __init__(self, phonemeset):
         self.__dict__.update(phonemeset)
 
@@ -17,10 +17,7 @@ class Phoneset(object):
         return "vowel" in self.phones[phonename]
 
     def is_syllabic(self, phonename):
-        return "syllabic" in self.phones[phonename] and "consonant" in self.phones[phonename]
-
-    def is_consonant(self, phonename):
-        return "consonant" in self.phones[phonename]
+        return "syllabic" in self.phones[phonename]
 
     def is_affricate(self, phonename):
         return "mn_affricate" in self.phones[phonename]
@@ -43,27 +40,43 @@ class Phoneset(object):
     def is_approximant(self, phonename):
         return "mn_approximant" in self.phones[phonename]
 
-    def is_trill(self, phonename):
-        return "mn_trill" in self.phones[phonename]
-
-    def _vowelindices(self, phones):
-        return [i for i, ph in enumerate(phones) if self.is_vowel(ph)]
+    def is_homorganic(self, phn1, phn2):
+        place1 = set([e for e in self.phones[phn1] if e.startswith("pl_")])
+        place2 = set([e for e in self.phones[phn2] if e.startswith("pl_")])
+        return bool(place1.intersection(place2))
 
     def is_valid_CC(self, cluster, consider_foreign=True):
-        """ We only explicitly check for Cw and Ch
+        """Mostly from the book by Philip Hoole (see below)..
         """
-        if cluster[1] == "w" and any(isf(cluster[0]) for isf in [self.is_plosivelike, self.is_fricative, self.is_nasal, self.is_approximant, self.is_trill]):
+        if cluster[1] == self.phone_w and any(isf(cluster[0]) for isf in [self.is_plosivelike, self.is_fricative, self.is_nasal, self.is_approximant]):
             #print("CC1:", "/".join(cluster).encode("utf-8"), sep="\t", file=sys.stderr)
             return True
-        elif consider_foreign and cluster in self.foreign_CC_onsets:
+        if cluster[0] in self.phones_nN and (self.is_plosivelike(cluster[1]) or self.is_fricative(cluster[1])) and self.is_homorganic(cluster[0], cluster[1]):
+            #print("CC2:", "/".join(cluster).encode("utf-8"), sep="\t", file=sys.stderr)
+            return True
+        if cluster[0] == self.phone_J and self.is_homorganic(cluster[0], cluster[1]):
+            #print("CC3:", "/".join(cluster).encode("utf-8"), sep="\t", file=sys.stderr)
+            return True
+        if cluster[0] == self.phone_m and cluster[1] in self.phones_valid_mC_consonants:
+            #print("CC4:", "/".join(cluster).encode("utf-8"), sep="\t", file=sys.stderr)
+            return True
+        elif consider_foreign and cluster in self.clusters_foreign_CC_onsets:
             #print("CC5:", "/".join(cluster).encode("utf-8"), sep="\t", file=sys.stderr)
             print("syllabify(): WARNING: foreign onset cluster: '{}'".format("".join(cluster)).encode("utf-8"), file=sys.stderr)
             return True
         return False
 
+    def _vowelindices(self, phones):
+        return [i for i, ph in enumerate(phones) if self.is_vowel(ph)]
+
     def syllabify(self, phones):
+        """Syllabification algorithm for Nguni languages based on notes
+           pp. 349 of "Consonant Clusters and Structural Complexity"
+           by Philip Hoole
+        """
         def breakcluster(cluster):
             if not cluster:
+                print("syllabify(): WARNING: VV context found: '{}' in '{}'".format("".join(cluster), "".join(phones)).encode("utf-8"), file=sys.stderr)
                 bounds.append(ci) #Always V.V
             elif len(cluster) == 1:
                 bounds.append(ci) #Always V.CV (open syllables)
@@ -72,49 +85,51 @@ class Phoneset(object):
                     bounds.append(ci) #V.CCV
                     return
                 if self.is_syllabic(cluster[0]):
-                    #V.sC.CV
+                    #V.N.CV
                     bounds.append(ci)
                     bounds.append(ci + 1)
                     return
-                if cluster in self.foreign_CC_cluster_1split:
+                if cluster in self.clusters_foreign_CC_not_onsets:
                     print("syllabify(): WARNING: foreign cluster was split: '{}' in '{}'".format("".join(cluster), "".join(phones)).encode("utf-8"), file=sys.stderr)
                     bounds.append(ci + 1) #VC.CV
                     return
-                #DEFAULT: V.CCV
                 print("syllabify(): WARNING: onset cluster not considered valid: '{}' in '{}'".format("".join(cluster),"".join(phones)).encode("utf-8"), file=sys.stderr)
-                bounds.append(ci)
+                bounds.append(ci) #V.CCV
             elif len(cluster) == 3:
-                if self.is_syllabic(cluster[0]):
-                    if self.is_valid_CC(cluster[1:]): #V.sC.CWV
-                        pass
-                    else:
-                        print("syllabify(): WARNING: onset cluster not considered valid: '{}' in '{}'".format("".join(cluster[1:]), "".join(phones)).encode("utf-8"), file=sys.stderr)
+                if cluster[2] == self.phone_w:
+                    if self.is_valid_CC(cluster[:2], consider_foreign=False):
+                        bounds.append(ci) #V.CCWV
+                        return
+                if self.is_syllabic(cluster[0]) and self.is_valid_CC(cluster[1:]):
+                    #V.N.CWV
                     bounds.append(ci) 
                     bounds.append(ci + 1)
                     return
-                if cluster in self.foreign_CCC_onsets:
+                if cluster in self.clusters_foreign_CCC_onsets:
                     print("syllabify(): WARNING: foreign syllable cluster: '{}' in '{}'".format("".join(cluster), "".join(phones)).encode("utf-8"), file=sys.stderr)
                     bounds.append(ci) #V.CCCV
-                if cluster[1:] in self.foreign_CC_onsets:
-                    print("syllabify(): WARNING: foreign syllable cluster: '{}' in '{}'".format("".join(cluster[1:]), "".join(phones)).encode("utf-8"), file=sys.stderr)
+                if cluster[1:] in self.clusters_foreign_CC_onsets:
+                    print("syllabify(): WARNING: foreign syllable cluster: '{}' in '{}'".format("".join(cluster), "".join(phones)).encode("utf-8"), file=sys.stderr)
                     bounds.append(ci + 1) #VC.CCV  (foreign)
                     return
                 print("syllabify(): WARNING: onset cluster not considered valid: '{}' in '{}'".format("".join(cluster), "".join(phones)).encode("utf-8"), file=sys.stderr)
                 bounds.append(ci) #V.CCCV
-            else:
-                print("syllabify(): WARNING: unexpectedly long consonant cluster found: '{}' in '{}'".format("".join(cluster), "".join(phones)).encode("utf-8"), file=sys.stderr)                
-                if self.is_syllabic(cluster[0]):
-                    #V.sC.*V
-                    bounds.append(ci) 
+            elif len(cluster) == 4:
+                if cluster[-1] == self.phone_w and self.is_syllabic(cluster[0]) and self.is_valid_CC(cluster[1:3], consider_foreign=False):
+                    #V.N.CCWV
+                    bounds.append(ci)
                     bounds.append(ci + 1)
-                else:
-                    #V.*V (generally: prefer open syllables)
-                    bounds.append(ci)                
+                    return
+                print("syllabify(): WARNING: onset cluster not considered valid: '{}' in '{}'".format("".join(cluster), "".join(phones)).encode("utf-8"), file=sys.stderr)                
+                bounds.append(ci) #V.CCCCV
+            else:
+                print("syllabify(): WARNING: onset cluster not considered valid: '{}' in '{}'".format("".join(cluster), "".join(phones)).encode("utf-8"), file=sys.stderr)
+                bounds.append(ci) #V.*V (generally: prefer open syllables)
 
         v_inds = self._vowelindices(phones)
         bounds = []
         if v_inds:
-            #Onset cluster (syllabic consonant?)
+            #Onset cluster (syllabic nasal?)
             if not 0 in v_inds:
                 span = phones[0:v_inds[0]+1]
                 cluster = phones[0:v_inds[0]]
@@ -135,7 +150,6 @@ class Phoneset(object):
                     bounds.append(ci)
                 else:
                     print("syllabify(): WARNING: word-final cluster not considered valid: '{}' in '{}'".format("".join(cluster), "".join(phones)).encode("utf-8"), file=sys.stderr)
-
         else:
             print("syllabify(): WARNING: no vowels found in word '{}'".format("".join(phones)).encode("utf-8"), file=sys.stderr)
                 
@@ -165,14 +179,14 @@ if __name__ == "__main__":
     #load phoneset
     with codecs.open(args.phonesetfile, encoding="utf-8") as infh:
         phoneset = json.load(infh)
-    phset = Phoneset(phoneset)
+    syllabifier = Syllabifier(phoneset)
 
     for line in sys.stdin:
         fields = unicode(line.strip(), encoding="utf-8").split()
         word = fields[0]
         pronun = fields[1:]
         
-        syls = phset.syllabify(pronun)
+        syls = syllabifier.syllabify(pronun)
         sylspec = [str(len(syl)) for syl in syls]
         stresspat = args.defstresstone * len(sylspec)
 
@@ -182,4 +196,3 @@ if __name__ == "__main__":
             print(dictconv.print_nested(word, "None", stresspat, sylspec, pronun, phoneset, args.defstresstone, None).encode("utf-8"))
         else:
             raise Exception("Invalid output format specified")
-        

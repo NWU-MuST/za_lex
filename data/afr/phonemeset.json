@@ -44,5 +44,7 @@
 	       "x" : ["consonant", "mn_fricative", "pl_velar"],
 	       "y" : ["vowel", "sonorant", "syllabic", "dur_short", "ht_high", "ps_front"],
 	       "z" : ["consonant", "mn_fricative", "mn_strident", "pl_alveolar", "voiced"]
-	      }
+	      },
+    "phone_silence": "pau",
+    "phone_closure": "paucl"
 }

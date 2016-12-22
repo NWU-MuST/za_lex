@@ -43,5 +43,24 @@
 	       "ɔ" : ["vowel", "syllabic", "dur_short", "ht_mid", "ps_back", "ar_rounded"],
 	       "u" : ["vowel", "syllabic", "dur_short", "ht_high", "ps_back", "ar_rounded"],
 	       "ʊ" : ["vowel", "syllabic", "dur_short", "ht_high", "ps_back", "ar_rounded"]
-	      }
+	      },
+    "phone_silence": "pau",
+    "phone_closure": "paucl",
+    "phone_w": "w",
+    "phone_hv": "ɦ",
+    "clusters_foreign_CC_not_onsets": [["l", "s"], ["l", "f"], ["l", "tʰ"], ["l", "tʼ"],
+                                       ["kʼ", "s"], ["kʼ", "f"], ["kʼ", "tʰ"], ["kʼ", "tʼ"],
+                                       ["kʰ", "s"], ["kʰ", "f"], ["kʰ", "tʰ"], ["kʰ", "tʼ"],
+                                       ["pʼ", "tʼ"], ["pʼ", "tʰ"],
+                                       ["pʰ", "tʼ"], ["pʰ", "tʰ"],
+                                       ["r", "n"], ["r", "m"]],
+    "clusters_foreign_CC_onsets": [["f", "r"], ["f", "l"],
+				   ["b", "l"], ["b", "r"],
+				   ["kʼ", "r"], ["kʰ", "r"], ["kʼ", "l"], ["kʰ", "l"], ["kʼ", "j"], ["kʰ", "j"],
+				   ["d", "r"],
+				   ["pʼ", "r"], ["pʼ", "l"],
+				   ["tʼ", "r"], ["tʰ", "r"],
+				   ["s", "kʼ"], ["s", "kʰ"], ["s", "tʼ"], ["s", "tʰ"]],
+    "clusters_foreign_CCC_onsets": [["s", "tʼ", "r"]]
+    
 }

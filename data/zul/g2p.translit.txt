@@ -35,7 +35,6 @@ qg → | gq;        #found in isiXhosa Lwazi2 and NEMO corpora
 
 
 ############################## STANDARD RULES
-n } tsh → ɲ;        #DEVIATION FROM NCHLT
 tsh → t͡ʃʼ;
 
 bh → b;
@@ -89,3 +88,8 @@ w → w;
 x → ǁ;
 y → j;
 z → z;
+
+::Null;
+
+### Small optimisations
+ɡh } [aɛiɔu] → ɡ;

@@ -76,7 +76,7 @@ class Syllabifier(object):
         """
         def breakcluster(cluster):
             if not cluster:
-                print("syllabify(): WARNING: VV context found: '{}' in '{}'".format("".join(cluster), "".join(phones)).encode("utf-8"), file=sys.stderr)
+                print("syllabify(): WARNING: VV context found in '{}'".format("".join(phones)).encode("utf-8"), file=sys.stderr)
                 bounds.append(ci) #Always V.V
             elif len(cluster) == 1:
                 bounds.append(ci) #Always V.CV (open syllables)

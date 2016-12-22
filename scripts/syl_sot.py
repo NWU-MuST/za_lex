@@ -19,9 +19,6 @@ class Syllabifier(object):
     def is_syllabic(self, phonename):
         return "syllabic" in self.phones[phonename]
 
-    def is_consonant(self, phonename):
-        return "consonant" in self.phones[phonename]
-
     def is_affricate(self, phonename):
         return "mn_affricate" in self.phones[phonename]
 
@@ -184,4 +181,3 @@ if __name__ == "__main__":
             print(dictconv.print_nested(word, "None", stresspat, sylspec, pronun, phoneset, args.defstresstone, None).encode("utf-8"))
         else:
             raise Exception("Invalid output format specified")
-

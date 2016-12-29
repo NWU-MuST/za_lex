@@ -1,0 +1,545 @@
+word --> adj.
+word --> adv.
+word --> cop.
+word --> loc.
+word --> noun.
+word --> pos.
+word --> prep.
+word --> pron.
+word --> ques.
+word --> rel.
+word --> verb.
+pron --> pr, st.
+adj --> npf, ar.
+adv --> advpf, ar.
+cop --> neg, spfn, prep.
+cop --> spfi, prep.
+cop --> spfp, neg, prep.
+cop --> spfp, prep.
+dem --> d1.
+dem --> dpf, d10.
+dem --> dpf, d11.
+dem --> dpf, d14.
+dem --> dpf, d15.
+dem --> dpf, d2.
+dem --> d3.
+dem --> d4.
+dem --> dpf, d5.
+dem --> d6.
+dem --> dpf, d7.
+dem --> d9.
+dem --> dpf, d1, pos2.
+dem --> dpf, d10, pos2.
+dem --> dpf, d11, pos2.
+dem --> dpf, d14, pos2.
+dem --> dpf, d15, pos2.
+dem --> dpf, d2, pos2.
+dem --> dpf, d3, pos2.
+dem --> dpf, d4, pos2.
+dem --> dpf, d5, pos2.
+dem --> dpf, d6, pos2.
+dem --> dpf, d7, pos2.
+dem --> dpf, d9, pos2.
+dem --> dpf, d1, pos3.
+dem --> dpf, d10, pos3.
+dem --> dpf, d11, pos3.
+dem --> dpf, d14, pos3.
+dem --> dpf, d15, pos3.
+dem --> dpf, d2, pos3.
+dem --> dpf, d3, pos3.
+dem --> dpf, d4, pos3.
+dem --> dpf, d5, pos3.
+dem --> dpf, d6, pos3.
+dem --> dpf, d7, pos3.
+dem --> dpf, d9, pos3.
+inf --> iv, n15, vr, vsf.
+loc --> locpf, nst1, locsf.
+loc --> locpf, nst1.
+loc --> locpf, dem, nst1.
+loc --> locpf, dem, nst2.
+noun --> dem, nst1.
+noun --> dem, nst2.
+noun --> iv, nst1.
+noun --> iv_n1, nst2.
+noun --> iv_n11, nst2.
+noun --> iv_n14, nst2.
+noun --> iv_n2, nst2.
+noun --> iv_n3, nst2.
+noun --> iv_n5, nst2.
+noun --> iv_n9, nst2.
+noun --> nst2.
+npf --> n1.
+npf --> n10.
+npf --> n11.
+npf --> n14.
+npf --> n15.
+npf --> n2.
+npf --> n3.
+npf --> n4.
+npf --> n5.
+npf --> n6.
+npf --> n7.
+npf --> n9.
+nsf --> hum.
+nsf --> inan.
+nst1 --> npf, nst2.
+nst2 --> nr, dim.
+nst2 --> nr, fem.
+nst2 --> nr, aug.
+nst2 --> nr.
+nst2 --> vr, nsf.
+opf --> o1.
+opf --> o10.
+opf --> o11.
+opf --> o14.
+opf --> o15.
+opf --> o1pp.
+opf --> o1ps.
+opf --> o2.
+opf --> o2pp.
+opf --> o2ps.
+opf --> o3.
+opf --> o4.
+opf --> o5.
+opf --> o6.
+opf --> o7.
+opf --> o9.
+pos --> pospf, loc.
+pos --> pospf, noun.
+pos --> pospf, pr.
+pos --> pospf, pr.
+pos --> z6_iv, nst1.
+pospf --> z1.
+pospf --> z10.
+pospf --> z11.
+pospf --> z14.
+pospf --> z15.
+pospf --> z2.
+pospf --> z3.
+pospf --> z4.
+pospf --> z5.
+pospf --> z6.
+pospf --> z7.
+pospf --> z9.
+prep --> ppf, noun.
+prep --> ppf, pr.
+pr --> pr1.
+pr --> pr10.
+pr --> pr11.
+pr --> pr14.
+pr --> pr15.
+pr --> pr1pp.
+pr --> pr1ps.
+pr --> pr2.
+pr --> pr2pp.
+pr --> pr2ps.
+pr --> pr3.
+pr --> pr4.
+pr --> pr5.
+pr --> pr6.
+pr --> pr7.
+pr --> pr9.
+ques --> pr, qr.
+rel --> rpf, cop.
+rel --> rpf, verb, rsf.
+rel --> rpf, verb.
+spfi --> i1.
+spfi --> i10.
+spfi --> i11.
+spfi --> i14.
+spfi --> i15.
+spfi --> i1pp.
+spfi --> i1ps.
+spfi --> i2.
+spfi --> i2pp.
+spfi --> i2ps.
+spfi --> i3.
+spfi --> i4.
+spfi --> i5.
+spfi --> i6.
+spfi --> i7.
+spfi --> i9.
+spfn --> g1.
+spfn --> g10.
+spfn --> g11.
+spfn --> g14.
+spfn --> g15.
+spfn --> g1pp.
+spfn --> g1ps.
+spfn --> g2.
+spfn --> g2pp.
+spfn --> g2ps.
+spfn --> g3.
+spfn --> g4.
+spfn --> g5.
+spfn --> g6.
+spfn --> g7.
+spfn --> g9.
+spfp --> p1.
+spfp --> p10.
+spfp --> p11.
+spfp --> p14.
+spfp --> p15.
+spfp --> p1pp.
+spfp --> p1ps.
+spfp --> p2.
+spfp --> p2pp.
+spfp --> p2ps.
+spfp --> p3.
+spfp --> p4.
+spfp --> p5.
+spfp --> p6.
+spfp --> p7.
+spfp --> p9.
+spfs --> s1.
+spfs --> s10.
+spfs --> s11.
+spfs --> s14.
+spfs --> s15.
+spfs --> s1pp.
+spfs --> s1ps.
+spfs --> s2.
+spfs --> s2pp.
+spfs --> s2ps.
+spfs --> s3.
+spfs --> s4.
+spfs --> s5.
+spfs --> s6.
+spfs --> s7.
+spfs --> s9.
+verb --> inf.
+verb --> neg, spfn, asp, opf, vr1, vsf_neg.
+verb --> neg, spfn, asp, vr1, vsf_neg.
+verb --> neg, spfn, opf, vr1, vsf_neg.
+verb --> neg, spfn, vr1, vsf_neg.
+verb --> spfi, asp, opf, vr1, vsf.
+verb --> spfi, asp, vr1, vsf.
+verb --> spfi, opf, vr1, vsf.
+verb --> spfi, vr1, vsf.
+verb --> spfp, asp, opf, vr1, vsf.
+verb --> spfp, asp, vr1, vsf.
+verb --> spfp, opf, vr1, vsf.
+verb --> spfp, pf_neg, asp, opf, vr1, vsf_neg.
+verb --> spfp, pf_neg, asp, vr1, vsf_neg.
+verb --> spfp, vr1, vsf.
+verb --> spfs, asp, opf, vr1, vs.
+verb --> spfs, asp, vr1, vs.
+verb --> spfs, opf, vr1, vs.
+verb --> spfs, pf_neg, asp, opf, vr1, vn.
+verb --> spfs, pf_neg, asp, vr1, vn.
+verb --> spfs, pf_neg, opf, vr1, vn.
+verb --> spfs, pf_neg, vr1, vn.
+verb --> spfs, vr1, vs.
+verb --> vr1, imp, pl.
+verb --> vr1, imp.
+vr1 --> vr, xa.
+vr1 --> vr, xc.
+vr1 --> vr, xn.
+vr1 --> vr, xp.
+vr1 --> vr, xr.
+vr1 --> vr.
+vsf --> va.
+vsf --> vpl.
+vsf --> vps.
+vsf_neg --> vn.
+vsf_neg --> vpn.
+advpf --> [ka].
+ar --> [bi].
+ar --> [bili].
+ar --> [dala].
+ar --> [de].
+ar --> [fuphi].
+ar --> [fushane].
+ar --> [hlanu].
+ar --> [hle].
+ar --> [khulu].
+ar --> [kulu].
+ar --> [ncane].
+ar --> [ne].
+ar --> [ngaki].
+ar --> [ningi].
+ar --> [nye].
+ar --> [sha].
+ar --> [tathu].
+ar --> [thathu].
+ar --> [tsha].
+asp --> [a].
+asp --> [bo].
+asp --> [ka].
+asp --> [sa].
+asp --> [ya].
+asp --> [yo].
+asp --> [zo].
+aug --> [kazi].
+xc --> [is].
+dpf --> [lo].
+dpf --> [la].
+dpf --> [le].
+d1 --> [lo].
+d10 --> [zi].
+d11 --> [lu].
+d14 --> [bu].
+d15 --> [khu].
+d2 --> [ba].
+d3 --> [lo].
+d4 --> [le].
+d5 --> [li].
+d6 --> [la].
+d7 --> [si].
+d9 --> [le].
+d1 --> [w].
+d10 --> [z].
+d11 --> [l].
+d14 --> [b].
+d15 --> [kh].
+d2 --> [b].
+d3 --> [w].
+d4 --> [y].
+d5 --> [l].
+d6 --> [w].
+d6 --> [wa].
+d7 --> [s].
+d9 --> [y].
+pos2 --> [o].
+pos3 --> [ya].
+dim --> [ana].
+dim --> [ane].
+fem --> [kazi].
+hum --> [i].
+imp --> [a].
+inan --> [o].
+iv --> [a].
+iv --> [e].
+iv --> [i].
+iv --> [o].
+iv --> [u].
+iv_n1 --> [o].
+iv_n1 --> [u].
+iv_n11 --> [o].
+iv_n11 --> [u].
+iv_n14 --> [o].
+iv_n14 --> [u].
+iv_n2 --> [o].
+iv_n3 --> [u].
+iv_n5 --> [e].
+iv_n5 --> [i].
+iv_n9 --> [e].
+iv_n9 --> [i].
+locpf --> [e].
+locpf --> [o].
+locpf --> [se].
+locpf --> [so].
+locpf --> [ku].
+locsf --> [eni].
+locsf --> [ini].
+neg --> [a].
+neg --> [nga].
+pf_neg --> [a].
+pf_neg --> [nga].
+xn --> [akal].
+xn --> [ek].
+n1 --> [m].
+n1 --> [mu].
+n10 --> [z].
+n10 --> [zi].
+n10 --> [zim].
+n10 --> [zin].
+n11 --> [lu].
+n11 --> [lw].
+n14 --> [bu].
+n15 --> [k].
+n15 --> [ku].
+n15 --> [kw].
+n2 --> [ba].
+n2 --> [be].
+n3 --> [m].
+n3 --> [mu].
+n4 --> [mi].
+n5 --> [li].
+n6 --> [ma].
+n6 --> [me].
+n7 --> [s].
+n7 --> [si].
+n9 --> [m].
+n9 --> [n].
+o1 --> [m].
+o1 --> [mu].
+o10 --> [zi].
+o11 --> [lu].
+o14 --> [bu].
+o15 --> [ku].
+o1pp --> [si].
+o1ps --> [ngi].
+o2 --> [ba].
+o2pp --> [ni].
+o2ps --> [ku].
+o3 --> [wu].
+o4 --> [yi].
+o5 --> [li].
+o6 --> [wa].
+o7 --> [si].
+o9 --> [yi].
+ppf --> [kun].
+ppf --> [kuna].
+ppf --> [kwa].
+ppf --> [n].
+ppf --> [na].
+ppf --> [ng].
+ppf --> [nga].
+ppf --> [njeng].
+ppf --> [njenga].
+ppf --> [w].
+ppf --> [y].
+xp --> [iw].
+xp --> [w].
+pl --> [ni].
+z11 --> [l].
+z11 --> [luka].
+z11 --> [lw].
+z11 --> [lwa].
+z15 --> [k].
+z15 --> [kuka].
+z15 --> [kw].
+z1 --> [ka].
+z1 --> [w].
+z1 --> [wa].
+z10 --> [z].
+z10 --> [za].
+z10 --> [zika].
+z14 --> [b].
+z14 --> [ba].
+z14 --> [buka].
+z2 --> [ba].
+z2 --> [b].
+z2 --> [baka].
+z3 --> [ka].
+z3 --> [w].
+z3 --> [wa].
+z4 --> [ka].
+z4 --> [y].
+z4 --> [ya].
+z5 --> [l].
+z5 --> [la].
+z5 --> [lika].
+z6 --> [ka].
+z6_iv --> [a].
+z6_iv --> [e].
+z6_iv --> [o].
+z7 --> [s].
+z7 --> [sa].
+z7 --> [sika].
+z9 --> [ka].
+z9 --> [y].
+z9 --> [ya].
+pr1 --> [ye].
+pr10 --> [zo].
+pr11 --> [lo].
+pr14 --> [bo].
+pr15 --> [kho].
+pr2 --> [bo].
+pr3 --> [wo].
+pr4 --> [yo].
+pr5 --> [lo].
+pr6 --> [wo].
+pr7 --> [so].
+pr9 --> [yo].
+qr --> [dwa].
+qr --> [nke].
+xr --> [an].
+rsf --> [yo].
+rpf --> [a].
+rpf --> [e].
+rpf --> [o].
+i1 --> [u].
+i1 --> [w].
+i10 --> [z].
+i10 --> [zi].
+i11 --> [l].
+i11 --> [lu].
+i11 --> [lw].
+i14 --> [b].
+i14 --> [bu].
+i15 --> [k].
+i15 --> [ku].
+i15 --> [kw].
+i1pp --> [s].
+i1pp --> [si].
+i1ps --> [ng].
+i1ps --> [ngi].
+i2 --> [b].
+i2 --> [ba].
+i2pp --> [n].
+i2pp --> [ni].
+i2ps --> [u].
+i2ps --> [w].
+i3 --> [u].
+i3 --> [w].
+i4 --> [i].
+i4 --> [y].
+i5 --> [l].
+i5 --> [li].
+i6 --> [a].
+i7 --> [s].
+i7 --> [si].
+i9 --> [i].
+i9 --> [y].
+g1 --> [ka].
+g10 --> [zi].
+g11 --> [lu].
+g14 --> [bu].
+g15 --> [ku].
+g1pp --> [si].
+g1ps --> [ngi].
+g2 --> [ba].
+g2pp --> [ni].
+g2ps --> [wu].
+g3 --> [wu].
+g4 --> [yi].
+g5 --> [li].
+g6 --> [wa].
+g7 --> [si].
+g9 --> [yi].
+p1 --> [e].
+p10 --> [zi].
+p11 --> [lu].
+p14 --> [bu].
+p15 --> [ku].
+p1pp --> [si].
+p1ps --> [ngi].
+p2 --> [be].
+p2pp --> [ni].
+p2ps --> [u].
+p3 --> [u].
+p4 --> [i].
+p5 --> [li].
+p6 --> [e].
+p7 --> [si].
+p9 --> [i].
+s1 --> [a].
+s10 --> [zi].
+s11 --> [lu].
+s14 --> [bu].
+s15 --> [ku].
+s1pp --> [si].
+s1ps --> [ngi].
+s2 --> [ba].
+s2pp --> [ni].
+s2ps --> [u].
+s3 --> [u].
+s4 --> [i].
+s5 --> [li].
+s6 --> [a].
+s7 --> [si].
+s9 --> [i].
+st --> [na].
+va --> [a].
+vn --> [i].
+vpl --> [ile].
+vpn --> [anga].
+vps --> [e].
+vs --> [e].
+xa --> [el].
+pr1pp --> [ethu].
+pr1ps --> [mi].
+pr2pp --> [ni].
+pr2ps --> [kho].

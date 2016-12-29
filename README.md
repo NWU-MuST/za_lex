@@ -36,24 +36,33 @@ The top level directory structure is summarised as follows:
 
 The decompounder `decomp_simple.py` requires a word list and can be run for example on the Afrikaans data as follows:
 
-`cut -d " " -f 1 data/afr/pronundict.txt | scripts/decomp_simple.py examples/afr.words5.txt > examples/afr.decomp.txt`
+
+```bash
+cut -d " " -f 1 data/afr/pronundict.txt | scripts/decomp_simple.py examples/afr.words5.txt > examples/afr.decomp.txt
+```
 
 
 #### Morphological analysis
 
 The Zulu morphological analyser can be run as follows (simplified output):
 
-`cut -f 1 data/zul/ref/nchlt_release_20130328/nchlt_isizulu.dict | scripts/morph_dcg.py data/zul/morphrules.descr.json data/zul/morphrules.dcg.txt --simpleguess > examples/zul.morphsimple.txt`
+```bash
+cut -f 1 data/zul/ref/nchlt_release_20130328/nchlt_isizulu.dict | scripts/morph_dcg.py data/zul/morphrules.descr.json data/zul/morphrules.dcg.txt --simpleguess > examples/zul.morphsimple.txt
+```
 
 
 #### Pronunciation prediction
 
 G2P conversion can be run as follows:
 
-`cut -f 1 data/zul/ref/nchlt_release_20130328/nchlt_isizulu.dict | scripts/g2p_icu.py data/zul/phonemeset.json data/zul/g2p.translit.txt > examples/zul.simple.pronun.txt`
-`cut -f 1 data/tsn/ref/nchlt_release_20130328/nchlt_setswana.dict | scripts/g2p_icu.py data/tsn/phonemeset.json data/tsn/g2p.translit.txt > examples/tsn.simple.pronun.txt`
+```bash
+cut -f 1 data/zul/ref/nchlt_release_20130328/nchlt_isizulu.dict | scripts/g2p_icu.py data/zul/phonemeset.json data/zul/g2p.translit.txt > examples/zul.simple.pronun.txt
+cut -f 1 data/tsn/ref/nchlt_release_20130328/nchlt_setswana.dict | scripts/g2p_icu.py data/tsn/phonemeset.json data/tsn/g2p.translit.txt > examples/tsn.simple.pronun.txt
+```
 
 The syllabification modules can be run on the resulting pronunciation dictionaries:
 
-`cat examples/zul.simple.pronun.txt | scripts/syl_zul.py data/zul/phonemeset.json | cut -f 1,3 > examples/zul.syll.pronun.txt`
-`cat examples/tsn.simple.pronun.txt | scripts/syl_tsn.py data/tsn/phonemeset.json | cut -f 1,3 > examples/tsn.syll.pronun.txt`
+```bash
+cat examples/zul.simple.pronun.txt | scripts/syl_zul.py data/zul/phonemeset.json | cut -f 1,3 > examples/zul.syll.pronun.txt
+cat examples/tsn.simple.pronun.txt | scripts/syl_tsn.py data/tsn/phonemeset.json | cut -f 1,3 > examples/tsn.syll.pronun.txt
+```

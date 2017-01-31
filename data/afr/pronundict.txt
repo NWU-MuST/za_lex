@@ -1681,7 +1681,7 @@ ashton None 10 23 qaeq S t q n
 asidose None 1020 1222 a s i d uq s q
 asiel None 01 13 a s i l
 asiese None 100 122 AA s i s q
-asimmetriese None 10200 12232 a s q m iq t r i s q
+asimmetriese None 10200 12232 AA s q m iq t r i s q
 askies None 10 14 a s k i s
 asma None 10 22 a s m a
 asof None 10 22 a s O f
@@ -14900,7 +14900,7 @@ oorgespoel None 102 224 uq r x q s p u l
 oorgesteek None 102 224 uq r x q s t iq k
 oorgetrek None 102 224 uq r x q t r qaeq k
 oorgewaai None 102 222 uq r x q v AAi
-oorgewig None 100 223 uq r x iq v q x
+oorgewig None 100 223 uq r x q v q x
 oorgrenspark None 102 245 uq r x r E n s p a r k
 oorgrote None 100 232 uq r x r uq t q
 oorhaal None 10 23 uq r hv AA l
@@ -24443,9 +24443,9 @@ winkelsentrums None 1020 3335 v q N k q l s E n t r qoeq m s
 winkeltjie None 102 332 v q N k q l k i
 wins None 0 4 v q n s
 winsbejag None 102 423 v q n s b q j a x
-winsgewend None 010 424 v q n s x q v E n t
+winsgewend None 010 424 v q n s x iq v q n t
 winsgewende None 0100 4232 v q n s x iq v q n d q
-winsgewendheid None 0102 4243 v q n s x q v E n t hv qi t
+winsgewendheid None 0102 4243 v q n s x iq v q n t hv qi t
 winsgrens None 10 45 v q n s x r E n s
 winsgrense None 100 442 v q n s x r E n s q
 winsgroei None 10 43 v q n s x r ui

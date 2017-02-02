@@ -326,7 +326,11 @@ class LexStresser(object):
         """This is not designed to be applied to compound words
            DO DECOMPOUNDING FIRST...
         """
-        assert len(syls) > 0
+        try:
+            assert len(syls) > 0
+        except AssertionError:
+            print(word.encode("utf-8"), file=sys.stderr)
+            raise
         if len(syls) < 2:
             return [0]
         stresspatt = [0] * len(syls)
@@ -394,8 +398,8 @@ class LexStresserDecomp(LexStresser):
             #simple stress assigner
             nvowels = map(len, map(self.graphvowelsre.findall, wordparts))
             #print(nvowels, file=sys.stderr)
-            if len(syls) != sum(nvowels):
-                print("_decomp(): nsyls and ngraphvowels missmatch for {} ({})".format(word, wordparts).encode("utf-8"))
+            if len(syls) != sum(nvowels) or 0 in nvowels:
+                print("_decomp(): nsyls and ngraphvowels missmatch for {} ({})".format(word, wordparts).encode("utf-8"), file=sys.stderr)
                 return [(word, syls)]
             parts = []
             i = 0
@@ -418,8 +422,6 @@ class LexStresserDecomp(LexStresser):
         return stresspatt
         
         
-
-    
 if __name__ == "__main__":
     import codecs
     import json

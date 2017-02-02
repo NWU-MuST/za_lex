@@ -11,7 +11,9 @@ __author__ = "Daniel van Niekerk"
 __email__ = "dvn.demitasse@gmail.com"
 
 import sys
+import re
 
+from decomp_simple import SyllabDecompounder
 
 def matching_suffix(word, syl, suffs):
     """Check orthography matching and final syl endswith phones (onsets
@@ -49,11 +51,20 @@ class LexStresser(object):
         #D - diphthong
         self.rweight = {"V": 0, "L": 1, "VC": 2, "VCC": 3, "VCCC": 3, "LC": 4, "LCC": 5, "LCCC": 5, "D": 6, "DC": 7, "DCC": 8, "DCCC": 8}
         self.superheavy = set(["LC", "DC", "VCC", "VCCC", "LCC", "LCCC", "DCC", "DCCC"])
+        #The following is used to determine number of syllables from
+        #orthography
+        self.graphvowels = ["aai", "aay", "eeu", "ooi", "ooy", "oei",
+                            "aa", "ai", "au", "ay", "ee", "ei", "eu", "ie", "oe", "oi", "oo", "ou", "oy", "ui", "uu", "uy",
+                            "a", "e", "i", "o", "u", "y",
+                            "ä", "é", "è", "ê", "ë", "î", "ï", "ô", "ö", "û", "ü"]
+        tmp = "|".join(sorted(self.graphvowels, key=len, reverse=True))
+        print(tmp, file=sys.stderr)
+        self.graphvowelsre = re.compile(tmp, flags=re.UNICODE)
         #DEMIT: We are conservative in defining affixes here since the
         #matching implementation is naïve. Can revisit/add affixes in
         #brackets if a more sophisticated morphological analysis is
         #done.
-
+        #####
         #unstressed prefixes: these wil be stripped before determining
         #stress, but most in this category contain schwa, so we are
         #conservative as noted above.
@@ -186,7 +197,7 @@ class LexStresser(object):
             if self.vweight[v1] < self.vweight[v2]:
                 return -1
         except KeyError:
-            print("WARNING: Could not determine 'vowel weight' (rimes: {} {})".format("".join(r1), "".join(r2)).encode("utf-8"), file=sys.stderr)
+            #print("WARNING: Could not determine 'vowel weight' difference (rimes: {} {})".format("".join(r1), "".join(r2)).encode("utf-8"), file=sys.stderr)
             pass
         #3: Could not compare or syllables of equal weight
         return 0
@@ -368,6 +379,47 @@ class LexStresser(object):
             stresspatt = [0]*lstrip + self._get_stress_simplex(s) + [0]*rstrip
         return stresspatt
 
+
+class LexStresserDecomp(LexStresser):
+    def __init__(self, phonemeset, wordlist):
+        LexStresser.__init__(self, phonemeset)
+        self.decomp = SyllabDecompounder(wordlist)
+
+    def _decomp(self, word, syls):
+        wordparts = self.decomp(word)
+        #print("wordparts:", wordparts, file=sys.stderr)
+        if len(wordparts) > 1:
+            #Now determine expected number of syllables in each wordpart
+            #so as to split up syllables accordingly and feed to the
+            #simple stress assigner
+            nvowels = map(len, map(self.graphvowelsre.findall, wordparts))
+            #print(nvowels, file=sys.stderr)
+            if len(syls) != sum(nvowels):
+                print("_decomp(): nsyls and ngraphvowels missmatch for {} ({})".format(word, wordparts).encode("utf-8"))
+                return [(word, syls)]
+            parts = []
+            i = 0
+            for w, nv in zip(wordparts, nvowels):
+                parts.append((w, syls[i:i+nv]))
+                i += nv
+            return parts
+        else:
+            return [(word, syls)]
+        
+    def get_stress_word(self, word, syls):
+        parts = self._decomp(word, syls)
+        stresspatt = []
+        for i, part in enumerate(parts):
+            w, s = part
+            partpatt = super(LexStresserDecomp, self).get_stress_word(w, s)
+            if i > 0:
+                partpatt = [e*2 for e in partpatt]
+            stresspatt.extend(partpatt)
+        return stresspatt
+        
+        
+
+    
 if __name__ == "__main__":
     import codecs
     import json
@@ -377,14 +429,22 @@ if __name__ == "__main__":
     
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('phonesetfile', metavar='PHONESETFILE', type=str, help="File containing the phoneme set (json utf-8).")
+    parser.add_argument('--decomp', metavar='WORDLIST', type=str, default=None, help="Apply decompounding before stress assignment (requires a word list)")
     parser.add_argument('--oformat', metavar='OUTPUTFORMAT', default=dictconv.DEF_OUTFORMAT, help="output format (flat|nested)")
     parser.add_argument('--defstresstone', metavar='DEFSTRESSTONE', default=dictconv.DEFSTRESSTONE, help="default stress/tone")
     args = parser.parse_args()
 
-    #load phoneset
+    #load and instantiate
     with codecs.open(args.phonesetfile, encoding="utf-8") as infh:
         phoneset = json.load(infh)
-    lexstress = LexStresser(phoneset)
+    if args.decomp is None:
+        lexstress = LexStresser(phoneset)
+        print(lexstress)
+    else:
+        with codecs.open(args.decomp, encoding="utf-8") as infh:
+            wordlist = infh.read().split()
+        lexstress = LexStresserDecomp(phoneset, wordlist)
+        print(lexstress)
 
     for line in sys.stdin:
         #input format is "flat" separate fields (current stress pattern is ignored/replaced)

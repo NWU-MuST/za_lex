@@ -165,8 +165,30 @@ class SimpleDecompounder(Decompounder):
         best = wfst.shortestpath(fst, nshortest=1)
         wordseq = label_seq(best, symtablel)
         return wordseq
-        
 
+
+class SyllabDecompounder(SimpleDecompounder):
+    """Run basic decompound but post-process output so that any unknown
+       tokens are re-attached to the previous token (e.g. will
+       attach interfix -s- to the previous token)
+    """
+    def decompound(self, word):
+        splitform = super(SyllabDecompounder, self).decompound(word)
+        if len(splitform) == 1:
+            return splitform
+        newsplitform = []
+        for e in splitform:
+            if newsplitform:
+                if e in self.words:
+                    newsplitform.append(e)
+                else:
+                    newsplitform.append(newsplitform.pop() + e)
+            else:
+                newsplitform.append(e)
+        return newsplitform
+
+
+    
 def test(wordlistfn, compword):
     import codecs
     with codecs.open(wordlistfn, encoding="utf-8") as infh:

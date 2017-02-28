@@ -38,7 +38,7 @@ Basic description of contents and development
 Current state of development:
  - `pronundict.txt` originates from `./ref/rcrl_apd_20110311/rcrl_apd.1.4.1.txt`
  - Adaptations from the source dictionary and inclusion of syllable boundaries is described in the following paper [1].
- - Current stress markers are experimental, this should be considered work-in-progress.
+ - Current stress markers have been manually verified against the protocol described briefly below.
 
 
 ### List of possibly useful transformations
@@ -49,6 +49,22 @@ Here we keep track of dictionary transformations that may be useful in different
 mp.t -> m.t
 Cₓ.Cₓ -> _.Cₓ
 ```
+
+### Stress features
+
+Stress features have recently been added to the dictionary and should be considered experimental. The idea with these features is to experiment with a protocol/specification that enhances quality and control in text-to-speech (TTS) synthesis systems.
+
+A summary of conventions:
+
+1. Unstressed (`0`), Primary (`1`) and secondary (`2`) stress levels are defined.
+2. All monosyllabic words are marked as unstressed.
+3. All polysyllabic words have at least one Primary stressed syllable.
+4. For application in TTS systems it is assumed here that the primary functions of the lexical stress feature is disambiguation (words with similar pronunciation but different stress patterns) and to clarify word structure, especially in compound words. This leads to conservative specification of stressed syllables with very few words containing more than two stressed syllables. 
+5. More than one stressed syllable is only marked in compound words (although not all compounds necessarily have more than one stressed syllable).
+6. Words with fewer than 3 syllables only have a single stressed syllable (and more generally, the upper bound on number of stressed syllables is assumed to be `number of syllables / 2`) -- this is related to point (4).
+7. Complex stress patterns in compound words are currently not considered, the resulting simplification is that the first stressed syllable is always marked as primary `1` and all subsequent stressed syllables as `2`.
+ 
+The utility/correctness of these conventions will be tested systematically in the context of TTS systems development and is expected to be reported on along with the development process soon.
 
 
 References

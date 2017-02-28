@@ -441,12 +441,12 @@ if __name__ == "__main__":
         phoneset = json.load(infh)
     if args.decomp is None:
         lexstress = LexStresser(phoneset)
-        print(lexstress)
+        #print(lexstress)
     else:
         with codecs.open(args.decomp, encoding="utf-8") as infh:
             wordlist = infh.read().split()
         lexstress = LexStresserDecomp(phoneset, wordlist)
-        print(lexstress)
+        #print(lexstress)
 
     for line in sys.stdin:
         #input format is "flat" separate fields (current stress pattern is ignored/replaced)

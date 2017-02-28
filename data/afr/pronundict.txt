@@ -489,7 +489,7 @@ aborsie None 010 132 a b O r s i
 aborsies None 010 133 a b O r s i s
 abraham None 100 133 AA b r a hv a m
 abram None 10 14 AA b r a m
-abseil None 01 23 a b s qi l
+abseil None 01 23 qaeq b s qi l
 absent None 01 24 a b s E n t
 abses None 01 23 a b s E s
 absolusie None 0010 2222 a b s u l y s i
@@ -4485,8 +4485,8 @@ details None 10 24 d i t qi l s
 determinante None 10200 23232 d iq t qaeq r m i n a n t q
 deug None 0 3 d qooq x
 deugde None 10 32 d qooq x d q
-deuntjie None 102 222 d qooq i N k i
-deuntjies None 102 223 d qooq i N k i s
+deuntjie None 10 32 d y N k i
+deuntjies None 10 33 d y N k i s
 deur None 0 3 d qooq r
 deurbraak None 10 34 d qooq r b r AA k
 deurbrake None 100 332 d qooq r b r AA k q
@@ -5575,7 +5575,7 @@ end None 0 3 E n t
 endemiese None 1020 2222 E n d iq m i s q
 endokriene None 1020 2232 E n d u k r i n q
 endometrium None 10020 22232 E n d u m i t r i qoeq m
-enduit None 10 23 E n d qoeqy t
+enduit None 10 32 E n t qoeqy t
 ene None 10 12 iq n q
 energie None 001 132 E n q r x i
 energiebehoeftes None 001020 132233 E n q r x i b q hv u f t q s
@@ -6666,7 +6666,7 @@ gelanseer None 001 233 x q l a n s iq r
 gelapte None 010 232 x q l a p t q
 gelas None 01 23 x q l a s
 gelate None 010 222 x q l AA t q
-gelatien None 010 223 x E l a t i n
+gelatien None 010 223 dZ E l a t i n
 geld None 0 4 x qaeq l t
 gelde None 10 32 x qaeq l d q
 geldeenhede None 1020 4222 x qaeq l t iq n hv iq d q
@@ -6904,7 +6904,7 @@ genetiese None 0100 2222 x q n iq t i s q
 genetika None 0100 2222 x q n iq t i k a
 geneutraliseer None 00001 22323 x q n qooq t r a l i s iq r
 genialiteit None 02001 22123 x iq n i a l i t qi t
-genie None 01 22 x q n i
+genie None 01 22 x iq n i
 geniepsige None 0100 2322 x q n i p s q x q
 geniet None 01 23 x q n i t
 genitale None 0100 2222 x iq n i t AA l q
@@ -8823,7 +8823,7 @@ hospitale None 1020 2322 hv O s p i t AA l q
 hospitalisasie None 100200 232222 hv O s p i t a l i s AA s i
 hostel None 10 24 hv O s t qaeq l
 hostelle None 100 232 hv O s t qaeq l q
-hostels None 10 25 hv O s t qaeq l s
+hostels None 10 25 hv O s t q l s
 hot None 0 3 hv O t
 hotel None 01 23 hv u t qaeq l
 hotelbedryf None 0102 2324 hv u t qaeq l b q d r qi f
@@ -11128,7 +11128,7 @@ kragtoevoer None 102 423 k r a x t u f u r
 krake None 10 32 k r AA k q
 krale None 10 32 k r AA l q
 kramer None 10 33 k r AA m q r
-krampagtig None 010 433 k r a m p a x t q x
+krampagtig None 010 523 k r a m p a x t q x
 krampe None 10 42 k r a m p q
 krane None 10 32 k r AA n q
 kranig None 10 33 k r AA n q x
@@ -12052,7 +12052,7 @@ lojale None 010 222 l u j AA l q
 lojaliteit None 0001 2223 l u j a l i t qi t
 lok None 0 3 l O k
 lokaal None 01 23 l u k AA l
-lokaas None 10 23 l O k AA s
+lokaas None 10 32 l O k AA s
 lokale None 010 222 l u k AA l q
 lokaliteit None 0001 2223 l u k a l i t qi t
 lokatiewe None 2010 2222 l uq k a t i v q
@@ -12822,7 +12822,7 @@ mikrovlak None 102 234 m i k r u f l a k
 mild None 0 4 m q l t
 milde None 10 32 m q l d q
 mildelik None 100 323 m q l d q l q k
-milieu None 001 221 m q l i qooq
+milieu None 01 32 m q l j qooq
 militante None 0010 2232 m q l q t a n t q
 militantes None 0010 2233 m q l q t a n t q s
 militêr None 001 223 m q l q t qaeq r
@@ -13613,7 +13613,7 @@ niksseggende None 1000 3232 n q k s qaeq x q n d q
 nimlike None 100 322 n q m l q k q
 nimmer None 10 23 n q m q r
 nimmereindigende None 201000 223232 n q m q r qi n d q x q n d q
-ninja None 10 32 n i n j a
+ninja None 10 32 n i n dZ a
 nippertjie None 102 232 n q p q r k i
 nis None 0 3 n q s
 nismark None 10 34 n q s m a r k
@@ -14901,7 +14901,7 @@ oorgesteek None 102 224 uq r x q s t iq k
 oorgetrek None 102 224 uq r x q t r qaeq k
 oorgewaai None 102 222 uq r x q v AAi
 oorgewig None 100 223 uq r x q v q x
-oorgrenspark None 102 245 uq r x r E n s p a r k
+oorgrenspark None 102 254 uq r x r E n s p a r k
 oorgrote None 100 232 uq r x r uq t q
 oorhaal None 10 23 uq r hv AA l
 oorhaastig None 010 224 uq r hv AA s t q x
@@ -17988,9 +17988,9 @@ seun None 0 3 s qooq n
 seuns None 0 4 s qooq n s
 seunskole None 120 332 s qooq n s k uq l q
 seunskool None 10 34 s qooq n s k uq l
-seunskoor None 10 34 s qooq n s k uq r
-seuntjie None 102 222 s qooq i N k i
-seuntjies None 102 223 s qooq i N k i s
+seunskoor None 10 43 s qooq n s k uq r
+seuntjie None 10 32 s y N k i
+seuntjies None 10 33 s y N k i s
 sewe None 10 22 s iq v q
 sewehonderd None 1020 2234 s iq v q hv O n d q r t
 sewejarige None 10200 22222 s iq v q j AA r q x q
@@ -18550,7 +18550,7 @@ skrumwerk None 10 54 s k r a m v qaeq r k
 skryf None 0 5 s k r qi f
 skryfbehoeftes None 1020 5233 s k r qi f b q hv u f t q s
 skryfkuns None 10 54 s k r qi f k qoeq n s
-skryfode None 100 422 s k r qi f uq d q
+skryfode None 100 512 s k r qi f uq d q
 skryfster None 10 54 s k r qi f s t q r
 skryfstrategieë None 10020 54221 s k r qi f s t r a t q x i q
 skryfstukke None 100 532 s k r qi f s t qoeq k q
@@ -19004,7 +19004,7 @@ spasie None 10 32 s p AA s i
 spasies None 10 33 s p AA s i s
 spasiëring None 0010 3213 s p a s i iq r q N
 spat None 0 4 s p a t
-spatare None 100 322 s p a t AA r q
+spatare None 100 412 s p a t AA r q
 speaker None 10 33 s p i k q r
 speel None 0 4 s p iq l
 speelbal None 10 43 s p iq l b a l
@@ -20124,7 +20124,7 @@ tam None 0 3 t a m
 tamatie None 010 222 t a m AA t i
 tamaties None 010 223 t a m AA t i s
 tamatiesous None 0102 2223 t a m AA t i s qu s
-tameletjie None 00102 22212 t a m q l E i k i
+tameletjie None 0012 2222 t a m q l E k i
 tand None 0 4 t a n t
 tandarts None 10 44 t a n t a r t s
 tandartse None 100 432 t a n t a r t s q
@@ -20993,7 +20993,7 @@ tuberkulose None 00010 23222 t y b q r k y l uq s q
 tug None 0 3 t qoeq x
 tugkomitee None 1002 3222 t qoeq x k O m q t iq
 tugoefening None 1200 3123 t qoeq x u f q n q N
-tugondersoek None 1002 2333 t qoeq x O n d q r s u k
+tugondersoek None 1002 3233 t qoeq x O n d q r s u k
 tugstappe None 100 332 t qoeq x s t a p q
 tugverhoor None 102 333 t qoeq x f q r hv uq r
 tugverhore None 1020 3322 t qoeq x f q r hv uq r q

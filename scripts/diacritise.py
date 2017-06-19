@@ -25,8 +25,8 @@ if __name__ == "__main__":
     
     for line in sys.stdin:
         line = unicode(line, encoding="utf-8").strip()
-        try:
-            print(d.diacritise(line).encode("utf-8"))
-        except Exception as e:
-            print("CONVERSION FAILED: '{}'".format(line).encode("utf-8"), file=sys.stderr)
-            print(str(e), file=sys.stderr)
+#        try:
+        print(d.diacritise(line).encode("utf-8"))
+        # except Exception as e:
+        #     print("CONVERSION FAILED: '{}'".format(line).encode("utf-8"), file=sys.stderr)
+        #     print(str(e), file=sys.stderr)

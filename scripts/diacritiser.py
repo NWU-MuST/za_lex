@@ -185,7 +185,7 @@ class GraphClassifDiacritiser(Diacritiser):
         templateline = self.diacre.sub("", unicodedata.normalize("NFKD", line))
         if DEBUG:
             print(templateline.encode("utf-8"), file=sys.stderr)
-        tmplidxs = self._target_idxs(templateline)
+        tmplidxs = self._target_idxs(templateline.lower())
         #get X's
         normline = self._normline(line, strip_diacs=True)
         if DEBUG:

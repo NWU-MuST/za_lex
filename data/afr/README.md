@@ -1,7 +1,7 @@
 Resources
 =========
 
-This directory contains the core resources including the pronunciation dictionary and phoneset definitions used by scripts elsewhere.
+This directory contains the core resources including the Afrikaans pronunciation dictionary and phoneset definitions used by scripts elsewhere. The dictionary is considered work-in-progress, however it may already be useful ([e.g. in Afrikaans TTS](https://github.com/demitasse/ttslab2_afr_lwazi2_build)). __If used in academic work, please cite [1].__
 
 It also contains the original resource (in `ref`) from which this is derived. The data contained in this directory is considered a *Derivative Work* of the dictionary contained in `ref`.
 
@@ -70,4 +70,16 @@ The utility/correctness of these conventions will be tested systematically in th
 References
 ----------
 
-[1] D.R. van Niekerk, "Syllabification for Afrikaans speech synthesis," in Proceedings of the 27th Annual Symposium of the Pattern Recognition Association of South Africa (PRASA), pp 31-36, Stellenbosch, South Africa, December 2016.
+ 1. D.R. van Niekerk, "Syllabification for Afrikaans speech synthesis," in Proceedings of the 27th Annual Symposium of the Pattern Recognition Association of South Africa (PRASA), pp 31-36, Stellenbosch, South Africa, December 2016.
+
+```bibtex
+@inproceedings{vniekerk2016prasa,
+	title = {{Syllabification for Afrikaans speech synthesis}},
+	booktitle = {{Proceedings of the Twenty-Seventh Annual Symposium of the Pattern Recognition Association of South Africa (PRASA)}},
+	author = {van Niekerk, D. R.},
+	address = {Stellenbosch, South Africa},
+	month = dec,
+	year = {2016},
+	pages = {31-36}
+}
+```

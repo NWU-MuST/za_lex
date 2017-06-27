@@ -16,9 +16,9 @@ Basic description of contents and development
 |-- graphemeset.txt
 |-- LICENCE.txt
 |-- phonemeset.ipa-example.tsv
-|-- phonemeset.ipa-hts.tsv
-|-- phonemeset.ipa-xsampa.tsv
-|-- phonemeset.json
+|-- phonememap.ipa-hts.tsv
+|-- phonememap.ipa-xsampa.tsv
+|-- phonememap.json
 |-- pronundict.txt
 |-- README.md
 `-- ref

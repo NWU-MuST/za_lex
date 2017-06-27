@@ -36,6 +36,7 @@ if __name__ == "__main__":
             except KeyError:
                 if not ph in warnings:
                     print("WARNING: Did not map /{}/".format(ph).encode("utf-8"), file=sys.stderr)
+                    #print("\t{}".format(line.strip()).encode("utf-8"), file=sys.stderr)
                     warnings.add(ph)
                 newphones.append(ph)
             if "\t" in line:

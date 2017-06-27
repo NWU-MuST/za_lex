@@ -1,4 +1,4 @@
-a None 1 1 q
+a None 0 1 q
 abandonment None 0100 1334 q b a n d q n m q n t
 abbotsdale None 100 143 a b q t s d ei l
 aberdeen None 001 123 a b q d ii n
@@ -17,8 +17,8 @@ acquaintance None 010 144 q k w ei n t q n s
 acquaintances None 0100 1433 q k w ei n t q n s q z
 acquiescence None 0100 1314 q k w ai q s q n s
 across None 01 14 q k r o s
-act None 1 3 a k t
-acts None 1 4 a k t s
+act None 0 3 a k t
+acts None 0 4 a k t s
 actual None 10 23 a k ch uq l
 added None 10 13 a d q d
 adjectives None 100 134 a jh e k t q v z
@@ -28,25 +28,25 @@ advantages None 0100 2323 a d v aa n t i jh q z
 adventure None 010 233 a d v e n ch q r
 adverbs None 10 24 a d v qq b z
 affected None 010 133 q f e k t q d
-african None 000 133 a f r i k q n
-africanist None 0000 1324 a f r i k q n q s t
+african None 100 133 a f r i k q n
+africanist None 1000 1324 a f r i k q n q s t
 after None 10 23 aa f t q r
 afternoon None 001 223 aa f t q n uu n
 again None 01 13 q g e n
 against None 01 15 q g e n s t
-aged None 1 3 ei jh d
-age None 1 2 ei jh
+aged None 0 3 ei jh d
+age None 0 2 ei jh
 agency None 100 132 ei jh q n s i
 agents None 10 15 ei jh q n t s
 aggie None 10 12 a g i
 agnes None 10 23 a g n q s
 ago None 01 12 q g ou
 agony None 100 122 a g q n i
-ah None 1 1 aa
+ah None 0 1 aa
 ahead None 01 13 q h e d
-aib None 1 2 ei b
-aids None 1 3 ei d z
-air None 1 2 eq r
+aib None 0 2 ei b
+aids None 0 3 ei d z
+air None 0 2 eq r
 airways None 10 13 eq w ei z
 ajar None 01 13 q jh aa r
 ajax None 10 14 ei jh a k s
@@ -57,7 +57,7 @@ alcohol None 100 223 a l k q h o l
 aldinville None 100 233 a l d q n v q l
 alexandria None 0010 1333 a l e g z aa n d r iq
 alice None 10 13 a l q s
-all None 1 2 oo l
+all None 0 2 oo l
 allow None 01 12 q l au
 ally None 10 12 a l ai
 almost None 10 24 oo l m ou s t
@@ -68,15 +68,15 @@ also None 10 22 oo l s ou
 altered None 10 23 uh l t q d
 altruism None 1000 2313 uh l t r uu q z q m
 always None 10 23 oo l w ei z
-am None 1 2 a m
+am None 0 2 a m
 amateurish None 0010 1223 a m q t qq r i sh
-ambia None 00 22 a m b iq
+ambia None 10 22 a m b iq
 ambition None 010 223 a m b i sh q n
 among None 01 13 q m uh ng
 amongst None 01 15 q m uh ng s t
-an None 1 2 a n
+an None 0 2 a n
 anchor None 10 23 a ng k q r
-and None 1 3 a n d
+and None 0 3 a n d
 andrea None 10 23 a n d r iq
 andre None 10 23 aa n d r ei
 andrew None 10 23 a n d r u
@@ -104,14 +104,14 @@ appreciation None 00010 13213 q p r ii sh i ei sh q n
 apprehension None 0010 1333 a p r i h e n sh q n
 approached None 01 15 q p r ou ch t
 apron None 10 14 ei p r q n
-are None 1 2 aa r
+are None 0 2 aa r
 argue None 10 13 aa g y uu
 argued None 10 14 aa g y uu d
 argument None 100 134 aa g y u m q n t
 aristide None 001 124 a r q s t ii d
 arlington None 100 133 aa l i ng t q n
-arm None 1 2 aa m
-arms None 1 3 aa m z
+arm None 0 2 aa m
+arms None 0 3 aa m z
 around None 01 14 q r au n d
 aroused None 01 14 q r au z d
 arrange None 01 14 q r ei n jh
@@ -120,17 +120,17 @@ arsenal None 100 123 aa s q n q l
 articulate None 0100 1233 aa t i k y u l ei t
 artistic None 010 133 aa t q s t i k
 artists None 10 15 aa t q s t s
-as None 1 2 a z
+as None 0 2 a z
 ashore None 01 13 q sh oo r
 ashton None 10 23 a sh t q n
 asiatic None 0010 1213 ei z i a t i k
 aside None 01 13 q s ai d
-ask None 1 3 aa s k
-asked None 1 4 aa s k t
+ask None 0 3 aa s k
+asked None 0 4 aa s k t
 asleep None 01 14 q s l ii p
 aston None 10 14 a s t q n
-at None 1 2 a t
-ate None 1 2 ei t
+at None 0 2 a t
+ate None 0 2 ei t
 athlete None 10 23 a th l ii t
 athletic None 010 223 a th l e t i k
 atlantico None 0100 2322 a t l a n t i k ou
@@ -148,43 +148,43 @@ author None 10 13 oo th q r
 automaton None 0100 1223 oo t o m q t q n
 average None 100 123 a v q r i jh
 away None 01 12 q w ei
-awe None 1 1 oo
+awe None 0 1 oo
 bachelor None 100 223 b a ch q l q r
-back None 1 3 b a k
-backs None 1 4 b a k s
-bad None 1 3 b a d
-bags None 1 4 b a g z
+back None 0 3 b a k
+backs None 0 4 b a k s
+bad None 0 3 b a d
+bags None 0 4 b a g z
 balance None 10 24 b a l q n s
-balls None 1 4 b oo l z
+balls None 0 4 b oo l z
 balmoral None 010 323 b a l m o r q l
-bang None 1 3 b a ng
+bang None 0 3 b a ng
 bankruptcy None 100 432 b a ng k r uh p s i
-banks None 1 5 b a ng k s
+banks None 0 5 b a ng k s
 baptized None 10 34 b a p t ai z d
 barbaric None 010 223 b aa b a r i k
 barcelona None 0010 2222 b aa s q l ou n q
-bared None 1 3 b eq d
+bared None 0 3 b eq d
 barely None 10 22 b eq l i
 bargains None 10 24 b aa g q n z
 barrington None 100 233 b a r i ng t q n
 barrydale None 100 223 b a r i d ei l
 bassett None 10 23 b a s e t
-bath None 1 3 b aa th
+bath None 0 3 b aa th
 bathurst None 10 24 b aa dh qq s t
-bay None 1 2 b ei
-beach None 1 3 b ii ch
+bay None 0 2 b ei
+beach None 0 3 b ii ch
 beady None 10 22 b ii d i
-bear None 1 3 b eq r
+bear None 0 3 b eq r
 beating None 10 23 b ii t i ng
 beatrice None 10 24 b iq t r q s
-beau None 1 2 b ou
+beau None 0 2 b ou
 beauty None 10 32 b y uu t i
-be None 1 2 b ii
+be None 0 2 b ii
 became None 01 23 b i k ei m
 become None 01 23 b i k uh m
 becoming None 010 223 b i k uh m i ng
-bed None 1 3 b e d
-been None 1 3 b ii n
+bed None 0 3 b e d
+been None 0 3 b ii n
 before None 01 23 b i f oo r
 began None 01 23 b i g a n
 begin None 01 23 b i g i n
@@ -194,11 +194,11 @@ being None 10 22 b ii i ng
 believe None 01 23 b i l ii v
 belize None 01 23 b i l ii z
 bella None 10 22 b e l uh
-bell None 1 3 b e l
+bell None 0 3 b e l
 bellville None 10 33 b e l v q l
 belmont None 10 34 b e l m o n t
-bent None 1 4 b e n t
-benz None 1 4 b e n z
+bent None 0 4 b e n t
+benz None 0 4 b e n z
 bernard None 10 23 b qq n q d
 besetting None 010 223 b i s e t i ng
 beside None 01 23 b i s ai d
@@ -208,218 +208,218 @@ between None 01 24 b i t w ii n
 bevan None 10 23 b e v q n
 beyond None 01 24 b i y o n d
 bidvest None 10 34 b q d v e s t
-big None 1 3 b i g
-bill None 1 3 b q l
+big None 0 3 b i g
+bill None 0 3 b q l
 billion None 10 23 b q l iq n
 billy None 10 22 b q l i
 biologists None 0100 2125 b ai o l q jh q s t s
-birds None 1 4 b qq d z
-bit None 1 3 b q t
-black None 1 4 b l a k
-blame None 1 4 b l ei m
-bless None 1 4 b l e s
+birds None 0 4 b qq d z
+bit None 0 3 b q t
+black None 0 4 b l a k
+blame None 0 4 b l ei m
+bless None 0 4 b l e s
 blessing None 10 33 b l e s i ng
-bloem None 1 4 b l u m
-blood None 1 4 b l uh d
-boat None 1 3 b ou t
-bob None 1 3 b o b
+bloem None 0 4 b l u m
+blood None 0 4 b l uh d
+boat None 0 3 b ou t
+bob None 0 3 b o b
 body None 10 22 b o d i
 bonanza None 010 232 b q n a n z q
-bone None 1 3 b ou n
+bone None 0 3 b ou n
 bonza None 10 32 b o n z q
 booysen None 10 23 b oi s q n
 borealis None 0010 2213 b oo r i aa l q s
-bore None 1 3 b oo r
-bored None 1 3 b oo d
-born None 1 3 b oo n
+bore None 0 3 b oo r
+bored None 0 3 b oo d
+born None 0 3 b oo n
 borrowing None 100 222 b o r ou i ng
 bosom None 10 23 b u z q m
 boston None 10 24 b o s t q n
-both None 1 3 b ou th
-bought None 1 3 b oo t
+both None 0 3 b ou th
+bought None 0 3 b oo t
 boundaries None 10 34 b au n d r i z
 bourgeois None 01 23 b uu zh w aa
 bournemouth None 10 33 b oo n m au th
-bow None 1 2 b au
-bowed None 1 3 b au d
-box None 1 4 b o k s
-boy None 1 2 b oi
-boys None 1 3 b oi z
-bra None 1 3 b r aa
+bow None 0 2 b au
+bowed None 0 3 b au d
+box None 0 4 b o k s
+boy None 0 2 b oi
+boys None 0 3 b oi z
+bra None 0 3 b r aa
 bradley None 10 42 b r a d l i
-brain None 1 4 b r ei n
-branch None 1 5 b r aa n sh
+brain None 0 4 b r ei n
+branch None 0 5 b r aa n sh
 brandfort None 10 53 b r a n d f q t
 brandon None 10 43 b r a n d q n
-break None 1 4 b r ei k
-breast None 1 5 b r e s t
-breathe None 1 4 b r ii dh
-breed None 1 4 b r ii d
+break None 0 4 b r ei k
+breast None 0 5 b r e s t
+breathe None 0 4 b r ii dh
+breed None 0 4 b r ii d
 brendan None 10 43 b r e n d q n
 brentwood None 10 53 b r e n t w u d
 bribery None 100 322 b r ai b q r i
-bridge None 1 4 b r i jh
-bright None 1 4 b r ai t
+bridge None 0 4 b r i jh
+bright None 0 4 b r ai t
 brightness None 10 43 b r ai t n q s
-bring None 1 4 b r i ng
+bring None 0 4 b r i ng
 bringing None 10 42 b r i ng i ng
 britain None 10 33 b r q t q n
 british None 10 33 b r q t i sh
-broach None 1 4 b r ou ch
+broach None 0 4 b r ou ch
 brockie None 10 32 b r o k i
-broke None 1 4 b r ou k
+broke None 0 4 b r ou k
 broken None 10 33 b r ou k q n
 bromwich None 10 43 b r o m w i ch
-broom None 1 4 b r uu m
-brought None 1 4 b r oo t
-brute None 1 4 b r uu t
+broom None 0 4 b r uu m
+brought None 0 4 b r oo t
+brute None 0 4 b r uu t
 bucolic None 010 323 b y uu k o l i k
 buffalo None 100 222 b uh f q l ou
-build None 1 4 b q l d
+build None 0 4 b q l d
 bulkheads None 10 44 b uh l k h e d z
 buried None 10 23 b e r i d
-burn None 1 3 b qq n
-burned None 1 4 b qq n d
-burnt None 1 4 b qq n t
-burst None 1 4 b qq s t
+burn None 0 3 b qq n
+burned None 0 4 b qq n d
+burnt None 0 4 b qq n t
+burst None 0 4 b qq s t
 bursting None 10 24 b qq s t i ng
-bush None 1 3 b u sh
+bush None 0 3 b u sh
 business None 10 33 b q z n q s
-but None 1 3 b uh t
+but None 0 3 b uh t
 butcher None 10 23 b u ch q r
 butchers None 10 23 b u ch q z
-buy None 1 2 b ai
-by None 1 2 b ai
+buy None 0 2 b ai
+by None 0 2 b ai
 cabin None 10 23 k a b q n
-caf None 1 3 k a f
+caf None 0 3 k a f
 calculated None 1000 3323 k a l k y u l ei t q d
-call None 1 3 k oo l
-calm None 1 3 k aa m
+call None 0 3 k oo l
+calm None 0 3 k aa m
 calvinia None 010 322 k a l v i n iq
 calvin None 10 33 k a l v q n
-came None 1 3 k ei m
+came None 0 3 k ei m
 campbell None 10 43 k a m p b e l
-camp None 1 4 k a m p
+camp None 0 4 k a m p
 canada None 100 222 k a n q d q
 canadian None 010 223 k q n ei d iq n
-cane None 1 3 k ei n
-can None 1 3 k a n
+cane None 0 3 k ei n
+can None 0 3 k a n
 cannot None 10 23 k a n o t
 canoe None 01 22 k q n uu
-can't None 1 4 k aa n t
+can't None 0 4 k aa n t
 canvas None 10 33 k a n v q s
 canyons None 10 25 k a n y q n z
-cape None 1 3 k ei p
+cape None 0 3 k ei p
 capital None 100 223 k a p q t q l
 captain None 10 33 k a p t q n
 captured None 10 33 k a p ch q d
 carcass None 10 23 k aa k q s
-cared None 1 3 k eq d
+cared None 0 3 k eq d
 careful None 10 23 k eq f u l
 carefully None 100 222 k eq f u l i
 cargo None 10 22 k aa g ou
-car None 1 3 k aa r
+car None 0 3 k aa r
 carletonville None 100 333 k aa l t q n v q l
 carlington None 100 233 k aa l i ng t q n
 carlsonia None 100 322 k aa l s ou n iq
 carnegie None 100 222 k aa n q g i
 carry None 10 22 k a r i
 cascades None 01 25 k a s k ei d z
-case None 1 3 k ei s
+case None 0 3 k ei s
 cases None 10 23 k ei s q z
 cashier None 01 23 k a sh iq r
-cash None 1 3 k a sh
+cash None 0 3 k a sh
 casualty None 100 232 k a zh uq l t i
-catch None 1 3 k a ch
+catch None 0 3 k a ch
 catholic None 10 33 k a th l i k
 cato None 10 22 k ei t ou
-caught None 1 3 k oo t
+caught None 0 3 k oo t
 cautiously None 100 223 k oo sh q s l i
-caves None 1 4 k ei v z
+caves None 0 4 k ei v z
 cedarville None 100 223 s ii d q v q l
-celsius None 00 33 s e l s iq s
+celsius None 10 33 s e l s iq s
 celtic None 10 33 s e l t i k
 certainly None 100 232 s qq t q n l i
 certain None 10 23 s qq t q n
 certitude None 100 224 s qq t q t y uu d
-chain None 1 3 ch ei n
-chair None 1 3 ch eq r
+chain None 0 3 ch ei n
+chair None 0 3 ch eq r
 challenged None 10 25 ch a l q n jh d
 champagne None 01 33 sh a m p ei n
 champions None 10 34 ch a m p iq n z
 chances None 10 33 ch aa n s q z
-changed None 1 5 ch ei n jh d
-change None 1 4 ch ei n jh
+changed None 0 5 ch ei n jh d
+change None 0 4 ch ei n jh
 chaotic None 100 213 k ei o t i k
 charcoal None 10 23 ch aa k ou l
-charge None 1 3 ch aa jh
-charles None 1 4 ch aa l z
+charge None 0 3 ch aa jh
+charles None 0 4 ch aa l z
 charlies None 10 23 ch aa l i z
 charlie None 10 22 ch aa l i
-charmed None 1 4 ch aa m d
-chased None 1 4 ch ei s t
+charmed None 0 4 ch aa m d
+chased None 0 4 ch ei s t
 chattering None 100 223 ch a t q r i ng
 chauffeur None 01 23 sh ou f qq r
-cheer None 1 3 ch iq r
+cheer None 0 3 ch iq r
 chemical None 100 223 k e m i k q l
 cherokee None 001 222 ch e r ou k ii
 chevrolet None 100 232 sh e v r u l ei
 chewing None 10 22 ch uu i ng
 chiefly None 10 23 ch ii f l i
-chiefs None 1 4 ch ii f s
-chief None 1 3 ch ii f
+chiefs None 0 4 ch ii f s
+chief None 0 3 ch ii f
 children None 10 34 ch q l d r q n
-child None 1 4 ch ai l d
-chill None 1 3 ch q l
+child None 0 4 ch ai l d
+chill None 0 3 ch q l
 chilly None 10 22 ch q l i
 chinese None 01 23 ch ai n ii z
-choice None 1 3 ch oi s
+choice None 0 3 ch oi s
 choking None 10 23 ch ou k i ng
-chris None 1 4 k r q s
+chris None 0 4 k r q s
 churchaven None 100 323 ch qq ch h ei v q n
 churches None 10 23 ch qq ch q z
-church None 1 3 ch qq ch
+church None 0 3 ch qq ch
 circumference None 0100 2324 s qq k uh m f q r q n s
 cities None 10 23 s q t i z
 city None 10 22 s q t i
 civilization None 00010 22223 s q v q l ai z ei sh q n
-claim None 1 4 k l ei m
-class None 1 4 k l aa s
+claim None 0 4 k l ei m
+class None 0 4 k l aa s
 claudine None 01 33 k l oo d ii n
-clean None 1 4 k l ii n
-closed None 1 5 k l ou z d
-close None 1 4 k l ou z
+clean None 0 4 k l ii n
+closed None 0 5 k l ou z d
+close None 0 4 k l ou z
 closely None 10 33 k l ou s l i
 closing None 10 33 k l ou z i ng
-clothes None 1 5 k l ou dh z
-clubbed None 1 5 k l uh b d
-club None 1 4 k l uh b
-clubs None 1 5 k l uh b z
+clothes None 0 5 k l ou dh z
+clubbed None 0 5 k l uh b d
+club None 0 4 k l uh b
+clubs None 0 5 k l uh b z
 clucking None 10 33 k l uh k i ng
 clustered None 10 34 k l uh s t q d
 clutching None 10 33 k l uh ch i ng
-clyde None 1 4 k l ai d
-coach None 1 3 k ou ch
-coal None 1 3 k ou l
+clyde None 0 4 k l ai d
+coach None 0 3 k ou ch
+coal None 0 3 k ou l
 coalville None 10 33 k ou l v q l
-coast None 1 4 k ou s t
-coat None 1 3 k ou t
+coast None 0 4 k ou s t
+coat None 0 3 k ou t
 cobras None 10 24 k ou b r q z
 cocky None 10 22 k o k i
-cod None 1 3 k o d
+cod None 0 3 k o d
 coincidence None 0100 2224 k ou i n s q d q n s
-coke None 1 3 k ou k
-cold None 1 4 k ou l d
+coke None 0 3 k ou k
+cold None 0 4 k ou l d
 coldplay None 10 43 k ou l d p l ei
 colenso None 010 232 k q l e n z ou
 colin None 10 23 k o l q n
 color None 10 23 k uh l q r
 coloured None 10 23 k uh l q d
 combination None 0010 3223 k o m b q n ei sh q n
-come None 1 3 k uh m
+come None 0 3 k uh m
 comfortably None 100 423 k uh m f t q b l i
 coming None 10 23 k uh m i ng
-comma None 00 22 k o m q
+comma None 10 22 k o m q
 commands None 01 25 k o m aa n d z
 commissioner None 0100 2223 k q m i sh q n q r
 committed None 010 223 k q m q t q d
@@ -450,29 +450,29 @@ convincing None 010 333 k o n v q n s i ng
 conway None 10 32 k o n w ei
 cooler None 10 23 k uu l q r
 cooperative None 01000 21223 k ou o p q r q t q v
-cords None 1 4 k oo d z
+cords None 0 4 k oo d z
 cornelia None 010 222 k oo n ii l iq
 corrected None 010 233 k q r e k t q d
 corry None 10 22 k o r i
 cosmos None 10 33 k o z m o s
-could None 1 3 k u d
+could None 0 3 k u d
 counting None 10 33 k au n t i ng
 countries None 10 34 k uh n t r i z
 country None 10 33 k uh n t r i
-course None 1 3 k oo s
+course None 0 3 k oo s
 cradock None 10 33 k r a d o k
-craig None 1 4 k r ei g
+craig None 0 4 k r ei g
 crater None 10 33 k r ei t q r
-crawled None 1 5 k r oo l d
+crawled None 0 5 k r oo l d
 creative None 010 313 k r ii ei t q v
-creek None 1 4 k r ii k
+creek None 0 4 k r ii k
 creeping None 10 33 k r ii p i ng
-cried None 1 4 k r ai d
+cried None 0 4 k r ai d
 crooked None 10 33 k r u k q d
-crops None 1 5 k r o p s
-crouched None 1 5 k r au ch t
-crushed None 1 5 k r uh sh t
-cry None 1 3 k r ai
+crops None 0 5 k r o p s
+crouched None 0 5 k r au ch t
+crushed None 0 5 k r uh sh t
+cry None 0 3 k r ai
 cryptic None 10 43 k r q p t i k
 crystal None 10 34 k r q s t q l
 cullen None 10 23 k uh l q n
@@ -483,44 +483,44 @@ curious None 10 33 k y uq r iq s
 curiously None 100 323 k y uq r iq s l i
 curly None 10 22 k qq l i
 curry None 10 22 k uh r i
-cut None 1 3 k uh t
+cut None 0 3 k uh t
 cutters None 10 23 k uh t q z
 cypriot None 100 232 s q p r i q t
 daddy None 10 22 d a d i
 daily None 10 22 d ei l i
-daine None 1 3 d ei n
-dale None 1 3 d ei l
+daine None 0 3 d ei n
+dale None 0 3 d ei l
 damon None 10 23 d ei m q n
-dane None 1 3 d ei n
+dane None 0 3 d ei n
 danger None 10 33 d ei n jh q r
-dark None 1 3 d aa k
+dark None 0 3 d aa k
 darker None 10 23 d aa k q r
-dart None 1 3 d aa t
+dart None 0 3 d aa t
 dated None 10 23 d ei t q d
-date None 1 3 d ei t
+date None 0 3 d ei t
 daughtry None 10 23 d oo t r i
 daughtry's None 10 24 d oo t r i z
 daveyton None 100 223 d ei v i t q n
 david None 10 23 d ei v q d
 davids None 10 24 d ei v q d z
-day None 1 2 d ei
+day None 0 2 d ei
 daylight None 10 23 d ei l ai t
-days None 1 3 d ei z
-dead None 1 3 d e d
-dean None 1 3 d ii n
-death None 1 3 d e th
+days None 0 3 d ei z
+dead None 0 3 d e d
+dean None 0 3 d ii n
+death None 0 3 d e th
 debutante None 100 234 d e b y uu t aa n t
 deceitful None 010 233 d q s ii t f u l
 de None 0 2 d q
-deed None 1 3 d ii d
-deep None 1 3 d ii p
+deed None 0 3 d ii d
+deep None 0 3 d ii p
 deepened None 10 24 d ii p q n d
 deeper None 10 23 d ii p q r
 degree None 01 23 d i g r ii
 delicate None 100 223 d e l i k q t
 delighted None 010 223 d i l ai t q d
 delivered None 010 223 d i l q v q d
-dell None 1 3 d e l
+dell None 0 3 d e l
 deluged None 01 24 d i l uu jh d
 democratic None 0010 2233 d e m q k r a t i k
 denial None 010 222 d i n ai q l
@@ -539,17 +539,17 @@ developments None 0100 2235 d i v e l q p m q n t s
 devil None 10 23 d e v q l
 devon None 10 23 d e v q n
 devotion None 010 223 d i v ou sh q n
-dhet None 1 4 d h e t
+dhet None 0 4 d h e t
 diameter None 0100 2123 d ai a m q t q r
 did None 0 3 d q d
-die None 1 2 d ai
-died None 1 3 d ai d
-dig None 1 3 d i g
+die None 0 2 d ai
+died None 0 3 d ai d
+dig None 0 3 d i g
 dingleton None 100 333 d i ng g q l t q n
 dinner None 10 23 d q n q r
 direct None 01 24 d ai r e k t
 direction None 010 233 d ai r e k sh q n
-dirt None 1 3 d qq t
+dirt None 0 3 d qq t
 disappointment None 0010 3144 d q s q p oi n t m q n t
 discovery None 0100 2322 d q s k uh v q r i
 disease None 01 23 d q z ii z
@@ -565,53 +565,53 @@ diversion None 010 223 d ai v qq zh q n
 division None 010 223 d i v i zh q n
 doctrine None 10 34 d o k t r q n
 document None 100 234 d o k y u m q n t
-do None 1 2 d uu
-does None 1 3 d uh z
-dog None 1 3 d o g
+do None 0 2 d uu
+does None 0 3 d uh z
+dog None 0 3 d o g
 doggone None 01 23 d o g o n
-dogs None 1 4 d o g z
+dogs None 0 4 d o g z
 doing None 10 22 d uu i ng
 dollars None 10 23 d o l q z
 dolly None 10 22 d o l i
 dolphins None 10 34 d o l f q n z
 dominated None 1000 2223 d o m i n ei t q d
 donkey None 10 32 d o ng k i
-don't None 1 4 d ou n t
-door None 1 3 d oo r
+don't None 0 4 d ou n t
+door None 0 3 d oo r
 double None 10 23 d uh b q l
 doubling None 10 24 d uh b l i ng
 doubly None 10 23 d uh b l i
-doubt None 1 3 d au t
+doubt None 0 3 d au t
 douglas None 10 24 d uh g l q s
-down None 1 3 d au n
+down None 0 3 d au n
 dozen None 10 23 d uh z q n
 dragon None 10 33 d r a g q n
-drank None 1 5 d r a ng k
-draw None 1 3 d r oo
-drawn None 1 4 d r oo n
+drank None 0 5 d r a ng k
+draw None 0 3 d r oo
+drawn None 0 4 d r oo n
 dreadfully None 100 422 d r e d f u l i
-dreams None 1 5 d r ii m z
+dreams None 0 5 d r ii m z
 dripping None 10 33 d r i p i ng
 driver None 10 33 d r ai v q r
-dropped None 1 5 d r o p t
-drought None 1 4 d r au t
-drowned None 1 5 d r au n d
+dropped None 0 5 d r o p t
+drought None 0 4 d r au t
+drowned None 0 5 d r au n d
 drumming None 10 33 d r uh m i ng
-drunk None 1 5 d r uh ng k
+drunk None 0 5 d r uh ng k
 duality None 0100 3122 d y uu a l q t i
 dunham None 10 23 d uh n q m
 durban None 10 23 d qq b q n
 durbanville None 100 233 d qq b q n v q l
 during None 10 33 d y uq r i ng
 dweller None 10 33 d w e l q r
-each None 1 2 ii ch
-ear None 1 2 iq r
+each None 0 2 ii ch
+ear None 0 2 iq r
 earliest None 100 123 qq l i q s t
 early None 10 12 qq l i
-earned None 1 3 qq n d
+earned None 0 3 qq n d
 earnings None 10 14 qq n i ng z
-ears None 1 2 iq z
-earth None 1 2 qq th
+ears None 0 2 iq z
+earth None 0 2 qq th
 easily None 100 122 ii z q l i
 eastern None 10 14 ii s t q n
 easy None 10 12 ii z i
@@ -621,8 +621,8 @@ ecstatically None 0100 2323 e k s t a t i k l i
 eddie None 10 12 e d i
 edenville None 100 133 ii d q n v q l
 edgar None 10 23 e d g q r
-edged None 1 3 e jh d
-edge None 1 2 e jh
+edged None 0 3 e jh d
+edge None 0 2 e jh
 editorial None 0010 1223 e d q t oo r iq l
 edward None 10 14 e d w q d
 effect None 01 14 i f e k t
@@ -631,7 +631,7 @@ effort None 10 13 e f q t
 eggshell None 10 23 e g sh a l
 eighteen None 01 13 ei t ii n
 eighteenth None 01 14 ei t ii n th
-eight None 1 2 ei t
+eight None 0 2 ei t
 eighty None 10 12 ei t i
 eileen None 01 12 ei ii n
 eileen's None 01 14 ei l ii n z
@@ -641,8 +641,8 @@ eleven None 010 123 i l e v q n
 eli None 10 12 ii l ai
 elijah None 010 122 i l ai jh q
 elongated None 1000 1323 ii l o ng g ei t q d
-els None 1 3 e l s
-else None 1 3 e l s
+els None 0 3 e l s
+else None 0 3 e l s
 em None 0 2 e m
 emily None 100 122 e m q l i
 emitting None 010 123 e m q t i ng
@@ -652,7 +652,7 @@ empire None 100 222 e m p ai q r
 employers None 010 232 e m p l oi q z
 emptied None 10 33 e m p t i d
 encouraged None 010 224 e n k uh r i jh d
-end None 1 3 e n d
+end None 0 3 e n d
 endured None 01 24 e n d y uq d
 endure None 01 24 e n d y uq r
 enemies None 100 123 e n q m i z
@@ -697,86 +697,86 @@ explained None 01 26 e k s p l ei n d
 explain None 01 25 e k s p l ei n
 explosion None 010 243 e k s p l ou zh q n
 express None 01 25 e k s p r e s
-eye None 1 1 ai
-eyed None 1 2 ai d
-eye's None 1 2 ai z
-eyes None 1 2 ai z
-faced None 1 4 f ei s t
-face None 1 3 f ei s
+eye None 0 1 ai
+eyed None 0 2 ai d
+eye's None 0 2 ai z
+eyes None 0 2 ai z
+faced None 0 4 f ei s t
+face None 0 3 f ei s
 faces None 10 23 f ei s q s
-failed None 1 4 f ei l d
+failed None 0 4 f ei l d
 faintly None 10 42 f ei n t l i
 fairly None 10 22 f eq l i
-faith None 1 3 f ei th
+faith None 0 3 f ei th
 faltered None 10 33 f oo l t q d
 falter None 10 33 f oo l t q r
 family None 100 222 f a m q l i
-fangs None 1 4 f a ng z
+fangs None 0 4 f a ng z
 farmer None 10 23 f aa m q r
 farther None 10 23 f aa dh q r
 fastidious None 010 233 f aa s t i d iq s
-fate None 1 3 f ei t
-fat None 1 3 f a t
+fate None 0 3 f ei t
+fat None 0 3 f a t
 father None 10 23 f aa dh q r
 father's None 10 23 f aa dh q z
 fathom None 10 23 f a dh q m
-fault None 1 4 f oo l t
+fault None 0 4 f oo l t
 favor None 10 23 f ei v q r
-fear None 1 3 f iq r
+fear None 0 3 f iq r
 fearing None 10 23 f iq r i ng
 feathered None 10 23 f e dh q d
 feebly None 10 23 f ii b l i
-feel None 1 3 f ii l
+feel None 0 3 f ii l
 feelings None 10 24 f ii l i ng z
-feels None 1 4 f ii l z
-feet None 1 3 f ii t
+feels None 0 4 f ii l z
+feet None 0 3 f ii t
 felix None 10 24 f ii l i k s
-fell None 1 3 f e l
+fell None 0 3 f e l
 fellow None 10 22 f e l ou
-felt None 1 4 f e l t
-fence None 1 4 f e n s
+felt None 0 4 f e l t
+fence None 0 4 f e n s
 ferguson None 100 223 f qq g q s q n
-few None 1 3 f y uu
+few None 0 3 f y uu
 fifa None 10 22 f ii f q
 fifteen None 01 33 f q f t ii n
-fifth None 1 4 f q f th
+fifth None 0 4 f q f th
 fifty None 10 32 f q f t i
 fighter None 10 23 f ai t q r
 fighting None 10 23 f ai t i ng
 figuring None 100 233 f i g y uu r i ng
-filled None 1 4 f q l d
-fill None 1 3 f q l
+filled None 0 4 f q l d
+fill None 0 3 f q l
 finality None 0100 2222 f ai n a l q t i
-find None 1 4 f ai n d
-fine None 1 3 f ai n
+find None 0 4 f ai n d
+fine None 0 3 f ai n
 fingers None 10 33 f i ng g q z
 fire None 10 22 f ai q r
-first None 1 4 f qq s t
-fished None 1 4 f i sh t
-fit None 1 3 f q t
-five None 1 3 f ai v
-fixed None 1 5 f i k s t
+first None 0 4 f qq s t
+fished None 0 4 f i sh t
+fit None 0 3 f q t
+five None 0 3 f ai v
+fixed None 0 5 f i k s t
 flagstaff None 10 44 f l a g s t aa f
 flaming None 10 33 f l ei m i ng
-flash None 1 4 f l a sh
-flat None 1 4 f l a t
-flesh None 1 4 f l e sh
-flick None 1 4 f l i k
+flash None 0 4 f l a sh
+flat None 0 4 f l a t
+flesh None 0 4 f l e sh
+flick None 0 4 f l i k
 flower None 10 32 f l au q r
 fluffy None 10 32 f l uh f i
-flush None 1 4 f l uh sh
-foiled None 1 4 f oi l d
+flush None 0 4 f l uh sh
+foiled None 0 4 f oi l d
 followed None 10 23 f o l ou d
 follow None 10 22 f o l ou
 following None 100 222 f o l ou i ng
-fond None 1 4 f o n d
+fond None 0 4 f o n d
 foolish None 10 23 f uu l i sh
 foolishly None 100 232 f uu l i sh l i
 foolishness None 100 233 f uu l i sh n q s
-foot None 1 3 f u t
+foot None 0 3 f u t
 footprints None 10 36 f u t p r q n t s
 forbidden None 010 223 f oo b q d q n
-force None 1 3 f oo s
+force None 0 3 f oo s
 forces None 10 23 f oo s q s
 forecasting None 100 224 f oo k aa s t i ng
 forefinger None 100 233 f oo f i ng g q r
@@ -786,133 +786,133 @@ foreman None 10 23 f oo m q n
 foremost None 10 24 f oo m ou s t
 forest None 10 24 f o r q s t
 forever None 010 223 f q r e v q r
-for None 1 3 f oo r
+for None 0 3 f oo r
 forget None 01 23 f q g e t
 forgotten None 010 223 f q g o t q n
-form None 1 3 f oo m
-fort None 1 3 f oo t
-forth None 1 3 f oo th
+form None 0 3 f oo m
+fort None 0 3 f oo t
+forth None 0 3 f oo th
 fortune None 10 24 f oo t y uu n
 forty None 10 22 f oo t i
 forward None 10 23 f oo w q d
 foundation None 010 323 f au n d ei sh q n
-found None 1 4 f au n d
-four None 1 3 f oo r
+found None 0 4 f au n d
+four None 0 3 f oo r
 fourteen None 01 23 f oo t ii n
-fourth None 1 3 f oo th
-fourty None 00 22 f oo t i
+fourth None 0 3 f oo th
+fourty None 10 22 f oo t i
 fragment None 10 44 f r a g m q n t
 france None 0 5 f r aa n s
 franklin None 10 44 f r a ng k l q n
 franskraal None 01 45 f r aa n s k r aa l
 fraserburg None 001 323 f r ei z q b qq g
-fraud None 1 4 f r oo d
-freed None 1 4 f r ii d
-free None 1 3 f r ii
+fraud None 0 4 f r oo d
+freed None 0 4 f r ii d
+free None 0 3 f r ii
 freeman None 10 33 f r ii m q n
-freight None 1 4 f r ei t
-fresh None 1 4 f r e sh
-friend None 1 5 f r e n d
+freight None 0 4 f r ei t
+fresh None 0 4 f r e sh
+friend None 0 5 f r e n d
 friendship None 10 53 f r e n d sh q p
-fright None 1 4 f r ai t
+fright None 0 4 f r ai t
 frikkie None 10 32 f r q k i
-from None 1 4 f r o m
+from None 0 4 f r o m
 froome None 0 4 f r uu m
 fulham None 10 23 f u l q m
-full None 1 3 f u l
-funk None 1 4 f uh ng k
+full None 0 3 f u l
+funk None 0 4 f uh ng k
 furman None 10 23 f qq m q n
-gad None 1 3 g a d
-gained None 1 4 g ei n d
-game None 1 3 g ei m
-gang None 1 3 g a ng
+gad None 0 3 g a d
+gained None 0 4 g ei n d
+game None 0 3 g ei m
+gang None 0 3 g a ng
 garden None 10 23 g aa d q n
 gary None 10 22 g a r i
-gate None 1 3 g ei t
-gaunt None 1 4 g oo n t
-gave None 1 3 g ei v
+gate None 0 3 g ei t
+gaunt None 0 4 g oo n t
+gave None 0 3 g ei v
 general None 100 223 jh e n q r q l
 genius None 10 23 jh ii n iq s
 gentlemen None 100 333 jh e n t q l m q n
 genuine None 100 232 jh e n y u q n
-george None 1 3 jh oo jh
+george None 0 3 jh oo jh
 georges None 10 23 jh oo jh q z
 gerald None 10 24 jh e r q l d
 german None 10 23 jh qq m q n
 germany None 100 222 jh qq m q n i
-get None 1 3 g e t
-ghost None 1 4 g ou s t
+get None 0 3 g e t
+ghost None 0 4 g ou s t
 giant None 10 23 jh ai q n t
-gift None 1 4 g i f t
+gift None 0 4 g i f t
 gigantic None 010 233 jh ai g a n t i k
-girl None 1 3 g qq l
-girl's None 1 4 g qq l z
-girls None 1 4 g qq l z
-give None 1 3 g i v
+girl None 0 3 g qq l
+girl's None 0 4 g qq l z
+girls None 0 4 g qq l z
+give None 0 3 g i v
 giveth None 10 23 g i v q th
-glad None 1 4 g l a d
+glad None 0 4 g l a d
 gladys None 10 33 g l a d q s
-gleamed None 1 5 g l ii m d
+gleamed None 0 5 g l ii m d
 glimmer None 10 33 g l q m q r
-glimpsed None 1 7 g l q m p s t
-gloom None 1 4 g l uu m
+glimpsed None 0 7 g l q m p s t
+gloom None 0 4 g l uu m
 glory None 10 32 g l oo r i
-glow None 1 3 g l ou
+glow None 0 3 g l ou
 goble None 10 23 g o b q l
-god None 1 3 g o d
-go None 1 2 g ou
+god None 0 3 g o d
+go None 0 2 g ou
 going None 10 22 g ou i ng
 golden None 10 33 g ou l d q n
 goldman None 10 43 g ou l d m q n
 golly None 10 22 g o l i
-gone None 1 3 g o n
+gone None 0 3 g o n
 goodbye None 01 32 g u d b ai
-good None 1 3 g u d
+good None 0 3 g u d
 goodman None 10 33 g u d m q n
-goods None 1 4 g u d z
-goose None 1 3 g uu s
+goods None 0 4 g u d z
+goose None 0 3 g uu s
 gordon None 10 23 g oo d q n
-got None 1 3 g o t
-gouged None 1 4 g au jh d
-grace None 1 4 g r ei s
+got None 0 3 g o t
+gouged None 0 4 g au jh d
+grace None 0 4 g r ei s
 graduated None 1000 3313 g r a d y u ei t q d
-grain None 1 4 g r ei n
-grass None 1 4 g r aa s
+grain None 0 4 g r ei n
+grass None 0 4 g r aa s
 grassroot None 10 43 g r aa s r uu t
 gravel None 10 33 g r a v q l
 gravelotte None 100 323 g r a v q l o t
-gray None 1 3 g r ei
+gray None 0 3 g r ei
 greater None 10 33 g r ei t q r
 greatly None 10 42 g r ei t l i
-green None 1 4 g r ii n
+green None 0 4 g r ii n
 greeting None 10 33 g r ii t i ng
 gregson None 10 43 g r e g s q n
 gretchen None 10 33 g r e ch q n
-grew None 1 3 g r uu
+grew None 0 3 g r uu
 griguas None 10 34 g r i k w q z
 grimly None 10 42 g r q m l i
-groomed None 1 5 g r uu m d
+groomed None 0 5 g r uu m d
 growing None 10 32 g r ou i ng
-grown None 1 4 g r ou n
-growth None 1 4 g r ou th
-grub None 1 4 g r uh b
+grown None 0 4 g r ou n
+growth None 0 4 g r ou th
+grub None 0 4 g r uh b
 grudges None 10 33 g r uh jh q z
 guano None 10 32 g w aa n ou
-guilt None 1 4 g i l t
-gwen None 1 4 g w e n
-had None 1 3 h a d
-hair None 1 3 h eq r
+guilt None 0 4 g i l t
+gwen None 0 4 g w e n
+had None 0 3 h a d
+hair None 0 3 h eq r
 haiti None 100 212 h ei i t i
-half None 1 3 h aa f
+half None 0 3 h aa f
 halfway None 10 32 h aa f w ei
-hall None 1 3 h oo l
-ham None 1 3 h a m
+hall None 0 3 h oo l
+ham None 0 3 h a m
 handed None 10 33 h a n d q d
-hand None 1 4 h a n d
+hand None 0 4 h a n d
 handkerchief None 100 323 h a ng k q ch i f
 handled None 10 34 h a n d q l d
 handle None 10 33 h a n d q l
-hands None 1 5 h a n d z
+hands None 0 5 h a n d z
 hangers None 10 32 h a ng q z
 hanover None 100 223 h a n ou v q r
 hanrahan's None 100 324 h a n r q h a n z
@@ -920,100 +920,100 @@ happened None 10 24 h a p q n d
 harding None 10 23 h aa d i ng
 hardly None 10 32 h aa d l i
 harmer None 10 23 h aa m q r
-harp None 1 3 h aa p
+harp None 0 3 h aa p
 harpoon None 01 23 h aa p uu n
 harrison None 100 223 h a r q s q n
 harry None 10 22 h a r i
 harvest None 10 24 h aa v q s t
-has None 1 3 h a z
+has None 0 3 h a z
 hatchet None 10 23 h a ch q t
-hate None 1 3 h ei t
-hat None 1 3 h a t
+hate None 0 3 h ei t
+hat None 0 3 h a t
 hatred None 10 24 h ei t r q d
-have None 1 3 h a v
+have None 0 3 h a v
 hawaiian None 010 222 h q w ai q n
-hawk None 1 3 h oo k
+hawk None 0 3 h oo k
 hayley None 10 22 h ei l i
-head None 1 3 h e d
-heads None 1 4 h e d z
-heard None 1 3 h qq d
-hearts None 1 4 h aa t s
+head None 0 3 h e d
+heads None 0 4 h e d z
+heard None 0 3 h qq d
+hearts None 0 4 h aa t s
 hearty None 10 22 h aa t i
-heat None 1 3 h ii t
+heat None 0 3 h ii t
 heavens None 10 24 h e v q n z
 heavy None 10 22 h e v i
 hebdo None 10 32 h e b d ou
-heel None 1 3 h ii l
+heel None 0 3 h ii l
 heerden None 10 23 h iq d q n
-he None 1 2 h ii
-held None 1 4 h e l d
-he'll None 1 3 h ii l
+he None 0 2 h ii
+held None 0 4 h e l d
+he'll None 0 3 h ii l
 helpless None 10 34 h e l p l q s
 henrico None 100 322 h e n r i k ou
 henry None 10 32 h e n r i
-here None 1 3 h iq r
-here's None 1 4 h iq r z
-her None 1 3 h qq r
+here None 0 3 h iq r
+here's None 0 4 h iq r z
+her None 0 3 h qq r
 hermanus None 100 223 h qq m aa n q s
 herself None 01 24 h qq s e l f
-hers None 1 3 h qq z
-he's None 1 3 h ii z
+hers None 0 3 h qq z
+he's None 0 3 h ii z
 hiding None 10 23 h ai d i ng
-high None 1 2 h ai
+high None 0 2 h ai
 highveld None 10 24 h ai f e l t
-him None 1 3 h i m
+him None 0 3 h i m
 himself None 01 34 h i m s e l f
-his None 1 3 h i z
+his None 0 3 h i z
 history None 100 232 h i s t q r ii
 hobhouse None 10 33 h o b h au s
-ho None 1 2 h ou
-hoist None 1 4 h oi s t
-hold None 1 4 h ou l d
-holmes None 1 4 h ou m z
-home None 1 3 h ou m
+ho None 0 2 h ou
+hoist None 0 4 h oi s t
+hold None 0 4 h ou l d
+holmes None 0 4 h ou m z
+home None 0 3 h ou m
 homesick None 10 33 h ou m s i k
 honolulu None 0010 2222 h o n q l uu l uu
-hoofs None 1 4 h uu f s
-hope None 1 3 h ou p
+hoofs None 0 4 h uu f s
+hope None 0 3 h ou p
 horrified None 100 223 h o r q f ai d
 hotel None 01 23 h ou t e l
-hot None 1 3 h o t
+hot None 0 3 h o t
 hotly None 10 32 h o t l i
 hotspur None 10 34 h o t s p qq r
 hour None 10 12 au q r
 hours None 10 12 au q z
-house None 1 3 h au s
+house None 0 3 h au s
 however None 010 213 h au e v q r
-how None 1 2 h au
+how None 0 2 h au
 howick None 10 22 h au i k
 hughie None 10 21 y uu i
 humanity None 0100 2222 y uu m a n q t i
 human None 10 23 y uu m q n
-hump None 1 4 h uh m p
+hump None 0 4 h uh m p
 hundred None 10 34 h uh n d r q d
 hungry None 10 33 h uh ng g r i
-hunt None 1 4 h uh n t
+hunt None 0 4 h uh n t
 hurrah None 01 22 h q r aa
-hush None 1 3 h uh sh
+hush None 0 3 h uh sh
 hutchinson None 100 233 h uh ch q n s q n
 hyena None 010 212 h ai ii n q
 hypothesis None 0100 2223 h ai p o th q s q s
 hysteria None 010 232 h q s t iq r iq
-i None 1 1 ai
-ice None 1 2 ai s
+i None 0 1 ai
+ice None 0 2 ai s
 idea None 01 12 ai d iq
 ideal None 01 13 ai d iq l
 ideals None 01 14 ai d iq l z
 ideas None 01 13 ai d iq z
 identified None 0100 1323 ai d e n t i f ai d
-if None 1 2 i f
+if None 0 2 i f
 ignoring None 010 223 i g n oo r i ng
-i'll None 1 2 ai l
+i'll None 0 2 ai l
 illovo None 001 122 i l ou v ou
 illuminating None 01000 12223 i l uu m q n ei t i ng
 imagine None 010 123 i m a jh q n
 imagining None 0100 1223 i m a jh q n i ng
-i'm None 1 2 ai m
+i'm None 0 2 ai m
 imax None 01 14 ai m a k s
 immaculate None 0100 1233 i m a k y u l q t
 immortal None 010 123 i m oo t q l
@@ -1032,7 +1032,7 @@ induced None 01 25 i n d y uu s t
 infernal None 010 223 i n f qq n q l
 information None 0010 2223 i n f q m ei sh q n
 ingram None 10 24 i ng g r q m
-in None 1 2 i n
+in None 0 2 i n
 insidious None 010 223 i n s i d iq s
 insinuate None 0100 2232 i n s q n y u ei t
 instant None 10 25 i n s t q n t
@@ -1048,201 +1048,201 @@ interurban None 0010 2313 i n t q r qq b q n
 into None 10 22 i n t q
 intoxicated None 01000 23223 i n t o k s i k ei t q d
 investing None 010 224 i n v e s t i ng
-invictus None 000 233 i n v i k t q s
+invictus None 010 233 i n v i k t q s
 iota None 010 112 ai ou t q
 irene None 01 13 ai r ii n
 irrelevant None 0100 1224 i r e l q v q n t
 irritation None 0010 1223 i r q t ei sh q n
 irvine None 10 13 qq v ai n
 isaac None 10 13 ai z i k
-is None 1 2 i z
+is None 0 2 i z
 island None 10 14 ai l q n d
 issued None 10 13 i sh uu d
 italian None 010 123 i t a l iq n
-it None 1 2 i t
+it None 0 2 i t
 itself None 01 24 i t s e l f
-it's None 1 3 i t s
-its None 1 3 i t s
+it's None 0 3 i t s
+its None 0 3 i t s
 ivory None 100 122 ai v q r i
-jack None 1 3 jh a k
+jack None 0 3 jh a k
 jackson None 10 33 jh a k s q n
 jacobs None 10 24 jh ei k q b s
-jacques None 1 3 zh aa k
-jagged None 1 4 jh a g d
-jake None 1 3 jh ei k
-james None 1 4 jh ei m z
-jane None 1 3 jh ei n
-jan None 1 3 y uh n
+jacques None 0 3 zh aa k
+jagged None 0 4 jh a g d
+jake None 0 3 jh ei k
+james None 0 4 jh ei m z
+jane None 0 3 jh ei n
+jan None 0 3 y uh n
 january None 100 232 jh a n y uq r i
 jason None 10 23 jh ei s q n
-jaws None 1 3 jh oo z
-jays None 1 3 jh ei z
-jazz None 1 3 jh a z
+jaws None 0 3 jh oo z
+jays None 0 3 jh ei z
+jazz None 0 3 jh a z
 jealousy None 100 222 jh e l q s i
 jelly None 10 22 jh e l i
 jenny None 10 22 jh e n i
 jeremy None 100 222 jh e r q m i
 jerry None 10 22 jh e r i
 jesse None 10 22 jh e s i
-jews None 1 3 jh uu z
-joan None 1 3 jh ou n
-joe None 1 2 jh ou
+jews None 0 3 jh uu z
+joan None 0 3 jh ou n
+joe None 0 2 jh ou
 johannes None 010 223 jh q h a n q s
-john None 1 3 jh o n
+john None 0 3 jh o n
 johnny None 10 22 jh o n i
-johns None 1 4 jh o n z
-joined None 1 4 jh oi n d
+johns None 0 4 jh o n z
+joined None 0 4 jh oi n d
 joking None 10 23 jh ou k i ng
 jomo None 10 22 jh ou m ou
-jones None 1 4 jh ou n z
+jones None 0 4 jh ou n z
 jordan None 10 23 jh oo d q n
-joy None 1 2 jh oi
+joy None 0 2 jh oi
 joyous None 10 22 jh oi q s
-judge None 1 3 jh uh jh
+judge None 0 3 jh uh jh
 judgment None 10 34 jh uh jh m q n t
 julia None 10 22 jh uu l iq
 junior None 10 23 jh uu n iq r
 junta None 10 32 jh u n t q
 jury None 10 22 jh uq r i
-just None 1 4 jh uh s t
+just None 0 4 jh uh s t
 justin None 10 24 jh uh s t q n
 juventus None 010 233 y uu v e n t q s
 kaizer None 10 23 k ai z q r
 karoo None 01 22 k q r uu
-kay None 1 2 k ei
+kay None 0 2 k ei
 keagan None 10 23 k ii g q n
 keaghan None 10 23 k ii g q n
 keenly None 10 32 k ii n l i
-keep None 1 3 k ii p
+keep None 0 3 k ii p
 kempten None 10 43 k e m p t q n
 kempton None 10 43 k e m p t q n
 kenton None 10 33 k e n t q n
 kerfoot's None 10 24 k qq f u t s
 kiddies None 10 23 k i d i z
-killed None 1 4 k i l d
-kills None 1 4 k i l z
+killed None 0 4 k i l d
+kills None 0 4 k i l z
 kimberley None 100 322 k i m b q l i
 kimberly None 100 322 k i m b q l i
 kingdom None 10 33 k i ng d q m
-king None 1 3 k i ng
+king None 0 3 k i ng
 kingsmead None 10 43 k i ng z m ii d
 kingston None 10 34 k i ng s t q n
 kinross None 01 33 k i n r o s
-klate None 1 4 k l ei t
-kloof None 1 4 k l uu f
-knew None 1 3 n y uu
-knights None 1 4 n ai t s
-knocked None 1 4 n o k t
-knock None 1 3 n o k
+klate None 0 4 k l ei t
+kloof None 0 4 k l uu f
+knew None 0 3 n y uu
+knights None 0 4 n ai t s
+knocked None 0 4 n o k t
+knock None 0 3 n o k
 knowledge None 10 23 n o l i jh
-known None 1 3 n ou n
-know None 1 2 n ou
+known None 0 3 n ou n
+know None 0 2 n ou
 kris None 0 4 k r q s
 kuksister None 100 324 k u k s q s t q r
-lace None 1 3 l ei s
+lace None 0 3 l ei s
 lady None 10 22 l ei d i
-laid None 1 3 l ei d
-lake None 1 3 l ei k
-lambton None 00 33 l a m t q n
-lamps None 1 5 l a m p s
-land None 1 4 l a n d
+laid None 0 3 l ei d
+lake None 0 3 l ei k
+lambton None 10 33 l a m t q n
+lamps None 0 5 l a m p s
+land None 0 4 l a n d
 lanka None 10 32 l a ng k q
-large None 1 3 l aa jh
+large None 0 3 l aa jh
 larry None 10 22 l a r i
 larsen None 10 23 l aa s q n
 lasted None 10 24 l aa s t q d
-last None 1 4 l aa s t
+last None 0 4 l aa s t
 later None 10 23 l ei t q r
-laughed None 1 4 l aa f t
+laughed None 0 4 l aa f t
 laughter None 10 33 l aa f t q r
-launched None 1 5 l oo n sh t
-law None 1 2 l oo
-laws None 1 3 l oo z
-lay None 1 2 l ei
-league None 1 3 l ii g
-leaped None 1 4 l ii p t
-leapt None 1 4 l e p t
-learned None 1 4 l qq n d
-least None 1 4 l ii s t
+launched None 0 5 l oo n sh t
+law None 0 2 l oo
+laws None 0 3 l oo z
+lay None 0 2 l ei
+league None 0 3 l ii g
+leaped None 0 4 l ii p t
+leapt None 0 4 l e p t
+learned None 0 4 l qq n d
+least None 0 4 l ii s t
 leaving None 10 23 l ii v i ng
-lee None 1 2 l ii
-left None 1 4 l e f t
-legged None 1 4 l e g d
-leg None 1 3 l e g
+lee None 0 2 l ii
+left None 0 4 l e f t
+legged None 0 4 l e g d
+leg None 0 3 l e g
 leicester None 10 24 l e s t q r
 leisure None 10 23 l e zh q r
 le None 0 2 l q
-length None 1 4 l e ng th
+length None 0 4 l e ng th
 lesser None 10 23 l e s q r
-less None 1 3 l e s
-let None 1 3 l e t
-let's None 1 4 l e t s
+less None 0 3 l e s
+let None 0 3 l e t
+let's None 0 4 l e t s
 letter None 10 23 l e t q r
 liberty None 100 222 l q b q t i
-lie None 1 2 l ai
-lies None 1 3 l ai z
-life None 1 3 l ai f
-life's None 1 4 l ai f s
+lie None 0 2 l ai
+lies None 0 3 l ai z
+life None 0 3 l ai f
+life's None 0 4 l ai f s
 lifted None 10 33 l q f t q d
-like None 1 3 l ai k
+like None 0 3 l ai k
 limits None 10 24 l q m q t s
 lincoln None 10 33 l i ng k q n
-line None 1 3 l ai n
-lines None 1 4 l ai n z
+line None 0 3 l ai n
+lines None 0 4 l ai n z
 lingered None 10 33 l i ng g q d
 lingo None 10 32 l i ng g ou
 lion None 10 22 l ai q n
 lions None 10 23 l ai q n z
-lips None 1 4 l q p s
+lips None 0 4 l q p s
 listened None 10 24 l q s q n d
 little None 10 23 l q t q l
-lived None 1 4 l q v d
-live None 1 3 l q v
+lived None 0 4 l q v d
+live None 0 3 l q v
 liver None 10 23 l q v q r
 liverpool None 100 223 l q v q p uu l
 living None 10 23 l q v i ng
 loaded None 10 23 l ou d q d
 lobster None 10 34 l o b s t q r
-log None 1 3 l o g
+log None 0 3 l o g
 london None 10 33 l uh n d q n
 longer None 10 33 l o ng g q r
-long None 1 3 l o ng
-looked None 1 4 l u k t
+long None 0 3 l o ng
+looked None 0 4 l u k t
 looking None 10 23 l u k i ng
-look None 1 3 l u k
-looks None 1 4 l u k s
-loose None 1 3 l uu s
-lop None 1 3 l o p
-lord None 1 3 l oo d
+look None 0 3 l u k
+looks None 0 4 l u k s
+loose None 0 3 l uu s
+lop None 0 3 l o p
+lord None 0 3 l oo d
 losing None 10 23 l uu z i ng
 losper None 10 33 l o s p q r
-lost None 1 4 l o s t
+lost None 0 4 l o s t
 louisa None 010 212 l u ii z q
 louis None 10 21 l uu i
-love None 1 3 l uh v
+love None 0 3 l uh v
 lover None 10 23 l uh v q r
 lower None 10 22 l ou q r
-low None 1 2 l ou
+low None 0 2 l ou
 lucia None 10 22 l uu sh q
 lucky None 10 22 l uh k i
-lush None 1 3 l uh sh
+lush None 0 3 l uh sh
 luxuriant None 010 324 l uh g zh uq r iq n t
 luxury None 100 322 l uh k sh q r i
 lying None 10 22 l ai i ng
 mabel None 10 23 m ei b q l
-mab None 1 3 m a b
+mab None 0 3 m a b
 maddening None 100 223 m a d q n i ng
-made None 1 3 m ei d
+made None 0 3 m ei d
 madness None 10 33 m a d n q s
 maelstrom None 10 35 m a l s t r o m
 magazine None 001 223 m a g q z ii n
 maggie None 10 22 m a g i
 magnificent None 0100 3224 m a g n q f q s q n t
-main None 1 3 m ei n
+main None 0 3 m ei n
 maintain None 01 33 m ei n t ei n
-make None 1 3 m ei k
-makes None 1 4 m ei k s
-malay None 00 22 m a l ei
+make None 0 3 m ei k
+makes None 0 4 m ei k s
+malay None 01 22 m a l ei
 malnutrition None 0010 3333 m a l n y uu t r i sh q n
 maltreated None 010 333 m a l t r ii t q d
 managed None 10 24 m a n i jh d
@@ -1250,12 +1250,12 @@ manage None 10 23 m a n i jh
 managing None 100 223 m a n i jh i ng
 manifestation None 00010 22233 m a n i f e s t ei sh q n
 manifested None 1000 2224 m a n i f e s t q d
-man None 1 3 m a n
+man None 0 3 m a n
 manuel None 100 232 m a n y uu q l
 many None 10 22 m e n i
 marble None 10 23 m aa b q l
-march None 1 3 m aa ch
-marc None 1 3 m aa k
+march None 0 3 m aa ch
+marc None 0 3 m aa k
 mario None 100 221 m a r i ou
 maritzburg None 100 243 m a r q t s b qq g
 market None 10 23 m aa k q t
@@ -1264,85 +1264,85 @@ married None 10 23 m a r i d
 martha None 10 22 m aa th q
 martin None 10 23 m aa t q n
 massage None 10 23 m a s aa jh
-mass None 1 3 m a s
-mate None 1 3 m ei t
+mass None 0 3 m a s
+mate None 0 3 m ei t
 matter None 10 23 m a t q r
 mature None 01 23 m q ch uq r
-mauled None 1 4 m oo l d
+mauled None 0 4 m oo l d
 maxima None 100 322 m a k s i m q
-max None 1 4 m a k s
-may None 1 2 m ei
-mean None 1 3 m ii n
+max None 0 4 m a k s
+may None 0 2 m ei
+mean None 0 3 m ii n
 meanwhile None 10 33 m ii n w ai l
 measure None 10 23 m e zh q r
-meat None 1 3 m ii t
+meat None 0 3 m ii t
 medical None 100 223 m e d i k q l
 meeting None 10 23 m ii t i ng
 melmoth None 10 33 m e l m q th
-me None 1 2 m ii
+me None 0 2 m ii
 memories None 100 223 m e m q r i z
-men None 1 3 m e n
+men None 0 3 m e n
 mercy None 10 22 m qq s i
-mere None 1 3 m iq r
+mere None 0 3 m iq r
 merrivale None 100 223 m e r i v ei l
 message None 10 23 m e s i jh
 method None 10 23 m e th q d
-met None 1 3 m e t
+met None 0 3 m e t
 metropolitan None 00100 23223 m e t r q p o l i t q n
 michael None 10 23 m ai k q l
-michael's None 00 24 m ai k q l z
-michaels None 00 24 m ai k q l z
+michael's None 10 24 m ai k q l z
+michaels None 10 24 m ai k q l z
 midmorning None 100 323 m q d m oo n i ng
 midstream None 10 35 m q d s t r ii m
-might None 1 3 m ai t
-mike None 1 3 m ai k
-miles None 1 4 m ai l z
+might None 0 3 m ai t
+mike None 0 3 m ai k
+miles None 0 4 m ai l z
 milktart None 10 43 m q l k t aa t
 miller None 10 23 m q l q r
 million None 10 23 m q l iq n
-mind None 1 4 m ai n d
+mind None 0 4 m ai n d
 minute None 10 23 m q n q t
 minutes None 10 24 m q n q t s
 mirage None 01 23 m q r aa zh
-mirth None 1 3 m qq th
-miscka None 00 32 m i s k q
+mirth None 0 3 m qq th
+miscka None 10 32 m i s k q
 missions None 10 24 m i sh q n z
 mistake None 01 24 m q s t ei k
 mister None 10 33 m q s t q r
 mobile None 10 23 m ou b ai l
-moist None 1 4 m oi s t
+moist None 0 4 m oi s t
 molokai None 100 222 m o l q k ai
 moment None 10 24 m ou m q n t
 momentum None 010 233 m q m e n t q m
 monday None 10 32 m uh n d ei
 money None 10 22 m uh n i
-month None 1 4 m uh n th
-moore None 1 3 m uq r
-moose None 1 3 m uu s
-more None 1 3 m oo r
+month None 0 4 m uh n th
+moore None 0 3 m uq r
+moose None 0 3 m uu s
+more None 0 3 m oo r
 morne None 10 22 m oo n ei
 morning None 10 23 m oo n i ng
 morris None 10 23 m o r q s
-most None 1 4 m ou s t
+most None 0 4 m ou s t
 mother None 10 23 m uh dh q r
-mouth None 1 3 m au th
-moved None 1 4 m uu v d
+mouth None 0 3 m au th
+moved None 0 4 m uu v d
 movements None 10 35 m uu v m q n t s
 moving None 10 23 m uu v i ng
 mozambique None 001 233 m ou z a m b ii k
-mpho None 1 3 m p oo
+mpho None 0 3 m p oo
 mrs None 10 23 m q s q z
-much None 1 3 m uh ch
-mug None 1 3 m uh g
+much None 0 3 m uh ch
+mug None 0 3 m uh g
 murmured None 10 23 m qq m q d
 murmuring None 100 223 m qq m q r i ng
 murray None 10 22 m uh r i
-must None 1 4 m uh s t
+must None 0 4 m uh s t
 muzzle None 10 23 m uh z q l
-my None 1 2 m ai
+my None 0 2 m ai
 mysterious None 010 233 m q s t iq r iq s
-name None 1 3 n ei m
-name's None 1 4 n ei m z
+name None 0 3 n ei m
+name's None 0 4 n ei m z
 naomi None 010 212 n ei ou m i
 national None 100 223 n a sh q n q l
 native None 10 23 n ei t q v
@@ -1350,49 +1350,49 @@ natural None 100 223 n a ch q r q l
 nauseating None 1000 2213 n oo z i ei t i ng
 nearer None 10 23 n iq r q r
 nearly None 10 22 n iq l i
-near None 1 3 n iq r
-neck None 1 3 n e k
+near None 0 3 n iq r
+neck None 0 3 n e k
 needed None 10 23 n ii d q d
-need None 1 3 n ii d
+need None 0 3 n ii d
 nel None 0 3 n a l
 nervous None 10 23 n qq v q s
 netherlands None 100 225 n e dh q l q n d z
-net None 1 3 n e t
+net None 0 3 n e t
 never None 10 23 n e v q r
 nevertheless None 0001 2223 n e v q dh q l e s
 newborn None 10 33 n y uu b oo n
 newcastle None 100 323 n y uu k aa s q l
 newlands None 10 35 n y uu l q n d z
 newman None 10 33 n y uu m q n
-new None 1 3 n y uu
-news None 1 4 n y uu z
-next None 1 5 n e k s t
+new None 0 3 n y uu
+news None 0 4 n y uu z
+next None 0 5 n e k s t
 nicer None 10 23 n ai s q r
 nigeria None 010 222 n ai jh iq r iq
 nightglow None 10 33 n ai t g l ou
-night None 1 3 n ai t
-nil None 1 3 n q l
+night None 0 3 n ai t
+nil None 0 3 n q l
 nimrod None 10 33 n q m r o d
-nine None 1 3 n ai n
+nine None 0 3 n ai n
 nineteen None 01 33 n ai n t ii n
 ninety None 10 32 n ai n t i
 nobody None 100 222 n ou b o d i
 nodded None 10 23 n o d q d
-nod None 1 3 n o d
-none None 1 3 n uh n
-no None 1 2 n ou
-nook None 1 3 n u k
-nope None 1 3 n ou p
+nod None 0 3 n o d
+none None 0 3 n uh n
+no None 0 2 n ou
+nook None 0 3 n u k
+nope None 0 3 n ou p
 northam None 10 23 n oo dh q m
-north None 1 3 n oo th
+north None 0 3 n oo th
 norwich None 10 23 n oo w i ch
 noted None 10 23 n ou t q d
 nothing None 10 23 n uh th i ng
 noticed None 10 24 n ou t q s t
-not None 1 3 n o t
-nought None 1 3 n oo t
+not None 0 3 n o t
+nought None 0 3 n oo t
 nowhere None 10 23 n ou w eq r
-now None 1 2 n au
+now None 0 2 n au
 oakland None 10 15 ou k l q n d
 obada None 010 122 q b aa d q
 obedience None 010 124 q b ii d iq n s
@@ -1407,23 +1407,23 @@ obviously None 100 223 o b v iq s l i
 occupants None 100 135 o k y u p q n t s
 occurred None 01 13 q k qq d
 official None 010 123 q f i sh q l
-off None 1 2 o f
+off None 0 2 o f
 offset None 10 23 o f s e t
-of None 1 2 o v
-ohm None 1 2 ou m
-oh None 1 1 ou
+of None 0 2 o v
+ohm None 0 2 ou m
+oh None 0 1 ou
 oilers None 10 13 oi l q z
-oil None 1 2 oi l
-old None 1 3 ou l d
+oil None 0 2 oi l
+old None 0 3 ou l d
 oligarchy None 1000 1222 o l i g aa k i
 olympia None 010 132 q l i m p iq
-once None 1 4 w uh n s
+once None 0 4 w uh n s
 onder None 10 23 o n d q r
-one None 1 3 w uh n
+one None 0 3 w uh n
 only None 10 22 ou n l i
-on None 1 2 o n
+on None 0 2 o n
 oolong None 10 13 uu l o ng
-ooze None 1 2 uu z
+ooze None 0 2 uu z
 opened None 10 14 ou p q n d
 open None 10 13 ou p q n
 opposition None 0010 1223 o p q z i sh q n
@@ -1435,15 +1435,15 @@ organic None 010 123 oo g a n i k
 organized None 100 124 oo g q n ai z d
 originate None 0100 1223 q r i jh q n ei t
 orlando None 010 132 oo l a n d ou
-or None 1 2 oo r
+or None 0 2 oo r
 orthodox None 100 124 oo th q d o k s
 other None 10 13 uh dh q r
 other's None 10 14 uh dh q r z
 otherwise None 100 123 uh dh q w ai z
-ought None 1 2 oo t
+ought None 0 2 oo t
 our None 10 12 au q r
 ourselves None 001 115 au q s e l v z
-out None 1 2 au t
+out None 0 2 au t
 outer None 10 13 au t q r
 outrageous None 010 223 au t r ei jh q s
 outrun None 01 23 au t r uh n
@@ -1453,44 +1453,44 @@ overseer None 001 123 ou v q s iq r
 overt None 01 13 ou v qq t
 over None 10 13 ou v q r
 overwhelmed None 001 125 ou v q w e l m d
-owl None 1 2 au l
-owls None 1 3 au l z
-own None 1 2 ou n
+owl None 0 2 au l
+owls None 0 3 au l z
+own None 0 2 ou n
 oyster None 10 14 oi s t q r
 oysters None 10 14 oi s t q z
 paddling None 10 24 p a d l i ng
-paid None 1 3 p ei d
-pain None 1 3 p ei n
+paid None 0 3 p ei d
+pain None 0 3 p ei n
 paintsil None 10 43 p ei n t s q l
-pair None 1 3 p eq r
+pair None 0 3 p eq r
 palace None 10 23 p a l q s
-palm None 1 3 p aa m
-pals None 1 4 p a l z
-pan None 1 3 p a n
+palm None 0 3 p aa m
+pals None 0 4 p a l z
+pan None 0 3 p a n
 parker None 10 23 p aa k q r
-park None 1 3 p aa k
+park None 0 3 p aa k
 parktown None 10 33 p aa k t au n
 parnell None 01 23 p aa n e l
 particular None 0100 2233 p q t i k y u l q r
 partly None 10 32 p aa t l i
 partnership None 100 323 p aa t n q sh q p
-part None 1 3 p aa t
+part None 0 3 p aa t
 party None 10 22 p aa t i
-passed None 1 4 p aa s t
+passed None 0 4 p aa s t
 passionately None 1000 2232 p a sh q n q t l i
-pass None 1 3 p aa s
+pass None 0 3 p aa s
 patel None 01 23 p q t a l
 paterson None 100 223 p a t q s q n
 patiently None 100 242 p ei sh q n t l i
-pat None 1 3 p a t
+pat None 0 3 p a t
 pauline None 01 23 p oo l ii n
-paused None 1 4 p oo z d
-paw None 1 2 p oo
-pay None 1 2 p ei
-peace None 1 3 p ii s
+paused None 0 4 p oo z d
+paw None 0 2 p oo
+pay None 0 2 p ei
+peace None 0 3 p ii s
 pearce's None 10 23 p iq s q z
 pennington None 100 233 p e n i ng t q n
-pent None 1 4 p e n t
+pent None 0 4 p e n t
 people None 10 23 p ii p q l
 people's None 10 24 p ii p q l z
 pepper None 10 23 p e p q r
@@ -1498,40 +1498,40 @@ percentage None 010 233 p q s e n t i jh
 percent None 01 24 p q s e n t
 perhaps None 01 34 p q r h a p s
 period None 10 23 p iq r iq d
-per None 1 3 p q r
+per None 0 3 p q r
 perpetual None 010 223 p q p e ch uq l
 persian None 10 23 p qq zh q n
 persistent None 010 225 p q s q s t q n t
-perth None 1 3 p qq th
+perth None 0 3 p qq th
 peter None 10 23 p ii t q r
 peterson None 100 223 p ii t q s q n
 petitioned None 010 224 p q t i sh q n d
-phil None 1 3 f q l
+phil None 0 3 f q l
 philip None 10 23 f q l q p
-philippolis None 0000 2223 f q l q p ou l q s
+philippolis None 0100 2223 f q l q p ou l q s
 philip's None 10 24 f q l q p s
 phillip None 10 23 f q l q p
-phorus None 00 23 f oo r q s
+phorus None 10 23 f oo r q s
 physique None 01 23 f q z ii k
 piano None 010 212 p i a n ou
-picked None 1 4 p i k t
+picked None 0 4 p i k t
 picture None 10 33 p i k ch q r
-pierre None 1 3 p iq r
-pierre's None 1 3 p iq z
-pike None 1 3 p ai k
+pierre None 0 3 p iq r
+pierre's None 0 3 p iq z
+pike None 0 3 p ai k
 pinetown None 10 33 p ai n t au n
-pipes None 1 4 p ai p s
+pipes None 0 4 p ai p s
 pirates None 10 24 p ai r q t s
-pitched None 1 4 p i ch t
-place None 1 4 p l ei s
-plain None 1 4 p l ei n
-plans None 1 5 p l a n z
+pitched None 0 4 p i ch t
+place None 0 4 p l ei s
+plain None 0 4 p l ei n
+plans None 0 5 p l a n z
 plantation None 010 423 p l aa n t ei sh q n
 platinum None 100 323 p l a t i n q m
 plausible None 100 323 p l oo z q b q l
 playing None 10 32 p l ei i ng
-play None 1 3 p l ei
-please None 1 4 p l ii z
+play None 0 3 p l ei
+please None 0 4 p l ii z
 pleasure None 10 33 p l e zh q r
 plentiful None 100 423 p l e n t i f u l
 plenty None 10 42 p l e n t i
@@ -1539,23 +1539,23 @@ plettenberg None 100 333 p l e t q n b qq g
 poem None 10 22 p ou q m
 poet None 10 22 p ou q t
 pointing None 10 33 p oi n t i ng
-point None 1 4 p oi n t
-points None 1 5 p oi n t s
-poise None 1 3 p oi z
+point None 0 4 p oi n t
+points None 0 5 p oi n t s
+poise None 0 3 p oi z
 poisonous None 100 223 p oi z q n q s
 pomeroy None 100 222 p o m q r oi
-poor None 1 3 p uq r
+poor None 0 3 p uq r
 portia None 10 22 p oo t iq
-port None 1 3 p oo t
+port None 0 3 p oo t
 portuguese None 001 223 p oo ch q g ii z
 possession None 010 223 p q z e sh q n
 postpone None 01 24 p ou s p ou n
-pots None 1 4 p o t s
+pots None 0 4 p o t s
 pounded None 10 33 p au n d q d
-pound None 1 4 p au n d
-pounds None 1 5 p au n d z
+pound None 0 4 p au n d
+pounds None 0 5 p au n d z
 powerful None 100 213 p au q f u l
-prayers None 1 4 p r eq z
+prayers None 0 4 p r eq z
 preacher None 10 33 p r ii ch q r
 preachers None 10 33 p r ii ch q z
 preceding None 010 323 p r i s ii d i ng
@@ -1569,7 +1569,7 @@ pressure None 10 33 p r e sh q r
 prestige None 01 34 p r e s t ii zh
 pretoria None 010 322 p r i t oo r iq
 prevailed None 01 34 p r i v ei l d
-price None 1 4 p r ai s
+price None 0 4 p r ai s
 primeval None 010 323 p r ai m ii v q l
 princess None 10 43 p r q n s e s
 principally None 100 423 p r q n s q p l i
@@ -1590,51 +1590,51 @@ prostrate None 10 35 p r o s t r ei t
 prostration None 010 343 p r o s t r ei sh q n
 protection None 010 333 p r q t e k sh q n
 protege None 100 322 p r o t q zh ei
-proved None 1 5 p r uu v d
+proved None 0 5 p r uu v d
 providence None 100 324 p r o v q d q n s
 provocateurs None 0001 3223 p r q v o k q t qq z
 psychology None 0100 2222 s ai k o l q jh i
 public None 10 24 p uh b l i k
 puffy None 10 22 p uh f i
-put None 1 3 p u t
+put None 0 3 p u t
 puttick None 10 23 p uh t i k
 puzzled None 10 24 p uh z q l d
 quadrupling None 100 334 k w o d r u p l i ng
 quarrel None 10 33 k w o r q l
 quarter None 10 33 k w oo t q r
-quart None 1 4 k w oo t
+quart None 0 4 k w oo t
 question None 10 43 k w e s ch q n
 questions None 10 44 k w e s ch q n z
-quick None 1 4 k w i k
+quick None 0 4 k w i k
 quickly None 10 33 k w i k l i
 quiet None 10 32 k w ai q t
 quietly None 100 322 k w ai q t l i
 quinton None 10 43 k w q n t q n
-quite None 1 4 k w ai t
+quite None 0 4 k w ai t
 quotations None 010 324 k w ou t ei sh q n z
 quoting None 10 33 k w ou t i ng
-rage None 1 3 r ei jh
+rage None 0 3 r ei jh
 raided None 10 23 r ei d q d
-rail None 1 3 r ei l
+rail None 0 3 r ei l
 railroad None 10 33 r ei l r ou d
 railway None 10 32 r ei l w ei
 ranches None 10 33 r aa n ch q z
 randlords None 10 44 r a n d l oo d z
-rand None 1 4 r a n d
-ran None 1 3 r a n
+rand None 0 4 r a n d
+ran None 0 3 r a n
 rapidly None 100 232 r a p q d l i
-rate None 1 3 r ei t
-raw None 1 2 r oo
+rate None 0 3 r ei t
+raw None 0 2 r oo
 raymond None 10 24 r ei m q n d
-rays None 1 3 r ei z
-read None 1 3 r ii d
-real None 1 3 r iq l
+rays None 0 3 r ei z
+read None 0 3 r ii d
+real None 0 3 r iq l
 rebellious None 010 223 r i b e l iq s
 recognizing None 1000 2323 r e k q g n ai z i ng
 recollection None 0010 2233 r e k q l e k sh q n
 reconciled None 100 234 r e k q n s ai l d
 reddersburg None 100 233 r e d q s b qq g
-red None 1 3 r e d
+red None 0 3 r e d
 refugee None 001 232 r e f y u jh ii
 refused None 01 25 r i f y uu z d
 regular None 100 233 r e g y u l q r
@@ -1647,14 +1647,14 @@ replied None 01 24 r i p l ai d
 reply None 01 23 r i p l ai
 reports None 01 24 r i p oo t s
 require None 010 232 r i k w ai q r
-re None 1 2 r ii
+re None 0 2 r ii
 resemblance None 010 235 r i z e m b l q n s
 resident None 100 224 r e z q d q n t
 resisted None 010 224 r i z q s t q d
 resources None 100 223 r i s oo s q z
 restaurants None 10 27 r e s t r o n t s
 rested None 10 24 r e s t q d
-rest None 1 4 r e s t
+rest None 0 4 r e s t
 restriction None 010 253 r q s t r i k sh q n
 resumed None 01 25 r q z y uu m d
 returned None 01 24 r i t qq n d
@@ -1668,293 +1668,293 @@ reward None 01 23 r q w oo d
 rhythm None 10 23 r q dh q m
 rhythms None 10 24 r q dh q m z
 rider None 10 23 r ai d q r
-ridge None 1 3 r i jh
+ridge None 0 3 r i jh
 rifle None 10 23 r ai f q l
 rifles None 10 24 r ai f q l z
-right None 1 3 r ai t
+right None 0 3 r ai t
 rilee None 10 22 r ai l i
 ringing None 10 32 r i ng i ng
 rising None 10 23 r ai z i ng
 river None 10 23 r q v q r
-road None 1 3 r ou d
-roads None 1 4 r ou d z
+road None 0 3 r ou d
+roads None 0 4 r ou d z
 robben None 10 23 r o b q n
 robbery None 100 222 r o b q r i
 robert None 10 23 r o b q t
 roberts None 10 24 r o b q t s
-robes None 1 4 r ou b z
+robes None 0 4 r ou b z
 robin None 10 23 r o b q n
-rock None 1 3 r o k
-rocks None 1 4 r o k s
-rolled None 1 4 r ou l d
-roll None 1 3 r ou l
+rock None 0 3 r o k
+rocks None 0 4 r o k s
+rolled None 0 4 r ou l d
+roll None 0 3 r ou l
 roman None 10 23 r ou m q n
 rondevlei None 100 323 r o n d q v l ei
 ronwen None 10 33 r o n w e n
-room None 1 3 r uu m
-rose None 1 3 r ou z
-rot None 1 3 r o t
-round None 1 4 r au n d
+room None 0 3 r uu m
+rose None 0 3 r ou z
+rot None 0 3 r o t
+round None 0 4 r au n d
 royal None 10 22 r oi q l
-roy None 1 2 r oi
+roy None 0 2 r oi
 rugby None 10 32 r uh g b i
 ruin None 10 22 r uu q n
 rumors None 10 23 r uu m q z
-run None 1 3 r uh n
-rushed None 1 4 r uh sh t
-rush None 1 3 r uh sh
+run None 0 3 r uh n
+rushed None 0 4 r uh sh t
+rush None 0 3 r uh sh
 russel None 10 23 r uh s q l
 russia None 10 22 r uh sh q
 rustenburg None 100 243 r uh s t q n b qq g
-rust None 1 4 r uh s t
-sad None 1 3 s a d
-said None 1 3 s e d
-sailed None 1 4 s ei l d
-saint None 1 4 s ei n t
-sake None 1 3 s ei k
+rust None 0 4 r uh s t
+sad None 0 3 s a d
+said None 0 3 s e d
+sailed None 0 4 s ei l d
+saint None 0 4 s ei n t
+sake None 0 3 s ei k
 salie None 10 22 s a l i
-salt None 1 4 s oo l t
-same None 1 3 s ei m
+salt None 0 4 s oo l t
+same None 0 3 s ei m
 sammy None 10 22 s a m i
 samson None 10 33 s a m s q n
 samurai None 100 222 s a m q r ai
 sandton None 10 43 s a n d t q n
 sannie None 10 22 s a n i
-san None 1 3 s a n
+san None 0 3 s a n
 santie None 10 32 s a n t i
 sarcastically None 0100 2233 s aa k a s t i k l i
 sasolburg None 100 233 s a s q l b qq g
-sat None 1 3 s a t
+sat None 0 3 s a t
 savage None 10 23 s a v i jh
-save None 1 3 s ei v
-saw None 1 2 s oo
+save None 0 3 s ei v
+saw None 0 2 s oo
 saxon None 10 33 s a k s q n
 saying None 10 22 s ei i ng
-say None 1 2 s ei
-says None 1 3 s e z
+say None 0 2 s ei
+says None 0 3 s e z
 scarcely None 10 33 s k eq s l i
-scared None 1 4 s k eq d
+scared None 0 4 s k eq d
 schedule None 10 24 sh e d y uu l
 schoolboy None 10 42 s k uu l b oi
-school None 1 4 s k uu l
+school None 0 4 s k uu l
 schooner None 10 33 s k uu n q r
 scottish None 10 33 s k o t i sh
-scott None 1 4 s k o t
-scrap None 1 5 s k r a p
-screamed None 1 6 s k r ii m d
+scott None 0 4 s k o t
+scrap None 0 5 s k r a p
+screamed None 0 6 s k r ii m d
 scrubbing None 10 43 s k r uh b i ng
 seafaring None 100 223 s ii f eq r i ng
-seal None 1 3 s ii l
+seal None 0 3 s ii l
 searching None 10 23 s qq ch i ng
-sea None 1 2 s ii
-seat None 1 3 s ii t
+sea None 0 2 s ii
+seat None 0 3 s ii t
 seawater None 100 223 s ii w oo t q r
 second None 10 24 s e k q n d
 secure None 01 24 s q k y uq r
 seeing None 10 22 s ii i ng
-seemed None 1 4 s ii m d
-seems None 1 4 s ii m z
-seen None 1 3 s ii n
+seemed None 0 4 s ii m d
+seems None 0 4 s ii m z
+seen None 0 3 s ii n
 seer None 10 22 s ii q r
-see None 1 2 s ii
+see None 0 2 s ii
 selden's None 10 34 s e l d q n z
-send None 1 4 s e n d
+send None 0 4 s e n d
 sensation None 010 323 s e n s ei sh q n
 sensitiveness None 1000 3233 s e n s q t q v n q s
 sensitive None 100 323 s e n s q t q v
-sent None 1 4 s e n t
+sent None 0 4 s e n t
 separated None 1000 2223 s e p q r ei t q d
 servants None 10 25 s qq v q n t s
 service None 10 23 s qq v q s
-set None 1 3 s e t
+set None 0 3 s e t
 seven None 10 23 s e v q n
 seventeen None 001 233 s e v q n t ii n
 seventy None 100 232 s e v q n t i
 shadow None 10 22 sh a d ou
 shadows None 10 23 sh a d ou z
-shake None 1 3 sh ei k
+shake None 0 3 sh ei k
 shaking None 10 23 sh ei k i ng
-shall None 1 3 sh a l
-shaped None 1 4 sh ei p t
-shark None 1 3 sh aa k
-sharks None 1 4 sh aa k s
+shall None 0 3 sh a l
+shaped None 0 4 sh ei p t
+shark None 0 3 sh aa k
+sharks None 0 4 sh aa k s
 sharply None 10 23 sh aa p l i
-sharp None 1 3 sh aa p
+sharp None 0 3 sh aa p
 shaven None 10 23 sh ei v q n
-shave None 1 3 sh ei v
-she'd None 1 3 sh ii d
-sheer None 1 3 sh iq r
+shave None 0 3 sh ei v
+she'd None 0 3 sh ii d
+sheer None 0 3 sh iq r
 sheldon None 10 33 sh e l d q n
 sheltered None 10 33 sh e l t q d
 sheppard None 10 23 sh e p q d
 shepstone None 10 34 sh e p s t q n
 sherman None 10 23 sh qq m q n
-she None 1 2 sh ii
-shield None 1 4 sh ii l d
+she None 0 2 sh ii
+shield None 0 4 sh ii l d
 shining None 10 23 sh ai n i ng
-ship None 1 3 sh q p
-shook None 1 3 sh u k
-shoot None 1 3 sh uu t
-shore None 1 3 sh oo r
-shores None 1 3 sh oo z
+ship None 0 3 sh q p
+shook None 0 3 sh u k
+shoot None 0 3 sh uu t
+shore None 0 3 sh oo r
+shores None 0 3 sh oo z
 shoreward None 10 23 sh oo w q d
 shorter None 10 23 sh oo t q r
-short None 1 3 sh oo t
-shot None 1 3 sh o t
+short None 0 3 sh oo t
+shot None 0 3 sh o t
 shoulder None 10 33 sh ou l d q r
-should None 1 3 sh u d
+should None 0 3 sh u d
 shouted None 10 23 sh au t q d
-shoved None 1 4 sh uh v d
-showed None 1 3 sh ou d
-show None 1 2 sh ou
+shoved None 0 4 sh uh v d
+showed None 0 3 sh ou d
+show None 0 2 sh ou
 shrewdly None 10 42 sh r uu d l i
-shuffled None 1 5 sh uh f l d
-shunk None 1 4 sh uh ng k
-shu None 1 2 sh uu
+shuffled None 0 5 sh uh f l d
+shunk None 0 4 sh uh ng k
+shu None 0 2 sh uu
 siberia None 010 222 s ai b iq r iq
-sick None 1 3 s i k
-side None 1 3 s ai d
-sign None 1 3 s ai n
+sick None 0 3 s i k
+side None 0 3 s ai d
+sign None 0 3 s ai n
 silhouette None 001 222 s q l u e t
-simon None 00 23 s ai m q n
+simon None 10 23 s ai m q n
 simple None 10 33 s q m p q l
-since None 1 4 s q n s
+since None 0 4 s q n s
 sinewy None 100 231 s q n y uu i
 singing None 10 32 s i ng i ng
 single None 10 33 s i ng g q l
-sin None 1 3 s q n
-sint None 1 4 s q n t
-sir None 1 3 s qq r
+sin None 0 3 s q n
+sint None 0 4 s q n t
+sir None 0 3 s qq r
 sitting None 10 23 s q t i ng
 situation None 0010 2313 s q t y u ei sh q n
-six None 1 4 s i k s
+six None 0 4 s i k s
 sixteen None 01 34 s i k s t ii n
 sixteenth None 01 35 s i k s t ii n th
 sixty None 10 33 s i k s t i
-sketch None 1 4 s k e ch
+sketch None 0 4 s k e ch
 sketchy None 10 32 s k e ch i
 skukuza None 010 322 s k q k uu z q
 skyrim None 10 33 s k ai r q m
-sky None 1 3 s k ai
-skywise None 00 33 s k ai w ai z
-slammed None 1 5 s l a m d
+sky None 0 3 s k ai
+skywise None 10 33 s k ai w ai z
+slammed None 0 5 s l a m d
 sleeping None 10 33 s l ii p i ng
-sleep None 1 4 s l ii p
-slice None 1 4 s l ai s
+sleep None 0 4 s l ii p
+slice None 0 4 s l ai s
 slightest None 10 34 s l ai t q s t
 slightly None 10 42 s l ai t l i
-slight None 1 4 s l ai t
+slight None 0 4 s l ai t
 smaller None 10 33 s m oo l q r
-smash None 1 4 s m a sh
-smiled None 1 5 s m ai l d
-smile None 1 4 s m ai l
+smash None 0 4 s m a sh
+smiled None 0 5 s m ai l d
+smile None 0 4 s m ai l
 smiling None 10 33 s m ai l i ng
 smoking None 10 33 s m ou k i ng
-smooth None 1 4 s m uu dh
-smuts None 1 5 s m uh t s
-snap None 1 4 s n a p
-snatched None 1 5 s n a ch t
+smooth None 0 4 s m uu dh
+smuts None 0 5 s m uh t s
+snap None 0 4 s n a p
+snatched None 0 5 s n a ch t
 snorkel None 10 33 s n oo k q l
 snorting None 10 33 s n oo t i ng
 snowy None 10 31 s n ou i
-soaked None 1 4 s ou k t
-sob None 1 3 s o b
+soaked None 0 4 s ou k t
+sob None 0 3 s o b
 soccer None 10 23 s o k q r
 society None 0100 2212 s q s ai q t i
 softly None 10 42 s o f t l i
-soft None 1 4 s o f t
-soil None 1 3 s oi l
+soft None 0 4 s o f t
+soil None 0 3 s oi l
 solomon None 100 223 s o l q m q n
-some None 1 3 s uh m
+some None 0 3 s uh m
 something None 10 33 s uh m th i ng
 sometimes None 10 34 s uh m t ai m z
-son None 1 3 s uh n
-soon None 1 3 s uu n
+son None 0 3 s uh n
+soon None 0 3 s uu n
 sophomoric None 0010 2223 s o f q m oo r i k
-so None 1 2 s ou
-soul None 1 3 s ou l
-sound None 1 4 s au n d
+so None 0 2 s ou
+soul None 0 3 s ou l
+sound None 0 4 s au n d
 southampton None 010 333 s au th h a m t q n
-south None 1 3 s au th
+south None 0 3 s au th
 soviet None 10 23 s ou v iq t
-spain None 1 4 s p ei n
-spare None 1 4 s p eq r
-spat None 1 4 s p a t
-speak None 1 4 s p ii k
-spears None 1 4 s p iq z
+spain None 0 4 s p ei n
+spare None 0 4 s p eq r
+spat None 0 4 s p a t
+speak None 0 4 s p ii k
+spears None 0 4 s p iq z
 specially None 100 322 s p e sh q l i
 spectacular None 0100 4233 s p e k t a k y u l q r
-spell None 1 4 s p e l
-spink None 1 5 s p i ng k
-spite None 1 4 s p ai t
+spell None 0 4 s p e l
+spink None 0 5 s p i ng k
+spite None 0 4 s p ai t
 spokesman None 10 44 s p ou k s m q n
-sports None 1 5 s p oo t s
-spot None 1 4 s p o t
+sports None 0 5 s p oo t s
+spot None 0 4 s p o t
 spouting None 10 33 s p au t i ng
-sprigg None 1 5 s p r i g
+sprigg None 0 5 s p r i g
 springbok None 10 53 s p r i ng b o k
 springy None 10 51 s p r i ng i
-spur None 1 4 s p qq r
+spur None 0 4 s p qq r
 sri None 0 3 s r i
 stable None 10 33 s t ei b q l
-stamp None 1 5 s t a m p
+stamp None 0 5 s t a m p
 standerton None 10 45 s t a n d q t q n
-stared None 1 4 s t eq d
+stared None 0 4 s t eq d
 stargate None 10 33 s t aa g ei t
 staring None 10 33 s t eq r i ng
-stars None 1 4 s t aa z
+stars None 0 4 s t aa z
 started None 10 33 s t aa t q d
 startling None 10 34 s t aa t l i ng
 starvation None 010 323 s t aa v ei sh q n
 statement None 10 44 s t ei t m q n t
-states None 1 5 s t ei t s
-state None 1 4 s t ei t
-statsat None 00 43 s t a t s a t
+states None 0 5 s t ei t s
+state None 0 4 s t ei t
+statsat None 10 43 s t a t s a t
 stats None 0 5 s t a t s
 steadily None 100 322 s t e d q l i
-steak None 1 4 s t ei k
+steak None 0 4 s t ei k
 steamboats None 10 44 s t ii m b ou t s
-steels None 1 5 s t ii l z
-steel None 1 4 s t ii l
-stepped None 1 5 s t e p t
-step None 1 4 s t e p
-steve None 1 4 s t ii v
+steels None 0 5 s t ii l z
+steel None 0 4 s t ii l
+stepped None 0 5 s t e p t
+step None 0 4 s t e p
+steve None 0 4 s t ii v
 steward's None 10 43 s t y uu q d z
 steward None 10 42 s t y uu q d
-sticks None 1 5 s t i k s
+sticks None 0 5 s t i k s
 stifling None 10 34 s t ai f l i ng
 still None 0 4 s t q l
-sting None 1 4 s t i ng
-stir None 1 4 s t qq r
-stoke None 1 4 s t ou k
-stone None 1 4 s t ou n
-stood None 1 4 s t u d
-stooped None 1 5 s t uu p t
-stopped None 1 5 s t o p t
-stop None 1 4 s t o p
-storm None 1 4 s t oo m
-stout None 1 4 s t au t
+sting None 0 4 s t i ng
+stir None 0 4 s t qq r
+stoke None 0 4 s t ou k
+stone None 0 4 s t ou n
+stood None 0 4 s t u d
+stooped None 0 5 s t uu p t
+stopped None 0 5 s t o p t
+stop None 0 4 s t o p
+storm None 0 4 s t oo m
+stout None 0 4 s t au t
 straightforward None 010 523 s t r ei t f oo w q d
-straight None 1 5 s t r ei t
-strained None 1 6 s t r ei n d
-strand None 1 6 s t r a n d
+straight None 0 5 s t r ei t
+strained None 0 6 s t r ei n d
+strand None 0 6 s t r a n d
 stranger None 10 53 s t r ei n jh q r
-strange None 1 6 s t r ei n jh
-strap None 1 5 s t r a p
-streaks None 1 6 s t r ii k s
+strange None 0 6 s t r ei n jh
+strap None 0 5 s t r a p
+streaks None 0 6 s t r ii k s
 streaming None 10 43 s t r ii m i ng
-street None 1 5 s t r ii t
-strength None 1 6 s t r e ng th
+street None 0 5 s t r ii t
+strength None 0 6 s t r e ng th
 strikas None 10 43 s t r ai k q z
-string None 1 5 s t r i ng
+string None 0 5 s t r i ng
 striving None 10 43 s t r ai v i ng
-struck None 1 5 s t r uh k
+struck None 0 5 s t r uh k
 stubby None 10 32 s t uh b i
 submerged None 01 34 s uh b m qq jh d
-sub None 1 3 s uh b
+sub None 0 3 s uh b
 successfully None 0100 3232 s q k s e s f u l i
 successful None 010 333 s q k s e s f u l
-such None 1 3 s uh ch
+such None 0 3 s uh ch
 suddenly None 100 232 s uh d q n l i
 suddenness None 100 223 s uh d q n q s
 sudden None 10 23 s uh d q n
@@ -1964,145 +1964,145 @@ suggested None 010 224 s q jh e s t q d
 sunderland None 100 324 s uh n d q l q n d
 sundowns None 10 34 s uh n d au n z
 sunfoil None 10 33 s uh n f oi l
-sun None 1 3 s uh n
+sun None 0 3 s uh n
 sunshine None 10 33 s uh n sh ai n
-supa None 00 22 s uu p q
+supa None 10 22 s uu p q
 superior None 010 223 s uu p iq r iq r
 superlative None 0010 2223 s uu p q l ei t q v
-supersport None 000 224 s uu p q s p oo t
+supersport None 100 224 s uu p q s p oo t
 supper None 10 23 s uh p q r
 suppose None 01 23 s q p ou z
 suppressed None 01 25 s q p r e s t
 surely None 10 22 sh uq l i
-sure None 1 3 sh uq r
+sure None 0 3 sh uq r
 surpluses None 100 233 s qq p l q s q z
 surprise None 01 24 s q p r ai z
 suspiciously None 0100 2323 s q s p i sh q s l i
 sutherland None 100 224 s uh dh q l q n d
-swam None 1 4 s w a m
+swam None 0 4 s w a m
 swansea None 10 42 s w o n s ii
 sweeping None 10 33 s w ii p i ng
 sweetly None 10 42 s w ii t l i
 swelling None 10 33 s w e l i ng
-swung None 1 4 s w uh ng
+swung None 0 4 s w uh ng
 sydney None 10 32 s q d n i
 sympathy None 100 322 s q m p q th i
 table None 10 23 t ei b q l
 taboo None 01 22 t a b uu
 tacit None 10 23 t a s q t
-take None 1 3 t ei k
-tale None 1 3 t ei l
-talked None 1 4 t oo k t
+take None 0 3 t ei k
+tale None 0 3 t ei l
+talked None 0 4 t oo k t
 tambo None 10 32 t a m b ou
-tapped None 1 4 t a p t
-tap None 1 3 t a p
-taught None 1 3 t oo t
-taut None 1 3 t oo t
+tapped None 0 4 t a p t
+tap None 0 3 t a p
+taught None 0 3 t oo t
+taut None 0 3 t oo t
 tawfeeq None 10 23 t oo f ii k
 taylor None 10 23 t ei l q r
 tearing None 10 23 t iq r i ng
-tear None 1 3 t iq r
-teeth None 1 3 t ii th
-tee None 1 2 t ii
-tell None 1 3 t e l
+tear None 0 3 t iq r
+teeth None 0 3 t ii th
+tee None 0 2 t ii
+tell None 0 3 t e l
 temptation None 010 423 t e m p t ei sh q n
 tension None 10 33 t e n sh q n
-ten None 1 3 t e n
-tent None 1 4 t e n t
+ten None 0 3 t e n
+tent None 0 4 t e n t
 terrible None 100 223 t e r q b q l
 terribly None 100 223 t e r q b l i
 terror None 10 23 t e r q r
 tersely None 10 23 t qq s l i
-test None 1 4 t e s t
-than None 1 3 dh a n
-thank None 1 4 th a ng k
-that None 1 3 dh a t
+test None 0 4 t e s t
+than None 0 3 dh a n
+thank None 0 4 th a ng k
+that None 0 3 dh a t
 that'll None 10 32 dh a t q l
-that's None 1 4 dh a t s
-thaw None 1 2 th oo
+that's None 0 4 dh a t s
+thaw None 0 2 th oo
 the None 0 2 dh q
-their None 1 3 dh eq r
-them None 1 3 dh e m
+their None 0 3 dh eq r
+them None 0 3 dh e m
 themselves None 01 35 dh e m s e l v z
-then None 1 3 dh e n
-there None 1 3 dh eq r
+then None 0 3 dh e n
+there None 0 3 dh eq r
 therefore None 10 23 dh eq f oo r
-there's None 1 4 dh eq r z
-these None 1 3 dh ii z
-they None 1 2 dh ei
-thieves None 1 4 th ii v z
-things None 1 4 th i ng z
-thing None 1 3 th i ng
-think None 1 4 th i ng k
-third None 1 3 th qq d
-thirst None 1 4 th qq s t
+there's None 0 4 dh eq r z
+these None 0 3 dh ii z
+they None 0 2 dh ei
+thieves None 0 4 th ii v z
+things None 0 4 th i ng z
+thing None 0 3 th i ng
+think None 0 4 th i ng k
+third None 0 3 th qq d
+thirst None 0 4 th qq s t
 thirteen None 01 23 th qq t ii n
 thirty None 10 22 th qq t i
-this None 1 3 dh q s
+this None 0 3 dh q s
 thomas None 10 23 t o m q s
 thoroughly None 100 222 th uh r q l i
-thorpe None 1 3 th oo p
-those None 1 3 dh ou z
-though None 1 2 dh ou
-thought None 1 3 th oo t
+thorpe None 0 3 th oo p
+those None 0 3 dh ou z
+though None 0 2 dh ou
+thought None 0 3 th oo t
 thousand None 10 24 th au z q n d
-three None 1 3 th r ii
-thrill None 1 4 th r q l
+three None 0 3 th r ii
+thrill None 0 4 th r q l
 throughout None 01 32 th r uu au t
-through None 1 3 th r uu
-throw None 1 3 th r ou
-thrust None 1 5 th r uh s t
+through None 0 3 th r uu
+throw None 0 3 th r ou
+thrust None 0 5 th r uh s t
 thursday None 10 32 th qq z d ei
-thus None 1 3 dh uh s
-tide None 1 3 t ai d
+thus None 0 3 dh uh s
+tide None 0 3 t ai d
 tightly None 10 32 t ai t l i
-time None 1 3 t ai m
+time None 0 3 t ai m
 tinted None 10 33 t q n t q d
 tobacco None 010 222 t q b a k ou
 today None 01 22 t q d ei
 together None 010 223 t q g e dh q r
 tokai None 01 22 t o k ai
-told None 1 4 t ou l d
+told None 0 4 t ou l d
 tomfoolery None 0100 3222 t o m f uu l q r i
 tomorrow None 010 222 t q m o r ou
-tom None 1 3 t o m
-tongue None 1 3 t uh ng
+tom None 0 3 t o m
+tongue None 0 3 t uh ng
 tonic None 10 23 t o n i k
 tony None 10 22 t ou n i
-took None 1 3 t u k
+took None 0 3 t u k
 toothbrush None 10 34 t uu th b r uh sh
-tooth None 1 3 t uu th
-too None 1 2 t uu
+tooth None 0 3 t uu th
+too None 0 2 t uu
 tottenham None 100 233 t o t q n h q m
-to None 1 2 t uu
-tour None 1 3 t uq r
+to None 0 2 t uu
+tour None 0 3 t uq r
 towards None 01 24 t q w oo d z
 toward None 01 23 t q w oo d
-town None 1 3 t au n
-track None 1 4 t r a k
-trails None 1 5 t r ei l z
-trail None 1 4 t r ei l
+town None 0 3 t au n
+track None 0 4 t r a k
+trails None 0 5 t r ei l z
+trail None 0 4 t r ei l
 treacherous None 100 323 t r e ch q r q s
-trees None 1 4 t r ii z
+trees None 0 4 t r ii z
 tremendous None 010 333 t r i m e n d q s
 trickle None 10 33 t r i k q l
-trick None 1 4 t r i k
-tried None 1 4 t r ai d
+trick None 0 4 t r i k
+tried None 0 4 t r ai d
 trillion None 10 33 t r i l iq n
-trip None 1 4 t r q p
+trip None 0 4 t r q p
 triumphantly None 1000 3242 t r ai uh m f q n t l i
-truth None 1 4 t r uu th
+truth None 0 4 t r uu th
 trying None 10 32 t r ai i ng
 trystin None 10 43 t r q s t q n
 tulip None 10 33 t y uu l q p
 tumi None 10 22 t uu m i
-turned None 1 4 t qq n d
+turned None 0 4 t qq n d
 turning None 10 23 t qq n i ng
-turns None 1 4 t qq n z
-twelve None 1 5 t w e l v
+turns None 0 4 t qq n z
+twelve None 0 5 t w e l v
 twentieth None 10 43 t w e n t iq th
 twenty None 10 42 t w e n t i
-two None 1 2 t uu
+two None 0 2 t uu
 typewritten None 100 323 t ai p r q t q n
 typhoid None 10 23 t ai f oi d
 uncompromising None 01000 23323 uh n k o m p r q m ai z i ng
@@ -2120,16 +2120,16 @@ until None 01 23 uh n t q l
 unto None 10 22 uh n t uu
 untoward None 001 223 uh n t q w oo d
 unusual None 010 223 uh n y uu zh uq l
-up None 1 2 uh p
+up None 0 2 uh p
 upon None 01 13 q p o n
-urged None 1 3 qq jh d
-us None 1 2 uh s
-use None 1 3 y uu z
+urged None 0 3 qq jh d
+us None 0 2 uh s
+use None 0 3 y uu z
 uttered None 10 13 uh t q d
 vacation None 010 223 v ei k ei sh q n
 vaguely None 10 32 v ei g l i
 vainly None 10 32 v ei n l i
-vale None 1 3 v ei l
+vale None 0 3 v ei l
 valiantly None 100 242 v a l iq n t l i
 values None 10 24 v a l y uu z
 value None 10 23 v a l y uu
@@ -2141,7 +2141,7 @@ venom None 10 23 v e n q m
 very None 10 22 v e r i
 vessel None 10 23 v e s q l
 victory None 100 322 v i k t q r i
-view None 1 3 v y uu
+view None 0 3 v y uu
 villa None 10 22 v q l uh
 violated None 1000 2123 v ai q l ei t q d
 violation None 0010 2123 v ai q l ei sh q n
@@ -2155,121 +2155,121 @@ vitality None 0100 2222 v ai t a l q t i
 vital None 10 23 v ai t q l
 vivo None 10 22 v ii v ou
 vocabulary None 01000 22322 v q k a b y u l q r i
-voice None 1 3 v oi s
+voice None 0 3 v oi s
 volcano None 010 322 v o l k ei n ou
 voyage None 10 22 v oi i jh
-vries None 1 4 f r i s
+vries None 0 4 f r i s
 waded None 10 23 w ei d q d
 waikiki None 010 222 w ai k i k i
 waited None 10 23 w ei t q d
 waiting None 10 23 w ei t i ng
-walked None 1 4 w oo k t
-walk None 1 3 w oo k
+walked None 0 4 w oo k t
+walk None 0 3 w oo k
 walters None 10 33 w oo l t q z
 wanted None 10 33 w o n t q d
-want None 1 4 w o n t
+want None 0 4 w o n t
 warden None 10 23 w oo d q n
 warriors None 10 23 w o r iq z
-washed None 1 4 w o sh t
-wash None 1 3 w o sh
-was None 1 3 w o z
-watch None 1 3 w o ch
+washed None 0 4 w o sh t
+wash None 0 3 w o sh
+was None 0 3 w o z
+watch None 0 3 w o ch
 water None 10 23 w oo t q r
 watford None 10 33 w o t f q d
-wave None 1 3 w ei v
+wave None 0 3 w ei v
 waving None 10 23 w ei v i ng
-wayde None 1 3 w ei d
-wayne None 1 3 w ei n
-way None 1 2 w ei
-wear None 1 3 w eq r
+wayde None 0 3 w ei d
+wayne None 0 3 w ei n
+way None 0 2 w ei
+wear None 0 3 w eq r
 wednesday None 10 42 w e n z d ei
-weeks None 1 4 w ii k s
-week None 1 3 w ii k
-weight None 1 3 w ei t
-weigh None 1 2 w ei
-well None 1 3 w e l
-we'll None 1 3 w ii l
-went None 1 4 w e n t
-weren't None 1 4 w qq n t
-were None 1 3 w qq r
-we're None 1 3 w iq r
-west None 1 4 w e s t
-we None 1 2 w ii
-what None 1 3 w o t
-wheel None 1 3 w ii l
-when None 1 3 w e n
+weeks None 0 4 w ii k s
+week None 0 3 w ii k
+weight None 0 3 w ei t
+weigh None 0 2 w ei
+well None 0 3 w e l
+we'll None 0 3 w ii l
+went None 0 4 w e n t
+weren't None 0 4 w qq n t
+were None 0 3 w qq r
+we're None 0 3 w iq r
+west None 0 4 w e s t
+we None 0 2 w ii
+what None 0 3 w o t
+wheel None 0 3 w ii l
+when None 0 3 w e n
 wherein None 01 23 w eq r i n
-where None 1 3 w eq r
-which None 1 3 w i ch
-while None 1 3 w ai l
-whipped None 1 4 w q p t
+where None 0 3 w eq r
+which None 0 3 w i ch
+while None 0 3 w ai l
+whipped None 0 4 w q p t
 whipping None 10 23 w q p i ng
-white None 1 3 w ai t
-whiz None 1 3 w q z
+white None 0 3 w ai t
+whiz None 0 3 w q z
 whoever None 010 213 h uu e v q r
-who None 1 2 h uu
-whole None 1 3 h ou l
-whose None 1 3 h uu z
-why None 1 2 w ai
-wife None 1 3 w ai f
+who None 0 2 h uu
+whole None 0 3 h ou l
+whose None 0 3 h uu z
+why None 0 2 w ai
+wife None 0 3 w ai f
 wiggins None 10 24 w i g q n z
 wildly None 10 42 w ai l d l i
 willing None 10 23 w q l i ng
 will None 0 3 w q l
-wind None 1 4 w i n d
-wing None 1 3 w i ng
-wins None 1 4 w q n z
-wise None 1 3 w ai z
+wind None 0 4 w i n d
+wing None 0 3 w i ng
+wins None 0 4 w q n z
+wise None 0 3 w ai z
 within None 01 23 w q dh i n
 without None 01 23 w q dh au t
 with None 0 3 w q dh
-wits None 1 4 w q t s
-wolf None 1 4 w u l f
+wits None 0 4 w q t s
+wolf None 0 4 w u l f
 woman None 10 23 w u m q n
 womble None 10 33 w o m b q l
 women None 10 23 w i m q n
 wonderful None 100 323 w uh n d q f u l
 wonder None 10 33 w uh n d q r
-won't None 1 4 w ou n t
-wood None 1 3 w u d
-words None 1 4 w qq d z
-worked None 1 4 w qq k t
-works None 1 4 w qq k s
-work None 1 3 w qq k
-world None 1 4 w qq l d
+won't None 0 4 w ou n t
+wood None 0 3 w u d
+words None 0 4 w qq d z
+worked None 0 4 w qq k t
+works None 0 4 w qq k s
+work None 0 3 w qq k
+world None 0 4 w qq l d
 worries None 10 23 w uh r i z
 worshiped None 10 24 w qq sh q p t
-worth None 1 3 w qq th
+worth None 0 3 w qq th
 wouldn't None 10 24 w u d q n t
-would None 1 3 w u d
+would None 0 3 w u d
 wounded None 10 33 w u n d q d
 writing None 10 23 r ai t i ng
-yap None 1 3 y a p
-yards None 1 4 y aa d z
-year None 1 3 y qq r
+yap None 0 3 y a p
+yards None 0 4 y aa d z
+year None 0 3 y qq r
 yearning None 10 23 y qq n i ng
-years None 1 3 y qq z
-yelled None 1 4 y e l d
+years None 0 3 y qq z
+yelled None 0 4 y e l d
 yellow None 10 22 y e l ou
-yells None 1 4 y e l z
+yells None 0 4 y e l z
 yeomanry None 100 232 y ou m q n r i
-yes None 1 3 y e s
-yet None 1 3 y e t
+yes None 0 3 y e s
+yet None 0 3 y e t
 yielded None 10 33 y ii l d q d
-yoke None 1 3 y ou k
-york None 1 3 y oo k
-you None 1 2 y uu
+yoke None 0 3 y ou k
+york None 0 3 y oo k
+you None 0 2 y uu
 younger None 10 33 y uh ng g q r
-young None 1 3 y uh ng
-you're None 1 3 y uq r
+young None 0 3 y uh ng
+you're None 0 3 y uq r
 your None 0 3 y oo r
 yourself None 01 24 y oo s e l f
-youth None 1 3 y uu th
-youths None 1 4 y uu th s
-you've None 1 3 y uq v
-zackie None 00 22 z a k i
-zack None 1 3 z a k
+youth None 0 3 y uu th
+youths None 0 4 y uu th s
+you've None 0 3 y uq v
+zackie None 10 22 z a k i
+zack None 0 3 z a k
 zealand None 10 24 z ii l q n d
 zero None 10 22 z iq r ou
-zip None 1 3 z q p
-zululand None 000 224 z u l u l q n d
+zip None 0 3 z q p
+zululand None 100 224 z u l u l q n d

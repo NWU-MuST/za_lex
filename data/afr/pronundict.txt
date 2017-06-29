@@ -6839,7 +6839,7 @@ geldeenhede None 1200 4222 x qaeq l t iq n hv iq d q
 geldeenheid None 100 423 x qaeq l t iq n hv qi t
 geldelik None 100 323 x qaeq l d q l q k
 geldelike None 1000 3222 x qaeq l d q l q k q
-geldenhuys None 1000 3321 x qaeq l d q n hv qoeqy s
+geldenhuys None 100 333 x qaeq l d q n hv qoeqy s
 geldig None 10 33 x qaeq l d q x
 geldige None 100 322 x qaeq l d q x q
 geldigheid None 100 333 x qaeq l d q x hv qi t
@@ -24286,7 +24286,7 @@ vormlike None 1000 2322 f O r q m l q k q
 vorms None 10 24 f O r q m s
 vorster None 10 34 f O r s t q r
 vos None 0 3 f O s
-vosloorus None 001 323 f O s l ɔː r qoeq s
+vosloorus None 001 323 f O s l uq r qoeq s
 vou None 0 2 f qu
 voue None 10 21 f qu q
 voël None 10 22 f u q l

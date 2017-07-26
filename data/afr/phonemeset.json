@@ -3,6 +3,7 @@
 	       "əi" : ["vowel", "sonorant", "syllabic", "diphthong"],
 	       "a" : ["vowel", "sonorant", "syllabic", "dur_short", "ht_low", "ps_back"],
 	       "ai" : ["vowel", "sonorant", "syllabic", "diphthong"],
+               "aʊ" : ["vowel", "sonorant", "syllabic", "diphthong"],
 	       "ɛ" : ["vowel", "sonorant", "syllabic", "dur_short", "ht_mid", "ps_front"],
 	       "œ" : ["vowel", "sonorant", "syllabic", "dur_short", "ht_mid", "ps_front", "ar_rounded"],
 	       "əu" : ["vowel", "sonorant", "syllabic", "diphthong"],

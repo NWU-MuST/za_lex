@@ -1317,7 +1317,7 @@ alkoholiste None 0010 2223 a l k u l q s t q
 alkoholmisbruik None 1020 2334 a l k O l m q s b r qoeqy k
 alkoholsindroom None 1002 2334 a l k O l s q n d r uq m
 alkyne None 010 222 a l k qi n q
-alla INTJ 00 12 a l a
+alla INTJ 10 12 a l a
 alle None 10 12 a l q
 alledaagse None 1000 1232 a l q d AA x s q
 alleen None 01 13 a l iq n
@@ -4513,7 +4513,7 @@ collage None 01 23 k u l AA Z
 colombiaanse None 00010 23222 k u l O m b i AA n s q
 concerto None 010 332 k O n S qaeq r t u
 crescendo None 010 332 k r q S E n d u
-creswell PROPN 00 43 k r E s w qaeq l
+creswell PROPN 10 43 k r E s w qaeq l
 creswelliet PROPN 001 423 k r E s w qaeq l i t
 crusoe PROPN 10 32 k r u s qu
 cum None 0 3 k u m
@@ -5256,7 +5256,7 @@ dominiale None 00010 22212 d O m i n i AA l q
 dompel None 10 33 d O m p q l
 donasie None 010 222 d u n AA s i
 donateurs None 001 224 d uq n a t qooq r s
-donder None 00 33 d O n d q r
+donder None 10 33 d O n d q r
 donderbuie None 1000 3321 d O n d q r b qoeqy q
 donderdag None 100 333 d O n d q r d a x
 donderdagaand None 1002 3333 d O n d q r d a x AA n t
@@ -6623,7 +6623,7 @@ frankfurtse None 100 542 f r a N k f u r t s q
 frankryk None 10 44 f r a N k r qi k
 frans None 0 5 f r AA n s
 franschhoek None 01 53 f r AA n S hv u k
-franse None 00 42 f r AA n s q
+franse None 10 42 f r AA n s q
 fransman None 10 53 f r AA n s m a n
 franssprekende None 0100 5432 f r AA n s s p r iq k q n d q
 frase None 10 32 f r AA s q
@@ -10690,7 +10690,7 @@ jool None 0 3 j uq l
 joolkomitee None 1002 3222 j uq l k O m q t iq
 joolkoningin None 1002 3232 j uq l k uq n q N q n
 joos None 0 3 j uq s
-jopie PROPN 00 22 j uq p i
+jopie PROPN 10 22 j uq p i
 joppie None 10 22 j O p i
 jordaniese None 0100 3222 j O r d AA n i s q
 josef None 10 23 j uq s q f
@@ -11779,7 +11779,7 @@ konfyt None 01 33 k O n f qi t
 kongenitale None 00010 32222 k O n x iq n i t AA l q
 konglomeraat None 0001 3323 k O n x l O m q r AA t
 konglomerate None 00010 33222 k O n x l O m q r AA t q
-kongo PROPN 00 32 k O N g u
+kongo PROPN 10 32 k O N g u
 kongres None 01 34 k O n x r E s
 kongresse None 010 332 k O n x r E s q
 kongruensie None 0010 3322 k O n x r y E n s i
@@ -12860,7 +12860,7 @@ lemmetjiesdraad None 1002 2234 l E m i k i s d r AA t
 lemoene None 010 222 l q m u n q
 lemoensap None 010 233 l q m u n s a p
 lemoenskil None 010 234 l q m u n s k q l
-lemos PROPN 00 23 l E m O s
+lemos PROPN 10 23 l E m O s
 leners None 10 24 l iq n q r s
 lengte None 10 32 l E N t q
 lengtelyne None 1020 3222 l E N t q l qi n q
@@ -13558,10 +13558,10 @@ malan PROPN 01 23 m a l a n
 malaria None 0100 2221 m a l AA r i a
 male None 10 22 m AA l q
 maleise None 010 222 m a l qi s q
-malle None 00 22 m a l q
+malle None 10 22 m a l q
 mallemeule None 0010 2222 m a l q m qooq l q
 malligheid None 100 233 m a l q x hv qi t
-malman None 00 33 m a l m a n
+malman None 10 33 m a l m a n
 malmesbury PROPN 100 422 m AA m s b qoeq r i
 mamma None 10 22 m a m a
 mammie None 10 22 m a m i
@@ -20108,7 +20108,7 @@ sjieling None 10 23 S i l q N
 sjielings None 10 24 S i l q N s
 sjimpansee None 001 332 S q m p a n z iq
 sjimpansees None 001 333 S q m p a n z iq s
-sjina None 00 22 S i n a
+sjina None 10 22 S i n a
 sjinese None 010 222 S i n iq s q
 sjoe None 0 2 S u
 sjokolade None 0010 2222 S O k u l AA d q
@@ -20728,7 +20728,7 @@ smouse None 10 32 s m qu s q
 smul None 0 4 s m qoeq l
 smullekker None 100 423 s m qoeq l l qaeq k q r
 smuts PROPN 0 5 s m qoeq t s
-smutsleuse None 000 432 s m qoeq t s l qooq s q
+smutsleuse None 100 432 s m qoeq t s l qooq s q
 smutsvolgelinge None 12000 53231 s m qoeq t s f O l x q l q N q
 smyt None 0 4 s m qi t
 snaaks None 0 5 s n AA k s
@@ -21369,7 +21369,7 @@ stakings None 10 34 s t AA k q N s
 stal None 0 4 s t a l
 stalagtiete None 0010 4222 s t a l a x t i t q
 staldeur None 10 43 s t a l d qooq r
-stallard PROPN 00 34 s t a l a r t
+stallard PROPN 10 34 s t a l a r t
 stalle None 10 32 s t a l q
 stalletjie None 100 322 s t a l i k i
 stalletjies None 100 323 s t a l i k i s
@@ -21633,7 +21633,7 @@ stoetery None 100 322 s t u t q r qi
 stoethings None 10 44 s t u t hv q N s
 stof None 0 4 s t O f
 stoffasie None 010 322 s t O f AA s i
-stoffel PROPN 00 33 s t O f q l
+stoffel PROPN 10 33 s t O f q l
 stoflike None 100 422 s t O f l q k q
 stofsuier None 100 422 s t O f s qoeqy q r
 stofwolk None 10 44 s t O f v O l k
@@ -25556,7 +25556,7 @@ vlooimarkte None 100 342 f l OOi m a r k t q
 vloot None 0 4 f l uq t
 vlot None 0 4 f l O t
 vlug None 0 4 f l qoeq x
-vlugge None 00 32 f l qoeq x q
+vlugge None 10 32 f l qoeq x q
 vlugte None 10 42 f l qoeq x t q
 vlugtelinge None 1000 4231 f l qoeq x t q l q N q
 vlugtelingkamp None 1002 4234 f l qoeq x t q l q N k a m p
@@ -25675,7 +25675,7 @@ volksideale None 10020 51212 f O l k s i d i AA l q
 volksjeug None 10 53 f O l k s j qooq x
 volkskongresse None 1020 5332 f O l k s k O n x r E s q
 volkskool None 10 44 f O l k s k uq l
-volkslewe None 000 522 f O l k s l iq v q
+volkslewe None 100 522 f O l k s l iq v q
 volkslied None 10 53 f O l k s l i t
 volksliedere None 1000 5222 f O l k s l i d q r q
 volksman None 10 53 f O l k s m a n

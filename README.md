@@ -5,6 +5,8 @@ This repository contains lexical pronunciation resources and modules for use in 
 
 Specifically, it was originally set up to track work on updating and enhancing existing resources for the NTTS project funded by the _Department of Arts and Culture_ (DAC) of the Government of South Africa.
 
+The copyright and licence information for scripts in `./scripts/` can be found in `./COPYRIGHT` and `./LICENCE-APACHE`/`./LICENCE-MIT`. This repository also contains data from various sources under different licences in the `./data/*` directories. Copyright and licence information for data and third-party components is contained in each individual sub-directory or source file.
+
 For more information contact: _Daniel van Niekerk_ (http://www.nwu.ac.za/must).
 
 
@@ -16,12 +18,16 @@ The top level directory structure is summarised as follows:
 .
 |-- data
 |   |-- afr
+|   |-- eng
 |   |-- sot
 |   |-- tsn
 |   |-- xho
 |   `-- zul
 |-- examples
 |-- scripts
+|-- COPYRIGHT
+|-- LICENCE-APACHE
+|-- LICENCE-MIT
 `-- README.md
 ```
 

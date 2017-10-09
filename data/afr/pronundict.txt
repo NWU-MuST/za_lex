@@ -14105,8 +14105,8 @@ milliliter None 1000 2223 m q l i l i t q r
 millimeter None 1000 2223 m q l i m iq t q r
 milt None 0 4 m q l t
 min None 0 3 m q n
-minagtend None 100 234 m q n a x t q n t
-minagting None 100 233 m i n a x t q N
+minagtend None 100 324 m q n a x t q n t
+minagting None 100 323 m q n a x t q N
 minder None 10 33 m q n d q r
 minderbevoorregte None 100200 332232 m q n d q r b q f uq r qaeq x t q
 minderbevoorregtes None 100200 332233 m q n d q r b q f uq r qaeq x t q s
@@ -25396,7 +25396,7 @@ vies None 0 3 f i s
 vieslike None 100 322 f i s l q k q
 vigs None 0 4 f q x s
 viktimisasie None 00010 32222 v i k t q m i s AA s i
-viljoen None 01 33 v q l j u n
+viljoen None 01 33 f q l j u n
 villa None 10 22 v q l a
 villas None 10 23 v q l a s
 vin None 0 3 f q n

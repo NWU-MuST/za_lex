@@ -1,7 +1,7 @@
 Resources
 =========
 
-This directory contains the core resources including the Afrikaans pronunciation dictionary and phoneset definitions used by scripts elsewhere. The dictionary is considered work-in-progress, however it may already be useful ([e.g. in Afrikaans TTS](https://github.com/demitasse/ttslab2_afr_lwazi2_build)). __If used in academic work, please cite [1] or [2].__
+This directory contains the core resources including the Afrikaans pronunciation dictionary and phoneset definitions used by scripts elsewhere. The dictionary is considered work-in-progress, however it may already be useful ([e.g. in Afrikaans TTS](https://github.com/NWU-MuST/ttslab2_afr_lwazi2_build)). __If used in academic work, please cite [1] or [2].__
 
 It also contains the original resource (in `ref`) from which this is derived. The data contained in this directory is considered a *Derivative Work* of the dictionary contained in `ref`.
 

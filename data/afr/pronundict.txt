@@ -19344,7 +19344,7 @@ rys None 0 3 r qi s
 rytuie None 100 221 r qi t qoeqy q
 rêrig None 10 23 r qaeq r q x
 rûe None 10 21 r qoeq q
-s'n None 0 2 s n
+s'n None 0 3 s q n
 saad None 0 3 s AA t
 saadjie None 10 22 s AAi k i
 saadjies None 10 23 s AAi k i s

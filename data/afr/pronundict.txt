@@ -19434,7 +19434,7 @@ sagte None 10 32 s a x t q
 sagtebal None 100 323 s a x t q b a l
 sagter None 10 33 s a x t q r
 sagteware None 1000 3222 s a x t q v AA r q
-sahara None 010 222 s a h AA r a
+sahara None 010 222 s a hv AA r a
 sak None 0 3 s a k
 sakboekbeursie None 1020 3332 s a k b u k b qooq r s i
 sakdoek None 10 33 s a k d u k

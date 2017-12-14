@@ -9,8 +9,7 @@ The copyright and licence information for scripts in `./scripts/` can be found i
 
 For more information contact: _Daniel van Niekerk_ (http://www.nwu.ac.za/must).
 
-Software dependencies:
-----------------------
+## Software dependencies:
 
  - [OpenFST 1.5.0](http://www.openfst.org/twiki/pub/FST/FstDownload/openfst-1.5.0.tar.gz) or higher with Python bindings.
  - [PyICU](https://pypi.python.org/pypi/PyICU/).
